@@ -1,0 +1,62 @@
+AttributeSet_LevelProgression_Level: Уровень
+AttributeSet_LevelProgression_Experience: Опыт
+AttributeSet_LevelProgression_Skillpoints: Очки навыков
+AttributeSet_Health_Health: Здоровье
+AttributeSet_Health_MaxHealth: Макс. здоровье
+AttributeSet_Mana_Mana: Мана
+AttributeSet_Mana_MaxMana: Макс. мана
+AttributeSet_Strength_Strength: Сила
+AttributeSet_Dexterity_Dexterity: Ловкость
+AttributeSet_LevelProgression_Toughness: Выносливость
+AttributeSet_Mana_MagicianLevel: Магический круг
+AttributeSet_Armor_Resistance_Blunt: Дробление
+AttributeSet_Armor_Resistance_Edge: Рассечение
+AttributeSet_Armor_Resistance_Point: Пронзание
+AttributeSet_Armor_Resistance_Fire: Огонь
+AttributeSet_Armor_Resistance_Energy: Энергия
+AttributeSet_Armor_Resistance_Ice: Лёд
+AttributeSet_Armor_Resistance_Wind: Ветер
+AttributeSet_Armor_Resistance_Falling: Падение
+AttributeSet_LevelProgression_Experience_Description: Очки опыта отражают ваше развитие.
+  Они начисляются за победы в боях и выполнение заданий. Накапливая опыт, вы повышаете
+  свой уровень и получаете очки навыков.
+AttributeSet_LevelProgression_Skillpoints_Description: Очки навыков даются за достижение
+  нового уровня. Чтобы ими воспользоваться, обращайтесь к наставникам — они помогут
+  вам улучшить свои характеристики, а также развить боевые, ремесленные и магические
+  умения.
+AttributeSet_Health_Health_Description: Здоровье — это крепость тела. Чем выше показатель
+  здоровья, тем больше урона вы можете понести прежде, чем свалитесь с ног. С опытом
+  этот показатель растёт, давая вам возможность сражаться со всё более сильными противниками.
+AttributeSet_Health_MaxHealth_Description: Здоровье — это крепость тела. Чем выше
+  показатель здоровья, тем больше урона вы можете понести прежде, чем свалитесь с
+  ног. С опытом этот показатель растёт, давая вам возможность сражаться со всё более
+  сильными противниками.
+AttributeSet_Mana_Mana_Description: Мана позволяет пользоваться магией. Она затрачивается
+  при использовании заклинаний и не восстанавливается сама собой. Планируйте отдых
+  и расход предметов!
+AttributeSet_Mana_MaxMana_Description: Мана позволяет пользоваться магией. Она затрачивается
+  при использовании заклинаний и не восстанавливается сама собой. Планируйте отдых
+  и расход предметов!
+AttributeSet_Strength_Strength_Description: Сила определяет ваши физические возможности.
+  Чем выше этот показатель, тем более грозное оружие вы можете использовать и тем
+  больше урона наносите в ближнем бою.
+AttributeSet_Dexterity_Dexterity_Description: Ловкость — это умение управлять своим
+  телом и держать равновесие. От ловкости зависит, каким оружием дальнего боя вы можете
+  пользоваться и настолько эффективно. Также показателем ловкости определяется вероятность
+  успеха карманных краж.
+AttributeSet_LevelProgression_Toughness_Description: Выносливость — это способность
+  переносить тяжести. Чем выше ваша выносливость, тем больше предметов вы можете нести
+  с собой. Выбирайте с умом, что взять, а что оставить, ведь тяжёлый груз замедлит
+  вас.
+AttributeSet_Mana_MagicianLevel_Description: Магические круги отражают умудрённость
+  чародея и глубину его познаний в искусстве магии. Открывая для себя новые круги,
+  вы получаете доступ ко всё более сложным и мощным заклинаниям, а также увеличиваете
+  свою магическую силу.
+AttributeSet_Armor_Resistance_Blunt_Description: Улучшает защиту от ударного оружия,
+  такого как булавы.
+AttributeSet_Armor_Resistance_Edge_Description: Улучшает защиту от режущего оружия,
+  такого как мечи и топоры.
+AttributeSet_Armor_Resistance_Point_Description: Снижает колющий урон, получаемый
+  от стрел и болтов.
+AttributeSet_Armor_Resistance_Fire_Description: Ослабляет воздействие огня, вызванное
+  направленными против вас атаками или столкновением с определёнными угрозами.

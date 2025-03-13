@@ -1,0 +1,61 @@
+AttributeSet_LevelProgression_Level: Nivel
+AttributeSet_LevelProgression_Experience: Experiencia
+AttributeSet_LevelProgression_Skillpoints: Puntos de habilidad
+AttributeSet_Health_Health: Salud
+AttributeSet_Health_MaxHealth: Salud máx.
+AttributeSet_Mana_Mana: Maná
+AttributeSet_Mana_MaxMana: Maná máx.
+AttributeSet_Strength_Strength: Fuerza
+AttributeSet_Dexterity_Dexterity: Destreza
+AttributeSet_LevelProgression_Toughness: Resistencia
+AttributeSet_Mana_MagicianLevel: Círculo mágico
+AttributeSet_Armor_Resistance_Blunt: Contundente
+AttributeSet_Armor_Resistance_Edge: Cortante
+AttributeSet_Armor_Resistance_Point: Perforante
+AttributeSet_Armor_Resistance_Fire: Fuego
+AttributeSet_Armor_Resistance_Energy: Energía
+AttributeSet_Armor_Resistance_Ice: Hielo
+AttributeSet_Armor_Resistance_Wind: Viento
+AttributeSet_Armor_Resistance_Falling: Caída
+AttributeSet_LevelProgression_Experience_Description: Los puntos de experiencia representan
+  tu crecimiento a través del combate y las tareas completadas. Si acumulas suficientes,
+  podrás subir de nivel y obtener nuevos puntos de habilidad.
+AttributeSet_LevelProgression_Skillpoints_Description: Los puntos de habilidad se
+  consiguen con cada nivel. Gástalos con los profesores para mejorar tus atributos
+  y capacidades de combate, fabricación y magia.
+AttributeSet_Health_Health_Description: La salud es tu aguante físico. Cuanta más
+  salud tengas, más daño podrás soportar antes de caer. Tu salud aumentará con la
+  experiencia, lo que te permite plantar cara a enemigos cada vez más fuertes.
+AttributeSet_Health_MaxHealth_Description: La salud es tu aguante físico. Cuanta más
+  salud tengas, más daño podrás soportar antes de caer. Tu salud aumentará con la
+  experiencia, lo que te permite plantar cara a enemigos cada vez más fuertes.
+AttributeSet_Mana_Mana_Description: El maná alimenta tus capacidades mágicas. El maná
+  se consume al lanzar hechizos y no se regenera de manera independiente, así que
+  tenlo en cuenta para planificar los descansos y el consumo de objetos.
+AttributeSet_Mana_MaxMana_Description: El maná alimenta tus capacidades mágicas. El
+  maná se consume al lanzar hechizos y no se regenera de manera independiente, así
+  que tenlo en cuenta para planificar los descansos y el consumo de objetos.
+AttributeSet_Strength_Strength_Description: La fuerza expresa tu capacidad física.
+  Cuanto mayor sea tu fuerza, más potentes serán las armas que podrás blandir y más
+  daño harán tus ataques cuerpo a cuerpo.
+AttributeSet_Dexterity_Dexterity_Description: La destreza representa tu dominio, equilibrio
+  y control sobre tu cuerpo. Determina las armas a distancia que puedes utilizar y
+  mejora la efectividad de tus ataques a distancia, así como la probabilidad de éxito
+  en el hurto.
+AttributeSet_LevelProgression_Toughness_Description: La resistencia es una medida
+  de tu capacidad de soportar el peso. A medida que te hagas más resistente, podrás
+  llevar más objetos. Si te sobrecargas, tu movimiento se verá afectado, así que debes
+  gestionar tu inventario con inteligencia.
+AttributeSet_Mana_MagicianLevel_Description: Los círculos mágicos indican la profundidad
+  de la sabiduría de un mago y sus conocimientos de las artes arcanas. A medida que
+  asciendas por los círculos, podrás acceder a hechizos más complejos y potentes,
+  lo que amplificará tu capacidad mágica.
+AttributeSet_Armor_Resistance_Blunt_Description: Ofrece defensa contra los golpes
+  contundentes de mazas.
+AttributeSet_Armor_Resistance_Edge_Description: Ofrece defensa contra los filos cortantes
+  de espadas y hachas.
+AttributeSet_Armor_Resistance_Point_Description: Esta protección reduce el daño perforante
+  de flechas y virotes.
+AttributeSet_Armor_Resistance_Fire_Description: Diseñada para proteger del intenso
+  calor de las llamas, esta protección hace que te afecten menos los ataques y peligros
+  basados en el fuego.

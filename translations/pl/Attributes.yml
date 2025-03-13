@@ -1,0 +1,59 @@
+AttributeSet_LevelProgression_Level: Poziom
+AttributeSet_LevelProgression_Experience: Doświadczenie
+AttributeSet_LevelProgression_Skillpoints: Punkty umiejętności
+AttributeSet_Health_Health: Zdrowie
+AttributeSet_Health_MaxHealth: Maks. zdrowie
+AttributeSet_Mana_Mana: Mana
+AttributeSet_Mana_MaxMana: Maks. mana
+AttributeSet_Strength_Strength: Siła
+AttributeSet_Dexterity_Dexterity: Zręczność
+AttributeSet_LevelProgression_Toughness: Wytrzymałość
+AttributeSet_Mana_MagicianLevel: Krąg magiczny
+AttributeSet_Armor_Resistance_Blunt: Obuchowe
+AttributeSet_Armor_Resistance_Edge: Sieczne
+AttributeSet_Armor_Resistance_Point: Kłute
+AttributeSet_Armor_Resistance_Fire: Ogień
+AttributeSet_Armor_Resistance_Energy: Energia
+AttributeSet_Armor_Resistance_Ice: Lód
+AttributeSet_Armor_Resistance_Wind: Wiatr
+AttributeSet_Armor_Resistance_Falling: Spadanie
+AttributeSet_LevelProgression_Experience_Description: Punkty doświadczenia reprezentują
+  twój rozwój wynikający z walki i wykonywania zadań. Jeśli zgromadzisz ich wystarczająco
+  dużo, awansujesz na wyższy poziom i zdobędziesz nowe punkty umiejętności.
+AttributeSet_LevelProgression_Skillpoints_Description: Punkty umiejętności otrzymujesz
+  przy awansie na nowy poziom. Wydaj je u nauczycieli, aby poprawić swoje atrybuty
+  oraz zdolności w walce, rzemiośle i magii.
+AttributeSet_Health_Health_Description: Zdrowie to wytrzymałość fizyczna. Im więcej
+  masz zdrowia, tym więcej obrażeń możesz znieść, nim padniesz. Twoje zdrowie będzie
+  rosło wraz z doświadczeniem, dzięki czemu stawisz czoła coraz silniejszym wrogom.
+AttributeSet_Health_MaxHealth_Description: Zdrowie to wytrzymałość fizyczna. Im więcej
+  masz zdrowia, tym więcej obrażeń możesz znieść, nim padniesz. Twoje zdrowie będzie
+  rosło wraz z doświadczeniem, dzięki czemu stawisz czoła coraz silniejszym wrogom.
+AttributeSet_Mana_Mana_Description: Mana zasila twoje zdolności magiczne. Jest zużywana
+  podczas rzucania zaklęć i nie regeneruje się samoistnie, więc odpowiednio zaplanuj
+  swój odpoczynek i zadbaj o zapas przedmiotów.
+AttributeSet_Mana_MaxMana_Description: Mana zasila twoje zdolności magiczne. Jest
+  zużywana podczas rzucania zaklęć i nie regeneruje się samoistnie, więc odpowiednio
+  zaplanuj swój odpoczynek i zadbaj o zapas przedmiotów.
+AttributeSet_Strength_Strength_Description: Siła wyraża twoją sprawność fizyczną.
+  Im większa siła, tym potężniejszą bronią możesz władać i bardziej niszczycielskie
+  są twoje ataki w walce wręcz.
+AttributeSet_Dexterity_Dexterity_Description: Zręczność reprezentuje opanowanie, równowagę
+  i kontrolę nad ciałem. Określa, z której broni dystansowej możesz korzystać, a także
+  zwiększa skuteczność ataków dystansowych i szansę powodzenia podczas kradzieży.
+AttributeSet_LevelProgression_Toughness_Description: Wytrzymałość jest miarą zdolności
+  do znoszenia obciążeń. Zwiększając wytrzymałość, możesz nosić więcej przedmiotów.
+  Nadmierne obciążenie utrudni ci poruszanie się, więc mądrze zarządzaj swoim ekwipunkiem.
+AttributeSet_Mana_MagicianLevel_Description: Kręgi magiczne oznaczają głębię mądrości
+  i wiedzy czarodzieja w sztukach tajemnych. Przechodząc przez kolejne kręgi, zyskujesz
+  dostęp do bardziej złożonych i potężniejszych zaklęć, zwiększając swoją magiczną
+  biegłość.
+AttributeSet_Armor_Resistance_Blunt_Description: Zapewnia ochronę przed miażdżącymi
+  ciosami broni obuchowej.
+AttributeSet_Armor_Resistance_Edge_Description: Zapewnia ochronę przed tnącymi ostrzami
+  mieczy i toporów.
+AttributeSet_Armor_Resistance_Point_Description: Ochrona ta zmniejsza obrażenia kłute
+  zadawane przez strzały i bełty.
+AttributeSet_Armor_Resistance_Fire_Description: Ta ochrona niweluje wysoką temperaturę
+  płomieni, zmniejszając zagrożenie ze strony ataków i niebezpieczeństw związanych
+  z ogniem.

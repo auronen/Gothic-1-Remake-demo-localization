@@ -1,0 +1,925 @@
+Ladder: Лестница
+Chest: Сундук
+Chair: Стул
+Bench: Лавка
+Box: Ящик
+Pan Cook: Сковорода
+Dead Rogue: Труп
+ItIg_Worldsplitter: Мешок руды
+ItIg_Worldsplitter_Description: Мешок с рудой
+ItWr_Scroll_Mysteriousnote: Загадочный набросок
+ItWr_Scroll_Mysteriousnote_Description: Таинственный рисунок, сделанный, предположительно,
+  Йориком с неизвестной целью.
+ReFo_Potion_Health_01: Целебная эссенция
+ReFo_Potion_Health_02: Целебный экстракт
+ReFo_Potion_Health_03: Целебный эликсир
+ReFo_Potion_Mana_01: Эссенция магической энергии
+ReFo_Potion_Mana_02: Экстракт магической энергии
+ReFo_Potion_Mana_03: Эликсир магической энергии
+ReFo_Crawlersoup: Суп из ползуна
+ReFo_Meatbugragout: Рагу из мясного жука
+ReFo_Mutton_01: Жареное мясо
+ReFo_Grilledscavenger: Жареное мясо падальщика
+ReFo_Soup: Похлёбка из кореньев
+ReMi_Smith_1H_Axe_01: Топор (затупившийся)
+ReMi_Smith_1H_Axe_02: Сокрушитель черепов (затупившийся)
+ReMi_Smith_1H_Axe_Hatchet_01: Топорик (затупившийся)
+ReMi_Smith_1H_Axe_Old_01: Потрёпанный топор (затупившийся)
+ReMi_Smith_1H_Axe_Sickle_01: Серп (затупившийся)
+ReMi_Smith_1H_Mace_01: Булава (нешлифованная)
+ReMi_Smith_1H_Mace_02: Шипастая булава (нешлифованная)
+ReMi_Smith_1H_Mace_03: Жало шершня (нешлифованное)
+ReMi_Smith_1H_Mace_04: Стальной язык (нешлифованный)
+ReMi_Smith_1H_Mace_Light_01: Дубинка (лёгкая булава, нешлифованная)
+ReMi_Smith_1H_Mace_Sledgehammer_01: Кузнечный молот (нешлифованный)
+ReMi_Smith_1H_Mace_War_01: Палица (нешлифованная)
+ReMi_Smith_1H_Mace_War_02: Стальная булава (нешлифованная)
+ReMi_Smith_1H_Mace_War_03: Дробитель камней (нешлифованный)
+ReMi_Smith_1H_Mace_Warhammer_02: Боевой молот (нешлифованный)
+ReMi_Smith_1H_Sword_01: Примитивный меч (затупившийся)
+ReMi_Smith_1H_Sword_02: Меч судьи (затупившийся)
+ReMi_Smith_1H_Sword_03: Меч стражника (затупившийся)
+ReMi_Smith_1H_Sword_04: Меч воина (затупившийся)
+ReMi_Smith_1H_Sword_Bastard_02: Мясник (затупившийся)
+ReMi_Smith_1H_Sword_Broad_01: Палаш (затупившийся)
+ReMi_Smith_1H_Sword_Broad_02: Приговор воина (затупившийся)
+ReMi_Smith_1H_Sword_Long_01: Длинный меч (затупившийся)
+ReMi_Smith_1H_Sword_Scythe_01: Жнец (затупившийся)
+ReMi_Smith_1H_Sword_Short_01: Короткий меч (затупившийся)
+ReMi_Smith_1H_Sword_Short_02: Защитник землепашца (затупившийся)
+ReMi_Smith_1H_Sword_Short_03: Укус шныга (затупившийся)
+ReMi_Smith_1H_Sword_Short_04: Ранящий шип (затупившийся)
+ReMi_Smith_1H_Sword_Short_05: Наказание рудокопа (затупившийся)
+ReMi_Smith_2H_Axe_Heavy_02: Глас воина (затупившийся)
+ReMi_Smith_2H_Axe_Light_01: Лёгкий боевой топор (затупившийся)
+ReMi_Smith_2H_Axe_Light_02: Удар грома (затупившийся)
+ReMi_Smith_2H_Axe_Old_02: Кровавая жатва (затупившаяся)
+ReMi_Smith_2H_Axe_Pickaxe: Кирка (затупившаяся)
+ReMi_Smith_2H_Sword_01: Двуручник (затупившийся)
+ReMi_Smith_2H_Sword_Heavy_01: Тяжёлый двуручник (затупившийся)
+ReMi_Smith_2H_Sword_Light_01: Лёгкий двуручник (затупившийся)
+ReMi_Smith_2H_Sword_Light_02: Клинок хранителя (затупившийся)
+ReMi_Smith_2H_Sword_Light_03: Клинок наёмника (затупившийся)
+ReMi_Smith_Blade_Arming: Прямой клинок
+ReMi_Smith_Blade_Flamberge: Волнистый клинок
+ReMi_Smith_Blade_Great: Большой клинок
+ReMi_Smith_Blade_Long: Длинный клинок
+ReMi_Smith_Blade_Short: Короткий клинок
+ReMi_Smith_Blade_Sickle: Серповидный клинок
+ReMi_Smith_Blade_Singleedge: Односторонний клинок
+ReMi_Smith_Head_Battleaxe: Обух боевого топора
+ReMi_Smith_Head_Broadaxe: Широкий обух топора
+ReMi_Smith_Head_Club: Навершие дубинки
+ReMi_Smith_Head_Fledged: Навершие пернача
+ReMi_Smith_Head_Greatbattleaxe: Лезвие боевой секиры
+ReMi_Smith_Head_Hammer: Навершие молота
+ReMi_Smith_Head_Morningstar: Навершие палицы
+ReMi_Smith_Head_Pickaxe: Навершие кирки
+ReMi_Smith_Head_Poleaxe: Лезвие бердыша
+ReMi_Smith_Head_Scythe: Лезвие косы
+ReMi_Smith_Head_Warhammer: Навершие боевого молота
+ReMw_1H_Axe_Sickle_01: Серп
+ReMw_1H_Axe_Hatchet_01: Топорик
+ReMw_1H_Axe_Old_01: Потрёпанный топор
+ReMw_1H_Axe_01: Топор
+ReMw_1H_Axe_02: Сокрушитель черепов
+ReMw_2H_Axe_Pickaxe: Кирка
+ReMw_2H_Axe_Old_02: Кровавая жатва
+ReMw_2H_Axe_Light_01: Лёгкий боевой топор
+ReMw_2H_Axe_Light_02: Удар грома
+ReMw_2H_Axe_Heavy_02: Глас воина
+ReMw_1H_Mace_Light_01: Дубинка (лёгкая булава)
+ReMw_1H_Mace_Sledgehammer_01: Кузнечный молот
+ReMw_1H_Mace_01: Булава
+ReMw_1H_Mace_02: Шипастая булава
+ReMw_1H_Mace_03: Жало шершня
+ReMw_1H_Mace_04: Стальной язык
+ReMw_1H_Mace_War_01: Палица
+ReMw_1H_Mace_War_02: Стальная булава
+ReMw_1H_Mace_War_03: Дробитель камней
+ReMw_1H_Mace_Warhammer_02: Боевой молот
+ReMw_1H_Sword_Short_02: Защитник землепашца
+ReMw_1H_Sword_Scythe_01: Жнец
+ReMw_1H_Sword_Short_03: Укус шныга
+ReMw_1H_Sword_Short_04: Ранящий шип
+ReMw_1H_Sword_01: Примитивный меч
+ReMw_1H_Sword_Short_05: Наказание рудокопа
+ReMw_1H_Sword_02: Меч судьи
+ReMw_1H_Sword_03: Меч стражника
+ReMw_1H_Sword_04: Меч воина
+ReMw_1H_Sword_Long_01: Длинный меч
+ReMw_1H_Sword_Broad_01: Палаш
+ReMw_1H_Sword_Broad_02: Приговор воина
+ReMw_1H_Sword_Bastard_02: Мясник
+ReMw_2H_Sword_Light_01: Лёгкий двуручник
+ReMw_2H_Sword_Light_02: Клинок хранителя
+ReMw_2H_Sword_Light_03: Клинок наёмника
+ReMw_2H_Sword_01: Двуручник
+ReMw_2H_Sword_Heavy_01: Тяжёлый двуручник
+ReAr_Scroll_Charm: Свиток «Чары»
+ReAr_Scroll_Control: Свиток «Контроль»
+ReAr_Scroll_Transformbiter: Свиток «Трансформация в кусача»
+ReAr_Scroll_Transformbloodfly: Свиток «Трансформация в шершня»
+ReAr_Scroll_Transformbloodhound: Свиток «Трансформация в ищейку»
+ReAr_Scroll_Transformfirelizard: Свиток «Трансформация в огненного ящера»
+ReAr_Scroll_Transformharpy: Свиток «Трансформация в гарпию»
+ReAr_Scroll_Transformlizard: Свиток «Трансформация в ящера»
+ReAr_Scroll_Transformlurker: Свиток «Трансформация в шныга»
+ReAr_Scroll_Transformmeatbug: Свиток «Трансформация в мясного жука»
+ReAr_Scroll_Transformminecrawler: Свиток «Трансформация в ползуна»
+ReAr_Scroll_Transformmolerat: Свиток «Трансформация в кротокрыса»
+ReAr_Scroll_Transformorcdog: Свиток «Трансформация в орочью гончую»
+ReAr_Scroll_Transformrazor: Свиток «Трансформация в бритвозуба»
+ReAr_Scroll_Transformscavenger: Свиток «Трансформация в падальщика»
+ReAr_Scroll_Transformshadowbeast: Свиток «Трансформация в мракориса»
+ReAr_Scroll_Transformsnapper: Свиток «Трансформация в глорха»
+ReAr_Scroll_Transformswampshark: Свиток «Трансформация в болотожора»
+ReAr_Scroll_Transformwolf: Доспех
+Item_Weapon_Rune: Руна
+Item_Weapon_Scroll: Свиток
+Item_Amulet: Амулет
+Item_Food: Еда
+Item_Potion: Напиток
+Item_Herb: Растение
+Item_Drug: Наркотик
+Item_Key: Ключ
+Item_Trophy: Трофей
+Item_Material: Материал
+Item_Ore: Руда
+Item_Junk: Мусор
+Item_Ammo: Метательный снаряд
+Item_Quest: Предмет для задания
+Item_Lockpick: Отмычка
+Item_Instrument: Инструмент
+Item_Weapon_Bow: Лук
+Item_Weapon_Crossbow: Арбалет
+Item_Ring: Кольцо
+Item_Weapon_Axe_OneHand: Одноручный топор
+Item_Weapon_Mace_OneHand: Одноручная булава
+Item_Weapon_Sword_OneHand: Одноручный меч
+Item_Weapon_Torch_OneHand: Факел
+Item_Weapon_Axe_TwoHand: Двуручный топор
+Item_Weapon_Mace_TwoHand: Двуручная булава
+Item_Weapon_Staff_TwoHand: Посох
+Item_Weapon_Sword_TwoHand: Двуручный меч
+Item_Writing: Записка
+Item_Weapon_Fist: Кулаки
+ItAt_Meatbug_01_description: Мясо мясных жуков. Вкусное, если его приготовить; в сыром
+  виде оставляет желать лучшего.
+ItFo_Apple_description: Яблоки — символ торговой монополии Старого лагеря.
+ItFo_Cheese_description: Миртанский сыр для главных заправил Старого лагеря. Кажется,
+  его резким ароматом пропах весь замок.
+ItFo_Grilledscavenger_description: Мясо падальщика, зажаренное до румяной корочки.
+ItFo_Loaf_description: Основа питания в колонии. Пока хлеб поставляется стабильно,
+  рабочие сыты и не выражают недовольства.
+ItFo_Meatbugragout_description: Традиционное блюдо Старого лагеря, изначально возникшее
+  не от хорошей жизни. Впрочем, как оказалось, мясо жуков, тушенное с адскими грибами, —
+  это вкусно.
+ItFo_Mutton_01_description: Поджарено на открытом огне. Утоляет голод и согревает
+  душу.
+ItFo_Mutton_02_description: Вкуснейшее вяленое мясо, настоящее лакомство.
+ItFo_Muttonraw_description: Свежедобытое мясо, ждущее жара огня.
+ItFo_Pear_description: Сладкий фрукт из внешнего мира — вкус напоминает о доме.
+ItFo_Potato_description: Распространённый овощ, который составляет основу питания
+  работяг во всех лагерях колонии.
+ItFo_Potion_Beer_description: Импортированный миртанский эль. Предмет роскоши из Старого
+  лагеря, наличие которого оживляет торговлю и облегчает переговоры во всей колонии.
+ItFo_Potion_Booze_description: Продукт перегонки риса. Предмет гордости обитателей
+  Нового лагеря и яркий пример их изобретательности. Этот крепкий алкогольный напиток
+  облегчает социальное взаимодействие в лагере и порой может выполнять роль валюты.
+ItFo_Potion_Strongbeer_description: Этот крепкий напиток любят надсмотрщики. Высокое
+  содержание алкоголя оказывает кратковременный тонизирующий эффект, но чрезмерное
+  употребление вредит здоровью.
+ItFo_Potion_Water_01_description: В колонии нет недостатка в чистой воде, однако её
+  источники контролируют те, кто всем здесь заправляет.
+ItFo_Potion_Wine_description: Символ связи Старого лагеря с внешним миром. Редкость,
+  которую можно увидеть только на столе рудного барона.
+ItFo_Rice_description: Зерновая культура, которая выращивается на тщательно охраняемых
+  плантациях. Составляет основу независимости Нового лагеря. Излишки идут на продажу,
+  что определяет взаимоотношения с другими лагерями.
+ItFo_Whitemeat_description: Нежное мясо падальщика, которое только и ждёт, когда его
+  поджарят на открытом огне.
+ItFo_Plants_Berrys_01_description: Эти ягоды растут в наименее освоенных районах колонии.
+  Те, кто их собирает, зачастую рискуют ради этого жизнью и здоровьем.
+ItFo_Plants_Bloodwood_01_description: Неприхотливое растение с характерными коричневыми
+  стручками. В суровых условиях колонии оно ценится за свои лекарственные свойства.
+ItFo_Plants_Mushroom_01_description: Обычный гриб из долины Рудников с узнаваемой
+  белой шляпкой.
+ItFo_Plants_Orcherb_01_description: Лекарственное растение, обладающее сильными целебными
+  свойствами. Встречается только в землях орков, поэтому его сбор редко обходится
+  без стычек, так что лекари готовы хорошо за него заплатить.
+ItFo_Plants_Seraphis_01_description: 'Это растение часто встречается в долине. Необходимо
+  для поддержания продуктивности труда в колонии: благодаря его тонизирующему эффекту
+  каторжники могут работать больше.'
+ItFo_Plants_Stoneroot_01_description: Неприхотливое растение, употребление которого
+  позволяет восстанавливать магическую энергию. Живущие в колонии маги выискивают
+  его повсюду.
+ItAt_Claws_01_description: Острые как бритва когти, которые очень ценятся ремесленниками.
+  Их добыча сопряжена с большим риском, но позволяет хорошо заработать.
+ItAm_Arrow_description: Такие стрелы делают из упаковочных материалов. Без них лук —
+  просто палка, а с ними — грозное оружие.
+ItAm_Bolt_description: Подходит для арбалетов, которыми пользуются стражники Старого
+  лагеря. Свист болта заставляет умолкнуть недовольных, пока их жалобы не переросли
+  в настоящий протест.
+ItKe_Lockpick_description: Незаменимый инструмент для тех, кто умеет открывать запертое.
+ItMi_Hammer_description: Крепкий молот. Верный помощник кузнецов и других ремесленников,
+  символ труда в колонии.
+ItMi_Lute_description: Вещица, которая служит напоминанием о внешнем мире. Музыка
+  помогает сохранить культуру и рассудок, поэтому инструменты ценятся не меньше руды.
+ItMi_Oldcoin_01_description: 'Сувенир из мира за барьером: такие монеты в ходу в Миртане.
+  Здесь они не имеют ценности.'
+ItMi_Orenugget_description: 'Вокруг этой руды крутится вся жизнь в колонии: уникальные
+  свойства сделали её не только ценным ресурсом, но и валютой, используемой заключёнными
+  повсеместно. Добыча руды не только определяет расстановку сил между лагерями, но
+  и мощь королевства.'
+ItMi_Stuff_Amphore_01_description: Эти сосуды использовались для торговли ещё до возникновения
+  колонии. Теперь они выполняют разнообразные функции в лагерном быту.
+ItMi_Stuff_Barbknife_01_description: Позволяет не потерять человеческий облик в суровых
+  условиях колонии. Острое лезвие намекает, что с владельцем шутки плохи.
+ItMi_Stuff_Brush_description: В суровых условиях колонии этот непритязательный инструмент
+  незаменим для ухода за доспехами, оружием и за собой.
+ItMi_Stuff_Cup_01_description: Сколько раз её сжимали в руке, поднимая тост, — не
+  сосчитать. Зачастую это самый ценный предмет среди нехитрых пожитков рудокопа.
+ItMi_Stuff_Cup_02_description: Изукрашенный серебряный кубок, который, вероятнее всего,
+  украли из личных вещей миртанской знати, оставшихся в колонии.
+ItMi_Stuff_Mug_01_description: Простые кружки для воды можно найти в любом из лагерей.
+ItMi_Stuff_Pipe_01_description: Для долгожданного перекура в трубку обычно забивают
+  местные травы.
+ItMi_Stuff_Plate_01_description: Видавшая виды металлическая тарелка. Напоминание
+  о том, что даже каторжникам нужно есть.
+HumanFists_description: Кулаки — последняя надежда в отчаянном положении или осознанный
+  выбор уверенных в себе бойцов. Порой те, кто умеет драться без оружия, очень эффективно
+  расправляются с врагами голыми руками.
+ItFo_Potion_Health_01_description: Целебный эликсир из редких трав. Такие эликсиры
+  мгновенно заживляют раны, и это свойство спасло немало жизней. Вот почему умелых
+  алхимиков в колонии очень ценят.
+ItWr_Scroll_Jacko_01_description: Джако, я получил твоё послание. Не знал, что Силас
+  хранит в подвале заначку. Если найду её, согласен поделить пополам. У меня есть
+  свой человек в таверне, и, кажется, я понял, как проникнуть в подвал.
+ItMw_1H_Axe_Sickle_01_description: Символ самодостаточности Нового лагеря. Это орудие
+  для сбора урожая и для защиты. Изогнутый клинок символизирует стремление лагеря
+  к процветанию.
+ItMw_1H_Mace_03_description: Зловещая булава, металлическое навершие которой усеяно
+  шипами, подобными смертоносным жалам шершней. Излюбленное оружие воров, вселяющее
+  страх одним своим видом.
+ItMw_1H_Mace_Club_01_description: Верная помощница рудокопа. Простое, но эффективное
+  орудие символизирует суровую простоту каторжного быта.
+ItMw_1H_Sword_01_description: Самый обычный стальной меч со слегка изогнутой рукоятью.
+  Такими, как правило, пользуются рядовые стражники из Старого лагеря.
+ItMw_1H_Sword_02_description: Меч с позолоченной рукоятью и гравировкой на клинке.
+  Подчёркивает статус опытного воина из Старого лагеря.
+ItMw_1H_Sword_04_description: Хорошо сработанный меч с узором на клинке и удлинённой
+  поперечной гардой. Умелые бойцы ценят такие мечи за их универсальность.
+ItMw_1H_Sword_Old_01_description: Антиквариат, сохранившийся со времени основания
+  колонии. Новоприбывшие всё ещё пользуются такими клинками.
+ItMw_1H_Sword_Short_02_description: Простой короткий меч с серебряным навершием на
+  рукояти. Благодаря небольшим размерам идеально подходит для быстрых сражений в ограниченном
+  пространстве.
+ItMw_1H_Torch_description: Незаменим в тёмных закоулках рудников, где не знаешь, чего
+  ожидать. Факелом можно отгонять диких зверей — зрелище бывает зажигательным!
+ItRw_Bow_Diego_description: Длинный лук Диего — это не только искусно изготовленное
+  оружие, но и символ его власти.
+ItRw_Bow_Long_01_description: Длинный, слегка изогнутый рук без украшений и обмотки.
+  Жители Нового лагеря особенно ценят это оружие за его дальнобойность.
+ItRw_Bow_Small_01_description: Грубо изготовленный короткий лук с плечами разной длины.
+  Оружие начинающих охотников и каторжников, которым нечего терять.
+ItRw_Bow_Small_02_description: Небольшой короткий лук из дерева. Такие луки просты
+  в обращении, поэтому их часто можно увидеть у теней и стрелков из Нового лагеря.
+ItRw_Bow_Small_04_description: Короткий лук из тёмного дерева, плечи которого усилены
+  металлическими накладками. Такое оружие — мощное и точное — в ходу у влиятельных
+  теней.
+ItRw_Crossbow_01_description: Лёгкий деревянный арбалет, усиленный металлическими
+  накладками. Это оружие популярно у стражников Старого лагеря.
+ItMw_2H_Axe_Pickaxe_description: Основное орудие в колонии. Кирка служит для добычи
+  руды, от которой зависит положение дел в лагерях. В умелых руках кирка — не худшее
+  оружие.
+ItWr_Scroll_Mysteriousnote_description: Таинственный рисунок, сделанный, предположительно,
+  Йориком с неизвестной целью.
+ItAt_Amulet_Brotherhood: Знак Братства
+ItAt_Amulet_Dexterity_01: Амулет проворства
+ItAt_Amulet_Dexterity_02: Амулет ловкости
+ItAt_Amulet_Enlight: Амулет озарения
+ItAt_Amulet_Fire: Амулет пламени
+ItAt_Amulet_Life: Амулет жизненной силы
+ItAt_Amulet_Magic_01: Амулет магии
+ItAt_Amulet_Magic_02: Амулет духовной силы
+ItAt_Amulet_Magicfire: Амулет очищения
+ItAt_Amulet_Neks: Амулет мертвого стражника
+ItAt_Amulet_Orc: Орочий талисман
+ItAt_Amulet_Power: Амулет мощи
+ItAt_Amulet_Projectile: Амулет древесной кожи
+ItAt_Amulet_Protection: Амулет железной кожи
+ItAt_Amulet_Ranged: Амулет каменной кожи
+ItAt_Amulet_Strong_01: Амулет могущества
+ItAt_Amulet_Strong_2: Амулет силы
+ItAt_Amulet_Water: Амулет посланника магов воды
+ItAt_Amulet_Weapon: Амулет брони
+Crw_Armor_H: Доспехи из пластин ползунов
+Dmb_Armor_M: Облачение темных искусств
+Ebr_Armor_H_01: Доспехи Гомеза
+Ebr_Armor_H_02: Тяжелые доспехи Барона
+Ebr_Armor_M: Роскошная мантия
+Grd_Armor: Доспехи стражника
+Gur_Armor_H: Облачение высших Гуру
+Gur_Armor_M: Облачение Гуру
+Kdf_Armor_H: Облачение высших магов огня
+Kdf_Armor_L: Облачение магов огня
+Kdw_Armor_H: Облачение высших магов воды
+Kdw_Armor_L: Облачение магов воды
+Law_Armor: Облачение судьи
+NH_Armor: Роба каторжника
+Nov_Armor: Доспехи послушника
+Ore_Armor_H: Улучшенные доспехи из руды
+Ore_Armor_M: Древние доспехи из руды
+Org_Armor: Одеяние вора
+Ryl_Armor: Доспехи королевского стражника
+Sfb_Armor_L: Одеяние рудокопа
+Sld_Armor: Доспехи наемника
+Stt_Armor: Одеяние Призрака
+Tpl_Armor: Доспехи Стража
+Vlk_Armor_L: Простые штаны для рудокопа
+Vlk_Armor_M: Штаны для рудокопа
+ItAt_Meatbug_01: Мясо жука
+ItFo_Apple: Яблоко
+ItFo_Cabbage: Капуста
+ItFo_Carrot: Морковь
+ItFo_Cheese: Сыр
+ItFo_Crawlersoup: Суп из ползуна
+ItFo_Grilledscavenger: Жареное мясо падальщика
+ItFo_Lemon: Лимон
+ItFo_Loaf: Хлеб
+ItFo_Meatbugragout: Рагу из мяса жуков
+ItFo_Mutton_01: Жареное мясо
+ItFo_Mutton_02: Окорок
+ItFo_Muttonraw: Сырое мясо
+ItFo_Onion: Лук
+ItFo_Pear: Груша
+ItFo_Potato: Картофель
+ItFo_Potion_Beer: Пиво
+ItFo_Potion_Booze: Рисовый шнапс
+ItFo_Potion_Specialwater: ''
+ItFo_Potion_Strongbeer: Крепкое пиво
+ItFo_Potion_Water_01: Вода
+ItFo_Potion_Wine: Вино
+ItFo_Rice: Рис
+ItFo_Sausage: Колбаса
+ItFo_Soup: Суп из корней
+ItFo_Whitemeat: Сырое белое мясо
+ItFo_Wineberrys_01: Виноград
+ItFo_Plants_Berrys_01: Голубика
+ItFo_Plants_Bloodwood_01: Семя бука
+ItFo_Plants_Flameberry_01: Огневая колючка
+ItFo_Plants_Herb_01: Целительные травы
+ItFo_Plants_Herb_02: Целительные травы
+ItFo_Plants_Herb_03: Целительные травы
+ItFo_Plants_Mountainmoss_01: Горный мох
+ItFo_Plants_Mountainmoss_02: Могильных мох
+ItFo_Plants_Mushroom_01: Адский гриб
+ItFo_Plants_Mushroom_02: Рабский хлеб
+ItFo_Plants_Nightshadow_01: Солнечник
+ItFo_Plants_Nightshadow_02: Лунник
+ItFo_Plants_Orcherb_01: Орочий лист
+ItFo_Plants_Orcherb_02: Дубовый лист
+ItFo_Plants_Ravenherb_01: Вороньи травы
+ItFo_Plants_Ravenherb_02: Темные травы
+ItFo_Plants_Seraphis_01: Серафис
+ItFo_Plants_Stoneroot_01: Каменный корень
+ItFo_Plants_Stoneroot_02: Драконий корень
+ItFo_Plants_Towerwood_01: ''
+ItFo_Plants_Trollberrys_01: ''
+ItFo_Plants_Velayis_01: ''
+ItMi_Joint_01: Зеленый новичок
+ItMi_Joint_02: Северный темный
+ItMi_Joint_03: Зов сна
+ItMi_Plants_Swampherb_01: Болотник
+ItKe_Berg_01: Ключ к сундуку
+ItKe_Brass: ''
+ItKe_Cavalorn_01: Ключ Кавалорна
+ItKe_Dungeonkey: Ключ к подземелью
+ItKe_Focus_04: Ключ
+ItKe_Focus_05: Ключ
+ItKe_Freemine: Ключ к Свободной Шахте
+ItKe_Gold: ''
+ItKe_Gomez_01: Чаша Гомеза
+ItKe_Grey: ''
+ItKe_Kalom_01: Ключ к лаборатории
+ItKe_Om_02: Ключ к сундуку
+ItKe_Om_03: Ключ к сундуку
+ItKe_OrcGraveyard: ''
+ItKe_OrcGraveyardPiece_01: ''
+ItKe_OrcGraveyardPiece_02: ''
+ItKe_Ricelord_01: Чаша Лорда
+ItKe_Smith_01: Железный ключ
+ItKe_Storage_01: Ключ к складу
+ItKe_Sunkentower: Ключ
+ItKe_White: ''
+ItAt_Biter_01: Коготь кусача
+ItAt_Biter_02: Клык кусача
+ItAt_Biter_03: Шкура кусача
+ItAt_Bloodfly_01: Крылья
+ItAt_Bloodfly_02: Жало шершня
+ItAt_Bloodfly_03: Ядовитая железа шершня
+ItAt_Bloodhound_01: Зубы ищейки
+ItAt_Bloodhound_02: Шкура ищейки
+ItAt_Claws_01: Когти
+ItAt_Crawler_01: Челюсти ползуна
+ItAt_Crawler_02: Пластина панциря ползуна-воина
+ItAt_Crawlerqueen: Яйцо ползуна
+ItAt_Damlurker_01: Когти шныга у запруды
+ItAt_Firegolem_01: Сердце огненного голема
+ItAt_Firegolem_02: Обсидиановое ядро
+ItAt_Firelizard_01: Язык огня
+ItAt_Firelizard_02: Железа огненного яда
+ItAt_Firelizard_03: Огненный спинной гребень
+ItAt_Firelizard_04: Шкура огненного ящера
+ItAt_Harpy_01: Перо гарпии
+ItAt_Harpy_02: Коготь гарпии
+ItAt_Icegolem_01: Сердце ледяного голема
+ItAt_Icegolem_02: Частица ледяного голема
+ItAt_Lizard_01: Коготь ящера
+ItAt_Lizard_02: Шкура ящера
+ItAt_Lizard_03: Костяной щиток
+ItAt_Lurker_01: Когти шныги
+ItAt_Lurker_02: Шкура шныги
+ItAt_Lurker_03: Жабры шныга
+ItAt_Minecrawlerqueen_01: Феромоновая железа матки
+ItAt_Orcdog_01: Клык орочьей гончей
+ItAt_Orcdog_02: Шкура орочей гончей
+ItAt_Razor_01: Коготь бритвозуба
+ItAt_Razor_02: Чешуя бритвозуба
+ItAt_Scavenger_01: Зубы падальщика
+ItAt_Scavenger_02: Черепная пластина падальщика
+ItAt_Shadow_01: Шкура мракориса
+ItAt_Shadow_02: Рог мракориса
+ItAt_Shadow_03: Клык мракориса
+ItAt_Shadow_04: Хребет мракориса
+ItAt_Snapper_01: Коготь глорха
+ItAt_Snapper_02: Зубы глорха
+ItAt_Stonegolem_01: Сердце каменного голема
+ItAt_Stonegolem_02: Пронизанный рудой корень
+ItAt_Swampshark_01: Шкура болотожора
+ItAt_Swampshark_02: Зуб болотожора
+ItAt_Swampshark_03: Хитиновая пластина болотожора
+ItAt_Teeth_01: Клык
+ItAt_Troll_01: Шкура тролля
+ItAt_Troll_02: Клык тролля
+ItAt_Wolf_01: Волчья шкура
+ItAt_Wolf_02: Волчий клык
+ItMi_Inscription_Parchment: Пергамент
+ItMi_Smith_1H_Axe_01: Топор (затупившийся)
+ItMi_Smith_1H_Axe_02: Сокрушитель черепов (затупившийся)
+ItMi_Smith_1H_Axe_Hatchet_01: Топорик (затупившийся)
+ItMi_Smith_1H_Axe_Old_01: Потрёпанный топор (затупившийся)
+ItMi_Smith_1H_Axe_Sickle_01: Серп (затупившийся)
+ItMi_Smith_1H_Mace_01: Булава (нешлифованная)
+ItMi_Smith_1H_Mace_02: Шипастая булава (нешлифованная)
+ItMi_Smith_1H_Mace_03: Жало шершня (нешлифованное)
+ItMi_Smith_1H_Mace_04: Стальной язык (нешлифованный)
+ItMi_Smith_1H_Mace_Light_01: Дубинка (лёгкая булава, нешлифованная)
+ItMi_Smith_1H_Mace_Sledgehammer_01: Кузнечный молот (нешлифованный)
+ItMi_Smith_1H_Mace_War_01: Палица (нешлифованная)
+ItMi_Smith_1H_Mace_War_02: Стальная булава (нешлифованная)
+ItMi_Smith_1H_Mace_War_03: Дробитель камней (нешлифованный)
+ItMi_Smith_1H_Mace_Warhammer_02: Боевой молот (нешлифованный)
+ItMi_Smith_1H_Sword_01: Примитивный меч (затупившийся)
+ItMi_Smith_1H_Sword_02: Меч судьи (затупившийся)
+ItMi_Smith_1H_Sword_03: Меч стражника (затупившийся)
+ItMi_Smith_1H_Sword_04: Меч воина (затупившийся)
+ItMi_Smith_1H_Sword_Bastard_02: Мясник (затупившийся)
+ItMi_Smith_1H_Sword_Broad_01: Палаш (затупившийся)
+ItMi_Smith_1H_Sword_Broad_02: Приговор воина (затупившийся)
+ItMi_Smith_1H_Sword_Long_01: Длинный меч (затупившийся)
+ItMi_Smith_1H_Sword_Scythe_01: Жнец (затупившийся)
+ItMi_Smith_1H_Sword_Short_01: Короткий меч (затупившийся)
+ItMi_Smith_1H_Sword_Short_02: Защитник землепашца (затупившийся)
+ItMi_Smith_1H_Sword_Short_03: Укус шныга (затупившийся)
+ItMi_Smith_1H_Sword_Short_04: Ранящий шип (затупившийся)
+ItMi_Smith_1H_Sword_Short_05: Наказание рудокопа (затупившийся)
+ItMi_Smith_2H_Axe_Heavy_02: Глас воина (затупившийся)
+ItMi_Smith_2H_Axe_Light_01: Лёгкий боевой топор (затупившийся)
+ItMi_Smith_2H_Axe_Light_02: Удар грома (затупившийся)
+ItMi_Smith_2H_Axe_Old_02: Кровавая жатва (затупившаяся)
+ItMi_Smith_2H_Axe_Pickaxe: Кирка (затупившаяся)
+ItMi_Smith_2H_Sword_01: Двуручник (затупившийся)
+ItMi_Smith_2H_Sword_Heavy_01: Тяжёлый двуручник (затупившийся)
+ItMi_Smith_2H_Sword_Light_01: Лёгкий двуручник (затупившийся)
+ItMi_Smith_2H_Sword_Light_02: Клинок хранителя (затупившийся)
+ItMi_Smith_2H_Sword_Light_03: Клинок наёмника (затупившийся)
+ItMi_Smith_Blade_Arming: Прямой клинок
+ItMi_Smith_Blade_Flamberge: Волнистый клинок
+ItMi_Smith_Blade_Great: Большой клинок
+ItMi_Smith_Blade_Long: Длинный клинок
+ItMi_Smith_Blade_Short: Короткий клинок
+ItMi_Smith_Blade_Sickle: Серповидный клинок
+ItMi_Smith_Blade_Singleedge: Односторонний клинок
+ItMi_Smith_Gold: Золото
+ItMi_Smith_Head_Battleaxe: Обух боевого топора
+ItMi_Smith_Head_Broadaxe: Широкий обух топора
+ItMi_Smith_Head_Club: Навершие дубинки
+ItMi_Smith_Head_Fledged: Навершие пернача
+ItMi_Smith_Head_Greatbattleaxe: Лезвие боевой секиры
+ItMi_Smith_Head_Hammer: Навершие молота
+ItMi_Smith_Head_Morningstar: Навершие палицы
+ItMi_Smith_Head_Pickaxe: Навершие кирки
+ItMi_Smith_Head_Poleaxe: Лезвие бердыша
+ItMi_Smith_Head_Scythe: Лезвие косы
+ItMi_Smith_Head_Warhammer: Навершие боевого молота
+ItMi_Smith_Intermediate_Blade_Arming: ''
+ItMi_Smith_Intermediate_Blade_Flamberge: ''
+ItMi_Smith_Intermediate_Blade_Great: ''
+ItMi_Smith_Intermediate_Blade_Long: ''
+ItMi_Smith_Intermediate_Blade_Short: ''
+ItMi_Smith_Intermediate_Blade_Sickle: ''
+ItMi_Smith_Intermediate_Blade_Singleedge: ''
+ItMi_Smith_Intermediate_Head_Battleaxe: ''
+ItMi_Smith_Intermediate_Head_Broadaxe: ''
+ItMi_Smith_Intermediate_Head_Club: ''
+ItMi_Smith_Intermediate_Head_Fledged: ''
+ItMi_Smith_Intermediate_Head_Greatbattleaxe: ''
+ItMi_Smith_Intermediate_Head_Hammer: ''
+ItMi_Smith_Intermediate_Head_Morningstar: ''
+ItMi_Smith_Intermediate_Head_Pickaxe: ''
+ItMi_Smith_Intermediate_Head_Poleaxe: ''
+ItMi_Smith_Intermediate_Head_Scythe: ''
+ItMi_Smith_Intermediate_Head_Warhammer: ''
+ItMi_Smith_Iron: Железо
+ItMi_Smith_Ironwood: Железная древесина
+ItMi_Smith_Leatherstraps: Кожаные ремни
+ItMi_Smith_Oak: Древесина дуба
+ItMi_Smith_Obsidian: Обсидиан
+ItMi_Smith_Petrifiedwood: Окаменелая древесина
+ItMi_Smith_Ruby: Рубин
+ItMi_Smith_Steel: Сталь
+ItMi_Smith_Swordblade: Клинок
+ItMi_Smith_Swordbladehot: Раскаленный клинок
+ItMi_Smith_Swordraw: Необработанная сталь
+ItMi_Smith_Swordrawhot: Раскаленная сталь
+ItMi_Smith_Willow: Древесина ивы
+ItAm_Arrow: Стрела
+ItAm_Bolt: Арбалетная стрела
+ItKe_Lockpick: Отмычка
+ItLs_Torch: Факел
+ItLs_Torchburned: Факел
+ItLs_Torchburning: Факел (зажжённый)
+ItLs_Torchfirespit: Факел (для выдувания огня)
+ItMi_Alchemy_Alcohol_01: Чистый спирт
+ItMi_Alchemy_Flask: Лабораторный флакон
+ItMi_Alchemy_Moleratlubric_01: Жир кротокрыса
+ItMi_Alchemy_Quicksilver_01: Ртуть
+ItMi_Alchemy_Salt_01: Соль
+ItMi_Alchemy_Sulphur_01: Сера
+ItMi_Alchemy_Syranoil_01: Масло
+ItMi_Coop: Деревянная ложка
+ItMi_Hammer: Молот
+ItMi_Lute: Лютня
+ItMi_Oldcoin_01: Монета
+ItMi_Orenugget: Руда
+ItMi_Specialjoint: Приготовленный Зов сна
+ItMi_Stomper: Пресс
+ItMi_Stuff_Alarmhorn: Рог
+ItMi_Stuff_Amphore_01: Амфора
+ItMi_Stuff_Barbknife_01: Остер
+ItMi_Stuff_Brush: Кисть
+ItMi_Stuff_Candlestick_01: Подсвечник
+ItMi_Stuff_Cup_01: Бокал
+ItMi_Stuff_Cup_02: Кубок
+ItMi_Stuff_Idologront_01: Статуя
+ItMi_Stuff_Mug_01: Кружка
+ItMi_Stuff_Pan_01: Сковорода
+ItMi_Stuff_Pipe_01: Труба
+ItMi_Stuff_Plate_01: Блюдо
+ItMi_Stuff_Silverware_01: Лезвие
+ItMi_Wedel: Пальмовый лист
+HumanFists: Кулаки
+ItFo_Potion_Dex_01: Эссенция ловкости
+ItFo_Potion_Dex_02: Вытяжка ловкости
+ItFo_Potion_Dex_03: Эликсир ловкости
+ItFo_Potion_Elixier: ''
+ItFo_Potion_Elixier_Egg: ''
+ItFo_Potion_Haste_01: Эликсир проворства
+ItFo_Potion_Haste_02: Эликсир быстроты
+ItFo_Potion_Haste_03: Эликсир скорости
+ItFo_Potion_Health_01: Эссенция исцеления
+ItFo_Potion_Health_02: Экстракт исцеления
+ItFo_Potion_Health_03: Целебный эликсир
+ItFo_Potion_Health_Perma_01: Эссенция жизни
+ItFo_Potion_Health_Perma_02: Вытяжка жизни
+ItFo_Potion_Health_Perma_03: Эликсир жизни
+ItFo_Potion_Health_Quick: Эликсир быстрого исцеления
+ItFo_Potion_Mana_01: Эссенция магической энергии
+ItFo_Potion_Mana_02: Вытяжка магической энергии
+ItFo_Potion_Mana_03: Эликсир магической энергии
+ItFo_Potion_Mana_Perma_01: Эссенция духа
+ItFo_Potion_Mana_Perma_02: Вытяжка духа
+ItFo_Potion_Mana_Perma_03: Эликсир духа
+ItFo_Potion_Master_01: Эликсир могущества
+ItFo_Potion_Master_02: Эликсир превосходства
+ItFo_Potion_Orcmedicine: Орочье снадобье
+ItFo_Potion_Strength_01: Эссенция силы
+ItFo_Potion_Strength_02: Вытяжка силы
+ItFo_Potion_Strength_03: Эликсир силы
+ItAt_Amulet_Ulu_Talisman: ''
+ItMi_Recruitjoint: ''
+ItMi_Stuff_Gearwheel_01: Шестерня
+ItMi_Stuff_Idolsleeper_01: Статуэтка
+ItMs_Demonprank: Удар демона
+ItMs_Focus_01: Юнитор со скалы у океана
+ItMs_Focus_02: Юнитор из каньона тролля
+ItMs_Focus_03: Юнитор из горного форта
+ItMs_Focus_04: Юнитор из разрушенного монастыря
+ItMs_Focus_05: Юнитор из-под кольца камней
+ItMs_Lightbringer: Клинок света
+ItMs_Spellblade: Клинок наказания
+ItMs_Timeblade: Клинок времен
+ItMs_Uriziel: Странный меч
+ItMs_Worldsplitter: Раскалывающий миры
+ItAt_Ring_Enlight: Кольцо озарения
+ItAt_Ring_Fire_01: Кольцо защиты от пламени
+ItAt_Ring_Fire_02: Кольцо защиты от огня
+ItAt_Ring_Life_01: Кольцо жизни
+ItAt_Ring_Life_02: Кольцо великой жизни
+ItAt_Ring_Magic_01: Кольцо магии
+ItAt_Ring_Magic_02: Кольцо духовной силы
+ItAt_Ring_Magic_03: Кольцо защиты
+ItAt_Ring_Magicfire_01: Кольцо очищения
+ItAt_Ring_Magicfire_02: Кольцо невидимости
+ItAt_Ring_Mordrag: Кольцо Мордрага
+ItAt_Ring_Power: Кольцо воинского могущества
+ItAt_Ring_Projectile_01: Кольцо деревянной кожи
+ItAt_Ring_Projectile_02: Кольцо каменной кожи
+ItAt_Ring_Ranged_01: Кольцо стойкости
+ItAt_Ring_Ranged_02: Кольцо сомнения
+ItAt_Ring_Skill_01: Кольцо малой ловкости
+ItAt_Ring_Skill_02: Кольцо великой ловкости
+ItAt_Ring_Strong_01: Кольцо могущества
+ItAt_Ring_Strong_02: Кольцо силы
+ItAt_Ring_Total_01: Кольцо малой невидимости
+ItAt_Ring_Total_02: Кольцо великой невидимости
+ItAt_Ring_Weapon_01: Кольцо железной кожи
+ItAt_Ring_Weapon_02: Кольцо рудной кожи
+ItAr_Rune_BallLightning: Шаровая молния
+ItAr_Rune_BreathOfDeath: Дыхание смерти
+ItAr_Rune_ChainLightning: Молния
+ItAr_Rune_Charm: Чары
+ItAr_Rune_Control: Контроль
+ItAr_Rune_DeathToTheUndead: Смерть нежити
+ItAr_Rune_FireBall: Огненный шар
+ItAr_Rune_FireBolt: Огненная стрела
+ItAr_Rune_FireRain: Огненный дождь
+ItAr_Rune_FistOfWind: Кулак ветра
+ItAr_Rune_Heal: Исцеление
+ItAr_Rune_IceBlock: Ледяная глыба
+ItAr_Rune_IceBolt: Ледяная стрела
+ItAr_Rune_IceWave: Ледяная волна
+ItAr_Rune_Light: Свет
+ItAr_Rune_Pyrokinesis: Пирокинез
+ItAr_Rune_Sleep: Сон
+ItAr_Rune_StormFist: Кулак шторма
+ItAr_Rune_StormOfFire: Огненный шторм
+ItAr_Rune_Telekinesis: Телекинез
+ItAr_Rune_TeleportToMagiciansOfFire: Портал к магам огня
+ItAr_Rune_TeleportToMagiciansOfWater: Портал к магам воды
+ItAr_Rune_TeleportToNecromancer: Портал к некроманту
+ItAr_Rune_TeleportToSwampCamp: Портал в Болотный Лагерь
+ItAr_Rune_UrizielWaveOfDeath: Волна Смерти УРИЗЕЛЯ
+ItAr_Scroll_BallLightning: Шаровая молния
+ItAr_Scroll_ChainLightning: Молния
+ItAr_Scroll_Charm: Чары
+ItAr_Scroll_Control: Контроль
+ItAr_Scroll_DeathToTheUndead: Смерть нежити
+ItAr_Scroll_Fear: Страх
+ItAr_Scroll_FireBall: Огненный шар
+ItAr_Scroll_FireBolt: Огненная стрела
+ItAr_Scroll_FireRain: Огненный дождь
+ItAr_Scroll_FistOfWind: Кулак ветра
+ItAr_Scroll_Heal: Исцеление
+ItAr_Scroll_IceBlock: Ледяная глыба
+ItAr_Scroll_IceBolt: Ледяная стрела
+ItAr_Scroll_IceWave: Ледяная волна
+ItAr_Scroll_Light: Свет
+ItAr_Scroll_Pyrokinesis: Пирокинез
+ItAr_Scroll_Shrink: Уничижение
+ItAr_Scroll_Sleep: Сон
+ItAr_Scroll_StormFist: Кулак шторма
+ItAr_Scroll_StormOfFire: Огненный шторм
+ItAr_Scroll_SummonArmyOfDarkness: Армия тьмы
+ItAr_Scroll_SummonDemon: Создать демона
+ItAr_Scroll_SummonGolem: Создать голема
+ItAr_Scroll_SummonSkeletons: Создать скелеты
+ItAr_Scroll_Telekinesis: Телекинез
+ItAr_Scroll_TeleportToMagiciansOfWater: Портал к магам воды
+ItAr_Scroll_TeleportToOrcCementery: Орочий портал
+ItAr_Scroll_TeleportToSleepersTemple: Свиток «Портал в храм Спящего»
+ItAr_Scroll_TransformBiter: Свиток «Трансформация в кусача»
+ItAr_Scroll_TransformBloodfly: Трансформация в шершня
+ItAr_Scroll_TransformBloodhound: Свиток «Трансформация в ищейку»
+ItAr_Scroll_TransformFireLizard: Свиток «Трансформация в огненного ящера»
+ItAr_Scroll_TransformHarpy: Свиток «Трансформация в гарпию»
+ItAr_Scroll_TransformLizard: Трансформация в ящерицу
+ItAr_Scroll_TransformLurker: Трансформация в шныгу
+ItAr_Scroll_TransformMeatbug: Трансформация в мясного жука
+ItAr_Scroll_TransformMinecrawler: Трансформация в ползуна
+ItAr_Scroll_TransformMolerat: Трансформация в кротокрыса
+ItAr_Scroll_TransformOrcDog: Трансформация в орочью гончую
+ItAr_Scroll_TransformRazor: Свиток «Трансформация в бритвозуба»
+ItAr_Scroll_TransformScavenger: Трансформация в падальщика
+ItAr_Scroll_TransformShadowbeast: Трансформация в мракориса
+ItAr_Scroll_TransformSnapper: Трансформация в глорха
+ItAr_Scroll_TransformSwampshark: Свиток «Трансформация в болотожора»
+ItAr_Scroll_TransformWolf: Трансформация в волка
+ItWr_Scroll_AbandonMineSketch: ''
+ItWr_Scroll_Certificate: Право собственности
+ItWr_Scroll_Cronos: Письмо Кроноса магам огня
+ItWr_Scroll_Jacko_01: ''
+ItWr_Scroll_Kalom: Рецепт Галома
+ItWr_Scroll_Letter_01: Письмо магам огня
+ItWr_Scroll_Letter_02: Письмо магам огня
+ItWr_Scroll_List: Список
+ItWr_Scroll_Listnc: Список (расширенный)
+ItWr_Scroll_Milten: Передача силы
+ItWr_Scroll_Orkparcment_01: Половина пергамента
+ItWr_Scroll_Orkparcment_02: Половина пергамента
+ItWr_Scroll_Sketch: Набросок
+ItMw_1H_Axe_01: Топор
+ItMw_1H_Axe_02: Сокрушающий черепа
+ItMw_1H_Axe_03: Костолом
+ItMw_1H_Axe_Cord: Раскалыватель Корда
+ItMw_1H_Axe_Hatchet_01: Топор
+ItMw_1H_Axe_Lares: Топор Ларса
+ItMw_1H_Axe_Old_01: Малый топор
+ItMw_1H_Axe_Sickle_01: Серп
+ItMw_1H_Axe_Silas: Топор Силаса
+ItMw_1H_Mace_01: Булава
+ItMw_1H_Mace_02: Жалящая булава
+ItMw_1H_Mace_03: Жало шершня
+ItMw_1H_Mace_04: Стальной язык
+ItMw_1H_Mace_Club_01: Дубина
+ItMw_1H_Mace_Fortuno: Дубина Фортуно
+ItMw_1H_Mace_Lester: Уравниватель Лестера
+ItMw_1H_Mace_Light_01: Дубина
+ItMw_1H_Mace_Nailmace_01: Дубина с гвоздями
+ItMw_1H_Mace_Namib: Дубина Намиба
+ItMw_1H_Mace_Orun: Дубина Орана
+ItMw_1H_Mace_Poker_01: Кочерга
+ItMw_1H_Mace_Sledgehammer_01: Кузнечный молот
+ItMw_1H_Mace_War_01: Цеп
+ItMw_1H_Mace_War_02: Стальная булава
+ItMw_1H_Mace_War_03: Крушитель
+ItMw_1H_Mace_War_04: ''
+ItMw_1H_Mace_Warhammer_01: Орочий молот
+ItMw_1H_Mace_Warhammer_02: Боевой молот
+ItMw_1H_Mace_Warhammer_03: Молот богов
+ItMw_1H_Sword_01: Простой меч
+ItMw_1H_Sword_02: Меч судьи
+ItMw_1H_Sword_03: Меч стражника
+ItMw_1H_Sword_04: Меч воина
+ItMw_1H_Sword_05: Боевой меч
+ItMw_1H_Sword_Arto: Меч Арто
+ItMw_1H_Sword_Bastard_01: Ржавый большой меч
+ItMw_1H_Sword_Bastard_02: Мясник
+ItMw_1H_Sword_Bastard_03: Палач
+ItMw_1H_Sword_Bastard_04: Слово берсеркера
+ItMw_1H_Sword_Broad_01: Палаш
+ItMw_1H_Sword_Broad_02: Приговор воина
+ItMw_1H_Sword_Broad_03: Шепот бури
+ItMw_1H_Sword_Broad_04: Длань стражника
+ItMw_1H_Sword_Kalom: Меч Галома
+ItMw_1H_Sword_Lightguard_01: Легкий меч стражника
+ItMw_1H_Sword_Long_01: Длинный меч
+ItMw_1H_Sword_Long_02: Меч страха
+ItMw_1H_Sword_Long_03: Меч ненависти
+ItMw_1H_Sword_Long_04: Меч победы
+ItMw_1H_Sword_Long_05: Меч смерти
+ItMw_1H_Sword_Old_01: Ржавый меч
+ItMw_1H_Sword_Old_02: Старый меч
+ItMw_1H_Sword_Paw: Удар лапы
+ItMw_1H_Sword_Raven: Суд Равена
+ItMw_1H_Sword_Scar: Меч Скара
+ItMw_1H_Sword_Scythe_01: Катэр
+ItMw_1H_Sword_Short_01: Короткий меч
+ItMw_1H_Sword_Short_02: Защита землепашца
+ItMw_1H_Sword_Short_03: Укус шныги
+ItMw_1H_Sword_Short_04: Ранящий шип
+ItMw_1H_Sword_Short_05: Наказанье рудокопа
+ItMw_1H_Sword_Whistler: Меч Уистлера
+ItMw_1H_Torch: Факел
+ItRw_Bow_Diego: Лук Диего
+ItRw_Bow_Long_01: Большой лук
+ItRw_Bow_Long_02: Осиновый лук
+ItRw_Bow_Long_03: Ивовый лук
+ItRw_Bow_Long_04: Дубовый лук
+ItRw_Bow_Long_05: Убийца волков
+ItRw_Bow_Long_06: Обгоняющий ветер
+ItRw_Bow_Long_07: Армейский лук
+ItRw_Bow_Long_08: Роговой лук
+ItRw_Bow_Long_09: Лук Нимрода
+ItRw_Bow_Small_01: Короткий лук
+ItRw_Bow_Small_02: Лук для конника
+ItRw_Bow_Small_03: Полевой лук
+ItRw_Bow_Small_04: Охотничий лук
+ItRw_Bow_Small_05: Костяной лук
+ItRw_Bow_War_01: Боевой лук
+ItRw_Bow_War_02: Убийца орков
+ItRw_Bow_War_03: Лук шторма
+ItRw_Bow_War_04: Демонический лук
+ItRw_Bow_War_05: Лук смерти
+ItRw_Bow_Wolf: Лук Волка
+ItRw_Crossbow_01: Легкий арбалет
+ItRw_Crossbow_02: Арбалет
+ItRw_Crossbow_03: Тяжелый арбалет
+ItRw_Crossbow_04: Боевой арбалет
+ItMw_2H_Axe_Gorn: Месть Горна
+ItMw_2H_Axe_Heavy_01: Боевой топор
+ItMw_2H_Axe_Heavy_02: Глас воина
+ItMw_2H_Axe_Heavy_03: Кулак варвара
+ItMw_2H_Axe_Heavy_04: Кулак тролля
+ItMw_2H_Axe_Lee: Топор Ли
+ItMw_2H_Axe_Light_01: Легкий боевой топор
+ItMw_2H_Axe_Light_02: Удар грома
+ItMw_2H_Axe_Light_03: Грохот
+ItMw_2H_Axe_Old_01: Старый боевой топор
+ItMw_2H_Axe_Old_02: Кровавая жатва
+ItMw_2H_Axe_Old_03: Старый судья
+ItMw_2H_Axe_Orc_01: Краш Панч
+ItMw_2H_Axe_Orc_02: Краш Уррок
+ItMw_2H_Axe_Orc_03: Краш Агаш
+ItMw_2H_Axe_Orc_04: Краш Брокдар
+ItMw_2H_Axe_Orik: Топор Орика
+ItMw_2H_Axe_Pickaxe: Кирка
+ItMw_2H_Axe_Torlof: Топор Торлофа
+ItMw_2H_Mace_Orc_01: Краш Каррок
+ItMw_2H_Scepter_Skeletonmage: Жезл мага
+ItMw_2H_Staff_01: ''
+ItMw_2H_Staff_02: Посох судьи
+ItMw_2H_Staff_03: ''
+ItMw_2H_Staff_Light: ''
+ItMw_2H_Staff_Orc: Грахтнакк
+ItMw_2H_Staff_Scepter: Скипетр
+ItMw_2H_Staff_Ulumulu: Улу-Мулу
+ItMw_2H_Staff_Unorc: Шабанакк
+ItMw_2H_Sword_01: Двуручник
+ItMw_2H_Sword_02: Клинок героя
+ItMw_2H_Sword_03: Клинок крови
+ItMw_2H_Sword_Beliar: Коготь Белиара
+ItMw_2H_Sword_Heavy_01: Тяжелый двуручник
+ItMw_2H_Sword_Heavy_02: Яростная сталь
+ItMw_2H_Sword_Heavy_03: Судьбоносная сталь
+ItMw_2H_Sword_Heavy_04: Мстительная сталь
+ItMw_2H_Sword_Innos: Гнев Инноса
+ItMw_2H_Sword_Light_01: Легкий двуручник
+ItMw_2H_Sword_Light_02: Клинок хранителя
+ItMw_2H_Sword_Light_03: Клинок наемника
+ItMw_2H_Sword_Light_04: Клинок короля
+ItMw_2H_Sword_Light_05: Клинок демона
+ItMw_2H_Sword_Old_01: Ржавый двуручник
+ItMw_2H_Sword_Orc_01: Краш Варрок
+ItMw_2H_Sword_Thorus: Меч Торуса
+ItMw_2H_Sword_Uriziel_01: УРИЗЕЛЬ
+ItMw_2H_Sword_Wind: Красный ветер
+ItWr_Book_Arcanum: Основы Магии
+ItWr_Book_Artfighting: Искусство боя
+ItWr_Book_Astronomy: Астрономия
+ItWr_Book_Battle_Varant_01: Война с Варантом
+ItWr_Book_Battle_Varant_02: Война с Варантом
+ItWr_Book_Bloodfly_01: Шершни
+ItWr_Book_Chromanin_01: Хроманин
+ItWr_Book_Chromanin_02: Хроманин 2
+ItWr_Book_Chromanin_03: Хроманин 3
+ItWr_Book_Chromanin_04: Хроманин 4
+ItWr_Book_Chromanin_05: Хроманин 5
+ItWr_Book_Chromanin_06: Хроманин 6
+ItWr_Book_Circle_01: Первый круг магии
+ItWr_Book_Circle_02: Второй круг магии
+ItWr_Book_Circle_03: Третий круг магии
+ItWr_Book_Circle_04: Четвертый круг магии
+ItWr_Book_Circle_05: Пятый круг магии
+ItWr_Book_Circle_06: Шестой круг магии
+ItWr_Book_Crypt: ''
+ItWr_Book_Focus: Альманах
+ItWr_Book_Gods_01: Слова Богов
+ItWr_Book_Gods_02: Слова Богов
+ItWr_Book_Gods_03: Слова Богов
+ItWr_Book_Godsgift: Дар Богов
+ItWr_Book_Golem_01: Магия големов. Том I
+ItWr_Book_Golem_02: Магия големов. Том II
+ItWr_Book_Hunt: Охотник и жертва
+ItWr_Book_Lyric: Поэзия Миртаны
+ItWr_Book_Magicore: Магическая руда
+ItWr_Book_Powerfulart: Могущественное искусство
+ItWr_Book_Recipes_01: Рецепты
+ItWr_Book_Recipes_02: Рецепты
+ItWr_Book_Secrets: Секреты магии
+ItWr_Book_Slave: Дневник
+ItWr_Book_Tales: ''
+ItWr_Book_Troll: Страница дневника
+ItWr_Book_True_Power: Настоящая сила
+ItWr_Map_Cliff: Карта Ю'Бериона к юнитору
+ItWr_Map_Focus: Карта Сатураса к юнитору
+ItWr_Map: Обзор Нового Лагеря
+ItWr_Map_OldCamp: Обзор Старого Лагеря
+ItWr_Map_OldMine: Карта пути к Старой Шахте
+ItWr_Map_Orc: Карта колонии (дополненная)
+ItWr_Map_SwampCamp: Обзор Болотного Лагеря
+ItWr_Map_Temple: ''
+ItWr_Map_World: Карта колонии
+ItWr_Map_WorldComplete: ''

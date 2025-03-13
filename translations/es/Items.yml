@@ -1,0 +1,933 @@
+Ladder: Escala
+Chest: Cofre
+Chair: Silla
+Bench: Banco
+Box: Caja
+Pan Cook: Sartén
+Dead Rogue: Cadáver
+ItIg_Worldsplitter: Bolsa de mineral
+ItIg_Worldsplitter_Description: Una bolsa de mineral
+ItWr_Scroll_Mysteriousnote: Nota misteriosa
+ItWr_Scroll_Mysteriousnote_Description: Una imagen críptica de propósito desconocido,
+  probablemente dibujada por Jorik.
+ReFo_Potion_Health_01: ''
+ReFo_Potion_Health_02: ''
+ReFo_Potion_Health_03: ''
+ReFo_Potion_Mana_01: ''
+ReFo_Potion_Mana_02: ''
+ReFo_Potion_Mana_03: ''
+ReFo_Crawlersoup: Sopa de reptador
+ReFo_Meatbugragout: Estofado de sabandija
+ReFo_Mutton_01: Carne a la brasa
+ReFo_Grilledscavenger: Carne de carroñero a la brasa
+ReFo_Soup: Sopa de raíces
+ReMi_Smith_1H_Axe_01: ''
+ReMi_Smith_1H_Axe_02: ''
+ReMi_Smith_1H_Axe_Hatchet_01: ''
+ReMi_Smith_1H_Axe_Old_01: ''
+ReMi_Smith_1H_Axe_Sickle_01: ''
+ReMi_Smith_1H_Mace_01: ''
+ReMi_Smith_1H_Mace_02: ''
+ReMi_Smith_1H_Mace_03: ''
+ReMi_Smith_1H_Mace_04: ''
+ReMi_Smith_1H_Mace_Light_01: ''
+ReMi_Smith_1H_Mace_Sledgehammer_01: ''
+ReMi_Smith_1H_Mace_War_01: ''
+ReMi_Smith_1H_Mace_War_02: ''
+ReMi_Smith_1H_Mace_War_03: ''
+ReMi_Smith_1H_Mace_Warhammer_02: ''
+ReMi_Smith_1H_Sword_01: ''
+ReMi_Smith_1H_Sword_02: ''
+ReMi_Smith_1H_Sword_03: ''
+ReMi_Smith_1H_Sword_04: ''
+ReMi_Smith_1H_Sword_Bastard_02: ''
+ReMi_Smith_1H_Sword_Broad_01: ''
+ReMi_Smith_1H_Sword_Broad_02: ''
+ReMi_Smith_1H_Sword_Long_01: ''
+ReMi_Smith_1H_Sword_Scythe_01: ''
+ReMi_Smith_1H_Sword_Short_01: ''
+ReMi_Smith_1H_Sword_Short_02: ''
+ReMi_Smith_1H_Sword_Short_03: ''
+ReMi_Smith_1H_Sword_Short_04: ''
+ReMi_Smith_1H_Sword_Short_05: ''
+ReMi_Smith_2H_Axe_Heavy_02: ''
+ReMi_Smith_2H_Axe_Light_01: ''
+ReMi_Smith_2H_Axe_Light_02: ''
+ReMi_Smith_2H_Axe_Old_02: ''
+ReMi_Smith_2H_Axe_Pickaxe: ''
+ReMi_Smith_2H_Sword_01: ''
+ReMi_Smith_2H_Sword_Heavy_01: ''
+ReMi_Smith_2H_Sword_Light_01: ''
+ReMi_Smith_2H_Sword_Light_02: ''
+ReMi_Smith_2H_Sword_Light_03: ''
+ReMi_Smith_Blade_Arming: ''
+ReMi_Smith_Blade_Flamberge: ''
+ReMi_Smith_Blade_Great: ''
+ReMi_Smith_Blade_Long: ''
+ReMi_Smith_Blade_Short: ''
+ReMi_Smith_Blade_Sickle: ''
+ReMi_Smith_Blade_Singleedge: ''
+ReMi_Smith_Head_Battleaxe: ''
+ReMi_Smith_Head_Broadaxe: ''
+ReMi_Smith_Head_Club: ''
+ReMi_Smith_Head_Fledged: ''
+ReMi_Smith_Head_Greatbattleaxe: ''
+ReMi_Smith_Head_Hammer: ''
+ReMi_Smith_Head_Morningstar: ''
+ReMi_Smith_Head_Pickaxe: ''
+ReMi_Smith_Head_Poleaxe: ''
+ReMi_Smith_Head_Scythe: ''
+ReMi_Smith_Head_Warhammer: ''
+ReMw_1H_Axe_Sickle_01: ''
+ReMw_1H_Axe_Hatchet_01: ''
+ReMw_1H_Axe_Old_01: ''
+ReMw_1H_Axe_01: ''
+ReMw_1H_Axe_02: ''
+ReMw_2H_Axe_Pickaxe: ''
+ReMw_2H_Axe_Old_02: ''
+ReMw_2H_Axe_Light_01: ''
+ReMw_2H_Axe_Light_02: ''
+ReMw_2H_Axe_Heavy_02: ''
+ReMw_1H_Mace_Light_01: ''
+ReMw_1H_Mace_Sledgehammer_01: ''
+ReMw_1H_Mace_01: ''
+ReMw_1H_Mace_02: ''
+ReMw_1H_Mace_03: ''
+ReMw_1H_Mace_04: ''
+ReMw_1H_Mace_War_01: ''
+ReMw_1H_Mace_War_02: ''
+ReMw_1H_Mace_War_03: ''
+ReMw_1H_Mace_Warhammer_02: ''
+ReMw_1H_Sword_Short_02: ''
+ReMw_1H_Sword_Scythe_01: ''
+ReMw_1H_Sword_Short_03: ''
+ReMw_1H_Sword_Short_04: ''
+ReMw_1H_Sword_01: ''
+ReMw_1H_Sword_Short_05: ''
+ReMw_1H_Sword_02: ''
+ReMw_1H_Sword_03: ''
+ReMw_1H_Sword_04: ''
+ReMw_1H_Sword_Long_01: ''
+ReMw_1H_Sword_Broad_01: ''
+ReMw_1H_Sword_Broad_02: ''
+ReMw_1H_Sword_Bastard_02: ''
+ReMw_2H_Sword_Light_01: ''
+ReMw_2H_Sword_Light_02: ''
+ReMw_2H_Sword_Light_03: ''
+ReMw_2H_Sword_01: ''
+ReMw_2H_Sword_Heavy_01: ''
+ReAr_Scroll_Charm: ''
+ReAr_Scroll_Control: ''
+ReAr_Scroll_Transformbiter: ''
+ReAr_Scroll_Transformbloodfly: ''
+ReAr_Scroll_Transformbloodhound: ''
+ReAr_Scroll_Transformfirelizard: ''
+ReAr_Scroll_Transformharpy: ''
+ReAr_Scroll_Transformlizard: ''
+ReAr_Scroll_Transformlurker: ''
+ReAr_Scroll_Transformmeatbug: ''
+ReAr_Scroll_Transformminecrawler: ''
+ReAr_Scroll_Transformmolerat: ''
+ReAr_Scroll_Transformorcdog: ''
+ReAr_Scroll_Transformrazor: ''
+ReAr_Scroll_Transformscavenger: ''
+ReAr_Scroll_Transformshadowbeast: ''
+ReAr_Scroll_Transformsnapper: ''
+ReAr_Scroll_Transformswampshark: ''
+ReAr_Scroll_Transformwolf: Armadura
+Item_Weapon_Rune: Runa
+Item_Weapon_Scroll: Pergamino
+Item_Amulet: Amuleto
+Item_Food: Comida
+Item_Potion: Bebida
+Item_Herb: Hierba
+Item_Drug: Droga
+Item_Key: Llave
+Item_Trophy: Trofeo
+Item_Material: Material
+Item_Ore: Mineral
+Item_Junk: Basura
+Item_Ammo: Munición
+Item_Quest: Objeto de misión
+Item_Lockpick: Ganzúa
+Item_Instrument: Instrumento
+Item_Weapon_Bow: Arco
+Item_Weapon_Crossbow: Ballesta
+Item_Ring: Anillo
+Item_Weapon_Axe_OneHand: Hacha de una mano
+Item_Weapon_Mace_OneHand: Maza de una mano
+Item_Weapon_Sword_OneHand: Espada de una mano
+Item_Weapon_Torch_OneHand: Antorcha
+Item_Weapon_Axe_TwoHand: Hacha de dos manos
+Item_Weapon_Mace_TwoHand: Maza de dos manos
+Item_Weapon_Staff_TwoHand: Bastón
+Item_Weapon_Sword_TwoHand: Espada de dos manos
+Item_Writing: Escrito
+Item_Weapon_Fist: Puños
+ItAt_Meatbug_01_description: Carne procedente de sabandijas. Cocinada está sabrosa,
+  cruda no tanto.
+ItFo_Apple_description: Estas manzanas simbolizan el monopolio comercial del Campamento
+  Viejo.
+ItFo_Cheese_description: Queso de Myrtana, reservado a las élites del Campamento Viejo.
+  Su aroma penetrante llena el castillo.
+ItFo_Grilledscavenger_description: Carne de carroñero, hecha a la brasa de manera
+  perfecta y deliciosa.
+ItFo_Loaf_description: El alimento básico de la Colonia, su suministro constante mantiene
+  los estómagos llenos y el descontento a raya.
+ItFo_Meatbugragout_description: Un sabroso estofado elaborado con setas del infierno
+  y carne de sabandija. Una especialidad del Campamento Viejo nacida de la necesidad.
+ItFo_Mutton_01_description: Hecho vuelta y vuelta, llena el estómago y reconforta
+  el alma.
+ItFo_Mutton_02_description: Curada y deliciosa, una carne exquisita.
+ItFo_Muttonraw_description: Recién cazada, esta carne espera el abrazo del fuego.
+ItFo_Pear_description: Dulce fruta del exterior, el sabor del hogar.
+ItFo_Potato_description: Alimento básico en todos los campamentos, estos tubérculos
+  preservan la fuerza de la mano de obra de la Colonia.
+ItFo_Potion_Beer_description: Cerveza importada de Myrtana, un lujo del Campamento
+  Viejo que engrasa las negociaciones y el comercio en la colonia penitenciaria.
+ItFo_Potion_Booze_description: El orgullo del Campamento Nuevo, destilado a partir
+  del arroz. Este potente licor, que sirve como moneda y como lubricante social, es
+  una muestra del ingenio del campamento.
+ItFo_Potion_Strongbeer_description: Una elaboración potente, la favorita de los capataces
+  de la mina. Su elevado contenido alcohólico potencia la productividad a corto plazo,
+  a pesar de los riesgos del uso prolongado.
+ItFo_Potion_Water_01_description: Aunque es fácil acceder a ella, el control sobre
+  las fuentes de agua potable es una de las claves del poder en la Colonia.
+ItFo_Potion_Wine_description: Un símbolo de las conexiones del Campamento Viejo con
+  el exterior y un lujo poco común que se encuentra en las mesas de los magnates del
+  mineral.
+ItFo_Rice_description: La base de la independencia del Campamento Nuevo, cultivado
+  cuidadosamente en arrozales protegidos. Sus excedentes impulsan el comercio y moldean
+  las relaciones con los demás campamentos.
+ItFo_Whitemeat_description: Tierna carne de carroñero que aguarda las llamas.
+ItFo_Plants_Berrys_01_description: Bayas silvestres que se encuentran en las zonas
+  menos domesticadas de la Colonia. Recogerlas suele suponer un riesgo para la vida
+  y la integridad física.
+ItFo_Plants_Bloodwood_01_description: Una planta correosa con vainas de semillas marrones
+  muy características. Muy apreciada por sus propiedades medicinales en el entorno
+  hostil de la Colonia.
+ItFo_Plants_Mushroom_01_description: Un hongo común en el Valle de las Minas. Reconocible
+  por su sombrero blanco.
+ItFo_Plants_Orcherb_01_description: Una potente hierba curativa de los territorios
+  orcos. Su obtención suele conllevar encuentros peligrosos, de ahí que sea un bien
+  muy apreciado por los sanadores de la Colonia.
+ItFo_Plants_Seraphis_01_description: Muy habitual en el valle y crucial para la productividad
+  de la Colonia. Sus efectos reconstituyentes mantienen el vigor de la mano de obra
+  reclusa.
+ItFo_Plants_Stoneroot_01_description: Esta correosa planta, vital para restablecer
+  la energía mágica, es guardada con celo por los magos de la Colonia.
+ItAt_Claws_01_description: Garras afiladísimas, muy apreciadas por los artesanos de
+  la Colonia. Conseguirlas es tan peligroso como lucrativo.
+ItAm_Arrow_description: Fabricadas con materiales de la barrera, estas flechas son
+  esenciales para los arcos y suponen la diferencia entre un palo y un arma.
+ItAm_Bolt_description: Hechos para las ballestas que suelen usar los guardas del Campamento
+  Viejo. Su silbido por el aire suele acallar el descontento antes de que empiece
+  siquiera.
+ItKe_Lockpick_description: Esencial para las personas avezadas en abrir lo que está
+  cerrado.
+ItMi_Hammer_description: Un martillo robusto. Esencial para herreros y artesanos,
+  es un símbolo del duro trabajo en la Colonia.
+ItMi_Lute_description: Un vínculo tangible con el mundo exterior. Sus melodías preservan
+  la cordura y la cultura, por lo que su valor iguala al del mineral.
+ItMi_Oldcoin_01_description: Una reliquia de la vida antes de la barrera. En Myrtana
+  valía mucho, pero ahora es inútil bajo la barrera.
+ItMi_Orenugget_description: La sangre de la Colonia. Sus propiedades únicas la convierten
+  en moneda y recurso codiciado, dando forma a las dinámicas de poder de la Colonia
+  y el reino.
+ItMi_Stuff_Amphore_01_description: Reliquias del comercio precolonial, estos recipientes
+  cumplen ahora múltiples propósitos en la vida de los campamentos.
+ItMi_Stuff_Barbknife_01_description: Un símbolo de la civilización en la hostilidad
+  de la Colonia. Aunque se utiliza principalmente para el cuidado personal, su filo
+  es un recordatorio sutil de una violencia potencial.
+ItMi_Stuff_Brush_description: Más que una herramienta de limpieza, estos cepillos
+  son vitales para conservar las armas, las armaduras y la salud en las duras condiciones
+  de la Colonia.
+ItMi_Stuff_Cup_01_description: Ha visto muchos brindis. A menudo el único lujo de
+  las escasas posesiones de un cavador.
+ItMi_Stuff_Cup_02_description: Una copa de plata ornamentada, seguramente robada de
+  los restos de la nobleza de Myrtana en la Colonia.
+ItMi_Stuff_Mug_01_description: Omnipresentes en todos los campamentos, estas sencillas
+  jarras son cruciales para la distribución del agua.
+ItMi_Stuff_Pipe_01_description: Un producto muy apreciado en la Colonia, a menudo
+  en combinación con hierbas locales.
+ItMi_Stuff_Plate_01_description: Un plato de metal desgastado. Un recordatorio de
+  que hasta los prisioneros necesitan comer.
+HumanFists_description: Los puños desnudos, el último recurso de los desesperados
+  o el arma preferida de los que tienen auténtica confianza en sí mismos. Efectivos,
+  si sabes utilizarlos.
+ItFo_Potion_Health_01_description: Poción curativa elaborada con hierbas poco comunes.
+  Sus rápidas propiedades sanadoras salvan innumerables vidas, por lo que los alquimistas
+  avezados son muy valorados en la Colonia.
+ItWr_Scroll_Jacko_01_description: Jacko, he recibido tu mensaje. No sabía que Silas
+  tuviera un alijo en el sótano. Estoy de acuerdo en ir a medias si lo encontramos.
+  Tengo contactos en la taberna y puede que acabe de descubrir un modo de acceder
+  al sótano.
+ItMw_1H_Axe_Sickle_01_description: Esta herramienta, símbolo de la autosuficiencia
+  del Campamento Nuevo, sirve tanto para cosechar como para protegerse. Su hoja curva
+  representa la determinación del campamento por prosperar.
+ItMw_1H_Mace_03_description: Una brutal maza con cabeza de metal con pinchos, fabricada
+  en imitación del letal aguijón de las moscas de sangre de la Colonia. Muy apreciada
+  por los bandidos, su diseño característico infunde miedo.
+ItMw_1H_Mace_Club_01_description: La compañera del cavador. Su tosca eficacia encarna
+  la brutal sencillez de la vida en la Colonia.
+ItMw_1H_Sword_01_description: Una espada de acero básica con la empuñadura ligeramente
+  curvada. El arma estándar de los guardas de bajo rango del Campamento Viejo.
+ItMw_1H_Sword_02_description: Una hoja grabada con guarnición dorada. Un símbolo de
+  los guerreros veteranos del Campamento Viejo.
+ItMw_1H_Sword_04_description: Una espada de calidad con la hoja labrada y guarnición
+  con puntas. Los combatientes avezados la aprecian por su versatilidad.
+ItMw_1H_Sword_Old_01_description: Una reliquia de los primeros días de la Colonia,
+  estas hojas desgastadas aún son utilizadas por los recién llegados.
+ItMw_1H_Sword_Short_02_description: Una sencilla espada corta con pomo de plata. Su
+  tamaño reducido la hace ideal para el combate rápido en distancias cortas.
+ItMw_1H_Torch_description: Indispensable para moverse por las áreas oscuras y traicioneras
+  de la Colonia. Se puede utilizar como arma improvisada contra las bestias, a veces
+  con consecuencias incendiarias.
+ItRw_Bow_Diego_description: Este arco largo de fabricación magistral es tanto un arma
+  como un símbolo del liderazgo de Diego.
+ItRw_Bow_Long_01_description: Un arco de madera alto y ligeramente curvado. Diseño
+  sencillo sin empuñadura. Popular entre los habitantes del Campamento Nuevo por su
+  alcance.
+ItRw_Bow_Small_01_description: Un arco corto de fabricación tosca con palas asimétricas.
+  Popular entre cazadores novatos y reclusos desesperados.
+ItRw_Bow_Small_02_description: Un arco corto de madera de tamaño reducido. Debido
+  a su diseño sencillo, es popular entre las Sombras y los arqueros del Campamento
+  Nuevo.
+ItRw_Bow_Small_04_description: Un arco corto de madera oscura con refuerzos metálicos
+  en las palas. El favorito de las Sombras influyentes por su potencia y precisión.
+ItRw_Crossbow_01_description: Una ballesta de madera ligera con refuerzos de metal.
+  Popular entre los guardas del Campamento Viejo.
+ItMw_2H_Axe_Pickaxe_description: La herramienta más crucial de la Colonia, esta piqueta
+  extrae el mineral mágico que impulsa la política de los campamentos. En manos diestras,
+  también es un arma aceptable.
+ItWr_Scroll_Mysteriousnote_description: Una imagen críptica de propósito desconocido,
+  probablemente dibujada por Jorik.
+ItAt_Amulet_Brotherhood: Signo de la Hermandad
+ItAt_Amulet_Dexterity_01: Amuleto de agilidad
+ItAt_Amulet_Dexterity_02: Amuleto de destreza
+ItAt_Amulet_Enlight: Amuleto de iluminación
+ItAt_Amulet_Fire: Amuleto de llamas
+ItAt_Amulet_Life: Amuleto de fuerza vital
+ItAt_Amulet_Magic_01: Amuleto de magia
+ItAt_Amulet_Magic_02: Amuleto de poder espiritual
+ItAt_Amulet_Magicfire: Amuleto de purificación
+ItAt_Amulet_Neks: Amuleto del guardia muerto
+ItAt_Amulet_Orc: Talismán orco
+ItAt_Amulet_Power: Amuleto de poderío
+ItAt_Amulet_Projectile: Amuleto de piel de roble
+ItAt_Amulet_Protection: Amuleto de piel de mineral
+ItAt_Amulet_Ranged: Amuleto de piel de piedra
+ItAt_Amulet_Strong_01: Amuleto de poder
+ItAt_Amulet_Strong_2: Amuleto de fuerza
+ItAt_Amulet_Water: Amuleto de los magos del agua del mensajero
+ItAt_Amulet_Weapon: Amuleto de armadura
+Crw_Armor_H: Armadura de placas de reptador
+Dmb_Armor_M: Túnica de las artes oscuras
+Ebr_Armor_H_01: Armadura de Gómez
+Ebr_Armor_H_02: Armadura pesada de magnate del mineral
+Ebr_Armor_M: Túnica de estado
+Grd_Armor: Armadura de guardia
+Gur_Armor_H: Gran túnica de los gurús
+Gur_Armor_M: Túnica de gurú
+Kdf_Armor_H: Gran túnica del fuego
+Kdf_Armor_L: Túnica del fuego
+Kdw_Armor_H: Gran túnica del agua
+Kdw_Armor_L: Túnica del agua
+Law_Armor: Túnica de juez
+NH_Armor: Ropa de recluso
+Nov_Armor: Armadura de novato
+Ore_Armor_H: Armadura de mineral mejorada
+Ore_Armor_M: Armadura de mineral antigua
+Org_Armor: Traje de bandido
+Ryl_Armor: Armadura de guardia real
+Sfb_Armor_L: Traje de cavador
+Sld_Armor: Armadura de mercenario
+Stt_Armor: Armadura de Sombra
+Tpl_Armor: Armadura de templario
+Vlk_Armor_L: Pantalón ligero de cavador
+Vlk_Armor_M: Pantalón de cavador
+ItAt_Meatbug_01: Carne de sabandija
+ItFo_Apple: Manzana
+ItFo_Cabbage: Repollo
+ItFo_Carrot: Zanahoria
+ItFo_Cheese: Queso
+ItFo_Crawlersoup: Sopa de reptador
+ItFo_Grilledscavenger: Carne de carroñero a la brasa
+ItFo_Lemon: Limón
+ItFo_Loaf: Pan
+ItFo_Meatbugragout: Estofado de sabandija
+ItFo_Mutton_01: Carne a la brasa
+ItFo_Mutton_02: Jamón
+ItFo_Muttonraw: Carne cruda
+ItFo_Onion: Cebolla
+ItFo_Pear: Pera
+ItFo_Potato: Patata
+ItFo_Potion_Beer: Cerveza
+ItFo_Potion_Booze: Aguardiente de arroz
+ItFo_Potion_Specialwater: ''
+ItFo_Potion_Strongbeer: Cerveza fuerte
+ItFo_Potion_Water_01: Agua
+ItFo_Potion_Wine: Vino
+ItFo_Rice: Arroz
+ItFo_Sausage: Salchicha
+ItFo_Soup: Sopa de raíces
+ItFo_Whitemeat: Carne blanca cruda
+ItFo_Wineberrys_01: Uvas
+ItFo_Plants_Berrys_01: Arándanos
+ItFo_Plants_Bloodwood_01: Semilla de haya cobriza
+ItFo_Plants_Flameberry_01: Espina flamígera
+ItFo_Plants_Herb_01: Hierbas curativas (1)
+ItFo_Plants_Herb_02: Hierbas curativas (2)
+ItFo_Plants_Herb_03: Hierbas curativas (3)
+ItFo_Plants_Mountainmoss_01: Musgo de montaña
+ItFo_Plants_Mountainmoss_02: Musgo de tumba
+ItFo_Plants_Mushroom_01: Setas del infierno
+ItFo_Plants_Mushroom_02: Pan de esclavo
+ItFo_Plants_Nightshadow_01: Nictumbra
+ItFo_Plants_Nightshadow_02: Lunumbra
+ItFo_Plants_Orcherb_01: Hoja de roble
+ItFo_Plants_Orcherb_02: Hoja de orco
+ItFo_Plants_Ravenherb_01: Hierbas de Raven
+ItFo_Plants_Ravenherb_02: Hierbas oscuras
+ItFo_Plants_Seraphis_01: Seraphis
+ItFo_Plants_Stoneroot_01: Raíz de roca
+ItFo_Plants_Stoneroot_02: Raíz de dragón
+ItFo_Plants_Towerwood_01: ''
+ItFo_Plants_Trollberrys_01: ''
+ItFo_Plants_Velayis_01: ''
+ItMi_Joint_01: Novicio verde
+ItMi_Joint_02: Oscura del norte
+ItMi_Joint_03: Llamada onírica
+ItMi_Plants_Swampherb_01: Hierba de pantano
+ItKe_Berg_01: Llave del cofre (viejo fuerte de la montaña)
+ItKe_Brass: ''
+ItKe_Cavalorn_01: Llave de Cavalorn
+ItKe_Dungeonkey: Llave de la mazmorra
+ItKe_Focus_04: Llave (ruinas del monasterio)
+ItKe_Focus_05: Llave (círculo de piedras)
+ItKe_Freemine: Llave (Mina Libre)
+ItKe_Gold: ''
+ItKe_Gomez_01: Llave de Gómez
+ItKe_Grey: ''
+ItKe_Kalom_01: Llave del laboratorio (Campamento del Pantano)
+ItKe_Om_02: Llave del cofre (Aaron)
+ItKe_Om_03: Llave del cofre (almacén de la Mina Vieja)
+ItKe_OrcGraveyard: ''
+ItKe_OrcGraveyardPiece_01: ''
+ItKe_OrcGraveyardPiece_02: ''
+ItKe_Ricelord_01: Llave del Señor del Arroz
+ItKe_Smith_01: Llave de hierro
+ItKe_Storage_01: Llave del almacén
+ItKe_Sunkentower: Llave del cofre (torre hundida)
+ItKe_White: ''
+ItAt_Biter_01: Garra de mordedor
+ItAt_Biter_02: Colmillo de mordedor
+ItAt_Biter_03: Piel de mordedor
+ItAt_Bloodfly_01: Alas
+ItAt_Bloodfly_02: Aguijón de mosca de sangre
+ItAt_Bloodfly_03: Bolsa de veneno de mosca de sangre
+ItAt_Bloodhound_01: Dientes de sabueso de sangre
+ItAt_Bloodhound_02: Piel de sabueso de sangre
+ItAt_Claws_01: Garras
+ItAt_Crawler_01: Mandíbulas de reptador
+ItAt_Crawler_02: Placa de armadura
+ItAt_Crawlerqueen: Huevo de reptador
+ItAt_Damlurker_01: Garras de acechador de la presa
+ItAt_Firegolem_01: Corazón de gólem de fuego
+ItAt_Firegolem_02: Núcleo de obsidiana
+ItAt_Firelizard_01: Lengua de fuego
+ItAt_Firelizard_02: Glándula venenosa de fuego
+ItAt_Firelizard_03: Vela espinal ígnea
+ItAt_Firelizard_04: Piel de lagarto de fuego
+ItAt_Harpy_01: Pluma de arpía
+ItAt_Harpy_02: Garra de arpía
+ItAt_Icegolem_01: Corazón de gólem de hielo
+ItAt_Icegolem_02: Esquirla de cristal
+ItAt_Lizard_01: Garra de lagarto
+ItAt_Lizard_02: Piel de lagarto
+ItAt_Lizard_03: Placa dérmica de hueso
+ItAt_Lurker_01: Garras de acechador
+ItAt_Lurker_02: Piel de acechador
+ItAt_Lurker_03: Agallas de acechador
+ItAt_Minecrawlerqueen_01: Glándula de feromonas de reina
+ItAt_Orcdog_01: Colmillo de perro orco
+ItAt_Orcdog_02: Piel de perro orco
+ItAt_Razor_01: Garra de cuchilla
+ItAt_Razor_02: Placa dérmica de cuchilla
+ItAt_Scavenger_01: Dientes de carroñero
+ItAt_Scavenger_02: Placa craneal de carroñero
+ItAt_Shadow_01: Piel de bestia de sombra
+ItAt_Shadow_02: Cuerno de bestia de sombra
+ItAt_Shadow_03: Colmillo de bestia de sombra
+ItAt_Shadow_04: Espina de bestia de sombra
+ItAt_Snapper_01: Garra de chasqueador
+ItAt_Snapper_02: Dientes de chasqueador
+ItAt_Stonegolem_01: Corazón de gólem de piedra
+ItAt_Stonegolem_02: Raíz imbuida de mineral
+ItAt_Swampshark_01: Piel de tiburón de pantano
+ItAt_Swampshark_02: Dientes de tiburón de pantano
+ItAt_Swampshark_03: Placa quitinosa de tiburón de pantano
+ItAt_Teeth_01: Dientes
+ItAt_Troll_01: Piel de trol
+ItAt_Troll_02: Colmillo de trol
+ItAt_Wolf_01: Piel de lobo
+ItAt_Wolf_02: Colmillo de lobo
+ItMi_Inscription_Parchment: Pergamino
+ItMi_Smith_1H_Axe_01: Hacha roma
+ItMi_Smith_1H_Axe_02: Partecráneos romo
+ItMi_Smith_1H_Axe_Hatchet_01: Hacha de mano roma
+ItMi_Smith_1H_Axe_Old_01: Hacha estropeada roma
+ItMi_Smith_1H_Axe_Sickle_01: Hoz roma
+ItMi_Smith_1H_Mace_01: Maza sin pulir
+ItMi_Smith_1H_Mace_02: Maza de aguijón sin pulir
+ItMi_Smith_1H_Mace_03: Aguijón de mosca de sangre sin pulir
+ItMi_Smith_1H_Mace_04: Lengua de acero sin pulir
+ItMi_Smith_1H_Mace_Light_01: Maza sin pulir (maza ligera)
+ItMi_Smith_1H_Mace_Sledgehammer_01: Martillo de herrero sin pulir
+ItMi_Smith_1H_Mace_War_01: Maza de armas sin pulir
+ItMi_Smith_1H_Mace_War_02: Maza de acero sin pulir
+ItMi_Smith_1H_Mace_War_03: Rompepiedras sin pulir
+ItMi_Smith_1H_Mace_Warhammer_02: Martillo de guerra sin pulir
+ItMi_Smith_1H_Sword_01: Espada tosca roma
+ItMi_Smith_1H_Sword_02: Espada del juicio roma
+ItMi_Smith_1H_Sword_03: Espada de guardia roma
+ItMi_Smith_1H_Sword_04: Espada de batalla roma
+ItMi_Smith_1H_Sword_Bastard_02: Carnicera roma
+ItMi_Smith_1H_Sword_Broad_01: Espada ancha roma
+ItMi_Smith_1H_Sword_Broad_02: Veredicto del Guerrero romo
+ItMi_Smith_1H_Sword_Long_01: Espada larga roma
+ItMi_Smith_1H_Sword_Scythe_01: Guadaña roma
+ItMi_Smith_1H_Sword_Short_01: Espada corta roma
+ItMi_Smith_1H_Sword_Short_02: Defensa de granjero roma
+ItMi_Smith_1H_Sword_Short_03: Mordisco de Acechador romo
+ItMi_Smith_1H_Sword_Short_04: Espina de Heridas roma
+ItMi_Smith_1H_Sword_Short_05: Disciplina de Cavador roma
+ItMi_Smith_2H_Axe_Heavy_02: Voz del Guerrero roma
+ItMi_Smith_2H_Axe_Light_01: Hacha de batalla ligera roma
+ItMi_Smith_2H_Axe_Light_02: Golpe de Trueno roma
+ItMi_Smith_2H_Axe_Old_02: Cosechadora de Sangre roma
+ItMi_Smith_2H_Axe_Pickaxe: Piqueta roma
+ItMi_Smith_2H_Sword_01: Mandoble romo
+ItMi_Smith_2H_Sword_Heavy_01: Mandoble pesado romo
+ItMi_Smith_2H_Sword_Light_01: Mandoble ligero romo
+ItMi_Smith_2H_Sword_Light_02: Hoja de custodio roma
+ItMi_Smith_2H_Sword_Light_03: Hoja de mercenario roma
+ItMi_Smith_Blade_Arming: Hoja de armas
+ItMi_Smith_Blade_Flamberge: Hoja flamígera
+ItMi_Smith_Blade_Great: Gran hoja
+ItMi_Smith_Blade_Long: Hoja larga
+ItMi_Smith_Blade_Short: Hoja corta
+ItMi_Smith_Blade_Sickle: Hoja de hoz
+ItMi_Smith_Blade_Singleedge: Hoja de un filo
+ItMi_Smith_Gold: Oro
+ItMi_Smith_Head_Battleaxe: Cabeza de hacha de batalla
+ItMi_Smith_Head_Broadaxe: Cabeza de hacha ancha
+ItMi_Smith_Head_Club: Cabeza de porra
+ItMi_Smith_Head_Fledged: Cabeza emplumada
+ItMi_Smith_Head_Greatbattleaxe: Cabeza de gran hacha de batalla
+ItMi_Smith_Head_Hammer: Cabeza de martillo
+ItMi_Smith_Head_Morningstar: Cabeza de maza de armas
+ItMi_Smith_Head_Pickaxe: Cabeza de piqueta
+ItMi_Smith_Head_Poleaxe: Cabeza de hacha de petos
+ItMi_Smith_Head_Scythe: Cabeza de guadaña
+ItMi_Smith_Head_Warhammer: Cabeza de martillo de guerra
+ItMi_Smith_Intermediate_Blade_Arming: ''
+ItMi_Smith_Intermediate_Blade_Flamberge: ''
+ItMi_Smith_Intermediate_Blade_Great: ''
+ItMi_Smith_Intermediate_Blade_Long: ''
+ItMi_Smith_Intermediate_Blade_Short: ''
+ItMi_Smith_Intermediate_Blade_Sickle: ''
+ItMi_Smith_Intermediate_Blade_Singleedge: ''
+ItMi_Smith_Intermediate_Head_Battleaxe: ''
+ItMi_Smith_Intermediate_Head_Broadaxe: ''
+ItMi_Smith_Intermediate_Head_Club: ''
+ItMi_Smith_Intermediate_Head_Fledged: ''
+ItMi_Smith_Intermediate_Head_Greatbattleaxe: ''
+ItMi_Smith_Intermediate_Head_Hammer: ''
+ItMi_Smith_Intermediate_Head_Morningstar: ''
+ItMi_Smith_Intermediate_Head_Pickaxe: ''
+ItMi_Smith_Intermediate_Head_Poleaxe: ''
+ItMi_Smith_Intermediate_Head_Scythe: ''
+ItMi_Smith_Intermediate_Head_Warhammer: ''
+ItMi_Smith_Iron: Hierro
+ItMi_Smith_Ironwood: Madera férrea
+ItMi_Smith_Leatherstraps: Tiras de cuero
+ItMi_Smith_Oak: Madera de roble
+ItMi_Smith_Obsidian: Gema de obsidiana
+ItMi_Smith_Petrifiedwood: Madera petrificada
+ItMi_Smith_Ruby: Rubí
+ItMi_Smith_Steel: Acero
+ItMi_Smith_Swordblade: Hoja
+ItMi_Smith_Swordbladehot: Hoja brillante
+ItMi_Smith_Swordraw: Acero en bruto
+ItMi_Smith_Swordrawhot: Acero brillante
+ItMi_Smith_Willow: Madera de sauce
+ItAm_Arrow: Flecha
+ItAm_Bolt: Virote
+ItKe_Lockpick: Ganzúa
+ItLs_Torch: Antorcha
+ItLs_Torchburned: Antorcha
+ItLs_Torchburning: Antorcha (encendida)
+ItLs_Torchfirespit: Antorcha (tragafuegos)
+ItMi_Alchemy_Alcohol_01: Alcohol puro
+ItMi_Alchemy_Flask: Frasco de laboratorio
+ItMi_Alchemy_Moleratlubric_01: Grasa de rata topo
+ItMi_Alchemy_Quicksilver_01: Mercurio
+ItMi_Alchemy_Salt_01: Sal
+ItMi_Alchemy_Sulphur_01: Azufre
+ItMi_Alchemy_Syranoil_01: Aceite siriánico
+ItMi_Coop: Cuchara de madera
+ItMi_Hammer: Martillo
+ItMi_Lute: Laúd
+ItMi_Oldcoin_01: Moneda
+ItMi_Orenugget: Pepita de mineral
+ItMi_Specialjoint: Llamada onírica preparada
+ItMi_Stomper: Trituradora de hierba
+ItMi_Stuff_Alarmhorn: Cuerno
+ItMi_Stuff_Amphore_01: Ánfora
+ItMi_Stuff_Barbknife_01: Cuchilla
+ItMi_Stuff_Brush: Cepillo
+ItMi_Stuff_Candlestick_01: Candelabro
+ItMi_Stuff_Cup_01: Vaso
+ItMi_Stuff_Cup_02: Copa
+ItMi_Stuff_Idologront_01: Estatua
+ItMi_Stuff_Mug_01: Jarra
+ItMi_Stuff_Pan_01: Sartén
+ItMi_Stuff_Pipe_01: Pipa
+ItMi_Stuff_Plate_01: Plato
+ItMi_Stuff_Silverware_01: Cubiertos
+ItMi_Wedel: Hoja de palma
+HumanFists: Puños desnudos
+ItFo_Potion_Dex_01: Esencia de destreza
+ItFo_Potion_Dex_02: Extracto de destreza
+ItFo_Potion_Dex_03: Elixir de destreza
+ItFo_Potion_Elixier: ''
+ItFo_Potion_Elixier_Egg: ''
+ItFo_Potion_Haste_01: Poción de rapidez
+ItFo_Potion_Haste_02: Poción de velocidad
+ItFo_Potion_Haste_03: Poción de celeridad
+ItFo_Potion_Health_01: Esencia de curación
+ItFo_Potion_Health_02: Extracto de curación
+ItFo_Potion_Health_03: Elixir de curación
+ItFo_Potion_Health_Perma_01: Esencia de vida
+ItFo_Potion_Health_Perma_02: Extracto de vida
+ItFo_Potion_Health_Perma_03: Elixir de vida
+ItFo_Potion_Health_Quick: Poción de curación rápida
+ItFo_Potion_Mana_01: Esencia de energía mágica
+ItFo_Potion_Mana_02: Extracto de energía mágica
+ItFo_Potion_Mana_03: Elixir de energía mágica
+ItFo_Potion_Mana_Perma_01: Esencia de espíritu
+ItFo_Potion_Mana_Perma_02: Extracto de espíritu
+ItFo_Potion_Mana_Perma_03: Elixir de espíritu
+ItFo_Potion_Master_01: Poción de poder
+ItFo_Potion_Master_02: Poción de supremacía
+ItFo_Potion_Orcmedicine: Medicina orca
+ItFo_Potion_Strength_01: Esencia de fuerza
+ItFo_Potion_Strength_02: Extracto de fuerza
+ItFo_Potion_Strength_03: Elixir de fuerza
+ItAt_Amulet_Ulu_Talisman: ''
+ItMi_Recruitjoint: ''
+ItMi_Stuff_Gearwheel_01: Rueda dentada
+ItMi_Stuff_Idolsleeper_01: Estatuilla
+ItMs_Demonprank: Golpe Demoníaco
+ItMs_Focus_01: Foco del acantilado del océano
+ItMs_Focus_02: Foco del cañón del trol
+ItMs_Focus_03: Foco del fuerte de la montaña
+ItMs_Focus_04: Foco del monasterio en ruinas
+ItMs_Focus_05: Foco del círculo de piedras
+ItMs_Lightbringer: Hoja de la Luz
+ItMs_Spellblade: Hoja del Destierro
+ItMs_Timeblade: Hoja del Tiempo
+ItMs_Uriziel: Espada extraña
+ItMs_Worldsplitter: Hendedora de Mundos
+ItAt_Ring_Enlight: Anillo de iluminación
+ItAt_Ring_Fire_01: Anillo de protección contra las llamas
+ItAt_Ring_Fire_02: Protección contra el fuego
+ItAt_Ring_Life_01: Anillo de vida
+ItAt_Ring_Life_02: Anillo mayor de vida
+ItAt_Ring_Magic_01: Anillo de magia
+ItAt_Ring_Magic_02: Anillo de poder espiritual
+ItAt_Ring_Magic_03: Anillo de defensa
+ItAt_Ring_Magicfire_01: Anillo de purificación
+ItAt_Ring_Magicfire_02: Anillo de invencibilidad
+ItAt_Ring_Mordrag: Anillo de Mordrag
+ItAt_Ring_Power: Anillo de poder del guerrero
+ItAt_Ring_Projectile_01: Anillo de piel de madera
+ItAt_Ring_Projectile_02: Anillo de piel de piedra
+ItAt_Ring_Ranged_01: Anillo de constancia
+ItAt_Ring_Ranged_02: Anillo de acusación
+ItAt_Ring_Skill_01: Anillo menor de destreza
+ItAt_Ring_Skill_02: Anillo mayor de destreza
+ItAt_Ring_Strong_01: Anillo de poder
+ItAt_Ring_Strong_02: Anillo de fuerza
+ItAt_Ring_Total_01: Anillo menor de invencibilidad
+ItAt_Ring_Total_02: Anillo mayor de invencibilidad
+ItAt_Ring_Weapon_01: Anillo de piel de hierro
+ItAt_Ring_Weapon_02: Anillo de piel de mineral
+ItAr_Rune_BallLightning: Runa "Rayo globular"
+ItAr_Rune_BreathOfDeath: Runa "Aliento mortal"
+ItAr_Rune_ChainLightning: Runa "Rayos encadenados"
+ItAr_Rune_Charm: Runa "Embelesar"
+ItAr_Rune_Control: Runa "Control"
+ItAr_Rune_DeathToTheUndead: Runa "Muerte a los no-muertos"
+ItAr_Rune_FireBall: Runa "Bola de fuego"
+ItAr_Rune_FireBolt: Runa "Virote de fuego"
+ItAr_Rune_FireRain: Runa "Lluvia de fuego"
+ItAr_Rune_FistOfWind: Runa "Puño del viento"
+ItAr_Rune_Heal: Runa "Curación"
+ItAr_Rune_IceBlock: Runa "Bloque de hielo"
+ItAr_Rune_IceBolt: Runa "Virote de hielo"
+ItAr_Rune_IceWave: Runa "Ola de hielo"
+ItAr_Rune_Light: Runa "Luz"
+ItAr_Rune_Pyrokinesis: Runa "Piroquinesis"
+ItAr_Rune_Sleep: Runa "Dormir"
+ItAr_Rune_StormFist: Runa "Puño de tormenta"
+ItAr_Rune_StormOfFire: Runa "Tormenta de fuego"
+ItAr_Rune_Telekinesis: Runa "Telequinesis"
+ItAr_Rune_TeleportToMagiciansOfFire: Runa "Teletransporte a los magos del fuego"
+ItAr_Rune_TeleportToMagiciansOfWater: Runa "Teletransporte a los magos del agua"
+ItAr_Rune_TeleportToNecromancer: Runa "Teletransporte al nigromante"
+ItAr_Rune_TeleportToSwampCamp: Runa "Teletransporte al Campamento del Pantano"
+ItAr_Rune_UrizielWaveOfDeath: Runa "Ola de muerte de Uriziel"
+ItAr_Scroll_BallLightning: Pergamino "Rayo globular"
+ItAr_Scroll_ChainLightning: Pergamino "Rayos encadenados"
+ItAr_Scroll_Charm: Pergamino "Embelesar"
+ItAr_Scroll_Control: Pergamino "Control"
+ItAr_Scroll_DeathToTheUndead: Pergamino "Muerte a los no-muertos"
+ItAr_Scroll_Fear: Pergamino "Miedo"
+ItAr_Scroll_FireBall: Pergamino "Bola de fuego"
+ItAr_Scroll_FireBolt: Pergamino "Virote de fuego"
+ItAr_Scroll_FireRain: Pergamino "Lluvia de fuego"
+ItAr_Scroll_FistOfWind: Pergamino "Puño del viento"
+ItAr_Scroll_Heal: Pergamino "Curación"
+ItAr_Scroll_IceBlock: Pergamino "Bloque de hielo"
+ItAr_Scroll_IceBolt: Pergamino "Virote de hielo"
+ItAr_Scroll_IceWave: Pergamino "Ola de hielo"
+ItAr_Scroll_Light: Pergamino "Luz"
+ItAr_Scroll_Pyrokinesis: Pergamino "Piroquinesis"
+ItAr_Scroll_Shrink: Pergamino "Encoger monstruo"
+ItAr_Scroll_Sleep: Pergamino "Dormir"
+ItAr_Scroll_StormFist: Pergamino "Puño de tormenta"
+ItAr_Scroll_StormOfFire: Pergamino "Tormenta de fuego"
+ItAr_Scroll_SummonArmyOfDarkness: Pergamino "Invocar ejército de las tinieblas"
+ItAr_Scroll_SummonDemon: Pergamino "Invocar demonio"
+ItAr_Scroll_SummonGolem: Pergamino "Invocar gólem"
+ItAr_Scroll_SummonSkeletons: Pergamino "Invocar esqueletos"
+ItAr_Scroll_Telekinesis: Pergamino "Telequinesis"
+ItAr_Scroll_TeleportToMagiciansOfWater: Pergamino "Teletransporte a los magos del
+  agua"
+ItAr_Scroll_TeleportToOrcCementery: Pergamino "Hechizo de teletransporte orco"
+ItAr_Scroll_TeleportToSleepersTemple: Pergamino "Teletransporte al templo del Durmiente"
+ItAr_Scroll_TransformBiter: Pergamino "Transformarse en mordedor"
+ItAr_Scroll_TransformBloodfly: Pergamino "Transformarse en mosca de sangre"
+ItAr_Scroll_TransformBloodhound: Pergamino "Transformarse en sabueso de sangre"
+ItAr_Scroll_TransformFireLizard: Pergamino "Transformarse en lagarto de fuego"
+ItAr_Scroll_TransformHarpy: Pergamino "Transformarse en arpía"
+ItAr_Scroll_TransformLizard: Pergamino "Transformarse en lagarto"
+ItAr_Scroll_TransformLurker: Pergamino "Transformarse en acechador"
+ItAr_Scroll_TransformMeatbug: Pergamino "Transformarse en sabandija"
+ItAr_Scroll_TransformMinecrawler: Pergamino "Transformarse en reptador"
+ItAr_Scroll_TransformMolerat: Pergamino "Transformarse en rata topo"
+ItAr_Scroll_TransformOrcDog: Pergamino "Transformarse en perro orco"
+ItAr_Scroll_TransformRazor: Pergamino "Transformarse en cuchilla"
+ItAr_Scroll_TransformScavenger: Pergamino "Transformarse en carroñero"
+ItAr_Scroll_TransformShadowbeast: Pergamino "Transformarse en bestia de sombra"
+ItAr_Scroll_TransformSnapper: Pergamino "Transformarse en chasqueador"
+ItAr_Scroll_TransformSwampshark: Pergamino "Transformarse en tiburón de pantano"
+ItAr_Scroll_TransformWolf: Pergamino "Transformarse en lobo"
+ItWr_Scroll_AbandonMineSketch: ''
+ItWr_Scroll_Certificate: Certificado (título de propiedad)
+ItWr_Scroll_Cronos: Carta de Cronos a los magos del fuego
+ItWr_Scroll_Jacko_01: ''
+ItWr_Scroll_Kalom: Receta de Kalom
+ItWr_Scroll_Letter_01: Carta sellada
+ItWr_Scroll_Letter_02: Carta abierta
+ItWr_Scroll_List: Lista de requisitos de la Mina Vieja
+ItWr_Scroll_Listnc: Lista de requisitos de la Mina Vieja (ampliada)
+ItWr_Scroll_Milten: Pergamino de hechizo para activar a URIZIEL
+ItWr_Scroll_Orkparcment_01: Mitad de un pergamino (superior)
+ItWr_Scroll_Orkparcment_02: Mitad de un pergamino (inferior)
+ItWr_Scroll_Sketch: Boceto
+ItMw_1H_Axe_01: Hacha
+ItMw_1H_Axe_02: Partecráneos
+ItMw_1H_Axe_03: Rompehuesos
+ItMw_1H_Axe_Cord: Hendedora de Cord
+ItMw_1H_Axe_Hatchet_01: Hacha de mano
+ItMw_1H_Axe_Lares: Hacha de Lares
+ItMw_1H_Axe_Old_01: Hacha estropeada
+ItMw_1H_Axe_Sickle_01: Hoz
+ItMw_1H_Axe_Silas: Hacha de Silas
+ItMw_1H_Mace_01: Maza
+ItMw_1H_Mace_02: Maza de aguijón
+ItMw_1H_Mace_03: Aguijón de mosca de sangre
+ItMw_1H_Mace_04: Lengua de acero
+ItMw_1H_Mace_Club_01: Porra
+ItMw_1H_Mace_Fortuno: Porra de Fortuno
+ItMw_1H_Mace_Lester: Mediador de Lester
+ItMw_1H_Mace_Light_01: Porra (maza ligera)
+ItMw_1H_Mace_Nailmace_01: Porra con clavo
+ItMw_1H_Mace_Namib: Porra de Namib
+ItMw_1H_Mace_Orun: Porra de Orun
+ItMw_1H_Mace_Poker_01: Atizador
+ItMw_1H_Mace_Sledgehammer_01: Martillo de herrero
+ItMw_1H_Mace_War_01: Maza de armas
+ItMw_1H_Mace_War_02: Maza de acero
+ItMw_1H_Mace_War_03: Rompepiedras
+ItMw_1H_Mace_War_04: ''
+ItMw_1H_Mace_Warhammer_01: Martillo orco
+ItMw_1H_Mace_Warhammer_02: Martillo de guerra
+ItMw_1H_Mace_Warhammer_03: Martillo de Dios
+ItMw_1H_Sword_01: Espada tosca
+ItMw_1H_Sword_02: Espada del juicio
+ItMw_1H_Sword_03: Espada de guardia
+ItMw_1H_Sword_04: Espada de batalla
+ItMw_1H_Sword_05: Espada de guerra
+ItMw_1H_Sword_Arto: Espada de Arto
+ItMw_1H_Sword_Bastard_01: Espada bastarda herrumbrosa
+ItMw_1H_Sword_Bastard_02: Carnicera
+ItMw_1H_Sword_Bastard_03: Verdugo
+ItMw_1H_Sword_Bastard_04: Espada de berserker
+ItMw_1H_Sword_Broad_01: Espada ancha
+ItMw_1H_Sword_Broad_02: Veredicto del Guerrero
+ItMw_1H_Sword_Broad_03: Susurro de la Tormenta
+ItMw_1H_Sword_Broad_04: Mano de guardia
+ItMw_1H_Sword_Kalom: Espada de Kalom
+ItMw_1H_Sword_Lightguard_01: Espada ligera de guardia
+ItMw_1H_Sword_Long_01: Espada larga
+ItMw_1H_Sword_Long_02: Espada del Miedo
+ItMw_1H_Sword_Long_03: Espada del Odio
+ItMw_1H_Sword_Long_04: Espada de la Victoria
+ItMw_1H_Sword_Long_05: Espada de la Muerte
+ItMw_1H_Sword_Old_01: Espada herrumbrosa
+ItMw_1H_Sword_Old_02: Espada vieja
+ItMw_1H_Sword_Paw: Golpe de Zarpa
+ItMw_1H_Sword_Raven: Derecho de Raven
+ItMw_1H_Sword_Scar: Espada de Scar
+ItMw_1H_Sword_Scythe_01: Guadaña
+ItMw_1H_Sword_Short_01: Espada corta
+ItMw_1H_Sword_Short_02: Defensa de granjero
+ItMw_1H_Sword_Short_03: Mordisco de Acechador
+ItMw_1H_Sword_Short_04: Espina de Heridas
+ItMw_1H_Sword_Short_05: Disciplina de Cavador
+ItMw_1H_Sword_Whistler: Espada de Whistler
+ItMw_1H_Torch: Antorcha
+ItRw_Bow_Diego: Arco de Diego
+ItRw_Bow_Long_01: Arco largo
+ItRw_Bow_Long_02: Arco de seto
+ItRw_Bow_Long_03: Arco de sauce
+ItRw_Bow_Long_04: Arco de roble
+ItRw_Bow_Long_05: Trituralobos
+ItRw_Bow_Long_06: Rompeviento
+ItRw_Bow_Long_07: Arco del ejército
+ItRw_Bow_Long_08: Arco de cuerno
+ItRw_Bow_Long_09: Arco de Nimrod
+ItRw_Bow_Small_01: Arco corto
+ItRw_Bow_Small_02: Arco de jinete
+ItRw_Bow_Small_03: Arco de campo
+ItRw_Bow_Small_04: Arco de caza
+ItRw_Bow_Small_05: Arco de hueso
+ItRw_Bow_War_01: Arco de guerra
+ItRw_Bow_War_02: Cazaorcos
+ItRw_Bow_War_03: Arco de tormenta
+ItRw_Bow_War_04: Arco demoníaco
+ItRw_Bow_War_05: Arco de la muerte
+ItRw_Bow_Wolf: Arco de lobo
+ItRw_Crossbow_01: Ballesta ligera
+ItRw_Crossbow_02: Ballesta
+ItRw_Crossbow_03: Ballesta pesada
+ItRw_Crossbow_04: Ballesta de guerra
+ItMw_2H_Axe_Gorn: Venganza de Gorn
+ItMw_2H_Axe_Heavy_01: Hacha de guerra
+ItMw_2H_Axe_Heavy_02: Voz del Guerrero
+ItMw_2H_Axe_Heavy_03: Puño de Bárbaro
+ItMw_2H_Axe_Heavy_04: Puño de Trol
+ItMw_2H_Axe_Lee: Hacha de Lee
+ItMw_2H_Axe_Light_01: Hacha de batalla ligera
+ItMw_2H_Axe_Light_02: Golpe de Trueno
+ItMw_2H_Axe_Light_03: Estruendo
+ItMw_2H_Axe_Old_01: Hacha de batalla vieja
+ItMw_2H_Axe_Old_02: Cosechadora de Sangre
+ItMw_2H_Axe_Old_03: Viejo Juez
+ItMw_2H_Axe_Orc_01: Krush Pach
+ItMw_2H_Axe_Orc_02: Krush UrRok
+ItMw_2H_Axe_Orc_03: Krush Agash
+ItMw_2H_Axe_Orc_04: Krush BrokDar
+ItMw_2H_Axe_Orik: Hacha de Orik
+ItMw_2H_Axe_Pickaxe: Piqueta
+ItMw_2H_Axe_Torlof: Hacha de Torlof
+ItMw_2H_Mace_Orc_01: Krush Karrok
+ItMw_2H_Scepter_Skeletonmage: Cetro de mago
+ItMw_2H_Staff_01: ''
+ItMw_2H_Staff_02: Bastón del Juicio
+ItMw_2H_Staff_03: ''
+ItMw_2H_Staff_Light: ''
+ItMw_2H_Staff_Orc: Grachtnakk
+ItMw_2H_Staff_Scepter: Cetro
+ItMw_2H_Staff_Ulumulu: Ulu-Mulu
+ItMw_2H_Staff_Unorc: ShaBaNakk
+ItMw_2H_Sword_01: Mandoble
+ItMw_2H_Sword_02: Hoja de Héroe
+ItMw_2H_Sword_03: Hoja de Sangre
+ItMw_2H_Sword_Beliar: Garra de Beliar
+ItMw_2H_Sword_Heavy_01: Mandoble pesado
+ItMw_2H_Sword_Heavy_02: Acero de Furia
+ItMw_2H_Sword_Heavy_03: Acero de Ira
+ItMw_2H_Sword_Heavy_04: Acero de Venganza
+ItMw_2H_Sword_Innos: Furia de Innos
+ItMw_2H_Sword_Light_01: Mandoble ligero
+ItMw_2H_Sword_Light_02: Hoja de custodio
+ItMw_2H_Sword_Light_03: Hoja de mercenario
+ItMw_2H_Sword_Light_04: Hoja del rey
+ItMw_2H_Sword_Light_05: Hoja demoníaca
+ItMw_2H_Sword_Old_01: Mandoble herrumbroso
+ItMw_2H_Sword_Orc_01: Krush Varrok
+ItMw_2H_Sword_Thorus: Espada de Thorus
+ItMw_2H_Sword_Uriziel_01: Uriziel
+ItMw_2H_Sword_Wind: Viento Rojo
+ItWr_Book_Arcanum: Arcano elemental
+ItWr_Book_Artfighting: El arte del combate
+ItWr_Book_Astronomy: Astronomía
+ItWr_Book_Battle_Varant_01: La batalla de Varant - Volumen I
+ItWr_Book_Battle_Varant_02: La batalla de Varant - Volumen II
+ItWr_Book_Bloodfly_01: Las moscas de sangre
+ItWr_Book_Chromanin_01: Cromanín 1
+ItWr_Book_Chromanin_02: Cromanín 2
+ItWr_Book_Chromanin_03: Cromanín 3
+ItWr_Book_Chromanin_04: Cromanín 4
+ItWr_Book_Chromanin_05: Cromanín 5
+ItWr_Book_Chromanin_06: Cromanín 6
+ItWr_Book_Circle_01: Primer círculo de la magia
+ItWr_Book_Circle_02: Segundo círculo de la magia
+ItWr_Book_Circle_03: Tercer círculo de la magia
+ItWr_Book_Circle_04: Cuarto círculo de la magia
+ItWr_Book_Circle_05: Quinto círculo de la magia
+ItWr_Book_Circle_06: Sexto círculo de la magia
+ItWr_Book_Crypt: ''
+ItWr_Book_Focus: Almanaque
+ItWr_Book_Gods_01: Palabras de los dioses - Volumen 1
+ItWr_Book_Gods_02: Palabras de los dioses - Volumen 2
+ItWr_Book_Gods_03: Palabras de los dioses - Volumen 3
+ItWr_Book_Godsgift: Un don de los dioses
+ItWr_Book_Golem_01: Gólem arcano - Volumen I
+ItWr_Book_Golem_02: Gólem arcano - Volumen II
+ItWr_Book_Hunt: Caza y presa
+ItWr_Book_Lyric: Poesía de Myrtana
+ItWr_Book_Magicore: Mineral mágico
+ItWr_Book_Powerfulart: Un arte poderoso
+ItWr_Book_Recipes_01: Recetas - Parte I
+ItWr_Book_Recipes_02: Recetas - Parte II
+ItWr_Book_Secrets: Los secretos de la magia
+ItWr_Book_Slave: Diario (templo orco)
+ItWr_Book_Tales: ''
+ItWr_Book_Troll: Página de diario (cazador de troles)
+ItWr_Book_True_Power: Poder verdadero
+ItWr_Map_Cliff: Mapa de focos de Y'Berion
+ItWr_Map_Focus: Mapa de focos de Saturas
+ItWr_Map: Perspectiva general Campamento Nuevo
+ItWr_Map_OldCamp: Perspectiva general Campamento Viejo
+ItWr_Map_OldMine: Mapa de la vieja mina
+ItWr_Map_Orc: Mapa de la Colonia (completo)
+ItWr_Map_SwampCamp: Perspectiva general Campamento del Pantano
+ItWr_Map_Temple: ''
+ItWr_Map_World: Mapa de la Colonia
+ItWr_Map_WorldComplete: ''

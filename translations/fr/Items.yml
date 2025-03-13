@@ -1,0 +1,853 @@
+Ladder: ''
+Chest: ''
+Chair: ''
+Bench: ''
+Box: ''
+Pan Cook: ''
+Dead Rogue: ''
+ItIg_Worldsplitter: ''
+ItIg_Worldsplitter_Description: ''
+ItWr_Scroll_Mysteriousnote: ''
+ItWr_Scroll_Mysteriousnote_Description: ''
+ReFo_Potion_Health_01: ''
+ReFo_Potion_Health_02: ''
+ReFo_Potion_Health_03: ''
+ReFo_Potion_Mana_01: ''
+ReFo_Potion_Mana_02: ''
+ReFo_Potion_Mana_03: ''
+ReFo_Crawlersoup: ''
+ReFo_Meatbugragout: ''
+ReFo_Mutton_01: ''
+ReFo_Grilledscavenger: ''
+ReFo_Soup: ''
+ReMi_Smith_1H_Axe_01: ''
+ReMi_Smith_1H_Axe_02: ''
+ReMi_Smith_1H_Axe_Hatchet_01: ''
+ReMi_Smith_1H_Axe_Old_01: ''
+ReMi_Smith_1H_Axe_Sickle_01: ''
+ReMi_Smith_1H_Mace_01: ''
+ReMi_Smith_1H_Mace_02: ''
+ReMi_Smith_1H_Mace_03: ''
+ReMi_Smith_1H_Mace_04: ''
+ReMi_Smith_1H_Mace_Light_01: ''
+ReMi_Smith_1H_Mace_Sledgehammer_01: ''
+ReMi_Smith_1H_Mace_War_01: ''
+ReMi_Smith_1H_Mace_War_02: ''
+ReMi_Smith_1H_Mace_War_03: ''
+ReMi_Smith_1H_Mace_Warhammer_02: ''
+ReMi_Smith_1H_Sword_01: ''
+ReMi_Smith_1H_Sword_02: ''
+ReMi_Smith_1H_Sword_03: ''
+ReMi_Smith_1H_Sword_04: ''
+ReMi_Smith_1H_Sword_Bastard_02: ''
+ReMi_Smith_1H_Sword_Broad_01: ''
+ReMi_Smith_1H_Sword_Broad_02: ''
+ReMi_Smith_1H_Sword_Long_01: ''
+ReMi_Smith_1H_Sword_Scythe_01: ''
+ReMi_Smith_1H_Sword_Short_01: ''
+ReMi_Smith_1H_Sword_Short_02: ''
+ReMi_Smith_1H_Sword_Short_03: ''
+ReMi_Smith_1H_Sword_Short_04: ''
+ReMi_Smith_1H_Sword_Short_05: ''
+ReMi_Smith_2H_Axe_Heavy_02: ''
+ReMi_Smith_2H_Axe_Light_01: ''
+ReMi_Smith_2H_Axe_Light_02: ''
+ReMi_Smith_2H_Axe_Old_02: ''
+ReMi_Smith_2H_Axe_Pickaxe: ''
+ReMi_Smith_2H_Sword_01: ''
+ReMi_Smith_2H_Sword_Heavy_01: ''
+ReMi_Smith_2H_Sword_Light_01: ''
+ReMi_Smith_2H_Sword_Light_02: ''
+ReMi_Smith_2H_Sword_Light_03: ''
+ReMi_Smith_Blade_Arming: ''
+ReMi_Smith_Blade_Flamberge: ''
+ReMi_Smith_Blade_Great: ''
+ReMi_Smith_Blade_Long: ''
+ReMi_Smith_Blade_Short: ''
+ReMi_Smith_Blade_Sickle: ''
+ReMi_Smith_Blade_Singleedge: ''
+ReMi_Smith_Head_Battleaxe: ''
+ReMi_Smith_Head_Broadaxe: ''
+ReMi_Smith_Head_Club: ''
+ReMi_Smith_Head_Fledged: ''
+ReMi_Smith_Head_Greatbattleaxe: ''
+ReMi_Smith_Head_Hammer: ''
+ReMi_Smith_Head_Morningstar: ''
+ReMi_Smith_Head_Pickaxe: ''
+ReMi_Smith_Head_Poleaxe: ''
+ReMi_Smith_Head_Scythe: ''
+ReMi_Smith_Head_Warhammer: ''
+ReMw_1H_Axe_Sickle_01: ''
+ReMw_1H_Axe_Hatchet_01: ''
+ReMw_1H_Axe_Old_01: ''
+ReMw_1H_Axe_01: ''
+ReMw_1H_Axe_02: ''
+ReMw_2H_Axe_Pickaxe: ''
+ReMw_2H_Axe_Old_02: ''
+ReMw_2H_Axe_Light_01: ''
+ReMw_2H_Axe_Light_02: ''
+ReMw_2H_Axe_Heavy_02: ''
+ReMw_1H_Mace_Light_01: ''
+ReMw_1H_Mace_Sledgehammer_01: ''
+ReMw_1H_Mace_01: ''
+ReMw_1H_Mace_02: ''
+ReMw_1H_Mace_03: ''
+ReMw_1H_Mace_04: ''
+ReMw_1H_Mace_War_01: ''
+ReMw_1H_Mace_War_02: ''
+ReMw_1H_Mace_War_03: ''
+ReMw_1H_Mace_Warhammer_02: ''
+ReMw_1H_Sword_Short_02: ''
+ReMw_1H_Sword_Scythe_01: ''
+ReMw_1H_Sword_Short_03: ''
+ReMw_1H_Sword_Short_04: ''
+ReMw_1H_Sword_01: ''
+ReMw_1H_Sword_Short_05: ''
+ReMw_1H_Sword_02: ''
+ReMw_1H_Sword_03: ''
+ReMw_1H_Sword_04: ''
+ReMw_1H_Sword_Long_01: ''
+ReMw_1H_Sword_Broad_01: ''
+ReMw_1H_Sword_Broad_02: ''
+ReMw_1H_Sword_Bastard_02: ''
+ReMw_2H_Sword_Light_01: ''
+ReMw_2H_Sword_Light_02: ''
+ReMw_2H_Sword_Light_03: ''
+ReMw_2H_Sword_01: ''
+ReMw_2H_Sword_Heavy_01: ''
+ReAr_Scroll_Charm: ''
+ReAr_Scroll_Control: ''
+ReAr_Scroll_Transformbiter: ''
+ReAr_Scroll_Transformbloodfly: ''
+ReAr_Scroll_Transformbloodhound: ''
+ReAr_Scroll_Transformfirelizard: ''
+ReAr_Scroll_Transformharpy: ''
+ReAr_Scroll_Transformlizard: ''
+ReAr_Scroll_Transformlurker: ''
+ReAr_Scroll_Transformmeatbug: ''
+ReAr_Scroll_Transformminecrawler: ''
+ReAr_Scroll_Transformmolerat: ''
+ReAr_Scroll_Transformorcdog: ''
+ReAr_Scroll_Transformrazor: ''
+ReAr_Scroll_Transformscavenger: ''
+ReAr_Scroll_Transformshadowbeast: ''
+ReAr_Scroll_Transformsnapper: ''
+ReAr_Scroll_Transformswampshark: ''
+ReAr_Scroll_Transformwolf: ''
+Item_Weapon_Rune: ''
+Item_Weapon_Scroll: ''
+Item_Amulet: ''
+Item_Food: ''
+Item_Potion: ''
+Item_Herb: ''
+Item_Drug: ''
+Item_Key: ''
+Item_Trophy: ''
+Item_Material: ''
+Item_Ore: ''
+Item_Junk: ''
+Item_Ammo: ''
+Item_Quest: ''
+Item_Lockpick: ''
+Item_Instrument: ''
+Item_Weapon_Bow: ''
+Item_Weapon_Crossbow: ''
+Item_Ring: ''
+Item_Weapon_Axe_OneHand: ''
+Item_Weapon_Mace_OneHand: ''
+Item_Weapon_Sword_OneHand: ''
+Item_Weapon_Torch_OneHand: ''
+Item_Weapon_Axe_TwoHand: ''
+Item_Weapon_Mace_TwoHand: ''
+Item_Weapon_Staff_TwoHand: ''
+Item_Weapon_Sword_TwoHand: ''
+Item_Writing: ''
+Item_Weapon_Fist: ''
+ItAt_Meatbug_01_description: ''
+ItFo_Apple_description: ''
+ItFo_Cheese_description: ''
+ItFo_Grilledscavenger_description: ''
+ItFo_Loaf_description: ''
+ItFo_Meatbugragout_description: ''
+ItFo_Mutton_01_description: ''
+ItFo_Mutton_02_description: ''
+ItFo_Muttonraw_description: ''
+ItFo_Pear_description: ''
+ItFo_Potato_description: ''
+ItFo_Potion_Beer_description: ''
+ItFo_Potion_Booze_description: ''
+ItFo_Potion_Strongbeer_description: ''
+ItFo_Potion_Water_01_description: ''
+ItFo_Potion_Wine_description: ''
+ItFo_Rice_description: ''
+ItFo_Whitemeat_description: ''
+ItFo_Plants_Berrys_01_description: ''
+ItFo_Plants_Bloodwood_01_description: ''
+ItFo_Plants_Mushroom_01_description: ''
+ItFo_Plants_Orcherb_01_description: ''
+ItFo_Plants_Seraphis_01_description: ''
+ItFo_Plants_Stoneroot_01_description: ''
+ItAt_Claws_01_description: ''
+ItAm_Arrow_description: ''
+ItAm_Bolt_description: ''
+ItKe_Lockpick_description: ''
+ItMi_Hammer_description: ''
+ItMi_Lute_description: ''
+ItMi_Oldcoin_01_description: ''
+ItMi_Orenugget_description: ''
+ItMi_Stuff_Amphore_01_description: ''
+ItMi_Stuff_Barbknife_01_description: ''
+ItMi_Stuff_Brush_description: ''
+ItMi_Stuff_Cup_01_description: ''
+ItMi_Stuff_Cup_02_description: ''
+ItMi_Stuff_Mug_01_description: ''
+ItMi_Stuff_Pipe_01_description: ''
+ItMi_Stuff_Plate_01_description: ''
+HumanFists_description: ''
+ItFo_Potion_Health_01_description: ''
+ItWr_Scroll_Jacko_01_description: ''
+ItMw_1H_Axe_Sickle_01_description: ''
+ItMw_1H_Mace_03_description: ''
+ItMw_1H_Mace_Club_01_description: ''
+ItMw_1H_Sword_01_description: ''
+ItMw_1H_Sword_02_description: ''
+ItMw_1H_Sword_04_description: ''
+ItMw_1H_Sword_Old_01_description: ''
+ItMw_1H_Sword_Short_02_description: ''
+ItMw_1H_Torch_description: ''
+ItRw_Bow_Diego_description: ''
+ItRw_Bow_Long_01_description: ''
+ItRw_Bow_Small_01_description: ''
+ItRw_Bow_Small_02_description: ''
+ItRw_Bow_Small_04_description: ''
+ItRw_Crossbow_01_description: ''
+ItMw_2H_Axe_Pickaxe_description: ''
+ItWr_Scroll_Mysteriousnote_description: ''
+ItAt_Amulet_Brotherhood: Signe de la Confrérie
+ItAt_Amulet_Dexterity_01: Amulette d'Agilité
+ItAt_Amulet_Dexterity_02: Amulette de Dextérité
+ItAt_Amulet_Enlight: Amulette d'Éclaircissement
+ItAt_Amulet_Fire: Amulette de Flammes
+ItAt_Amulet_Life: Amulette de Force de Vie
+ItAt_Amulet_Magic_01: Amulette de Magie
+ItAt_Amulet_Magic_02: Amulette de Pouvoir Spirituel
+ItAt_Amulet_Magicfire: Amulette fr Purification
+ItAt_Amulet_Neks: Amulette du Garde Mort
+ItAt_Amulet_Orc: Talisman Orc
+ItAt_Amulet_Power: Amulette de Puissance
+ItAt_Amulet_Projectile: Amulette de Peau de Chêne
+ItAt_Amulet_Protection: Amulette de Peau de Minerai
+ItAt_Amulet_Ranged: Amulette de Peau de Pierre
+ItAt_Amulet_Strong_01: Amulette de Pouvoir
+ItAt_Amulet_Strong_2: Amulette de Force
+ItAt_Amulet_Water: Amulette de messager des Magiciens de l'Eau
+ItAt_Amulet_Weapon: Amulette d'Armure
+Crw_Armor_H: Armure de Plaque de Chenille
+Dmb_Armor_M: Robe des Arts Sombres
+Ebr_Armor_H_01: Armure de Gomez
+Ebr_Armor_H_02: Armure Lourde du Baron du Minerai
+Ebr_Armor_M: Robe Protocolaire
+Grd_Armor: Armure de Garde
+Gur_Armor_H: Grande Robe de Sage
+Gur_Armor_M: Robe de Sage
+Kdf_Armor_H: Grande Robe de Feu
+Kdf_Armor_L: Robe de Feu
+Kdw_Armor_H: Grande Robe de L'Eau
+Kdw_Armor_L: Robe de l'Eau
+Law_Armor: Robe de Juge
+NH_Armor: ''
+Nov_Armor: Armure de Disciple
+Ore_Armor_H: Armure de Minerai Améliorée
+Ore_Armor_M: Ancienne Armure de Minerai
+Org_Armor: Tenue de Bandit
+Ryl_Armor: Armure de Garde Royal
+Sfb_Armor_L: Tenue de Mineur
+Sld_Armor: Armure de Mercenaire
+Stt_Armor: Tenue d'Ombre
+Tpl_Armor: Armure de Templier
+Vlk_Armor_L: Blouse Légère de Mineur
+Vlk_Armor_M: Blouse de Mineur
+ItAt_Meatbug_01: Insecte
+ItFo_Apple: Pomme
+ItFo_Cabbage: ''
+ItFo_Carrot: ''
+ItFo_Cheese: Fromage
+ItFo_Crawlersoup: Soupe de Chenille des Mines
+ItFo_Grilledscavenger: ''
+ItFo_Lemon: ''
+ItFo_Loaf: Pain
+ItFo_Meatbugragout: Ragoût d'Insecte
+ItFo_Mutton_01: Viande Grillée
+ItFo_Mutton_02: Jambon
+ItFo_Muttonraw: Viande Crue
+ItFo_Onion: ''
+ItFo_Pear: ''
+ItFo_Potato: ''
+ItFo_Potion_Beer: Bière
+ItFo_Potion_Booze: Alcool de Riz
+ItFo_Potion_Specialwater: ''
+ItFo_Potion_Strongbeer: Bière forte
+ItFo_Potion_Water_01: Eau
+ItFo_Potion_Wine: Vin
+ItFo_Rice: Riz
+ItFo_Sausage: ''
+ItFo_Soup: Soupe de Racine
+ItFo_Whitemeat: ''
+ItFo_Wineberrys_01: Raisin
+ItFo_Plants_Berrys_01: Myrtille
+ItFo_Plants_Bloodwood_01: Graine d'Hêtre de Cuivre
+ItFo_Plants_Flameberry_01: Épine de Flamme
+ItFo_Plants_Herb_01: Herbes Médicinale
+ItFo_Plants_Herb_02: Herbes Médicinale
+ItFo_Plants_Herb_03: Herbes Médicinale
+ItFo_Plants_Mountainmoss_01: Mousse de Montagne
+ItFo_Plants_Mountainmoss_02: Mousse de Tombe
+ItFo_Plants_Mushroom_01: Champignon des Enfers
+ItFo_Plants_Mushroom_02: Pain d'Esclave
+ItFo_Plants_Nightshadow_01: Solanaceae
+ItFo_Plants_Nightshadow_02: Lunanaceae
+ItFo_Plants_Orcherb_01: Feuille Orc
+ItFo_Plants_Orcherb_02: Feuille de Chêne
+ItFo_Plants_Ravenherb_01: Herbes de Corbeau
+ItFo_Plants_Ravenherb_02: Herbes Sombres
+ItFo_Plants_Seraphis_01: Seraphis
+ItFo_Plants_Stoneroot_01: Racine-Pierre
+ItFo_Plants_Stoneroot_02: Racine-Dragon
+ItFo_Plants_Towerwood_01: ''
+ItFo_Plants_Trollberrys_01: ''
+ItFo_Plants_Velayis_01: ''
+ItMi_Joint_01: Disciple Vert
+ItMi_Joint_02: Noire Nordique
+ItMi_Joint_03: Apel du Rêve
+ItMi_Plants_Swampherb_01: Herbe
+ItKe_Berg_01: Clé de coffre
+ItKe_Brass: ''
+ItKe_Cavalorn_01: Clé de Cavalorn
+ItKe_Dungeonkey: Clé de Donjon
+ItKe_Focus_04: Clé
+ItKe_Focus_05: Clé
+ItKe_Freemine: Clé de la mine Libre
+ItKe_Gold: ''
+ItKe_Gomez_01: Bol de Gomez
+ItKe_Grey: ''
+ItKe_Kalom_01: Clé de Laboratoire
+ItKe_Om_02: Clé de coffre
+ItKe_Om_03: Clé de coffre
+ItKe_OrcGraveyard: ''
+ItKe_OrcGraveyardPiece_01: ''
+ItKe_OrcGraveyardPiece_02: ''
+ItKe_Ricelord_01: Bol du Seigneur du Riz
+ItKe_Smith_01: Clé en Fer
+ItKe_Storage_01: Clé de la réserve
+ItKe_Sunkentower: Clé
+ItKe_White: ''
+ItAt_Biter_01: ''
+ItAt_Biter_02: ''
+ItAt_Biter_03: ''
+ItAt_Bloodfly_01: Ailes
+ItAt_Bloodfly_02: Dard de Mouche de Sang
+ItAt_Bloodfly_03: ''
+ItAt_Bloodhound_01: ''
+ItAt_Bloodhound_02: ''
+ItAt_Claws_01: Crocs
+ItAt_Crawler_01: Mandibules de Chenille
+ItAt_Crawler_02: L'armure de plaque de guerrier Chenille des Mines
+ItAt_Crawlerqueen: Oeuf de Chenille des Mines
+ItAt_Damlurker_01: Griffe de Tapir de digue
+ItAt_Firegolem_01: Coeur de Golem de Feu
+ItAt_Firegolem_02: ''
+ItAt_Firelizard_01: Langue de Feu
+ItAt_Firelizard_02: ''
+ItAt_Firelizard_03: ''
+ItAt_Firelizard_04: ''
+ItAt_Harpy_01: ''
+ItAt_Harpy_02: ''
+ItAt_Icegolem_01: Coeur de Golem de Glace
+ItAt_Icegolem_02: Morceau d'un Golem de Glace
+ItAt_Lizard_01: ''
+ItAt_Lizard_02: ''
+ItAt_Lizard_03: ''
+ItAt_Lurker_01: Crocs de Charognard
+ItAt_Lurker_02: Peau de Charognard
+ItAt_Lurker_03: ''
+ItAt_Minecrawlerqueen_01: ''
+ItAt_Orcdog_01: ''
+ItAt_Orcdog_02: Peau de Chien Orc
+ItAt_Razor_01: ''
+ItAt_Razor_02: ''
+ItAt_Scavenger_01: ''
+ItAt_Scavenger_02: ''
+ItAt_Shadow_01: Peau de Bête de l'Ombre
+ItAt_Shadow_02: Corne de Bête de l'Ombre
+ItAt_Shadow_03: ''
+ItAt_Shadow_04: ''
+ItAt_Snapper_01: ''
+ItAt_Snapper_02: ''
+ItAt_Stonegolem_01: Coeur de Golem de Pierre
+ItAt_Stonegolem_02: ''
+ItAt_Swampshark_01: Peau de Requin des Marais
+ItAt_Swampshark_02: Dents de Requin des Marais
+ItAt_Swampshark_03: ''
+ItAt_Teeth_01: Dent
+ItAt_Troll_01: Peau de Troll
+ItAt_Troll_02: Défense de Troll
+ItAt_Wolf_01: Peau de Loup
+ItAt_Wolf_02: ''
+ItMi_Inscription_Parchment: ''
+ItMi_Smith_1H_Axe_01: ''
+ItMi_Smith_1H_Axe_02: ''
+ItMi_Smith_1H_Axe_Hatchet_01: ''
+ItMi_Smith_1H_Axe_Old_01: ''
+ItMi_Smith_1H_Axe_Sickle_01: ''
+ItMi_Smith_1H_Mace_01: ''
+ItMi_Smith_1H_Mace_02: ''
+ItMi_Smith_1H_Mace_03: ''
+ItMi_Smith_1H_Mace_04: ''
+ItMi_Smith_1H_Mace_Light_01: ''
+ItMi_Smith_1H_Mace_Sledgehammer_01: ''
+ItMi_Smith_1H_Mace_War_01: ''
+ItMi_Smith_1H_Mace_War_02: ''
+ItMi_Smith_1H_Mace_War_03: ''
+ItMi_Smith_1H_Mace_Warhammer_02: ''
+ItMi_Smith_1H_Sword_01: ''
+ItMi_Smith_1H_Sword_02: ''
+ItMi_Smith_1H_Sword_03: ''
+ItMi_Smith_1H_Sword_04: ''
+ItMi_Smith_1H_Sword_Bastard_02: ''
+ItMi_Smith_1H_Sword_Broad_01: ''
+ItMi_Smith_1H_Sword_Broad_02: ''
+ItMi_Smith_1H_Sword_Long_01: ''
+ItMi_Smith_1H_Sword_Scythe_01: ''
+ItMi_Smith_1H_Sword_Short_01: ''
+ItMi_Smith_1H_Sword_Short_02: ''
+ItMi_Smith_1H_Sword_Short_03: ''
+ItMi_Smith_1H_Sword_Short_04: ''
+ItMi_Smith_1H_Sword_Short_05: ''
+ItMi_Smith_2H_Axe_Heavy_02: ''
+ItMi_Smith_2H_Axe_Light_01: ''
+ItMi_Smith_2H_Axe_Light_02: ''
+ItMi_Smith_2H_Axe_Old_02: ''
+ItMi_Smith_2H_Axe_Pickaxe: ''
+ItMi_Smith_2H_Sword_01: ''
+ItMi_Smith_2H_Sword_Heavy_01: ''
+ItMi_Smith_2H_Sword_Light_01: ''
+ItMi_Smith_2H_Sword_Light_02: ''
+ItMi_Smith_2H_Sword_Light_03: ''
+ItMi_Smith_Blade_Arming: ''
+ItMi_Smith_Blade_Flamberge: ''
+ItMi_Smith_Blade_Great: ''
+ItMi_Smith_Blade_Long: ''
+ItMi_Smith_Blade_Short: ''
+ItMi_Smith_Blade_Sickle: ''
+ItMi_Smith_Blade_Singleedge: ''
+ItMi_Smith_Gold: ''
+ItMi_Smith_Head_Battleaxe: ''
+ItMi_Smith_Head_Broadaxe: ''
+ItMi_Smith_Head_Club: ''
+ItMi_Smith_Head_Fledged: ''
+ItMi_Smith_Head_Greatbattleaxe: ''
+ItMi_Smith_Head_Hammer: ''
+ItMi_Smith_Head_Morningstar: ''
+ItMi_Smith_Head_Pickaxe: ''
+ItMi_Smith_Head_Poleaxe: ''
+ItMi_Smith_Head_Scythe: ''
+ItMi_Smith_Head_Warhammer: ''
+ItMi_Smith_Intermediate_Blade_Arming: ''
+ItMi_Smith_Intermediate_Blade_Flamberge: ''
+ItMi_Smith_Intermediate_Blade_Great: ''
+ItMi_Smith_Intermediate_Blade_Long: ''
+ItMi_Smith_Intermediate_Blade_Short: ''
+ItMi_Smith_Intermediate_Blade_Sickle: ''
+ItMi_Smith_Intermediate_Blade_Singleedge: ''
+ItMi_Smith_Intermediate_Head_Battleaxe: ''
+ItMi_Smith_Intermediate_Head_Broadaxe: ''
+ItMi_Smith_Intermediate_Head_Club: ''
+ItMi_Smith_Intermediate_Head_Fledged: ''
+ItMi_Smith_Intermediate_Head_Greatbattleaxe: ''
+ItMi_Smith_Intermediate_Head_Hammer: ''
+ItMi_Smith_Intermediate_Head_Morningstar: ''
+ItMi_Smith_Intermediate_Head_Pickaxe: ''
+ItMi_Smith_Intermediate_Head_Poleaxe: ''
+ItMi_Smith_Intermediate_Head_Scythe: ''
+ItMi_Smith_Intermediate_Head_Warhammer: ''
+ItMi_Smith_Iron: ''
+ItMi_Smith_Ironwood: ''
+ItMi_Smith_Leatherstraps: ''
+ItMi_Smith_Oak: ''
+ItMi_Smith_Obsidian: ''
+ItMi_Smith_Petrifiedwood: ''
+ItMi_Smith_Ruby: ''
+ItMi_Smith_Steel: ''
+ItMi_Smith_Swordblade: Blade
+ItMi_Smith_Swordbladehot: Lame Rougeoyante
+ItMi_Smith_Swordraw: Acier Brut
+ItMi_Smith_Swordrawhot: Acier Rougeoyant
+ItMi_Smith_Willow: ''
+ItAm_Arrow: Flèche
+ItAm_Bolt: Carreau
+ItKe_Lockpick: Passe-Partout
+ItLs_Torch: Torche
+ItLs_Torchburned: Torche
+ItLs_Torchburning: ''
+ItLs_Torchfirespit: ''
+ItMi_Alchemy_Alcohol_01: Alcool Pur
+ItMi_Alchemy_Flask: Flasque de Laboratoire
+ItMi_Alchemy_Moleratlubric_01: Graisse de Molerat
+ItMi_Alchemy_Quicksilver_01: Mercure
+ItMi_Alchemy_Salt_01: Sel
+ItMi_Alchemy_Sulphur_01: Soufre
+ItMi_Alchemy_Syranoil_01: Huile Syrianic
+ItMi_Coop: Cuillère en Bois
+ItMi_Hammer: Marteau
+ItMi_Lute: Luth
+ItMi_Oldcoin_01: Pièce
+ItMi_Orenugget: Pépite minérale
+ItMi_Specialjoint: ''
+ItMi_Stomper: Broyeur d'Herbe
+ItMi_Stuff_Alarmhorn: Corne
+ItMi_Stuff_Amphore_01: Amphore
+ItMi_Stuff_Barbknife_01: Razor
+ItMi_Stuff_Brush: Brosse
+ItMi_Stuff_Candlestick_01: Chandelier
+ItMi_Stuff_Cup_01: Pot
+ItMi_Stuff_Cup_02: Gobelet
+ItMi_Stuff_Idologront_01: Statue
+ItMi_Stuff_Mug_01: Cruche
+ItMi_Stuff_Pan_01: Casserole
+ItMi_Stuff_Pipe_01: Tuyau
+ItMi_Stuff_Plate_01: Plateau
+ItMi_Stuff_Silverware_01: Couvert
+ItMi_Wedel: Feuille de Fougère
+HumanFists: ''
+ItFo_Potion_Dex_01: Essence de Dextérité
+ItFo_Potion_Dex_02: Extrait de Dextérité
+ItFo_Potion_Dex_03: Élixir de Dextérité
+ItFo_Potion_Elixier: ''
+ItFo_Potion_Elixier_Egg: ''
+ItFo_Potion_Haste_01: Potion de Rapidité
+ItFo_Potion_Haste_02: Potion de Vélocité
+ItFo_Potion_Haste_03: Potion de Hâte
+ItFo_Potion_Health_01: Essence de Soins
+ItFo_Potion_Health_02: Extrait de Soins
+ItFo_Potion_Health_03: Élixir de Soins
+ItFo_Potion_Health_Perma_01: Essence de Vie
+ItFo_Potion_Health_Perma_02: Extrait de Vie
+ItFo_Potion_Health_Perma_03: Élixir de Vie
+ItFo_Potion_Health_Quick: Une Potion de soin rapide
+ItFo_Potion_Mana_01: Essence d'Énergie magique
+ItFo_Potion_Mana_02: Extrait d'Énergie magique
+ItFo_Potion_Mana_03: Élixir d'Énergie magique
+ItFo_Potion_Mana_Perma_01: Essence d'Esprit
+ItFo_Potion_Mana_Perma_02: Extrait d'Esprit
+ItFo_Potion_Mana_Perma_03: Élixir d'Esprit
+ItFo_Potion_Master_01: Potion de Pouvoir
+ItFo_Potion_Master_02: Potion de Suprématie
+ItFo_Potion_Orcmedicine: Medicine Orc
+ItFo_Potion_Strength_01: Essence de Force
+ItFo_Potion_Strength_02: Extrait de Force
+ItFo_Potion_Strength_03: Élixir de Force
+ItAt_Amulet_Ulu_Talisman: ''
+ItMi_Recruitjoint: ''
+ItMi_Stuff_Gearwheel_01: Roue Dentée
+ItMi_Stuff_Idolsleeper_01: Figurine
+ItMs_Demonprank: Frappe de Démon
+ItMs_Focus_01: Pierre focale de la falaise sur l'océan
+ItMs_Focus_02: éphémère du canyon du Troll
+ItMs_Focus_03: flèches du Fort de la Montagne
+ItMs_Focus_04: flèches des ruines du Monastère
+ItMs_Focus_05: flèches du Cercle de Pierre
+ItMs_Lightbringer: Lame de Lumière
+ItMs_Spellblade: Lame de Bannissement
+ItMs_Timeblade: Lame du Temps
+ItMs_Uriziel: Étrange Épée
+ItMs_Worldsplitter: Dévoreur des Mondes
+ItAt_Ring_Enlight: Anneau d'Illumination
+ItAt_Ring_Fire_01: Anneau de peau de Hêtre
+ItAt_Ring_Fire_02: Protection de Feu
+ItAt_Ring_Life_01: Anneau de Vie
+ItAt_Ring_Life_02: Anneau de grande Vie
+ItAt_Ring_Magic_01: Anneau de Magie
+ItAt_Ring_Magic_02: Anneau de Puissance Spirituelle
+ItAt_Ring_Magic_03: Anneau de Défense
+ItAt_Ring_Magicfire_01: Anneau de Purification
+ItAt_Ring_Magicfire_02: Anneau d'Invincibilité
+ItAt_Ring_Mordrag: Anneau de Mordrag
+ItAt_Ring_Power: Anneau de Pouvoir du Guerrier
+ItAt_Ring_Projectile_01: Anneau de peau de bois
+ItAt_Ring_Projectile_02: Anneau de peau de pierre
+ItAt_Ring_Ranged_01: Anneau d'Immuabilité
+ItAt_Ring_Ranged_02: Anneau d'Accusation
+ItAt_Ring_Skill_01: Anneau de moindre Dextérité
+ItAt_Ring_Skill_02: Anneau de grande Dextérité
+ItAt_Ring_Strong_01: Anneau de Pouvoir
+ItAt_Ring_Strong_02: Anneau de Force
+ItAt_Ring_Total_01: Anneau de moindre Invincibilité
+ItAt_Ring_Total_02: Anneau de grande Invincibilité
+ItAt_Ring_Weapon_01: Anneau de peau de fer
+ItAt_Ring_Weapon_02: Anneau de peau de chêne
+ItAr_Rune_BallLightning: Boule d'Éclair
+ItAr_Rune_BreathOfDeath: Vent de Mort
+ItAr_Rune_ChainLightning: Chaine d'Éclair
+ItAr_Rune_Charm: Charme
+ItAr_Rune_Control: Contrôle
+ItAr_Rune_DeathToTheUndead: Trépas des morts
+ItAr_Rune_FireBall: Boule de Feu
+ItAr_Rune_FireBolt: Projectile de Feu
+ItAr_Rune_FireRain: Pluie de Feu
+ItAr_Rune_FistOfWind: Poing du Vent
+ItAr_Rune_Heal: Soin
+ItAr_Rune_IceBlock: Bloc de Glace
+ItAr_Rune_IceBolt: Projectile de Glace
+ItAr_Rune_IceWave: Vague de Glace
+ItAr_Rune_Light: Lumière
+ItAr_Rune_Pyrokinesis: Pyrokinésie
+ItAr_Rune_Sleep: Torpeur
+ItAr_Rune_StormFist: Tempête de Coup
+ItAr_Rune_StormOfFire: Tempête de Feu
+ItAr_Rune_Telekinesis: Télékinésie
+ItAr_Rune_TeleportToMagiciansOfFire: Téléportation vers les Magiciens du Feu
+ItAr_Rune_TeleportToMagiciansOfWater: Téléportation vers les Magiciens de l'Eau
+ItAr_Rune_TeleportToNecromancer: Téléportation vers le Nécromancien
+ItAr_Rune_TeleportToSwampCamp: Téléportation vers le Camp Marécageux
+ItAr_Rune_UrizielWaveOfDeath: Vague de Mort de URIZIEL
+ItAr_Scroll_BallLightning: Boule d'Éclair
+ItAr_Scroll_ChainLightning: Chaine d'Éclair
+ItAr_Scroll_Charm: Charme
+ItAr_Scroll_Control: Contrôle
+ItAr_Scroll_DeathToTheUndead: Trépas des morts
+ItAr_Scroll_Fear: Terreur
+ItAr_Scroll_FireBall: Boule de Feu
+ItAr_Scroll_FireBolt: Projectile de Feu
+ItAr_Scroll_FireRain: Pluie de Feu
+ItAr_Scroll_FistOfWind: Poing du Vent
+ItAr_Scroll_Heal: Soin
+ItAr_Scroll_IceBlock: Bloc de Glace
+ItAr_Scroll_IceBolt: Projectile de Glace
+ItAr_Scroll_IceWave: Vague de Glace
+ItAr_Scroll_Light: Lumière
+ItAr_Scroll_Pyrokinesis: Pyrokinésie
+ItAr_Scroll_Shrink: Réduire Monstre
+ItAr_Scroll_Sleep: Torpeur
+ItAr_Scroll_StormFist: Tempête de Coup
+ItAr_Scroll_StormOfFire: Tempête de Feu
+ItAr_Scroll_SummonArmyOfDarkness: L'Armée des Ténèbres
+ItAr_Scroll_SummonDemon: Invocation de Démon
+ItAr_Scroll_SummonGolem: Invocation de Golem
+ItAr_Scroll_SummonSkeletons: Invocation de Squelette
+ItAr_Scroll_Telekinesis: Télékinésie
+ItAr_Scroll_TeleportToMagiciansOfWater: Téléportation vers les Magiciens de l'Eau
+ItAr_Scroll_TeleportToOrcCementery: Sorts de téléportation Orc
+ItAr_Scroll_TeleportToSleepersTemple: ''
+ItAr_Scroll_TransformBiter: ''
+ItAr_Scroll_TransformBloodfly: Transformation en Mouche de Sang
+ItAr_Scroll_TransformBloodhound: ''
+ItAr_Scroll_TransformFireLizard: ''
+ItAr_Scroll_TransformHarpy: ''
+ItAr_Scroll_TransformLizard: Transformation en Lézard
+ItAr_Scroll_TransformLurker: Transformation en Charognard
+ItAr_Scroll_TransformMeatbug: Transformation en Insecte
+ItAr_Scroll_TransformMinecrawler: Transformation en Chenille des Mines
+ItAr_Scroll_TransformMolerat: Transformation en Molerat
+ItAr_Scroll_TransformOrcDog: Transformation en Chien Orc
+ItAr_Scroll_TransformRazor: ''
+ItAr_Scroll_TransformScavenger: Transformation en Charognard
+ItAr_Scroll_TransformShadowbeast: Transformation en Bête de l'Ombre
+ItAr_Scroll_TransformSnapper: Transformation en Claque-machoire
+ItAr_Scroll_TransformSwampshark: ''
+ItAr_Scroll_TransformWolf: Transformation en Loup
+ItWr_Scroll_AbandonMineSketch: ''
+ItWr_Scroll_Certificate: Titre Document
+ItWr_Scroll_Cronos: Lettre de Cronos pour les Magiciens du Feu
+ItWr_Scroll_Jacko_01: ''
+ItWr_Scroll_Kalom: Recette de Kalom
+ItWr_Scroll_Letter_01: Lettre pour les Magiciens du Feu
+ItWr_Scroll_Letter_02: Lettre pour les Magiciens du Feu
+ItWr_Scroll_List: Liste
+ItWr_Scroll_Listnc: Liste (rajout)
+ItWr_Scroll_Milten: Transfert de Pouvoir
+ItWr_Scroll_Orkparcment_01: Moitié de Parchemin
+ItWr_Scroll_Orkparcment_02: Moitié de Parchemin
+ItWr_Scroll_Sketch: Esquisse
+ItMw_1H_Axe_01: Hache
+ItMw_1H_Axe_02: Scullclefter
+ItMw_1H_Axe_03: Casse-Os
+ItMw_1H_Axe_Cord: Dévoreur de Cord
+ItMw_1H_Axe_Hatchet_01: Hache à main
+ItMw_1H_Axe_Lares: Hache de Lares
+ItMw_1H_Axe_Old_01: Mauvaise Hache
+ItMw_1H_Axe_Sickle_01: Faucile
+ItMw_1H_Axe_Silas: Hache de Silas
+ItMw_1H_Mace_01: Masse
+ItMw_1H_Mace_02: Masse-Dard
+ItMw_1H_Mace_03: Dard de Mouche de Sang
+ItMw_1H_Mace_04: Langue d'Acier
+ItMw_1H_Mace_Club_01: Gourdin
+ItMw_1H_Mace_Fortuno: Gourdin de Fortuno
+ItMw_1H_Mace_Lester: Médiateur de Lester
+ItMw_1H_Mace_Light_01: Gourdin
+ItMw_1H_Mace_Nailmace_01: Gourdin Clouté
+ItMw_1H_Mace_Namib: Gourdin de Namib
+ItMw_1H_Mace_Orun: Gourdin de Orun
+ItMw_1H_Mace_Poker_01: Carte
+ItMw_1H_Mace_Sledgehammer_01: Marteau de Forgeron
+ItMw_1H_Mace_War_01: Fléau
+ItMw_1H_Mace_War_02: Masse D'Acier
+ItMw_1H_Mace_War_03: Brise-Crâne
+ItMw_1H_Mace_War_04: ''
+ItMw_1H_Mace_Warhammer_01: Marteau Orc
+ItMw_1H_Mace_Warhammer_02: Marteau de Guerre
+ItMw_1H_Mace_Warhammer_03: Marteau des Dieux
+ItMw_1H_Sword_01: Épée Grossière
+ItMw_1H_Sword_02: Épée du Jugement
+ItMw_1H_Sword_03: Épée de Garde
+ItMw_1H_Sword_04: Épée de Combat
+ItMw_1H_Sword_05: Épée de Guerre
+ItMw_1H_Sword_Arto: Épée de Arto
+ItMw_1H_Sword_Bastard_01: Épée Batarde rouillée
+ItMw_1H_Sword_Bastard_02: Le boucher
+ItMw_1H_Sword_Bastard_03: L'Éxecuteur
+ItMw_1H_Sword_Bastard_04: Mot de l'Enragé
+ItMw_1H_Sword_Broad_01: Glaive
+ItMw_1H_Sword_Broad_02: Verdict du Guerrier
+ItMw_1H_Sword_Broad_03: Murmure de Tempête
+ItMw_1H_Sword_Broad_04: Main de Garde
+ItMw_1H_Sword_Kalom: Épée de Kalom
+ItMw_1H_Sword_Lightguard_01: Épée Légère de Garde
+ItMw_1H_Sword_Long_01: Épée Longue
+ItMw_1H_Sword_Long_02: Épée de Terreur
+ItMw_1H_Sword_Long_03: Épée de Vitesse
+ItMw_1H_Sword_Long_04: pée de Victoire
+ItMw_1H_Sword_Long_05: Épée de Mort
+ItMw_1H_Sword_Old_01: Épée Rouillée
+ItMw_1H_Sword_Old_02: ''
+ItMw_1H_Sword_Paw: Poing de Paw
+ItMw_1H_Sword_Raven: Justice de Raven
+ItMw_1H_Sword_Scar: Épée de Scar
+ItMw_1H_Sword_Scythe_01: Cutter
+ItMw_1H_Sword_Short_01: Épée Courte
+ItMw_1H_Sword_Short_02: Défense du Fermier
+ItMw_1H_Sword_Short_03: Morsure du Charognard
+ItMw_1H_Sword_Short_04: Épine Blessante
+ItMw_1H_Sword_Short_05: Discipline du Mineur
+ItMw_1H_Sword_Whistler: Épée de Whistler
+ItMw_1H_Torch: Torche
+ItRw_Bow_Diego: Arc de Diego
+ItRw_Bow_Long_01: Longbow
+ItRw_Bow_Long_02: Arc délimité
+ItRw_Bow_Long_03: Arc atrophié
+ItRw_Bow_Long_04: Arc en Chêne
+ItRw_Bow_Long_05: Déchiqueteuse de Loups
+ItRw_Bow_Long_06: Briseur de Vent
+ItRw_Bow_Long_07: Arc de l'Armée
+ItRw_Bow_Long_08: Arc en Corne
+ItRw_Bow_Long_09: Arc de Nimrod
+ItRw_Bow_Small_01: ''
+ItRw_Bow_Small_02: Arc de Forestier
+ItRw_Bow_Small_03: Arc de bataille
+ItRw_Bow_Small_04: Arc de chasse
+ItRw_Bow_Small_05: Arc d'os
+ItRw_Bow_War_01: Arc de Guerre
+ItRw_Bow_War_02: Poursuivant d'Orc
+ItRw_Bow_War_03: Arc tempête
+ItRw_Bow_War_04: Arc démon
+ItRw_Bow_War_05: Arc de la mort
+ItRw_Bow_Wolf: Arc de Wolf
+ItRw_Crossbow_01: Arbalète légère
+ItRw_Crossbow_02: Arbalète
+ItRw_Crossbow_03: Arbalète lourde
+ItRw_Crossbow_04: Arbalète de guerre
+ItMw_2H_Axe_Gorn: Revanche de Gorn
+ItMw_2H_Axe_Heavy_01: Hache de Guerre
+ItMw_2H_Axe_Heavy_02: Voix du Guerrier
+ItMw_2H_Axe_Heavy_03: Poing du Barbare
+ItMw_2H_Axe_Heavy_04: Poing du Troll
+ItMw_2H_Axe_Lee: Hache de Lee
+ItMw_2H_Axe_Light_01: hache de Combat Légère
+ItMw_2H_Axe_Light_02: Coup-Tonnerre
+ItMw_2H_Axe_Light_03: Frappeur
+ItMw_2H_Axe_Old_01: Vieille Hache de Combat
+ItMw_2H_Axe_Old_02: Faucheuse de Sang
+ItMw_2H_Axe_Old_03: Jugement Dernier
+ItMw_2H_Axe_Orc_01: Krush Pach
+ItMw_2H_Axe_Orc_02: Krush UrRok
+ItMw_2H_Axe_Orc_03: Krush Agash
+ItMw_2H_Axe_Orc_04: Krush BrokDar
+ItMw_2H_Axe_Orik: Hache de Orik
+ItMw_2H_Axe_Pickaxe: Pioche
+ItMw_2H_Axe_Torlof: Hache de Torlof
+ItMw_2H_Mace_Orc_01: Krush Karrok
+ItMw_2H_Scepter_Skeletonmage: ''
+ItMw_2H_Staff_01: ''
+ItMw_2H_Staff_02: Baton du Jugement
+ItMw_2H_Staff_03: ''
+ItMw_2H_Staff_Light: ''
+ItMw_2H_Staff_Orc: Grachtnakk
+ItMw_2H_Staff_Scepter: Sceptre
+ItMw_2H_Staff_Ulumulu: Ulu-Mulu
+ItMw_2H_Staff_Unorc: ShaBaNakk
+ItMw_2H_Sword_01: Épée à deux mains
+ItMw_2H_Sword_02: Lame du Héro
+ItMw_2H_Sword_03: Lame de Sang
+ItMw_2H_Sword_Beliar: ''
+ItMw_2H_Sword_Heavy_01: Lourde Épée à deux mains
+ItMw_2H_Sword_Heavy_02: Rage d'Acier
+ItMw_2H_Sword_Heavy_03: Colère d'Acier
+ItMw_2H_Sword_Heavy_04: Revanche d'Acier
+ItMw_2H_Sword_Innos: Rage d'Innos
+ItMw_2H_Sword_Light_01: Épée à deux mains Légère
+ItMw_2H_Sword_Light_02: Lame du Gardien
+ItMw_2H_Sword_Light_03: Lame du Mercenaire
+ItMw_2H_Sword_Light_04: Lame du Roi
+ItMw_2H_Sword_Light_05: Lame Démoniaque
+ItMw_2H_Sword_Old_01: Épée à deux mains rouillée
+ItMw_2H_Sword_Orc_01: Krush Varrok
+ItMw_2H_Sword_Thorus: Épée de Thorus
+ItMw_2H_Sword_Uriziel_01: URIZIEL
+ItMw_2H_Sword_Wind: Vent Rouge
+ItWr_Book_Arcanum: Grand Secret Élémentaire
+ItWr_Book_Artfighting: L'Art du Combat
+ItWr_Book_Astronomy: Astronomie
+ItWr_Book_Battle_Varant_01: La Bataille de Varant
+ItWr_Book_Battle_Varant_02: La Bataille de Varant
+ItWr_Book_Bloodfly_01: Les Mouches de Sang
+ItWr_Book_Chromanin_01: Chromanin
+ItWr_Book_Chromanin_02: Chromanin 2
+ItWr_Book_Chromanin_03: Chromanin 3
+ItWr_Book_Chromanin_04: Chromanin 4
+ItWr_Book_Chromanin_05: Chromanin 5
+ItWr_Book_Chromanin_06: Chromanin 6
+ItWr_Book_Circle_01: Le 1er Cercle de Magie
+ItWr_Book_Circle_02: Le 2e Cercle de Magie
+ItWr_Book_Circle_03: Le 3e Cercle de Magie
+ItWr_Book_Circle_04: Le 4e Cercle de Magie
+ItWr_Book_Circle_05: Le 5e Cercle de Magie
+ItWr_Book_Circle_06: Le 6e Cercle de Magie
+ItWr_Book_Crypt: ''
+ItWr_Book_Focus: Almanach
+ItWr_Book_Gods_01: Mots des Dieux
+ItWr_Book_Gods_02: Mots des Dieux
+ItWr_Book_Gods_03: Mots des Dieux
+ItWr_Book_Godsgift: Un Don des Dieux
+ItWr_Book_Golem_01: ''
+ItWr_Book_Golem_02: ''
+ItWr_Book_Hunt: Chasse et Prière
+ItWr_Book_Lyric: poésie de Myrtana
+ItWr_Book_Magicore: Minerai Magique
+ItWr_Book_Powerfulart: Un Art Puissant
+ItWr_Book_Recipes_01: Recettes
+ItWr_Book_Recipes_02: Recettes
+ItWr_Book_Secrets: Les Secrets de la Magie
+ItWr_Book_Slave: Journal
+ItWr_Book_Tales: ''
+ItWr_Book_Troll: Page de Journal
+ItWr_Book_True_Power: Véritable Pouvoir
+ItWr_Map_Cliff: Carte du mystérieux de Y'Bérion
+ItWr_Map_Focus: Carte des pierres focales de Saturas
+ItWr_Map: Plan du Nouveau Camp
+ItWr_Map_OldCamp: Plan du Vieux Camp
+ItWr_Map_OldMine: Carte de la vieille Mine
+ItWr_Map_Orc: Carte de la Colonie (complétée)
+ItWr_Map_SwampCamp: Plan du Camp Marécageux
+ItWr_Map_Temple: ''
+ItWr_Map_World: Carte de la Colonie
+ItWr_Map_WorldComplete: ''

@@ -1,0 +1,76 @@
+Skill_Melee_OneHanded: One Handed
+Skill_Melee_TwoHanded: Two Handed
+Skill_Ranged_Bow: Bow
+Skill_Ranged_Crossbow: Crossbow
+Skill_Pickpocketing: Pickpocketing
+Skill_Lockpicking: Lockpicking
+Skill_Crafting_Blacksmith: Smithing
+Skill_Orcish: Orcish
+Skill_Diving: Diving
+Skill_Acrobatics: Acrobatics
+Skill_Sneaking: Sneaking
+Skill_Wallclimbing: Climbing
+Skill_Crafting_Alchemy: Alchemy
+Skill_Crafting_Inscription: Inscription
+Skill_Hunting_Claw: Extract Claw
+Skill_Hunting_Skin: Take Skin
+Skill_Hunting_Teeth: Extract Teeth
+Skill_Hunting_Scutes: Take Scutes
+Skill_Hunting_Organ: Extract Organ
+Skill_Hunting_Fins: Take Fins
+Skill_Hunting_Secretion: Extract Secretion
+Skill_Hunting_Fur: Take Fur
+Skill_Hunting_UluMulu: Take Ulu-Mulu
+Skill_Hunting_Spines: Extract Spine
+Skill_Hunting_SkullArmor: Take Skull Armor
+Skill_Hunting_Stings: Extract Stings
+Skill_Hunting_MCMandibles: Extract Mandibles
+Skill_Hunting_MCPlate: Take Plates
+Skill_Hunting_TongueOfFire: Take Tongue of Fire
+Skill_Hunting_ShadowbeastHorn: Take Horn
+Skill_Hunting_SwampsharkTeeth: Extract Shark Teeth
+Skill_Hunting_SkinSwampshark: Take Shark Skin
+Skill_Hunting_TrollHorn: Take Horn
+SkillMastery_Untrained: Untrained
+SkillMastery_Trained: Trained
+SkillMastery_Master: Master
+Skill_Melee_OneHanded_Description: Your proficiency with one-handed weapons determines
+  your combat efficiency, from basic swings to fluid and masterful combinations.
+Skill_Melee_OneHanded_Untrained_Description: You are untrained. You can wield a weapon.
+  Do not expect finesse; combos and parries are beyond your grasp.
+Skill_Melee_OneHanded_Trained_Description: With training your movements become fluid,
+  enabling attack combinations and skillful parries. You can deliver critical hits
+  and have the capability to cancel attacks midway.
+Skill_Melee_OneHanded_Master_Description: A master of one-handed combat is a force
+  to be reckoned with. Your chance for critical strikes is heightened, and you can
+  cause knockbacks. Parrying becomes second nature, allowing for strong counterattacks.
+Skill_Melee_TwoHanded_Description: Your skill with two-handed weapons defines your
+  capacity in battle, from raw strikes to graceful and dominating combinations.
+Skill_Melee_TwoHanded_Untrained_Description: You are untrained. You can grip a two-handed
+  weapon, but its full potential remains elusive. Combos and parries are beyond your
+  reach, and your attacks are simple and unrefined.
+Skill_Melee_TwoHanded_Trained_Description: With training your control over two-handed
+  weapons becomes fluid, allowing you to weave powerful combinations and skilled parries.
+  Critical hits become possible, and you gain the ability to cancel attacks.
+Skill_Melee_TwoHanded_Master_Description: As a master of two-handed combat, your prowess
+  is formidable. Critical strikes become more frequent, parrying allows counterattacks,
+  and your powerful swings can send foes reeling with knockbacks.
+Skill_Ranged_Bow_Description: Your skill with bows defines your marksmanship, from
+  basic aiming to precise and swift shots.
+Skill_Ranged_Bow_UntrainedDescriptions: You are untrained. You can hold a bow, but
+  aiming is challenging, and drawing and reloading feels cumbersome.
+Skill_Ranged_Bow_Trained_Description: With training your bow skills have sharpened.
+  You are now much more proficient reloading and aiming your bow, and your increased
+  precision allows for critical hits.
+Skill_Ranged_Bow_Master_Description: Your control over the bow is masterful. Your
+  critical hits devastate your enemies, and the swiftness and precision of your shots
+  overwhelm them.
+Skill_Ranged_Crossbow_Description: Your command of crossbows reflects your ranged
+  combat mastery, evolving from basic handling to quick and precise shooting.
+Skill_Ranged_Crossbow_Untrained_Description: You are untrained. You can operate crossbows,
+  but your unsteady hands may prove aiming, and reloading is slow and tedious.
+Skill_Ranged_Crossbow_Trained_Description: With training your prowess with the crossbow
+  grows. Reloading is faster, your aim steadies and critical hits become a real threat.
+Skill_Ranged_Crossbow_Master_Description: You achieve mastery over crossbows. Critical
+  strikes come with greater ease, each shot boasts unmatched accuracy, and your deft
+  hands reload the bolts swiftly.

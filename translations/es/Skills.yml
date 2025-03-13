@@ -1,0 +1,79 @@
+Skill_Melee_OneHanded: Una mano
+Skill_Melee_TwoHanded: Dos manos
+Skill_Ranged_Bow: Arco
+Skill_Ranged_Crossbow: Ballesta
+Skill_Pickpocketing: Hurto
+Skill_Lockpicking: Abrir cerraduras
+Skill_Crafting_Blacksmith: Herrería
+Skill_Orcish: Orcish
+Skill_Diving: Buceo
+Skill_Acrobatics: Acrobacias
+Skill_Sneaking: Sigilo
+Skill_Wallclimbing: Trepar
+Skill_Crafting_Alchemy: Alquimia
+Skill_Crafting_Inscription: Inscripción
+Skill_Hunting_Claw: Extraer garra
+Skill_Hunting_Skin: Coger piel
+Skill_Hunting_Teeth: Extraer dientes
+Skill_Hunting_Scutes: Coger placas dérmicas
+Skill_Hunting_Organ: Extraer órgano
+Skill_Hunting_Fins: Coger aletas
+Skill_Hunting_Secretion: Extraer secreción
+Skill_Hunting_Fur: Coger pelaje
+Skill_Hunting_UluMulu: Coger Ulu-Mulu
+Skill_Hunting_Spines: Extraer espina
+Skill_Hunting_SkullArmor: Coger armadura craneal
+Skill_Hunting_Stings: Extraer aguijones
+Skill_Hunting_MCMandibles: Extraer mandíbulas
+Skill_Hunting_MCPlate: Coger placas
+Skill_Hunting_TongueOfFire: Coger lengua de fuego
+Skill_Hunting_ShadowbeastHorn: Coger cuerno
+Skill_Hunting_SwampsharkTeeth: Extraer dientes de tiburón
+Skill_Hunting_SkinSwampshark: Coger piel de tiburón
+Skill_Hunting_TrollHorn: Coger cuerno
+SkillMastery_Untrained: No entrenado
+SkillMastery_Trained: Entrenado
+SkillMastery_Master: Maestro
+Skill_Melee_OneHanded_Description: Tu pericia con las armas de una mano determina
+  tu eficacia en el combate, desde golpes básicos hasta combinaciones fluidas y magistrales.
+Skill_Melee_OneHanded_Untrained_Description: No estás entrenado. Puedes blandir un
+  arma. No esperes sutilezas; los combos y paradas se escapan a tus conocimientos.
+Skill_Melee_OneHanded_Trained_Description: Con el entrenamiento, tus movimientos se
+  hacen más fluidos, lo que permite combinaciones de ataques y hábiles paradas. Puedes
+  asestar golpes críticos y tienes la capacidad de cancelar ataques en curso.
+Skill_Melee_OneHanded_Master_Description: Un maestro del combate a una mano es una
+  fuerza a tener en cuenta. Tu probabilidad de asestar golpes críticos aumenta y puedes
+  empujar al rival. Paras los golpes con naturalidad, lo que permite poderosos contraataques.
+Skill_Melee_TwoHanded_Description: Tu habilidad con las armas de dos manos define
+  tu capacidad en combate, desde golpes básicos hasta combinaciones elegantes y avasalladoras.
+Skill_Melee_TwoHanded_Untrained_Description: No estás entrenado. Puedes blandir un
+  arma de dos manos, pero su potencial completo está fuera de tu alcance. Los combos
+  y paradas se escapan a tus conocimientos. Tus ataques son sencillos y nada refinados.
+Skill_Melee_TwoHanded_Trained_Description: Con el entrenamiento, tu control de las
+  armas de dos manos se hace más fluido, lo que te permite encadenar poderosas combinaciones
+  y hábiles paradas. Puedes asestar golpes críticos y adquieres la capacidad de cancelar
+  los ataques.
+Skill_Melee_TwoHanded_Master_Description: Como maestro del combate a dos manos, tu
+  destreza es formidable. Los golpes críticos son más frecuentes, las paradas te permiten
+  contraatacar y tus potentes golpes pueden hacer retroceder a los enemigos.
+Skill_Ranged_Bow_Description: Tu habilidad con los arcos define tu capacidad como
+  tirador, desde la puntería básica hasta disparos rápidos y precisos.
+Skill_Ranged_Bow_UntrainedDescriptions: No estás entrenado. Puedes sostener un arco,
+  pero te resulta difícil apuntar y te sientes torpe al tensar la cuerda y recargar.
+Skill_Ranged_Bow_Trained_Description: Con el entrenamiento, tu habilidad con el arco
+  ha mejorado. Ahora eres mucho más hábil a la hora de recargar y apuntar con tu arco,
+  y tu mayor precisión te permite lograr impactos críticos.
+Skill_Ranged_Bow_Master_Description: Tu control del arco es magistral. Tus impactos
+  críticos destrozan a los enemigos, y la rapidez y precisión de tus disparos los
+  abruman.
+Skill_Ranged_Crossbow_Description: Tu dominio de las ballestas refleja tu maestría
+  en el combate a distancia, pasando de un manejo básico a unos disparos rápidos y
+  precisos.
+Skill_Ranged_Crossbow_Untrained_Description: No estás entrenado. Puedes manejar ballestas,
+  pero tus manos torpes hacen que apuntar y recargar resulte un proceso lento y tedioso.
+Skill_Ranged_Crossbow_Trained_Description: Con el entrenamiento, tu destreza con la
+  ballesta aumenta. Recargas más deprisa, tu puntería mejora y los impactos críticos
+  se convierten en una amenaza real.
+Skill_Ranged_Crossbow_Master_Description: Alcanzas la maestría en el dominio de la
+  ballesta. Logras impactos críticos con más facilidad, cada disparo presenta una
+  precisión inigualable y tus diestras manos recargan los virotes con rapidez.

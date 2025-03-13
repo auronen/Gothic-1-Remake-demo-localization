@@ -1,0 +1,80 @@
+Skill_Melee_OneHanded: Broń jednoręczna
+Skill_Melee_TwoHanded: Broń dwuręczna
+Skill_Ranged_Bow: Łuk
+Skill_Ranged_Crossbow: Kusza
+Skill_Pickpocketing: Kradzież kieszonkowa
+Skill_Lockpicking: Otwieranie zamków
+Skill_Crafting_Blacksmith: Kowalstwo
+Skill_Orcish: Orkowy
+Skill_Diving: Nurkowanie
+Skill_Acrobatics: Akrobatyka
+Skill_Sneaking: Skradanie
+Skill_Wallclimbing: Wspinaczka
+Skill_Crafting_Alchemy: Alchemia
+Skill_Crafting_Inscription: Inskrypcja
+Skill_Hunting_Claw: Pazury
+Skill_Hunting_Skin: Skórowanie
+Skill_Hunting_Teeth: Kły
+Skill_Hunting_Scutes: Pozyskiwanie łusek
+Skill_Hunting_Organ: Wyjęcie organu
+Skill_Hunting_Fins: Pozyskiwanie płetw
+Skill_Hunting_Secretion: Pozyskiwanie ekstraktu
+Skill_Hunting_Fur: Pozyskiwanie futra
+Skill_Hunting_UluMulu: Pozyskiwanie Ulu-Mulu
+Skill_Hunting_Spines: Wyjęcie kręgosłupa
+Skill_Hunting_SkullArmor: Pozyskiwanie kościanej zbroi
+Skill_Hunting_Stings: Wyjęcie żądła
+Skill_Hunting_MCMandibles: Wnętrzności pełzacza
+Skill_Hunting_MCPlate: Płytki pełzacza
+Skill_Hunting_TongueOfFire: Język ognia
+Skill_Hunting_ShadowbeastHorn: Róg cieniostwora
+Skill_Hunting_SwampsharkTeeth: Kły błotnego węża
+Skill_Hunting_SkinSwampshark: Pozyskiwanie skóry rekina
+Skill_Hunting_TrollHorn: Pozyskiwanie rogów
+SkillMastery_Untrained: Niewyszkolony
+SkillMastery_Trained: Wyszkolony
+SkillMastery_Master: Mistrz
+Skill_Melee_OneHanded_Description: Biegłość w posługiwaniu się bronią jednoręczną
+  determinuje skuteczność w walce, od podstawowych wymachów po płynne i mistrzowskie
+  kombinacje.
+Skill_Melee_OneHanded_Untrained_Description: Jesteś niewyszkolony. Potrafisz władać
+  bronią. Nie oczekuj finezji; kombinacje i parowanie są poza twoim zasięgiem.
+Skill_Melee_OneHanded_Trained_Description: Dzięki treningowi twoje ruchy stają się
+  płynne, umożliwiając kombinacje ataków i zręczne parowanie. Możesz zadawać krytyczne
+  trafienia i anulować ataki w trakcie ich wyprowadzania.
+Skill_Melee_OneHanded_Master_Description: Z mistrzem walki bronią jednoręczną trzeba
+  się liczyć. Szansa na trafienie krytyczne wzrasta, a ciosy mogą odrzucać wrogów.
+  Parowanie wchodzi w nawyk i umożliwia silne kontrataki.
+Skill_Melee_TwoHanded_Description: Umiejętność posługiwania się bronią dwuręczną określa
+  twoje możliwości w walce, od prostych uderzeń po powalające kombinacje pełne gracji.
+Skill_Melee_TwoHanded_Untrained_Description: Jesteś niewyszkolony. Potrafisz chwycić
+  broń dwuręczną, ale jej pełny potencjał ci się wymyka. Kombinacje i parowanie są
+  poza twoim zasięgiem, a ataki są proste i niewyrafinowane.
+Skill_Melee_TwoHanded_Trained_Description: Wraz z treningiem twoja kontrola nad bronią
+  dwuręczną staje się płynna, pozwalając ci na wyprowadzanie potężnych kombinacji
+  i umiejętnych parad. Możesz zadawać trafienia krytyczne i zyskujesz umiejętność
+  anulowania ataków.
+Skill_Melee_TwoHanded_Master_Description: Posługujesz się bronią dwuręczną z nadzwyczajną
+  skutecznością. Częściej zadajesz trafienia krytyczne, parowanie umożliwia kontrataki,
+  a potężne zamachy mogą odepchnąć wrogów.
+Skill_Ranged_Bow_Description: Umiejętność posługiwania się łukiem określa celność,
+  od podstawowego celowania po precyzyjne i szybkie strzały.
+Skill_Ranged_Bow_UntrainedDescriptions: Jesteś niewyszkolony. Potrafisz trzymać łuk,
+  ale celowanie jest trudne, a naciąganie cięciwy i przeładowywanie – uciążliwe.
+Skill_Ranged_Bow_Trained_Description: Dzięki treningowi twoje umiejętności posługiwania
+  się łukiem stały się znacznie lepsze. Teraz jeszcze szybciej przeładowujesz i celujesz,
+  a zwiększona precyzja pozwala na krytyczne trafienia.
+Skill_Ranged_Bow_Master_Description: Po mistrzowsku posługujesz się łukiem. Trafienia
+  krytyczne masakrują wrogów, a szybkość i precyzja strzałów przytłaczają ich.
+Skill_Ranged_Crossbow_Description: Umiejętność posługiwania się kuszą odzwierciedla
+  opanowanie walki na dystans, ewoluując od podstawowej obsługi do szybkiego i precyzyjnego
+  strzelania.
+Skill_Ranged_Crossbow_Untrained_Description: Jesteś niewyszkolony. Potrafisz obsługiwać
+  kusze, ale twoje trzęsące się ręce mogą utrudniać celowanie, a przeładowywanie jest
+  powolne i żmudne.
+Skill_Ranged_Crossbow_Trained_Description: Wraz z treningiem rośnie twoja sprawność
+  w posługiwaniu się kuszą. Przeładowywanie jest szybsze, celowanie stabilniejsze,
+  a trafienia krytyczne stają się realnym zagrożeniem.
+Skill_Ranged_Crossbow_Master_Description: Jesteś mistrzem w posługiwaniu się kuszą.
+  Trafienia krytyczne przychodzą z większą łatwością, każdy strzał oddawany jest z
+  niezrównaną celnością, a twoje zręczne dłonie szybko przeładowują bełty.

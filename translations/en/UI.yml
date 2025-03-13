@@ -1,0 +1,536 @@
+UI_Profile_ChapterNyras: Nyras
+UI_Settings_Disclaimer: More game settings, including UI and notification displays
+  options, will be available in the final game.
+UI_Settings_ResolutionDisclaimer: Please note that the Alkimia Overdose quality preset
+  might only work on very high end hardware.
+UI_Loadingscreen_Hint1: In this demo you will not play as, or see the famous Nameless
+  Hero
+UI_Loadingscreen_Hint2: Gothic 1 Remake is an open world RPG in the spirit of the
+  original Gothic
+UI_Loadingscreen_Hint3: Please don't complain that the hero in this demo (Nyras) doesn't
+  look like our beloved Nameless Hero.
+UI_Loadingscreen_Hint4: Don't forget to join the community and wishlist the game.
+  All info is available at gothic-game.com
+UI_Loadingscreen_Hint5: With your support the Gothic franchise has a bright future
+  ahead!
+UI_Loadingscreen_Hint6: Only for this demo there is a Revive option available if you
+  die. The full game won't have that but will offer save/load.
+UI_Disclaimer: This demo is an isolated prequel experience created to show some of
+  the main features of the Gothic 1 Remake, but since the game is still being worked
+  on it can contain bugs and glitches. The full game follows the story, structure,
+  and spirit of the original Gothic, with the Nameless Hero as the protagonist.
+UI_StoryIntro: 'The story takes place in the mine valley of Khorinis. A penal colony
+  violently taken over by its prisoners after a barrier spell went astray, the inmates
+  now live in interdependency with the king, who needs them for the magical “blue
+  ore” - humanity''s last hope for its losing war against the orcs.
+
+
+  You are Nyras, and you have just arrived in the Colony.
+
+
+  <b> Welcome to your new life!</>'
+GE_Param_Heal: Heal
+GE_Param_Duration: Duration
+GE_Param_Mana: Mana
+UI_Tabs_Inventory: Inventory
+UI_Tabs_Quests: Quests
+UI_Tabs_Glossary: Glossary
+UI_Tabs_Map: Maps
+UI_Tabs_Stats: Stats
+UI_Tabs_Buy: Buy
+UI_Tabs_Sell: Sell
+Text_FilterMelee: Melee
+Text_FilterRanged: Ranged
+Text_FilterMagic: Magic
+Text_FilterWearables: Wearables
+Text_FilterFood: Food
+Text_FilterPotions: Potions
+Text_FilterMaterials: Materials
+Text_FilterMiscellaneous: Miscellaneous
+Text_FilterArtefacts: Artefacts
+Text_FilterDocuments: Documents
+Text_FilterOldCamp: Old Camp
+Text_FilterSwampCamp: Swamp Camp
+Text_FilterNewCamp: New Camp
+Text_FilterHiddenCamp: Hidden Camp
+Text_FilterOutsiders: Outsiders
+Text_FilterCreatures: Creatures
+Text_FilterItems: Items
+Text_FilterLocations: Locations
+Text_FilterWorld: The Colony
+Text_FilterCompleted: Completed
+Text_FilterAll: All
+UI_Inventory_Requirements: 'Requirements:'
+UI_Inventory_Description: Description
+UI_Inventory_EquippedSlot: Equipped in slot
+UI_Inventory_OneHanded: One-Handed Weapon
+UI_Inventory_TwoHanded: Two-Handed Weapon
+UI_Inventory_Bow: Bow
+UI_Inventory_Crossbow: Crossbow
+UI_Inventory_Food: Food
+UI_Inventory_Open: Open inventory
+UI_Inventory_ThousandsAbbreviation: k
+UI_Quests_Objectives: Objectives
+UI_Quests_Log: Log
+UI_Quests_DateTimeFormat: '{date}, {time}'
+UI_Quests_DateFormat: '{days} days ago'
+UI_Quests_TimeFormat: '{hours}:{minutes}'
+UI_Quests_DateToday: Today
+UI_Quests_DateYesterday: Yesterday
+UI_Quests_Update: Quest Updated
+UI_Quests_Complete: Quest Complete
+UI_Quests_QuestFailed: Quest Failed
+UI_Quests: New Quest
+UI_Quests_NoQuestsAvailable: No quests available
+UI_Quests_QuestUpdatedFormat: '''{quest}'' updated'
+UI_Glossary_NoEntriesAvailable: No glossary entries available
+UI_Stats_CharacterStats: Stats
+UI_Stats_Level: Level
+UI_Stats_SkillPoints: Skill Points
+UI_Attribute_Atributes: Attributes
+UI_Attribute_Health: Health
+UI_Attribute_Mana: Mana
+UI_Attribute_Strength: Strength
+UI_Attribute_Dexterity: Dexterity
+UI_Attribute_MagicCircle: Magic Circle
+UI_Attribute_Toughness: Toughness
+UI_Protection_Protection: Protection
+UI_Protection_Physical: Physical
+UI_Protection_Arrows: Arrows
+UI_Protection_Magic: Magic
+UI_Protection_Fire: Fire
+UI_Fighting_Fighting: Fighting
+UI_Fighting_OneHanded: One-Handed
+UI_Fighting_TwoHanded: Two-Handed
+UI_Fighting_Crossbow: Crossbow
+UI_Fighting_Bow: Bow
+UI_Skill_SpecialSkills: Special Skills
+UI_Skill_OpenLocks: Open Locks
+UI_Skill_Pickpocketing: Pickpocketing
+UI_Lessons: Lessons
+UI_Lessons_Sneaking: Sneaking
+UI_Lessons_Acrobatics: Acrobatics
+UI_Attribute_Health_Tooltip: Health is your physical endurance. The more health you
+  have, the more damage you can sustain before falling. Your health will increase
+  with experience, keeping you resilient against ever-stronger foes.
+UI_Attribute_Mana_Tooltip: Mana fuels your magical abilities. Mana is consumed while
+  casting spells and does not regenerate independently, so plan your rest and item
+  consumption accordingly.
+UI_Attribute_Strength_Tooltip: Strength expresses your physical prowess. The greater
+  your strength, the more powerful weapons you can wield and the more damaging your
+  melee attacks will be.
+UI_Attribute_Dexterity_Tooltip: Dexterity represents your mastery, balance and control
+  over your body. It determines the ranged weapons you can use and improves your ranged
+  attack effectiveness and chance of success while pickpocketing.
+UI_Attribute_MagicCircle_Tooltip: Magic Circles signify the depth of a wizard's wisdom
+  and knowledge in the arcane arts. As you ascend through the circles, you gain access
+  to more intricate and potent spells, amplifying your magical prowess.
+UI_Attribute_Toughness_Tooltip: Toughness is a measure of your ability to bear encumbrance.
+  As you grow tougher, you can carry more items. Overburdening yourself will hinder
+  your movement, so manage your inventory wisely.
+UI_Protection_Physical_Tooltip: Provides defense against both the cutting edges of
+  swords and axes, and the crushing blows of maces, minimizing the impact of direct
+  physical attacks.
+UI_Protection_Arrows_Tooltip: This protection reduces the piercing damage from arrows
+  and bolts.
+UI_Protection_Magic_Tooltip: Fortifies your defenses against the forces of the arcane.
+  This protection lessens their impact, whether it's a chilling ice spell or a thundering
+  shock.
+UI_Protection_Fire_Tooltip: Designed to shield against the intense heat of flames,
+  this protection ensures you're less affected by fire-based attacks and hazards.
+UI_Fighting_OneHanded_Tooltip: Your proficiency with one-handed weapons determines
+  your combat efficiency, from basic swings to fluid and masterful combinations.
+UI_Fighting_OneHanded_Untrained_Tooltip: You are untrained. You can wield a weapon.
+  Do not expect finesse; combos and parries are beyond your grasp.
+UI_Fighting_OneHanded_Trained_Tooltip: With training you movements become fluid, enabling
+  attack combinations and skillful parries. You can deliver critical hits and have
+  the capability to cancel attacks midway.
+UI_Fighting_OneHanded_Master_Tooltip: A master of one-handed combat is a force to
+  be reckoned with. Your chance for critical strikes is heightened, and you can cause
+  knockbacks. Parrying becomes second nature, allowing for strong counterattacks.
+UI_Fighting_TwoHanded_Tooltip: Your skill with two-handed weapons defines your capacity
+  in battle, from raw strikes to graceful and dominating combinations.
+UI_Fighting_TwoHanded_Untrained_Tooltip: You are untrained. You can grip a two-handed
+  weapon, but its full potential remains elusive. Combos and parries are beyond your
+  reach, and your attacks are simple and unrefined.
+UI_Fighting_TwoHanded_Trained_Tooltip: With training your control over two-handed
+  weapons becomes fluid, allowing you to weave powerful combinations and skilled parries.
+  Critical hits become possible, and you gain the ability to cancel attacks.
+UI_Fighting_TwoHanded_Master_Tooltip: As a master of two-handed combat, your prowess
+  is formidable. Critical strikes become more frequent, parrying allows counterattacks,
+  and your powerful swings can send foes reeling with knockbacks.
+UI_Fighting_Crossbow_Tooltip: Your command of crossbows reflects your ranged combat
+  mastery, evolving from basic handling to quick and precise shooting.
+UI_Fighting_Crossbow_Untrained_Tooltip: You are untrained. You can operate crossbows,
+  but your unsteady hands may prove aiming, and reloading is slow and tedious.
+UI_Fighting_Crossbow_Trained_Tooltip: With training your prowess with the crossbow
+  grows. Reloading is faster, your aim steadies and critical hits become a real threat.
+UI_Fighting_Crossbow_Master_Tooltip: You achieve mastery over crossbows. Critical
+  strikes come with greater ease, each shot boasts unmatched accuracy, and your deft
+  hands reload the bolts swiftly.
+UI_Fighting_Bow_Tooltip: Your skill with bows defines your marksmanship, from basic
+  aiming to precise and swift shots.
+UI_Fighting_Bow_Untrained_Tooltip: You are untrained. You can hold a bow, but aiming
+  is challenging, and drawing and reloading feels cumbersome.
+UI_Fighting_Bow_Trained_Tooltip: With training your bow skills have sharpened. You
+  are now much more proficient reloading and aiming your bow, and your increased precision
+  allows for critical hits.
+UI_Fighting_Bow_Master_Tooltip: Your control over the bow is masterful. Your critical
+  hits devastate your enemies, and the swiftness and precision of your shots overwhelm
+  them.
+UI_Crafting_InProgress: Preparing recipe...
+UI_Crafting_ForgingItem: Forging the item
+UI_Crafting_GoToAnvil: Go to the Anvil
+UI_Crafting_ShapingItem: Shaping the item
+UI_Crafting_GoToWaterBarrel: Go to the water barrel
+UI_Crafting_CoolingDownItem: Cooling down the item
+UI_Crafting_PanCook: Pan Cook
+UI_Crafting_MenuTitle_Pan: Pan
+UI_Crafting_MenuTitle_Cauldron: Cauldron
+UI_Crafting_MenuTitle_Forge: Forge
+UI_Crafting_MenuTitle_Workbench: Workbench
+UI_Crafting_MenuTitle_Whetstone: Whetstone
+UI_Crafting_MenuTitle_Alchemy: Alchemy Station
+UI_Crafting_MenuTitle_Inscription: Inscription Station
+UI_Crafting_HasMaterials: Has Materials
+UI_Crafting_Quantity: 'Quantity:'
+UI_Crafting_Cost: Cost
+UI_Crafting_Start: '[Hold] Craft'
+UI_Crafting_Section: Section
+UI_Crafting_Scrap: '[Hold] Scrap'
+UI_death_GameOver: Game Over
+UI_death_Revive: Revive
+UI_death_ReviveLeft: Revives left
+UI_death_MainMenu: Main Menu
+Text_Resume: Resume
+Text_OpenMenu: Open Menu
+TEXT_BACK: Back
+TEXT_DIALOG_END: End.
+Text_Cancel: Cancel
+Text_Equip: Equip
+Text_Equipped: Equipped
+Text_Unequip: Unequip
+Text_Consume: Consume
+Text_Compare: Compare
+Text_Drop: '[Hold] Drop'
+Text_Read: Read
+Text_Close: Close
+Text_Start: START
+Text_Button_Back: Back
+Text_Continue: Continue
+Text_Confirm: Confirm
+Text_Select: Select
+Text_Yes: true
+Text_No: false
+Text_Reset: Reset
+Text_SaveChanges: Save Changes
+Text_LootAll: Take All
+Text_LootSwitchSection: Switch Focus
+Text_LootTake: Take
+Text_LootChest: Chest
+Text_LootCorpse: Corpse
+Text_LootStore: Store Items
+Text_LootInventory: Inventory
+Text_TradeAccept: Accept
+Text_HoldAccept: '[Hold] Accept'
+Text_TradeCancel: Cancel
+Text_DocumentMinimize: Minimize
+Text_OpenGlossary: Open Glossary
+Text_CycleHint: Cycle Hint
+Text_From: 'From:'
+Text_To: 'To:'
+Text_SleepFor: 'Sleep for:'
+Text_Days: Day(s)
+Text_Hours: h
+Text_Minutes: m
+Text_Seconds: s
+Text_Max_Uppercase: MAX
+Text_Restart: Restart
+UI_HUD_SwitchWheel: Switch Wheel
+UI_Demo_Gratitude: Thank you for playing this demo!
+UI_Demo_Gratitude_QR: 'Please provide feedback at:'
+UI_Demo_Gratitude_Follow: 'Be sure to follow us:'
+UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
+UI_Demo_CheatCode: Its a demo, come on, no need for marvin here. The full game however...
+UI_Trading_MyInventory: My Inventory
+UI_Trading_SellerInventory: Seller Inventory
+UI_Trading_Balance: Balance
+UI_Trading_SellBuy: Add to queue
+UI_Trading_Remove: Remove
+UI_Sleep_WaitingForPartner: '[ Need to wait ]'
+Text_LockpickMoveHorizontal: Move left/right
+Text_LockpickMoveVertical: Move up/down
+Text_OpenChest: Open Chest
+Text_OpenDoor: Open Door
+Text_LockpickToolRequired: A lockpicking tool is required.
+Text_LockpickSkillRequired: A lockpicking skill is required.
+UI_ArmourCustomization_Torso: Torso
+UI_ArmourCustomization_Waist: Waist
+UI_ArmourCustomization_Legs: Legs
+UI_ArmourCustomization_ArmorAlterations: Armor Alterations
+UI_ArmourCustomization_Equipped: E
+UI_ArmourCustomization_Equip: Equip
+UI_ArmourCustomization_Purchase: '[Hold] Purchase '
+UI_ArmourCustomization_Unequip: Unequip
+UI_Notification_LevelUp: Level Up
+UI_Notification: Chapter {ChapterNumber}
+UI_Notification_AreaDiscovered: New Area Discovered
+UI_Notification_ExperienceGainedFormat: '{Amount} Exp'
+UI_Notification_GlossaryUpdatedFormat: 'Glossary updated: {EntryName}'
+UI_Notification_KeyUsedFormat: 'Key used: {KeyName}'
+UI_Notification_SkillIncreasedFormat: 'Skill increased: {SkillName}'
+UI_Notification_SkillLearnedFormat: 'Skill learned: {SkillName}'
+UI_Notification_ShowMore: Show More
+UI_GameSaved_Notification: Game was saved.
+UI_CantSave_Notification: Blunt Damage
+Item_Damage_Physical_Edge: Edge Damage
+Item_Damage_Physical_Point: Point Damage
+Item_Damage_Elemental_Fire: Play
+UI_Main_Singleplayer: Single Player
+UI_Main_Settings: Settings
+UI_Main_Credits: Credits
+UI_Main_Quit: Quit
+UI_Main_QuitGame: Quit Game
+UI_Main_QuitModal: Are you sure you want to quit the game?
+UI_GameOver_ModalMainMenu: Are you sure you want to return to the main menu?
+UI_Main: New Game
+UI_Main_Load: Load Game
+UI_EnterNameHere: 'Enter the name here:'
+UI_LoadSave_LoadGame: Load Game
+UI_LoadSave_SaveGame: Save Game
+UI_LoadSave: New Save
+UI_LoadSave_Load: Load
+UI_LoadSave_Save: Save
+UI_LoadSave_Manual: Manual
+UI_Loadingscreen_Loading: Loading...
+UI_Loadingscreen_PressKeytoCtn: Press any key to continue!
+UI_Loadingscreen_HintsHeadline: Tips
+UI_LoadingScreen_ChapterFormat: Chapter {ChapterNumber}
+UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
+UI_Loadingscreen_Chapter1Title: Welcome to the Colony
+UI_Loadingscreen_Chapter1Text: First text in the chapter story so far First text in
+  the chapter story so far First text in the chapter story so far First text in the
+  chapter story so far First text in the chapter story so far First text in the chapter
+  story so far First text in the chapter story so far
+UI_Loadingscreen_Chapter2Title: The Minecrawler's nest
+UI_Loadingscreen_Chapter2Text: Second text in the chapter story so far First text
+  in the chapter story so far First text in the chapter story so far First text in
+  the chapter story so far First text in the chapter story so far First text in the
+  chapter story so far First text in the chapter story so far
+UI_Loadingscreen_Chapter3Title: Artifacts of ancient power
+UI_Loadingscreen_Chapter4Title: Xardas
+UI_Loadingscreen_Chapter5Title: The custodians of the portal
+UI_Loadingscreen_Chapter6Title: The sleeper's halls
+UI_Settings_Gameplay: Gameplay
+UI_Settings_Controls: Controls
+UI_Settings_Audio: Audio
+UI_Settings_On: true
+UI_Settings_Off: false
+UI_Settings_InvertedVCam: Inverted Vertical Camera
+UI_Settings_InvertedHCam: Inverted Horizontal Camera
+UI_Settings_CameraSentivity: Camera Sensitivity
+UI_Settings_Volume_Master: Master Volume
+UI_Settings_Volume_Sound: Sound FX
+UI_Settings_Volume_Music: Music
+UI_Settings_Volume_Voice: Voice
+UI_Settings_Language_Text: Text Language
+UI_Settings_Language_Voice: Voice Language
+UI_Settings_SubtitlesToggle: Subtitles
+UI_Settings_Brightness: Brightness
+UI_Settings_Contrast: Contrast
+UI_Settings_HDR: HDR
+UI_HUD: New Glossary Entry
+UI_HUD_Experience: Experience
+UI_HUD_Exp: Exp
+Text_MoveForward: Move Forward
+Text_MoveBack: Move Back
+Text_MoveLeft: Move Left
+Text_MoveRight: Move Right
+Text_Attack1: Attack 1
+Text_Attack2: Attack 2
+Text_Attack3: Attack 3
+Text_Attack4: Attack 4
+Text_Attack5: Attack 5
+Text_Block: Block/Parry
+Text_CancelThrow: Cancel Throw
+Text_Combat: Combat
+Text_Dodge: Dodge
+Text_Draw: 'Draw/Sheath Melee Weapon
+
+  [Hold] Draw/Sheath Ranged Weapon
+
+  '
+Text_DrawMelee: Draw/Sheath Melee Weapon
+Text_DropTorch: Drop Torch
+Text_DrawRanged: Draw/Sheath Ranged Weapon
+Text_Exploration: Exploration
+Text_Hold: Hold
+Text_Interact: Interact
+Text_Interact1: Primary Interact
+Text_Interact2: Secondary Interact
+Text_Inventory: Inventory
+Text_JumpClimb: Jump/Climb
+Text_Crouch: Crouch
+Text_Jump: Jump
+Text_Kick: Kick
+Text_Lock: Lock-On Target
+Text_ChangeObjective: Change Objective
+Text_Look: Look
+Text_Move: Move
+Text_PauseMenu: Pause Menu
+Text_QuickAccess: Quick Access Items
+Text_SelectThrow: Select Throwing Quick Item
+Text_Roll: Roll
+Text_Sneak: Sneak In/Out
+Text_Walk: Toggle Walk
+Text_Sprint: '[Click] Toggle Sprint'
+Text_Throw: Throw Item
+Text_ToggleQuick: Toggle Quick Access
+Text_UseQuick: Use Quick Item
+Text_Dive: Dive/Submerge
+Text_Surface: Surface/Swim Up
+Text_Cast: Cast spell
+Text_LaunchSpell: Launch Spell
+Text_SkipDialogue: Skip Dialogue
+Text_Aim: Aim
+Text_Mouse: Mouse
+UI_Profile_LastSave: Last Save
+UI_Profile_SaveTime: Save Time
+UI_Profile_TimePlayed: Time Played
+UI_Profile_Chapter: Chapter
+UI_Profile_Difficulty: Difficulty
+UI_Profile_SelectProfile: Select Profile
+UI_Profile_Delete: Delete
+UI_Profile: New Profile
+UI_Profile_Profile1: Profile 1
+UI_Profile_Profile2: Profile 2
+UI_Profile_Profile3: Profile 3
+UI_Profile_Profile4: Profile 4
+UI_Profile_ModalDeleteProfile: Are you sure you want to delete this profile and all
+  the associated save games?
+UI_Profile_ModalDeleteProfileTitle: Delete profile
+UI_Profile_ModalDeleteSaveTitle: Delete save
+UI_Profile_ModalDeleteSaveGame: Are you sure you want to delete this save game?
+UI_Profile_ModalNoMoreProfiles: There are no more free profile slots. Delete and existing
+  slot to create a new one.
+UI_Profile_ModalNameInUse: This name is already in use.
+UI_Profile_ModalNameEmpty: The name field cannot be empty.
+UI_Profile_ModalError: An error occured.
+UI_Profile_DefaultSaveFileName: '{location}, Day {day}, {hours}:{minutes}'
+UI_Difficulty_SelectDifficulty: Select Difficulty
+UI_Difficulty_Easy: Easy
+UI_Difficulty_EasyDescription: Add a description for the easy difficulty here
+UI_Difficulty_Standard: Standard
+UI_Difficulty_StandardDescription: Add a description for the standard difficulty here
+UI_Difficulty_Hard: Hard
+UI_Difficulty_HardDescription: Add a description for the hard difficulty here
+UI_Difficulty_Custom: Custom
+UI_Difficulty_CustomDescription: Add a description for the custom difficulty here
+UI_Difficulty_Start: Start Game
+UI_Difficulty_CombatLabel: Combat
+UI_Difficulty_ResourcesLabel: Resources
+UI_Difficulty_ProgressionLabel: Progression
+UI_Difficulty_CombatTooltip: Combat tooltip
+UI_Difficulty_ResourcesTooltip: Resources tooltip
+UI_Difficulty_ProgressionTooltip: Progression tooltip
+UI_Settings_Reset: Reset
+UI_Settings_Game: Game
+UI_Settings_CameraPreset: Camera preset
+UI_Settings_CameraPreset_Default: Default
+UI_Settings_CameraPreset_Classic: Classic
+UI_Settings_TextLanguage: Text language
+UI_Settings_AudioLanguage: Audio language
+UI_Settings_Language_English: English
+UI_Settings_Language_German: German
+UI_Settings_Language_Polish: Polish
+UI_Settings_Language_Russian: Russian
+UI_Settings_Language_Spanish: Spanish
+UI_Settings_Language_French: French
+UI_Settings_Language_Italian: Italian
+UI_Settings_Language_Chinese: Chinese
+UI_Settings_Language_Korean: Korean
+UI_Settings_Language_Japanese: Japanese
+UI_Settings_ObjectsOutliner: Objects outliner
+UI_Settings_ObjectsOutliner_Default: Default
+UI_Settings_ObjectsOutliner_Low: Low
+UI_Settings_ObjectsOutliner_No: false
+UI_Settings_Subtitles: Subtitles
+UI_Settings_SubtitleStyle: Subtitle size
+UI_Settings_SubtitleSize_Default: Default
+UI_Settings_SubtitleSize_Larger: Larger
+UI_Settings_AimScalar: Aim Speed
+UI_Settings_AutoCloseChests: Auto-close chests
+UI_Settings_AutoCloseChests_Description: If this setting is enabled, chests will automatically
+  close when the 'take all' option is used. Otherwise, the chest will remain open
+  until manually closed.
+UI_Settings_InvertXAxis: Invert X axis
+UI_Settings_InvertYAxis: Invert Y axis
+UI_Settings_RightStickSensitivity: Right stick sensitivity
+UI_Settings_LeftStickSensitivity: Left stick sensitivity
+UI_Settings_Vibration: Vibration
+UI_Settings_ButtonGraphics: Button graphics
+UI_Settings_Display: Display
+UI_Settings_DisplayMode: Display mode
+UI_Settings_DisplayMode_Windowed: Windowed
+UI_Settings_DisplayMode_Borderless: Borderless
+UI_Settings_DisplayMode_Fullscreen: Fullscreen
+UI_Settings_Resolution: Resolution
+UI_Settings_DynamicResolution: Dynamic resolution
+UI_Settings_VSync: VSync
+UI_Settings_FrameRateLimit: Frame rate limit
+UI_Settings_FrameRateLimit_Unlimited: Unlimited
+UI_Settings_Gamma: Gamma
+UI_Settings_Graphics: Graphics
+UI_Settings_FOV: Field of view
+UI_Settings_DepthOfField: Depth of field
+UI_Settings_MotionBlurIntensity: Motion blur intensity
+UI_Settings_MotionBlurIntensity_Description: The intensity of the motion blur effect.
+  Higher values will result in a more intense blur effect when moving the camera quickly.
+UI_Settings_BloomIntensity: Bloom intensity
+UI_Settings_BloomIntensity_Description: The intensity of the bloom effect. Higher
+  values will result in a more intense glow around bright objects.
+UI_Settings_AmbientOcclusionIntensity: Ambient occlusion intensity
+UI_Settings_AmbientOcclusionIntensity_Description: The intensity of the ambient occlusion
+  effect. Higher values will result in more pronounced shadows in corners and crevices.
+UI_Settings_AntiAliasing: Anti-aliasing
+UI_Settings_ColorSaturation: Saturation
+UI_Settings_ColorSaturation_Description: The intensity of the color (hue) for the
+  entire image. Higher values will result in more vibrant colors.
+UI_Settings_ColorContrast: Contrast
+UI_Settings_ColorContrast_Description: The range of light and dark values in your
+  scene. Lower values will reduce the difference between bright and dark areas while
+  higher values will increase the difference.
+UI_Settings_ColorBrightness: Brightness
+UI_Settings_ColorBrightness_Description: Raising or lowering this value will result
+  in brightening or darkening the entire scene.
+UI_Settings_OverallQuality: Quality preset
+UI_Settings_Quality_Low: Low
+UI_Settings_Quality_Medium: Medium
+UI_Settings_Quality_High: High
+UI_Settings_Quality_Epic: Gothic
+UI_Settings_Quality_Cinematic: Alkimia Overdose
+UI_Settings_Quality_Custom: Custom
+UI_Settings_Quality_Recommended: Recommended
+UI_Settings_ResolutionQuality: Resolution quality
+UI_Settings_ResolutionQuality_Description: Adjust the resolution quality to improve
+  performance or visual quality.
+UI_Settings_ViewDistanceQuality: View distance quality
+UI_Settings_AntiAliasingQuality: Anti-aliasing quality
+UI_Settings_ShadowQuality: Shadow quality
+UI_Settings_GlobalIlluminationQuality: Global illumination quality
+UI_Settings_ReflectionQuality: Reflection quality
+UI_Settings_PostProcessingQuality: Post-processing quality
+UI_Settings_TextureQuality: Texture quality
+UI_Settings_EffectsQuality: Effects quality
+UI_Settings_FoliageQuality: Foliage quality
+UI_Settings_ShadingQuality: Shading quality
+UI_Settings_LandscapeQuality: Landscape quality
+UI_Settings_Sound: Sound
+UI_Settings_MasterVolume: Master volume
+UI_Settings_MusicVolume: Music volume
+UI_Settings_SFXVolume: SFX volume
+UI_Settings_VoiceVolume: You have slept and feel well rested.
+UI_SleepEndedMessage_Default_2: You have slept and feel well rested (alt text)
+UI_SleepEndedMessage_StrangeDreams_1: You have slept but you had strange dreams.
+UI_SleepEndedMessage_StrangeDreams_2: You have slept but you had strange dreams (alt
+  text)

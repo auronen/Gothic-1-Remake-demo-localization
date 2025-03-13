@@ -1,0 +1,539 @@
+UI_Profile_ChapterNyras: Nyras
+UI_Settings_Disclaimer: В финальной версии игры будет больше настроек — например,
+  вы сможете изменить параметры интерфейса и уведомлений.
+UI_Settings_ResolutionDisclaimer: Обратите внимание, что для игры в качестве Alkimia
+  Overdose требуется мощный ПК.
+UI_Loadingscreen_Hint1: В демоверсии не будет знаменитого безымянного героя.
+UI_Loadingscreen_Hint2: Gothic 1 Remake — это ролевая игра с открытым миром в духе
+  оригинальной «Готики».
+UI_Loadingscreen_Hint3: Пожалуйста, не жалуйтесь, что герой в демоверсии (Нирас) не
+  похож на нашего любимого Безымянного.
+UI_Loadingscreen_Hint4: Не забудьте присоединиться к нашему сообществу и добавить
+  игру в список желаемого. Вся информация доступна на сайте gothic-game.com.
+UI_Loadingscreen_Hint5: С вашей поддержкой франшизу Gothic ждёт блестящее будущее!
+UI_Loadingscreen_Hint6: Функция возрождения доступна только в демоверсии. В полной
+  версии её не будет, зато можно будет сохранить игру и загрузить сохранение.
+UI_Disclaimer: Эта демоверсия — отдельная предыстория, созданная для того, чтобы показать
+  некоторые ключевые особенности Gothic 1 Remake. Поскольку игра ещё находится в разработке,
+  в ней могут встречаться ошибки и неполадки. Полная версия игры сохранит историю,
+  структуру и дух оригинала, а главным героем по-прежнему будет Безымянный.
+UI_StoryIntro: 'Действие игры разворачивается в долине рудников Хориниса. Каторжники
+  захватили колонию, когда заклинание барьера сработало не так, как ожидалось. И хотя
+  теперь заключённые полностью зависят от короля, он также нуждается в них, ведь добываемая
+  в шахтах магическая «синяя руда» — это единственное, что может спасти человечество
+  от поражения в войне с орками.
+
+
+  Вы — Нирас, новый заключённый, который только что прибыл в колонию.
+
+
+  <b> С этого момента начинается ваша новая жизнь!</>'
+GE_Param_Heal: Исцеление
+GE_Param_Duration: Длительность
+GE_Param_Mana: Мана
+UI_Tabs_Inventory: Вещи
+UI_Tabs_Quests: Задания
+UI_Tabs_Glossary: Справочник
+UI_Tabs_Map: Карты
+UI_Tabs_Stats: Персонаж
+UI_Tabs_Buy: Купить
+UI_Tabs_Sell: Продать
+Text_FilterMelee: Ближний бой
+Text_FilterRanged: Дальний бой
+Text_FilterMagic: Магия
+Text_FilterWearables: Экипировка
+Text_FilterFood: Еда
+Text_FilterPotions: Зелья
+Text_FilterMaterials: Материалы
+Text_FilterMiscellaneous: Разное
+Text_FilterArtefacts: Артефакты
+Text_FilterDocuments: Документы
+Text_FilterOldCamp: Старый лагерь
+Text_FilterSwampCamp: Болотный лагерь
+Text_FilterNewCamp: Новый лагерь
+Text_FilterHiddenCamp: Тайный лагерь
+Text_FilterOutsiders: Чужаки
+Text_FilterCreatures: Существа
+Text_FilterItems: Предметы
+Text_FilterLocations: Места
+Text_FilterWorld: Колония
+Text_FilterCompleted: Выполненные
+Text_FilterAll: Все
+UI_Inventory_Requirements: 'Требуется:'
+UI_Inventory_Description: Описание
+UI_Inventory_EquippedSlot: В ячейке
+UI_Inventory_OneHanded: Одноручное оружие
+UI_Inventory_TwoHanded: Двуручное оружие
+UI_Inventory_Bow: Лук
+UI_Inventory_Crossbow: Арбалет
+UI_Inventory_Food: Еда
+UI_Inventory_Open: Открыть список вещей
+UI_Inventory_ThousandsAbbreviation:  тыс.
+UI_Quests_Objectives: Задачи
+UI_Quests_Log: Журнал
+UI_Quests_DateTimeFormat: '{date}, {time}'
+UI_Quests_DateFormat: '{days} д. назад'
+UI_Quests_TimeFormat: '{hours}:{minutes}'
+UI_Quests_DateToday: Сегодня
+UI_Quests_DateYesterday: Вчера
+UI_Quests_Update: Задание обновлено
+UI_Quests_Complete: Задание выполнено
+UI_Quests_QuestFailed: Задание провалено
+UI_Quests: Новое задание
+UI_Quests_NoQuestsAvailable: Нет доступных заданий
+UI_Quests_QuestUpdatedFormat: Задание «{quest}» обновлено
+UI_Glossary_NoEntriesAvailable: Нет записей в справочнике.
+UI_Stats_CharacterStats: Персонаж
+UI_Stats_Level: Уровень
+UI_Stats_SkillPoints: Очки навыков
+UI_Attribute_Atributes: Характеристики
+UI_Attribute_Health: Здоровье
+UI_Attribute_Mana: Мана
+UI_Attribute_Strength: Сила
+UI_Attribute_Dexterity: Ловкость
+UI_Attribute_MagicCircle: Магический круг
+UI_Attribute_Toughness: Выносливость
+UI_Protection_Protection: Защита
+UI_Protection_Physical: От оружия
+UI_Protection_Arrows: От стрел
+UI_Protection_Magic: От магии
+UI_Protection_Fire: От огня
+UI_Fighting_Fighting: Боевые навыки
+UI_Fighting_OneHanded: Одноручное оружие
+UI_Fighting_TwoHanded: Двуручное оружие
+UI_Fighting_Crossbow: Арбалеты
+UI_Fighting_Bow: Луки
+UI_Skill_SpecialSkills: Особые навыки
+UI_Skill_OpenLocks: Взлом замков
+UI_Skill_Pickpocketing: Карманные кражи
+UI_Lessons: Обучение
+UI_Lessons_Sneaking: Подкрадывание
+UI_Lessons_Acrobatics: Акробатика
+UI_Attribute_Health_Tooltip: Здоровье — это крепость тела. Чем выше показатель здоровья,
+  тем больше урона вы можете понести прежде, чем свалитесь с ног. С опытом этот показатель
+  растёт, давая вам возможность сражаться со всё более сильными противниками.
+UI_Attribute_Mana_Tooltip: Мана позволяет пользоваться магией. Она затрачивается при
+  использовании заклинаний и не восстанавливается сама собой. Планируйте отдых и расход
+  предметов!
+UI_Attribute_Strength_Tooltip: Сила определяет ваши физические возможности. Чем выше
+  этот показатель, тем более грозное оружие вы можете использовать и тем больше урона
+  наносите в ближнем бою.
+UI_Attribute_Dexterity_Tooltip: Ловкость — это умение управлять своим телом и держать
+  равновесие. От ловкости зависит, каким оружием дальнего боя вы можете пользоваться
+  и настолько эффективно. Также показателем ловкости определяется вероятность успеха
+  карманных краж.
+UI_Attribute_MagicCircle_Tooltip: Магические круги отражают умудрённость чародея и
+  глубину его познаний в искусстве магии. Открывая для себя новые круги, вы получаете
+  доступ ко всё более сложным и мощным заклинаниям, а также увеличиваете свою магическую
+  силу.
+UI_Attribute_Toughness_Tooltip: Выносливость — это способность переносить тяжести.
+  Чем выше ваша выносливость, тем больше предметов вы можете нести с собой. Выбирайте
+  с умом, что взять, а что оставить, ведь тяжёлый груз замедлит вас.
+UI_Protection_Physical_Tooltip: Улучшает защиту от режущего оружия, такого как мечи
+  и топоры, и от ударного, такого как булавы, снижая урон, получаемый от физических
+  атак в ближнем бою.
+UI_Protection_Arrows_Tooltip: Снижает колющий урон, получаемый от стрел и болтов.
+UI_Protection_Magic_Tooltip: Повышает сопротивляемость магическим силам, ослабляя
+  эффект любого воздействующего на вас заклинания, будь то сковывающий лёд или сокрушительная
+  молния.
+UI_Protection_Fire_Tooltip: Ослабляет воздействие огня, вызванное направленными против
+  вас атаками или столкновением с определёнными угрозами.
+UI_Fighting_OneHanded_Tooltip: Навык владения одноручным оружием определяет, как хорошо
+  вы можете использовать такое оружие в бою. По мере его развития вы проходите путь
+  от простейших атак до сложных серий переходящих друг в друга приёмов.
+UI_Fighting_OneHanded_Untrained_Tooltip: Вы не обучены обращению с одноручным оружием.
+  Ваши знания о нём ограничиваются тем, за какой конец его надо держать. Ни парировать
+  удары противника, ни комбинировать приёмы вы не умеете.
+UI_Fighting_OneHanded_Trained_Tooltip: Благодаря тренировкам у вас выработалась плавность
+  движений, позволяющая комбинировать приёмы и умело отражать атаки. Вы можете наносить
+  критические удары и умеете останавливать своё оружие в замахе.
+UI_Fighting_OneHanded_Master_Tooltip: Когда у вас в руках одноручное оружие, вы —
+  грозный противник! Вам чаще удаётся нанести критический удар, к тому же ваши атаки
+  могут отбросить врага. Парировать удары для вас так же естественно, как дышать,
+  и это позволяет проводить мощные контратаки.
+UI_Fighting_TwoHanded_Tooltip: Навык обращения с двуручным оружием определяет спектр
+  ваших возможностей при использовании такого оружия. По мере его развития вы проходите
+  путь от простых ударов до изящных и в то же время мощных комбинаций.
+UI_Fighting_TwoHanded_Untrained_Tooltip: Вы не обучены обращению с двуручным оружием.
+  В ваших руках оно не полезней простой железяки. Вы не можете комбинировать приёмы
+  и блокировать атаки. Вам доступны самые примитивные, неизящные удары.
+UI_Fighting_TwoHanded_Trained_Tooltip: Тренировки научили вас обращаться с двуручным
+  оружием. Ваши движения приобрели плавность, позволяющую объединять удары в мощные
+  комбинации и искусно отражать атаки. Вы можете наносить критические удары и умеете
+  останавливать своё оружие в замахе.
+UI_Fighting_TwoHanded_Master_Tooltip: С двуручным оружием в руках вы невероятно опасны.
+  Вам часто удаётся наносить критические удары, а парируя выпады врага, вы можете
+  контратаковать. Кроме того, сила ваших ударов так велика, что они могут отбросить
+  врага.
+UI_Fighting_Crossbow_Tooltip: Навык использования арбалетов влияет на эффективность
+  ведения дальнего боя с таким оружием. По мере его развития вы проходите путь от
+  основ обращения с арбалетами до умения быстро и точно поражать цели.
+UI_Fighting_Crossbow_Untrained_Tooltip: Вы не обучены стрельбе из арбалета. При необходимости
+  можете отправить болт в цель, но дрожащие руки плохо справляются с перезарядкой
+  и прицеливанием, поэтому всё получается очень медленно и несуразно.
+UI_Fighting_Crossbow_Trained_Tooltip: Вы неплохо научились использовать арбалет. Ваши
+  выстрелы стали точнее, перезарядка теперь занимает куда меньше времени, а критические
+  попадания сделались по-настоящему опасными.
+UI_Fighting_Crossbow_Master_Tooltip: Вы достигли мастерства в стрельбе из арбалета.
+  Добиваться критических попаданий стало проще. Каждый выстрел поразительно точен,
+  и вы невероятно быстро и ловко перезаряжаете оружие.
+UI_Fighting_Bow_Tooltip: Навык обращения с луками определяет, насколько хорошо вы
+  можете из них стрелять. По мере его развития вы проходите путь от базового умения
+  целиться до способности бить точно и быстро.
+UI_Fighting_Bow_Untrained_Tooltip: Вы не обучены стрельбе из лука. Держать его в руках
+  вы умеете, но вам трудно целиться, а накладывать стрелы на тетиву — несподручно.
+UI_Fighting_Bow_Trained_Tooltip: Практика помогла вам отточить навыки стрельбы из
+  лука. Теперь вы быстрее пускаете стрелы и лучше целитесь, что делает возможными
+  критические попадания.
+UI_Fighting_Bow_Master_Tooltip: Вы мастерски используете лук. Критические попадания
+  наносят врагам колоссальный урон, а быстрота и точность стрельбы ошеломляют.
+UI_Crafting_InProgress: Приготовление по рецепту…
+UI_Crafting_ForgingItem: Ковка
+UI_Crafting_GoToAnvil: Подойти к наковальне
+UI_Crafting_ShapingItem: Придание формы
+UI_Crafting_GoToWaterBarrel: Подойти к бочке с водой
+UI_Crafting_CoolingDownItem: Охлаждение
+UI_Crafting_PanCook: Готовить на сковороде
+UI_Crafting_MenuTitle_Pan: Сковорода
+UI_Crafting_MenuTitle_Cauldron: Котёл
+UI_Crafting_MenuTitle_Forge: Кузнечный горн
+UI_Crafting_MenuTitle_Workbench: Верстак
+UI_Crafting_MenuTitle_Whetstone: Точильный камень
+UI_Crafting_MenuTitle_Alchemy: Стол алхимика
+UI_Crafting_MenuTitle_Inscription: Стол заклинателя
+UI_Crafting_HasMaterials: Есть материалы
+UI_Crafting_Quantity: 'Количество:'
+UI_Crafting_Cost: Стоимость
+UI_Crafting_Start: '[Зажать] Создать'
+UI_Crafting_Section: Секция
+UI_Crafting_Scrap: '[Зажать] Выкинуть'
+UI_death_GameOver: Игра окончена
+UI_death_Revive: Возродиться
+UI_death_ReviveLeft: Осталось возрождений
+UI_death_MainMenu: Главное меню
+Text_Resume: Продолжить
+Text_OpenMenu: Открыть меню
+TEXT_BACK: Назад
+TEXT_DIALOG_END: Закончить
+Text_Cancel: Отмена
+Text_Equip: Использовать
+Text_Equipped: Используется
+Text_Unequip: Убрать
+Text_Consume: Употребить
+Text_Compare: Сравнить
+Text_Drop: '[Зажать] Выбросить'
+Text_Read: Прочесть
+Text_Close: Закрыть
+Text_Start: НАЧАТЬ
+Text_Button_Back: Назад
+Text_Continue: Продолжить
+Text_Confirm: Подтвердить
+Text_Select: Выбрать
+Text_Yes: Да
+Text_No: Нет
+Text_Reset: Сбросить
+Text_SaveChanges: Сохранить изменения
+Text_LootAll: Взять всё
+Text_LootSwitchSection: Сменить цель
+Text_LootTake: Взять
+Text_LootChest: Сундук
+Text_LootCorpse: Труп
+Text_LootStore: Положить предметы
+Text_LootInventory: Вещи
+Text_TradeAccept: Принять
+Text_HoldAccept: '[Зажать] Принять'
+Text_TradeCancel: Отмена
+Text_DocumentMinimize: Свернуть
+Text_OpenGlossary: Открыть справочник
+Text_CycleHint: Следующая подсказка
+Text_From: 'От кого:'
+Text_To: 'Кому:'
+Text_SleepFor: Спать в течение
+Text_Days:  д.
+Text_Hours:  ч.
+Text_Minutes:  мин.
+Text_Seconds:  сек.
+Text_Max_Uppercase: МАКС.
+Text_Restart: Начать заново
+UI_HUD_SwitchWheel: Переключить колесо
+UI_Demo_Gratitude: Спасибо за игру в демоверсию!
+UI_Demo_Gratitude_QR: 'Пожалуйста, поделитесь впечатлениями здесь:'
+UI_Demo_Gratitude_Follow: Следите за новостями на
+UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
+UI_Demo_CheatCode: Да ладно, это же демоверсия — можно обойтись без режима Марвина.
+  А вот в основной игре…
+UI_Trading_MyInventory: Мои вещи
+UI_Trading_SellerInventory: Вещи продавца
+UI_Trading_Balance: Уравнять
+UI_Trading_SellBuy: Добавить в очередь
+UI_Trading_Remove: Убрать
+UI_Sleep_WaitingForPartner: '[ ]'
+Text_LockpickMoveHorizontal: Движение влево-вправо
+Text_LockpickMoveVertical: Движение вверх-вниз
+Text_OpenChest: Открыть сундук
+Text_OpenDoor: Открыть дверь
+Text_LockpickToolRequired: Требуется инструмент для взлома замков.
+Text_LockpickSkillRequired: Требуется навык взлома замков.
+UI_ArmourCustomization_Torso: Нагрудник
+UI_ArmourCustomization_Waist: Пояс
+UI_ArmourCustomization_Legs: Поножи
+UI_ArmourCustomization_ArmorAlterations: Модификации доспехов
+UI_ArmourCustomization_Equipped: Исп.
+UI_ArmourCustomization_Equip: Использовать
+UI_ArmourCustomization_Purchase: '[Зажать] Приобрести '
+UI_ArmourCustomization_Unequip: Убрать
+UI_Notification_LevelUp: Новый уровень
+UI_Notification: Глава {ChapterNumber}
+UI_Notification_AreaDiscovered: Открыта новая область
+UI_Notification_ExperienceGainedFormat: '{Amount} оч. оп.'
+UI_Notification_GlossaryUpdatedFormat: 'Новая запись в справочнике: «{EntryName}»'
+UI_Notification_KeyUsedFormat: '{KeyName} — использовано'
+UI_Notification_SkillIncreasedFormat: 'Улучшен навык: «{SkillName}»'
+UI_Notification_SkillLearnedFormat: 'Получен навык: «{SkillName}»'
+UI_Notification_ShowMore: Подробнее
+UI_GameSaved_Notification: ''
+UI_CantSave_Notification: Урон (дробление)
+Item_Damage_Physical_Edge: Урон (рассечение)
+Item_Damage_Physical_Point: Урон (пронзание)
+Item_Damage_Elemental_Fire: Играть
+UI_Main_Singleplayer: Одиночная игра
+UI_Main_Settings: Параметры
+UI_Main_Credits: Авторы
+UI_Main_Quit: Выйти
+UI_Main_QuitGame: Выйти из игры
+UI_Main_QuitModal: Выйти из игры?
+UI_GameOver_ModalMainMenu: Вернуться в главное меню?
+UI_Main: Новая игра
+UI_Main_Load: Загрузить игру
+UI_EnterNameHere: 'Введите имя:'
+UI_LoadSave_LoadGame: Загрузить игру
+UI_LoadSave_SaveGame: Сохранить игру
+UI_LoadSave: Новое сохранение
+UI_LoadSave_Load: Загрузить
+UI_LoadSave_Save: Сохранить
+UI_LoadSave_Manual: Ручное сохранение
+UI_Loadingscreen_Loading: Загрузка…
+UI_Loadingscreen_PressKeytoCtn: Для продолжения нажмите любую клавишу!
+UI_Loadingscreen_HintsHeadline: Советы
+UI_LoadingScreen_ChapterFormat: Глава {ChapterNumber}
+UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter}. {ChapterTitle}'
+UI_Loadingscreen_Chapter1Title: Добро пожаловать в колонию
+UI_Loadingscreen_Chapter1Text: ''
+UI_Loadingscreen_Chapter2Title: Гнездо ползунов
+UI_Loadingscreen_Chapter2Text: ''
+UI_Loadingscreen_Chapter3Title: Древние артефакты
+UI_Loadingscreen_Chapter4Title: Ксардас
+UI_Loadingscreen_Chapter5Title: Хранители портала
+UI_Loadingscreen_Chapter6Title: Чертоги Спящего
+UI_Settings_Gameplay: Игровой процесс
+UI_Settings_Controls: Управление
+UI_Settings_Audio: Звук
+UI_Settings_On: Вкл.
+UI_Settings_Off: Откл.
+UI_Settings_InvertedVCam: Инверсия камеры по вертикали
+UI_Settings_InvertedHCam: Инверсия камеры по горизонтали
+UI_Settings_CameraSentivity: Чувствительность камеры
+UI_Settings_Volume_Master: Общая громкость
+UI_Settings_Volume_Sound: Громкость эффектов
+UI_Settings_Volume_Music: Громкость музыки
+UI_Settings_Volume_Voice: Громкость речи
+UI_Settings_Language_Text: Язык текста
+UI_Settings_Language_Voice: Язык озвучения
+UI_Settings_SubtitlesToggle: Субтитры
+UI_Settings_Brightness: Яркость
+UI_Settings_Contrast: Контраст
+UI_Settings_HDR: HDR
+UI_HUD: Новая запись в справочнике
+UI_HUD_Experience: Опыт
+UI_HUD_Exp: оч. оп.
+Text_MoveForward: Вперёд
+Text_MoveBack: Назад
+Text_MoveLeft: Влево
+Text_MoveRight: Вправо
+Text_Attack1: Атака 1
+Text_Attack2: Атака 2
+Text_Attack3: Атака 3
+Text_Attack4: Атака 4
+Text_Attack5: Атака 5
+Text_Block: Блокировать/парировать
+Text_CancelThrow: Отменить бросок
+Text_Combat: Бой
+Text_Dodge: Уклониться
+Text_Draw: 'Достать/убрать оружие ближнего боя
+
+  [Зажать] Достать/убрать оружие дальнего боя
+
+  '
+Text_DrawMelee: Достать/убрать оружие ближнего боя
+Text_DropTorch: Положить факел
+Text_DrawRanged: Достать/убрать оружие дальнего боя
+Text_Exploration: Исследование
+Text_Hold: Удерживать
+Text_Interact: Взаимодействовать
+Text_Interact1: Взаимодействовать (осн.)
+Text_Interact2: Взаимодействовать (доп.)
+Text_Inventory: Вещи
+Text_JumpClimb: Прыгнуть/лезть
+Text_Crouch: Присесть
+Text_Jump: Прыгнуть
+Text_Kick: Ударить ногой
+Text_Lock: Выбрать цель
+Text_ChangeObjective: Сменить задачу
+Text_Look: Обзор
+Text_Move: Движение
+Text_PauseMenu: Меню паузы
+Text_QuickAccess: Предметы в быстром доступе
+Text_SelectThrow: Выбрать метательный предмет
+Text_Roll: Перекатиться
+Text_Sneak: Красться/идти
+Text_Walk: Бежать/идти
+Text_Sprint: '[Щёлкнуть] Бежать/идти'
+Text_Throw: Бросить предмет
+Text_ToggleQuick: Просмотреть быстрый доступ
+Text_UseQuick: Использовать из быстрого доступа
+Text_Dive: Нырнуть/плыть вниз
+Text_Surface: Вынырнуть/плыть вверх
+Text_Cast: Использовать заклинание
+Text_LaunchSpell: Выпустить заклинание
+Text_SkipDialogue: Пропустить диалог
+Text_Aim: Целиться
+Text_Mouse: Мышь
+UI_Profile_LastSave: Последнее сохранение
+UI_Profile_SaveTime: Время сохранения
+UI_Profile_TimePlayed: Время в игре
+UI_Profile_Chapter: Глава
+UI_Profile_Difficulty: Уровень сложности
+UI_Profile_SelectProfile: Выбрать профиль
+UI_Profile_Delete: Удалить
+UI_Profile: Новый профиль
+UI_Profile_Profile1: Профиль 1
+UI_Profile_Profile2: Профиль 2
+UI_Profile_Profile3: Профиль 3
+UI_Profile_Profile4: Профиль 4
+UI_Profile_ModalDeleteProfile: Удалить этот профиль и связанные с ним файлы сохранения?
+UI_Profile_ModalDeleteProfileTitle: Удалить профиль
+UI_Profile_ModalDeleteSaveTitle: Удалить файл сохранения
+UI_Profile_ModalDeleteSaveGame: Удалить файл сохранения?
+UI_Profile_ModalNoMoreProfiles: Нет свободных ячеек. Освободите одну из них, чтобы
+  создать новый профиль.
+UI_Profile_ModalNameInUse: Это имя уже используется.
+UI_Profile_ModalNameEmpty: Строку имени нельзя оставить пустой.
+UI_Profile_ModalError: Произошла ошибка.
+UI_Profile_DefaultSaveFileName: '{location} — день {day}, {hours}:{minutes}'
+UI_Difficulty_SelectDifficulty: Выберите уровень сложности игры
+UI_Difficulty_Easy: Низкий
+UI_Difficulty_EasyDescription: ''
+UI_Difficulty_Standard: Обычный
+UI_Difficulty_StandardDescription: ''
+UI_Difficulty_Hard: Высокий
+UI_Difficulty_HardDescription: ''
+UI_Difficulty_Custom: Свои настройки
+UI_Difficulty_CustomDescription: ''
+UI_Difficulty_Start: Начать игру
+UI_Difficulty_CombatLabel: Бой
+UI_Difficulty_ResourcesLabel: Ресурсы
+UI_Difficulty_ProgressionLabel: Прогресс
+UI_Difficulty_CombatTooltip: ''
+UI_Difficulty_ResourcesTooltip: ''
+UI_Difficulty_ProgressionTooltip: ''
+UI_Settings_Reset: Сбросить
+UI_Settings_Game: Игра
+UI_Settings_CameraPreset: Режим камеры
+UI_Settings_CameraPreset_Default: По умолчанию
+UI_Settings_CameraPreset_Classic: «Классика»
+UI_Settings_TextLanguage: Язык текста
+UI_Settings_AudioLanguage: Язык озвучения
+UI_Settings_Language_English: Английский
+UI_Settings_Language_German: Немецкий
+UI_Settings_Language_Polish: Польский
+UI_Settings_Language_Russian: Русский
+UI_Settings_Language_Spanish: Испанский
+UI_Settings_Language_French: Французский
+UI_Settings_Language_Italian: Итальянский
+UI_Settings_Language_Chinese: Китайский
+UI_Settings_Language_Korean: Корейский
+UI_Settings_Language_Japanese: Японский
+UI_Settings_ObjectsOutliner: Выделение объектов
+UI_Settings_ObjectsOutliner_Default: По умолчанию
+UI_Settings_ObjectsOutliner_Low: Малозаметное
+UI_Settings_ObjectsOutliner_No: Отключено
+UI_Settings_Subtitles: Субтитры
+UI_Settings_SubtitleStyle: Размер субтитров
+UI_Settings_SubtitleSize_Default: По умолчанию
+UI_Settings_SubtitleSize_Larger: Увеличенные
+UI_Settings_AimScalar: Скорость прицеливания
+UI_Settings_AutoCloseChests: Автоматическое закрытие сундуков
+UI_Settings_AutoCloseChests_Description: Если включено, сундуки автоматически закрываются,
+  когда используется опция «взять всё». В противном случае сундук останется открытым
+  до ручного закрытия.
+UI_Settings_InvertXAxis: Инверсия по оси X
+UI_Settings_InvertYAxis: Инверсия по оси Y
+UI_Settings_RightStickSensitivity: Чувствительность правого мини-джойстика
+UI_Settings_LeftStickSensitivity: Чувствительность левого мини-джойстика
+UI_Settings_Vibration: Вибрация
+UI_Settings_ButtonGraphics: Значки кнопок
+UI_Settings_Display: Изображение
+UI_Settings_DisplayMode: Режим отображения
+UI_Settings_DisplayMode_Windowed: В окне
+UI_Settings_DisplayMode_Borderless: В окне без рамок
+UI_Settings_DisplayMode_Fullscreen: На весь экран
+UI_Settings_Resolution: Разрешение
+UI_Settings_DynamicResolution: Динамическое разрешение
+UI_Settings_VSync: Вертикальная синхронизация
+UI_Settings_FrameRateLimit: Ограничение частоты кадров
+UI_Settings_FrameRateLimit_Unlimited: Без ограничения
+UI_Settings_Gamma: Гамма
+UI_Settings_Graphics: Графика
+UI_Settings_FOV: Угол обзора
+UI_Settings_DepthOfField: Глубина резкости
+UI_Settings_MotionBlurIntensity: Интенсивность размытия при движении
+UI_Settings_MotionBlurIntensity_Description: Настройка интенсивности размытия при
+  движении. Чем выше значение, тем сильнее размытие изображения при быстрых движениях
+  камеры.
+UI_Settings_BloomIntensity: Интенсивность свечения
+UI_Settings_BloomIntensity_Description: Настройка интенсивности источников света.
+  Чем выше значение, тем заметнее ореол вокруг ярких объектов.
+UI_Settings_AmbientOcclusionIntensity: Интенсивность затенения
+UI_Settings_AmbientOcclusionIntensity_Description: Настройка интенсивности затенения
+  фонового света. Чем выше значение, тем заметнее затенение в углах и углублениях.
+UI_Settings_AntiAliasing: Сглаживание
+UI_Settings_ColorSaturation: Насыщенность цвета
+UI_Settings_ColorSaturation_Description: Настройка цветовой насыщенности изображения.
+  Чем выше значение, тем ярче цвета.
+UI_Settings_ColorContrast: Контрастность
+UI_Settings_ColorContrast_Description: Настройка соотношения между наиболее светлыми
+  и тёмными участками изображения. При низких значениях разница меньше а при высоких\_—
+  больше.
+UI_Settings_ColorBrightness: Яркость
+UI_Settings_ColorBrightness_Description: Настройка общей яркости изображения.
+UI_Settings_OverallQuality: Общее качество изображения
+UI_Settings_Quality_Low: Низкое
+UI_Settings_Quality_Medium: Среднее
+UI_Settings_Quality_High: Высокое
+UI_Settings_Quality_Epic: Gothic
+UI_Settings_Quality_Cinematic: Alkimia Overdose
+UI_Settings_Quality_Custom: Свои настройки
+UI_Settings_Quality_Recommended: Рекомендуемое
+UI_Settings_ResolutionQuality: Коррекция разрешения
+UI_Settings_ResolutionQuality_Description: Коррекция разрешения позволяет повысить
+  быстродействие игры или улучшить качество изображения.
+UI_Settings_ViewDistanceQuality: Значение дальности прорисовки
+UI_Settings_AntiAliasingQuality: Качество сглаживания
+UI_Settings_ShadowQuality: Качество теней
+UI_Settings_GlobalIlluminationQuality: Качество освещения
+UI_Settings_ReflectionQuality: Качество отражений
+UI_Settings_PostProcessingQuality: Качество постобработки
+UI_Settings_TextureQuality: Качество текстур
+UI_Settings_EffectsQuality: Качество эффектов
+UI_Settings_FoliageQuality: Качество листвы
+UI_Settings_ShadingQuality: Качество затенения
+UI_Settings_LandscapeQuality: Качество ландшафта
+UI_Settings_Sound: Звук
+UI_Settings_MasterVolume: Общая громкость
+UI_Settings_MusicVolume: Громкость музыки
+UI_Settings_SFXVolume: Громкость эффектов
+UI_Settings_VoiceVolume: Вы поспали и хорошо отдохнули.
+UI_SleepEndedMessage_Default_2: Вы поспали и хорошо отдохнули (альтернативное описание).
+UI_SleepEndedMessage_StrangeDreams_1: Вы поспали, но вам снились странные сны.
+UI_SleepEndedMessage_StrangeDreams_2: Вы поспали, но вам снились странные сны (альтернативное
+  описание).

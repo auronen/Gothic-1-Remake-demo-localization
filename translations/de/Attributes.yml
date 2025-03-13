@@ -1,0 +1,63 @@
+AttributeSet_LevelProgression_Level: Stufe
+AttributeSet_LevelProgression_Experience: Erfahrung
+AttributeSet_LevelProgression_Skillpoints: Lernpunkte
+AttributeSet_Health_Health: Lebenspunkte
+AttributeSet_Health_MaxHealth: Max. Leben
+AttributeSet_Mana_Mana: Mana
+AttributeSet_Mana_MaxMana: Max. Mana
+AttributeSet_Strength_Strength: Stärke
+AttributeSet_Dexterity_Dexterity: Geschicklichkeit
+AttributeSet_LevelProgression_Toughness: Zähheit
+AttributeSet_Mana_MagicianLevel: Magischer Kreis
+AttributeSet_Armor_Resistance_Blunt: Stumpf
+AttributeSet_Armor_Resistance_Edge: Klinge
+AttributeSet_Armor_Resistance_Point: Stich
+AttributeSet_Armor_Resistance_Fire: Feuer
+AttributeSet_Armor_Resistance_Energy: Energie
+AttributeSet_Armor_Resistance_Ice: Eis
+AttributeSet_Armor_Resistance_Wind: Wind
+AttributeSet_Armor_Resistance_Falling: Stürze
+AttributeSet_LevelProgression_Experience_Description: Erfahrungspunkte bilden dein
+  Wachstum durch Kämpfe und abgeschlossene Aufgaben ab. Sammle genug, um in der Stufe
+  aufzusteigen und neue Lernpunkte zu verdienen.
+AttributeSet_LevelProgression_Skillpoints_Description: Du verdienst mit jeder Stufe
+  Lernpunkte. Gib sie bei Lehrern aus, um deine Attribute und Fähigkeiten im Kampf,
+  in der Herstellung und in der Magie zu verbessern.
+AttributeSet_Health_Health_Description: Lebenspunkte stellen deine physische Konstitution
+  dar. Je mehr Lebenspunkte du hast, desto mehr Schaden hältst du aus, bevor du zu
+  Boden gehst. Mit zunehmender Erfahrung steigen deine Lebenspunkte, sodass du immer
+  stärkeren Gegnern standhalten kannst.
+AttributeSet_Health_MaxHealth_Description: Lebenspunkte stellen deine physische Konstitution
+  dar. Je mehr Lebenspunkte du hast, desto mehr Schaden hältst du aus, bevor du zu
+  Boden gehst. Mit zunehmender Erfahrung erhöht sich deine Gesundheit, sodass du immer
+  stärkeren Gegnern standhalten kannst.
+AttributeSet_Mana_Mana_Description: Mana ermöglicht dir den Einsatz magischer Fähigkeiten.
+  Mana wird beim Wirken von Zaubern verbraucht und regeneriert sich nicht von selbst.
+  Du musst also rasten und Gegenstände verbrauchen, um es aufzufüllen.
+AttributeSet_Mana_MaxMana_Description: Mana ermöglicht dir den Einsatz magischer Fähigkeiten.
+  Mana wird beim Wirken von Zaubern verbraucht und regeneriert sich nicht von selbst.
+  Du musst also rasten und Gegenstände verbrauchen, um es aufzufüllen.
+AttributeSet_Strength_Strength_Description: Stärke steht für deine körperliche Kraft.
+  Je größer deine Stärke, desto mächtigere Waffen kannst du schwingen und desto mehr
+  Schaden verursachen deine Nahkampfangriffe.
+AttributeSet_Dexterity_Dexterity_Description: Geschicklichkeit steht für deine Körperbeherrschung,
+  deine Balance und deine Kontrolle über deinen Körper. Sie bestimmt, welche Fernkampfwaffen
+  du einsetzen kannst, und verbessert die Effektivität deiner Fernkampfangriffe sowie
+  deine Erfolgschance beim Taschendiebstahl.
+AttributeSet_LevelProgression_Toughness_Description: Zähheit ist deine Fähigkeit,
+  Belastungen zu ertragen. Je zäher du bist, desto mehr Gegenstände kannst du tragen.
+  Wenn du zu viel Gewicht trägst, wirst du in deiner Bewegung eingeschränkt, also
+  verwalte dein Inventar mit Bedacht.
+AttributeSet_Mana_MagicianLevel_Description: Magische Kreise stehen für die Weisheit
+  eines Magiers und sein Wissen um die arkanen Künste. Wenn du in den Kreisen aufsteigst,
+  erhältst du Zugang zu immer komplexeren und mächtigeren Zaubern, die deine magischen
+  Fähigkeiten erweitern.
+AttributeSet_Armor_Resistance_Blunt_Description: Bietet Schutz gegen die verheerenden
+  Hiebe von Streitkolben.
+AttributeSet_Armor_Resistance_Edge_Description: Bietet Schutz gegen die scharfen Klingen
+  von Schwertern und Äxten.
+AttributeSet_Armor_Resistance_Point_Description: Bietet Schutz gegen die durchbohrenden
+  Spitzen von Pfeilen und Bolzen.
+AttributeSet_Armor_Resistance_Fire_Description: Schützt vor der intensiven Hitze der
+  Flammen und sorgt dafür, dass du Feuerangriffen und -gefahren besser standhalten
+  kannst.

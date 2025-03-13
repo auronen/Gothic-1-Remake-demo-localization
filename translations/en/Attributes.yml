@@ -1,0 +1,58 @@
+AttributeSet_LevelProgression_Level: Level
+AttributeSet_LevelProgression_Experience: Experience
+AttributeSet_LevelProgression_Skillpoints: Skill Points
+AttributeSet_Health_Health: Health
+AttributeSet_Health_MaxHealth: Max Health
+AttributeSet_Mana_Mana: Mana
+AttributeSet_Mana_MaxMana: Max Mana
+AttributeSet_Strength_Strength: Strength
+AttributeSet_Dexterity_Dexterity: Dexterity
+AttributeSet_LevelProgression_Toughness: Toughness
+AttributeSet_Mana_MagicianLevel: Magic Circle
+AttributeSet_Armor_Resistance_Blunt: Blunt
+AttributeSet_Armor_Resistance_Edge: Edge
+AttributeSet_Armor_Resistance_Point: Point
+AttributeSet_Armor_Resistance_Fire: Fire
+AttributeSet_Armor_Resistance_Energy: Energy
+AttributeSet_Armor_Resistance_Ice: Ice
+AttributeSet_Armor_Resistance_Wind: Wind
+AttributeSet_Armor_Resistance_Falling: Falling
+AttributeSet_LevelProgression_Experience_Description: Experience points represent
+  your growth through combat and completed tasks. Gain enough to advance in level
+  and earn new skill points.
+AttributeSet_LevelProgression_Skillpoints_Description: Skill points are earned with
+  each level. Spend them with teachers to improve your attributes and abilities in
+  combat, crafting, and magic.
+AttributeSet_Health_Health_Description: Health is your physical endurance. The more
+  health you have, the more damage you can sustain before falling. Your health will
+  increase with experience, keeping you resilient against ever-stronger foes.
+AttributeSet_Health_MaxHealth_Description: Health is your physical endurance. The
+  more health you have, the more damage you can sustain before falling. Your health
+  will increase with experience, keeping you resilient against ever-stronger foes.
+AttributeSet_Mana_Mana_Description: Mana fuels your magical abilities. Mana is consumed
+  while casting spells and does not regenerate independently, so plan your rest and
+  item consumption accordingly.
+AttributeSet_Mana_MaxMana_Description: Mana fuels your magical abilities. Mana is
+  consumed while casting spells and does not regenerate independently, so plan your
+  rest and item consumption accordingly.
+AttributeSet_Strength_Strength_Description: Strength expresses your physical prowess.
+  The greater your strength, the more powerful weapons you can wield and the more
+  damaging your melee attacks will be.
+AttributeSet_Dexterity_Dexterity_Description: Dexterity represents your mastery, balance
+  and control over your body. It determines the ranged weapons you can use and improves
+  your ranged attack effectiveness and chance of success while pickpocketing.
+AttributeSet_LevelProgression_Toughness_Description: Toughness is a measure of your
+  ability to bear encumbrance. As you grow tougher, you can carry more items. Overburdening
+  yourself will hinder your movement, so manage your inventory wisely.
+AttributeSet_Mana_MagicianLevel_Description: Magic Circles signify the depth of a
+  wizard's wisdom and knowledge in the arcane arts. As you ascend through the circles,
+  you gain access to more intricate and potent spells, amplifying your magical prowess.
+AttributeSet_Armor_Resistance_Blunt_Description: Provides defense against the crushing
+  blows of maces.
+AttributeSet_Armor_Resistance_Edge_Description: Provides defense against the cutting
+  edges of swords and axes.
+AttributeSet_Armor_Resistance_Point_Description: This protection reduces the piercing
+  damage from arrows and bolts.
+AttributeSet_Armor_Resistance_Fire_Description: Designed to shield against the intense
+  heat of flames, this protection ensures you're less affected by fire-based attacks
+  and hazards.

@@ -1,0 +1,85 @@
+Skill_Melee_OneHanded: Einhand
+Skill_Melee_TwoHanded: Zweihand
+Skill_Ranged_Bow: Bogen
+Skill_Ranged_Crossbow: Armbrust
+Skill_Pickpocketing: Taschendiebstahl
+Skill_Lockpicking: Schlösserknacken
+Skill_Crafting_Blacksmith: Schmieden
+Skill_Orcish: Orkish
+Skill_Diving: Tauchen
+Skill_Acrobatics: Akrobatik
+Skill_Sneaking: Schleichen
+Skill_Wallclimbing: Klettern
+Skill_Crafting_Alchemy: Alchemie
+Skill_Crafting_Inscription: Inskribieren
+Skill_Hunting_Claw: Krallen ziehen
+Skill_Hunting_Skin: Haut abziehen
+Skill_Hunting_Teeth: Zähne ziehen
+Skill_Hunting_Scutes: Hornschuppen entnehmen
+Skill_Hunting_Organ: Organe entnehmen
+Skill_Hunting_Fins: Flossen entnehmen
+Skill_Hunting_Secretion: Sekret entnehmen
+Skill_Hunting_Fur: Fell abziehen
+Skill_Hunting_UluMulu: Ulu-Mulu entnehmen
+Skill_Hunting_Spines: Wirbelsäule entnehmen
+Skill_Hunting_SkullArmor: Schädelpanzerung entnehmen
+Skill_Hunting_Stings: Stachel ziehen
+Skill_Hunting_MCMandibles: Zangen entnehmen
+Skill_Hunting_MCPlate: Platten entnehmen
+Skill_Hunting_TongueOfFire: Flammenzunge entnehmen
+Skill_Hunting_ShadowbeastHorn: Horn entnehmen
+Skill_Hunting_SwampsharkTeeth: Haizähne ziehen
+Skill_Hunting_SkinSwampshark: Haihaut abziehen
+Skill_Hunting_TrollHorn: Horn entnehmen
+SkillMastery_Untrained: Untrainiert
+SkillMastery_Trained: Trainiert
+SkillMastery_Master: Meister
+Skill_Melee_OneHanded_Description: Dein Können im Umgang mit Einhandwaffen bestimmt
+  deine Kampfeffizienz, von einfachen Schwüngen bis hin zu fließenden und meisterhaften
+  Kombinationen.
+Skill_Melee_OneHanded_Untrained_Description: Du bist untrainiert. Du kannst eine Waffe
+  führen. Erwarte aber keine Finesse. Kombos und Paraden übersteigen deine Möglichkeiten.
+Skill_Melee_OneHanded_Trained_Description: Mit etwas Training werden deine Bewegungen
+  fließender und Angriffskombinationen sowie geschickte Paraden möglich. Du kannst
+  kritische Treffer landen und Angriffe mittendrin abbrechen.
+Skill_Melee_OneHanded_Master_Description: Ein Meister des einhändigen Kampfes ist
+  nicht zu unterschätzen. Deine Chance auf kritische Treffer ist erhöht und du kannst
+  Gegner zurückstoßen. Das Parieren geht dir in Fleisch und Blut über und ermöglicht
+  starke Gegenangriffe.
+Skill_Melee_TwoHanded_Description: Deine Fähigkeiten mit Zweihandwaffen bestimmen
+  über deine Möglichkeiten im Kampf – von rohen Schlägen bis hin zu grazilen und überwältigenden
+  Kombinationen.
+Skill_Melee_TwoHanded_Untrained_Description: Du bist untrainiert. Du kannst eine Zweihandwaffe
+  führen, aber ihr volles Potenzial entzieht sich dir. Kombos und Paraden übersteigen
+  deine Möglichkeiten und deine Angriffe sind simpel und grobschlächtig.
+Skill_Melee_TwoHanded_Trained_Description: Mit zunehmender Übung fällt dir die Kontrolle
+  über zweihändige Waffen leichter, sodass du mächtige Kombinationen und gekonnte
+  Paraden ausführen kannst. Kritische Treffer werden möglich und du erhältst die Fähigkeit,
+  Angriffe abzubrechen.
+Skill_Melee_TwoHanded_Master_Description: Als Meister des Zweihandkampfes verfügst
+  du über beeindruckende Fähigkeiten. Kritische Treffer werden häufiger, Paraden ermöglichen
+  Gegenschläge und deine mächtigen Schwünge können Gegner zurückstoßen und ins Taumeln
+  bringen.
+Skill_Ranged_Bow_Description: Deine Fähigkeiten im Umgang mit dem Bogen bestimmen
+  über deine Schießkünste, vom einfachen Zielen bis hin zu präzisen, schnellen Schüssen.
+Skill_Ranged_Bow_UntrainedDescriptions: Du bist untrainiert. Du kannst einen Bogen
+  halten, aber das Zielen fällt dir schwer und das Spannen der Sehne und Einlegen
+  von Pfeilen fühlt sich umständlich an.
+Skill_Ranged_Bow_Trained_Description: Durch das Training haben sich deine Bogenfähigkeiten
+  verbessert. Du kannst jetzt viel schneller Pfeile einlegen und mit dem Bogen zielen,
+  und deine erhöhte Präzision ermöglicht kritische Treffer.
+Skill_Ranged_Bow_Master_Description: Du beherrschst den Bogen meisterhaft. Deine kritischen
+  Treffer sind verheerend für deine Gegner, und die Schnelligkeit und Präzision deiner
+  Schüsse überwältigt sie.
+Skill_Ranged_Crossbow_Description: Die Beherrschung der Armbrust spiegelt deine Fernkampffähigkeiten
+  wider, die sich von der einfachen Handhabung bis zu schnellen und präzisen Schüssen
+  weiterentwickeln.
+Skill_Ranged_Crossbow_Untrained_Description: Du bist untrainiert. Du kannst eine Armbrust
+  führen, aber deine unruhige Hand könnte das Zielen erschweren, und das Nachladen
+  ist langsam und mühselig.
+Skill_Ranged_Crossbow_Trained_Description: Mit genug Training verbessern sich deine
+  Fähigkeiten im Umgang mit der Armbrust. Du lädst schneller nach, kannst ruhiger
+  zielen und deine kritischen Treffer werden zu einer echten Gefahr.
+Skill_Ranged_Crossbow_Master_Description: Du bist ein Meister mit der Armbrust. Kritische
+  Treffer fallen dir leichter, jeder Schuss weist eine unübertroffene Präzision auf
+  und deine geschickten Hände laden die Bolzen schnell nach.
