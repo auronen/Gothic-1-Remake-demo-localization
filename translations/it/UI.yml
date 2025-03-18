@@ -1,147 +1,219 @@
-UI_Profile_ChapterNyras: ''
-UI_Settings_Disclaimer: ''
-UI_Settings_ResolutionDisclaimer: ''
-UI_Loadingscreen_Hint1: ''
-UI_Loadingscreen_Hint2: ''
-UI_Loadingscreen_Hint3: ''
-UI_Loadingscreen_Hint4: ''
-UI_Loadingscreen_Hint5: ''
-UI_Loadingscreen_Hint6: ''
-UI_Disclaimer: ''
-UI_StoryIntro: ''
-GE_Param_Heal: ''
-GE_Param_Duration: ''
-GE_Param_Mana: ''
-UI_Tabs_Inventory: ''
-UI_Tabs_Quests: ''
-UI_Tabs_Glossary: ''
-UI_Tabs_Map: ''
-UI_Tabs_Stats: ''
-UI_Tabs_Buy: ''
-UI_Tabs_Sell: ''
-Text_FilterMelee: ''
-Text_FilterRanged: ''
-Text_FilterMagic: ''
-Text_FilterWearables: ''
-Text_FilterFood: ''
-Text_FilterPotions: ''
-Text_FilterMaterials: ''
-Text_FilterMiscellaneous: ''
-Text_FilterArtefacts: ''
-Text_FilterDocuments: ''
-Text_FilterOldCamp: ''
-Text_FilterSwampCamp: ''
-Text_FilterNewCamp: ''
-Text_FilterHiddenCamp: ''
-Text_FilterOutsiders: ''
-Text_FilterCreatures: ''
-Text_FilterItems: ''
-Text_FilterLocations: ''
-Text_FilterWorld: ''
-Text_FilterCompleted: ''
-Text_FilterAll: ''
-UI_Inventory_Requirements: ''
-UI_Inventory_Description: ''
-UI_Inventory_EquippedSlot: ''
-UI_Inventory_OneHanded: ''
-UI_Inventory_TwoHanded: ''
-UI_Inventory_Bow: ''
-UI_Inventory_Crossbow: ''
-UI_Inventory_Food: ''
-UI_Inventory_Open: ''
-UI_Inventory_ThousandsAbbreviation: ''
-UI_Quests_Objectives: ''
-UI_Quests_Log: ''
-UI_Quests_DateTimeFormat: ''
-UI_Quests_DateFormat: ''
-UI_Quests_TimeFormat: ''
-UI_Quests_DateToday: ''
-UI_Quests_DateYesterday: ''
-UI_Quests_Update: ''
-UI_Quests_Complete: ''
-UI_Quests_QuestFailed: ''
-UI_Quests: ''
-UI_Quests_NoQuestsAvailable: ''
-UI_Quests_QuestUpdatedFormat: ''
-UI_Glossary_NoEntriesAvailable: ''
-UI_Stats_CharacterStats: ''
-UI_Stats_Level: ''
-UI_Stats_SkillPoints: ''
-UI_Attribute_Atributes: ''
-UI_Attribute_Health: ''
-UI_Attribute_Mana: ''
-UI_Attribute_Strength: ''
-UI_Attribute_Dexterity: ''
-UI_Attribute_MagicCircle: ''
-UI_Attribute_Toughness: ''
-UI_Protection_Protection: ''
-UI_Protection_Physical: ''
-UI_Protection_Arrows: ''
-UI_Protection_Magic: ''
-UI_Protection_Fire: ''
-UI_Fighting_Fighting: ''
-UI_Fighting_OneHanded: ''
-UI_Fighting_TwoHanded: ''
-UI_Fighting_Crossbow: ''
-UI_Fighting_Bow: ''
-UI_Skill_SpecialSkills: ''
-UI_Skill_OpenLocks: ''
-UI_Skill_Pickpocketing: ''
-UI_Lessons: ''
-UI_Lessons_Sneaking: ''
-UI_Lessons_Acrobatics: ''
-UI_Attribute_Health_Tooltip: ''
-UI_Attribute_Mana_Tooltip: ''
-UI_Attribute_Strength_Tooltip: ''
-UI_Attribute_Dexterity_Tooltip: ''
-UI_Attribute_MagicCircle_Tooltip: ''
-UI_Attribute_Toughness_Tooltip: ''
-UI_Protection_Physical_Tooltip: ''
-UI_Protection_Arrows_Tooltip: ''
-UI_Protection_Magic_Tooltip: ''
-UI_Protection_Fire_Tooltip: ''
-UI_Fighting_OneHanded_Tooltip: ''
-UI_Fighting_OneHanded_Untrained_Tooltip: ''
-UI_Fighting_OneHanded_Trained_Tooltip: ''
-UI_Fighting_OneHanded_Master_Tooltip: ''
-UI_Fighting_TwoHanded_Tooltip: ''
-UI_Fighting_TwoHanded_Untrained_Tooltip: ''
-UI_Fighting_TwoHanded_Trained_Tooltip: ''
-UI_Fighting_TwoHanded_Master_Tooltip: ''
-UI_Fighting_Crossbow_Tooltip: ''
-UI_Fighting_Crossbow_Untrained_Tooltip: ''
-UI_Fighting_Crossbow_Trained_Tooltip: ''
-UI_Fighting_Crossbow_Master_Tooltip: ''
-UI_Fighting_Bow_Tooltip: ''
-UI_Fighting_Bow_Untrained_Tooltip: ''
-UI_Fighting_Bow_Trained_Tooltip: ''
-UI_Fighting_Bow_Master_Tooltip: ''
-UI_Crafting_InProgress: ''
-UI_Crafting_ForgingItem: ''
-UI_Crafting_GoToAnvil: ''
-UI_Crafting_ShapingItem: ''
-UI_Crafting_GoToWaterBarrel: ''
-UI_Crafting_CoolingDownItem: ''
-UI_Crafting_PanCook: ''
-UI_Crafting_MenuTitle_Pan: ''
-UI_Crafting_MenuTitle_Cauldron: ''
-UI_Crafting_MenuTitle_Forge: ''
-UI_Crafting_MenuTitle_Workbench: ''
-UI_Crafting_MenuTitle_Whetstone: ''
-UI_Crafting_MenuTitle_Alchemy: ''
-UI_Crafting_MenuTitle_Inscription: ''
-UI_Crafting_HasMaterials: ''
-UI_Crafting_Quantity: ''
-UI_Crafting_Cost: ''
-UI_Crafting_Start: ''
-UI_Crafting_Section: ''
-UI_Crafting_Scrap: ''
-UI_death_GameOver: ''
-UI_death_Revive: ''
-UI_death_ReviveLeft: ''
-UI_death_MainMenu: ''
-Text_Resume: ''
-Text_OpenMenu: ''
+UI_Profile_ChapterNyras: 'Nyras'
+UI_Settings_Disclaimer: 'Nella versione finale del gioco saranno disponibili altre
+  impostazioni di gioco, tra cui opzioni di visualizzazione dell''interfaccia utente
+  e delle notifiche.'
+UI_Settings_ResolutionDisclaimer: 'Si prega di notare che il preset Alkimia Overdose
+  potrebbe funzionare solo su hardware di fascia molto alta.'
+UI_Loadingscreen_Hint1: 'In questa demo non giocherai né vedrai il famoso Eroe Senza
+  Nome'
+UI_Loadingscreen_Hint2: 'Gothic 1 Remake è un gioco di ruolo open world nello spirito
+  del Gothic originale'
+UI_Loadingscreen_Hint3: 'Per favore, non lamentatevi se l''eroe di questa demo (Nyras)
+  non assomiglia al nostro amato Eroe Senza Nome.'
+UI_Loadingscreen_Hint4: 'Non dimenticarti di unirti alla community e di aggiungere
+  il gioco alla lista dei desideri. Tutte le informazioni sono disponibili su gothic-game.com'
+UI_Loadingscreen_Hint5: 'Grazie al vostro supporto, il franchise Gothic ha un futuro
+  luminoso davanti a sé!'
+UI_Loadingscreen_Hint6: 'Solo per questa demo è disponibile un''opzione Revive se
+  muori. Il gioco completo non ce l''ha ma offrirà save/load.'
+UI_Disclaimer: 'Questa demo è un''esperienza, un prequel isolato creata per mostrare
+  alcune delle caratteristiche principali del Gothic 1 Remake, ma poiché il gioco
+  è ancora in fase di lavorazione, potrebbe contenere bug e glitch. Il gioco completo
+  segue la storia, la struttura e lo spirito del Gothic originale, con l''Eroe Senza
+  Nome come protagonista.'
+UI_StoryIntro: 'La storia si svolge nella valle mineraria di Khorinis. Una colonia
+  penale violentemente conquistata dai suoi prigionieri dopo che l''incantesimo per
+  creare una barriera magica è andato molto male, i detenuti ora vivono in interdipendenza
+  con il re, che ha bisogno di loro per il magico "minerale blu", l''ultima speranza
+  dell''umanità per la sua guerra ormai quasi persa contro gli orchi.
+
+
+  Tu sei Nyras e sei appena arrivato nella Colonia.
+
+
+  <b> Benvenuto nella tua nuova vita!</>'
+GE_Param_Heal: 'Guarigione'
+GE_Param_Duration: 'Durata'
+GE_Param_Mana: 'Mana'
+UI_Tabs_Inventory: 'Inventario'
+UI_Tabs_Quests: 'Missioni'
+UI_Tabs_Glossary: 'Glossario'
+UI_Tabs_Map: 'Mappe'
+UI_Tabs_Stats: 'Statistiche'
+UI_Tabs_Buy: 'Compra'
+UI_Tabs_Sell: 'Vendi'
+Text_FilterMelee: 'Mischia'
+Text_FilterRanged: 'Distanza'
+Text_FilterMagic: 'Magia'
+Text_FilterWearables: 'Indossabili'
+Text_FilterFood: 'Cibo'
+Text_FilterPotions: 'Pozioni'
+Text_FilterMaterials: 'Materiali'
+Text_FilterMiscellaneous: 'Miscellaneo'
+Text_FilterArtefacts: 'Artefatti'
+Text_FilterDocuments: 'Documenti'
+Text_FilterOldCamp: 'Campo Vecchio'
+Text_FilterSwampCamp: 'Campo Palude'
+Text_FilterNewCamp: 'Campo Nuovo'
+Text_FilterHiddenCamp: 'Campo Nascosto'
+Text_FilterOutsiders: 'Estranei'
+Text_FilterCreatures: 'Creature'
+Text_FilterItems: 'Oggetti'
+Text_FilterLocations: 'Posizioni'
+Text_FilterWorld: 'La Colonia'
+Text_FilterCompleted: 'Completato'
+Text_FilterAll: 'Tutto'
+UI_Inventory_Requirements: 'Requisiti:'
+UI_Inventory_Description: 'Descrizione'
+UI_Inventory_EquippedSlot: 'Equipaggiato'
+UI_Inventory_OneHanded: 'Arma a una mano'
+UI_Inventory_TwoHanded: 'Arma a due mani'
+UI_Inventory_Bow: 'Arco'
+UI_Inventory_Crossbow: 'Balestra'
+UI_Inventory_Food: 'Cibo'
+UI_Inventory_Open: 'Inventario aperto'
+UI_Inventory_ThousandsAbbreviation: 'k'
+UI_Quests_Objectives: 'Obiettivi'
+UI_Quests_Log: 'Registro'
+UI_Quests_DateTimeFormat: '{data}, {ora}'
+UI_Quests_DateFormat: '{giorni} giorni fa'
+UI_Quests_TimeFormat: '{ore}:{minuti}'
+UI_Quests_DateToday: 'Oggi'
+UI_Quests_DateYesterday: 'Ieri'
+UI_Quests_Update: 'Missione aggiornata'
+UI_Quests_Complete: 'Missione completata'
+UI_Quests_QuestFailed: 'Missione fallita'
+UI_Quests: 'Nuova Missione'
+UI_Quests_NoQuestsAvailable: 'Nessuna missione disponibile'
+UI_Quests_QuestUpdatedFormat: '''{quest}'' aggiornata'
+UI_Glossary_NoEntriesAvailable: 'Nessuna voce di glossario disponibile'
+UI_Stats_CharacterStats: 'Statistiche'
+UI_Stats_Level: 'Livello'
+UI_Stats_SkillPoints: 'Punti abilità'
+UI_Attribute_Atributes: 'Attributi'
+UI_Attribute_Health: 'Salute'
+UI_Attribute_Mana: 'Mana'
+UI_Attribute_Strength: 'Forza'
+UI_Attribute_Dexterity: 'Destrezza'
+UI_Attribute_MagicCircle: 'Circolo magico'
+UI_Attribute_Toughness: 'Resistenza'
+UI_Protection_Protection: 'Protezione'
+UI_Protection_Physical: 'Fisico'
+UI_Protection_Arrows: 'Freccie'
+UI_Protection_Magic: 'Magia'
+UI_Protection_Fire: 'Fuoco'
+UI_Fighting_Fighting: 'Combattimento'
+UI_Fighting_OneHanded: 'Una mano'
+UI_Fighting_TwoHanded: 'Due mani'
+UI_Fighting_Crossbow: 'Balestra'
+UI_Fighting_Bow: 'Arco'
+UI_Skill_SpecialSkills: 'Abilità speciali'
+UI_Skill_OpenLocks: 'Scassinare'
+UI_Skill_Pickpocketing: 'Borseggiare'
+UI_Lessons: 'Lezioni'
+UI_Lessons_Sneaking: 'Furtività'
+UI_Lessons_Acrobatics: 'Acrobazia'
+UI_Attribute_Health_Tooltip: 'La salute è la tua resistenza fisica. Più salute hai,
+  più danni puoi sostenere prima di cadere. La tua salute aumenterà con l''esperienza,
+  aumentando la tua resistenza contro nemici sempre più forti.'
+UI_Attribute_Mana_Tooltip: 'Il mana alimenta le tue abilità magiche. Il mana viene
+  consumato mentre lanci incantesimi e non si rigenera in modo indipendente, quindi
+  pianifica il tuo riposo e il consumo di oggetti di conseguenza.'
+UI_Attribute_Strength_Tooltip: 'La forza esprime la tua abilità fisica. Maggiore è
+  la tua forza, più potenti saranno le armi che potrai maneggiare e più danni faranno
+  i tuoi attacchi corpo a corpo.'
+UI_Attribute_Dexterity_Tooltip: 'La destrezza rappresenta la tua padronanza, equilibrio
+  e controllo sul tuo corpo. Determina le armi a distanza che puoi usare e migliora
+  l''efficacia del tuo attacco a distanza e le possibilità di successo durante il
+  borseggio.'
+UI_Attribute_MagicCircle_Tooltip: 'I circoli magici simboleggiano la profondità della
+  saggezza e della conoscenza di un mago nelle arti arcane. Mentre sali attraverso
+  i circoli, ottieni accesso a incantesimi più intricati e potenti, amplificando la
+  tua abilità magica.'
+UI_Attribute_Toughness_Tooltip: 'La tenacia è una misura della tua capacità di portare
+  oggetti. Man mano che diventi più tenace, puoi trasportare più oggetti. Sovraccaricarti
+  ostacolerà i tuoi movimenti, quindi gestisci il tuo inventario con saggezza.'
+UI_Protection_Physical_Tooltip: 'Fornisce difesa sia contro i fili di spade e asce,
+  sia contro i colpi devastanti delle mazze, riducendo al minimo l''impatto degli
+  attacchi fisici diretti.'
+UI_Protection_Arrows_Tooltip: 'Questa protezione riduce i danni da perforazione causati
+  da frecce e dardi.'
+UI_Protection_Magic_Tooltip: 'Aumenta le tue difese contro le forze arcane. Questa
+  protezione ne riduce l''impatto, sia che si tratti di un incantesimo di ghiaccio
+  o di uno shock elettrico.'
+UI_Protection_Fire_Tooltip: 'Progettata per difenderti dal calore intenso delle fiamme,
+  questa è la più efficace difesa dagli attacchi e dai pericoli causati dal fuoco.'
+UI_Fighting_OneHanded_Tooltip: 'La tua abilità con le armi a una mano determina la
+  tua efficienza in combattimento, dai colpi di base alle combinazioni fluide e magistrali.'
+UI_Fighting_OneHanded_Untrained_Tooltip: 'Non sei addestrato. Sai maneggiare un''arma.
+  Non aspettarti finezza; combo e parate sono al di là della tua portata.'
+UI_Fighting_OneHanded_Trained_Tooltip: 'Con l''allenamento i tuoi movimenti diventano
+  fluidi, consentendo combinazioni di attacchi e parate abili. Puoi sferrare colpi
+  critici e avere la capacità di annullare gli attacchi dell''avversario.'
+UI_Fighting_OneHanded_Master_Tooltip: 'Un maestro del combattimento a una mano è una
+  forza da non sottovalutare. Le tue possibilità di colpi critici sono maggiori e
+  puoi causare contraccolpi. Parare diventa una seconda natura, consentendo potenti
+  contrattacchi.'
+UI_Fighting_TwoHanded_Tooltip: 'La tua abilità con le armi a due mani definisce la
+  tua abilità in battaglia, dai colpi bruschi alle combinazioni aggraziate e potenti.'
+UI_Fighting_TwoHanded_Untrained_Tooltip: 'Non sei addestrato. Riesci a impugnare un''arma
+  a due mani, ma il suo pieno potenziale resta lontano. Combo e parate sono fuori
+  dalla tua portata e i tuoi attacchi sono semplici e poco raffinati.'
+UI_Fighting_TwoHanded_Trained_Tooltip: 'Con l''allenamento il tuo controllo sulle
+  armi a due mani diventa fluido, consentendoti di tessere potenti combinazioni e
+  abili parate. I colpi critici diventano possibili e ottieni la capacità di annullare
+  gli attacchi.'
+UI_Fighting_TwoHanded_Master_Tooltip: 'Come maestro del combattimento a due mani,
+  la tua abilità è formidabile. I colpi critici diventano più frequenti, la parata
+  consente i contrattacchi e i tuoi potenti colpi possono far barcollare i nemici
+  con i contraccolpi.'
+UI_Fighting_Crossbow_Tooltip: 'La tua padronanza delle balestre riflette la tua abilità
+  nel combattimento a distanza, passando dall''uso di base al tiro rapido e preciso.'
+UI_Fighting_Crossbow_Untrained_Tooltip: 'Non sei addestrato. Puoi usare le balestre,
+  ma le tue mani instabili potrebbero rivelarsi inadatte alla mira e ricaricare è
+  lento e faticoso.'
+UI_Fighting_Crossbow_Trained_Tooltip: 'Con l''allenamento la tua abilità con la balestra
+  cresce. Ricaricare è più veloce, la tua mira si stabilizza e i colpi critici diventano
+  una vera minaccia.'
+UI_Fighting_Crossbow_Master_Tooltip: 'Hai la padronanza delle balestre. I colpi critici
+  arrivano con maggiore facilità, ogni colpo vanta una precisione senza pari e le
+  tue mani abili ricaricano rapidamente i dardi.'
+UI_Fighting_Bow_Tooltip: 'La tua abilità con l''arco definisce la tua abilità nel
+  tiro, dalla mira di base ai tiri precisi e rapidi.'
+UI_Fighting_Bow_Untrained_Tooltip: 'Non sei allenato. Riesci a tenere un arco, ma
+  mirare è impegnativo e scoccare e ricaricare è macchinoso.'
+UI_Fighting_Bow_Trained_Tooltip: 'Con l''allenamento le tue abilità con l''arco si
+  sono affinate. Ora sei molto più abile nel ricaricare e mirare con l''arco, e la
+  tua maggiore precisione ti consente di effettuare colpi critici.'
+UI_Fighting_Bow_Master_Tooltip: 'Il tuo controllo sull''arco è magistrale. I tuoi
+  colpi critici devastano i tuoi nemici e la rapidità e la precisione dei tuoi colpi
+  li sopraffanno.'
+UI_Crafting_InProgress: 'Preparazione della ricetta...'
+UI_Crafting_ForgingItem: 'Forgiare l''oggetto'
+UI_Crafting_GoToAnvil: 'Vai all''incudine'
+UI_Crafting_ShapingItem: 'Dare forma all''oggetto'
+UI_Crafting_GoToWaterBarrel: 'Vai al barile dell''acqua'
+UI_Crafting_CoolingDownItem: 'Raffredda l''oggetto'
+UI_Crafting_PanCook: 'Cuocere in padella'
+UI_Crafting_MenuTitle_Pan: 'Padella'
+UI_Crafting_MenuTitle_Cauldron: 'Calderone'
+UI_Crafting_MenuTitle_Forge: 'Forgia'
+UI_Crafting_MenuTitle_Workbench: 'Banco da lavoro'
+UI_Crafting_MenuTitle_Whetstone: 'Cote'
+UI_Crafting_MenuTitle_Alchemy: 'Banco alchemico'
+UI_Crafting_MenuTitle_Inscription: 'Scriptorium'
+UI_Crafting_HasMaterials: 'Dispone di materiali'
+UI_Crafting_Quantity: 'Quantità:'
+UI_Crafting_Cost: 'Costo'
+UI_Crafting_Start: '[Tieni premuto] Artigianato'
+UI_Crafting_Section: 'Sezione'
+UI_Crafting_Scrap: '[Tieni premuto] Rottama'
+UI_death_GameOver: 'Game Over'
+UI_death_Revive: 'Rianima'
+UI_death_ReviveLeft: 'Rianima a sinistra'
+UI_death_MainMenu: 'Menu principale'
+Text_Resume: 'Riprendi'
+Text_OpenMenu: 'Apri Menu'
 TEXT_BACK: ''
 TEXT_DIALOG_END: ''
 Text_Cancel: ''
