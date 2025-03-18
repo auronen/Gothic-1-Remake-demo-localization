@@ -1,80 +1,129 @@
-Kirgo-CH0-None-Kirgo-13159: ''
-Kirgo-CH0-None-Caption-90162: ''
-Kirgo-CH0-None-Hero-61590: ''
-Kirgo-CH0-None-Kirgo-72322: ''
-Kirgo-CH0-None-Hero-54970: ''
-Kirgo-CH0-None-Kirgo-53995: ''
-Kirgo-CH0-None-Kirgo-48505: ''
-Kirgo-CH0-None-Caption-56351: ''
-Kirgo-CH0-None-Hero-5576: ''
-Kirgo-CH0-None-Kirgo-48595: ''
-Kirgo-CH0-None-Kirgo-58994: ''
-Kirgo-CH0-None-Hero-57845: ''
-Kirgo-CH0-None-Hero-75065: ''
-Kirgo-CH0-None-Kirgo-5289: ''
-Kirgo-CH0-None-Hero-75802-0: ''
-Kirgo-CH0-None-Hero-49599-0: ''
-Kirgo-CH0-None-Hero-7847: ''
-Kirgo-CH0-None-Kirgo-86946: ''
-Kirgo-CH0-None-Kirgo-51889: ''
-Kirgo-CH0-None-Hero-69630: ''
-Kirgo-CH0-None-Kirgo-15646: ''
-Kirgo-CH0-None-Kirgo-28860-0: ''
-Kirgo-CH0-None-Kirgo-50097: ''
-Kirgo-CH0-None-Hero-42421: ''
-Kirgo-CH0-None-Kirgo-13085: ''
-Kirgo-CH0-None-Hero-73711: ''
-Kirgo-CH0-None-Kirgo-8473: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-87315: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-54063-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-565-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-95345-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35698: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35355: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-61657: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-59331: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-10101: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210: ''
-Kirgo-CH0-None-Kirgo-65501: ''
-Kirgo-CH0-None-Kirgo-30285-0: ''
-Kirgo-CH0-None-Kirgo-22502: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-97338: ''
-TEXT_HECTO_20230814_160412_686: ''
-Kirgo-CH0-None-Hero-24591: ''
-Kirgo-CH0-None-Kirgo-12464: ''
-Kirgo-CH0-None-Kirgo-85213: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-99779: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70361: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-25026: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-58252: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-59810: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-34033: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18590: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-26319: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-52548: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-630: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-1372: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-68105: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-91130: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-3837: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-95013: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-63047: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-41448: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-64994: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-65948-6: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-39679: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-21333: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-42430-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-57048: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70786: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-48441: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-23822: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18035: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-92998: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-72913: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-17711: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-27576: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-79373: ''
+Kirgo-CH0-None-Kirgo-13159: 'Guarda un po'', una faccia nuova. Ti hanno appena buttato
+  dentro?'
+Kirgo-CH0-None-Caption-90162: 'Già.'
+Kirgo-CH0-None-Hero-61590: 'Già.'
+Kirgo-CH0-None-Kirgo-72322: 'Beh, allora benvenuto nella Colonia, credo. Come ti chiami?
+  Io sono Kirgo.'
+Kirgo-CH0-None-Hero-54970: 'Nyras.'
+Kirgo-CH0-None-Kirgo-53995: 'È un piacere conoscerti. Ehi, senti, perché non facciamo
+  due chiacchiere? Potresti raccontarmi cos''è successo ultimamente là fuori, e io
+  ti darò qualche consiglio per sopravvivere da queste parti. '
+Kirgo-CH0-None-Kirgo-48505: 'È tutto il giorno che spalo quei dannati detriti, quindi
+  farei qualsiasi cosa pur di distrarmi un po''. Che ne dici?'
+Kirgo-CH0-None-Caption-56351: 'Perché ti interessa così tanto del mondo esterno?'
+Kirgo-CH0-None-Hero-5576: 'Perché ti interessa così tanto del mondo esterno, comunque?
+  Non usciremo mai più, no?'
+Kirgo-CH0-None-Kirgo-48595: 'Beh, i tizi di Campo Nuovo e quegli altri nella palude
+  non sono dello stesso avviso. Però sì, hai ragione, probabilmente non usciremo più. '
+Kirgo-CH0-None-Kirgo-58994: 'Tuttavia, penso che ogni tanto faccia bene ricordare
+  che il mondo non finisce con quella stupida cupola blu. Impazzirei altrimenti.'
+Kirgo-CH0-None-Hero-57845: 'Che ne dici se te ne parlo in cambio di un posto sicuro
+  per dormire? '
+Kirgo-CH0-None-Hero-75065: 'Tipo una delle tue capanne?'
+Kirgo-CH0-None-Kirgo-5289: 'È per via di quella Bestia d''Ombra, eh? Ti lascerei dormire
+  lì se dipendesse da me, ma non è così. Mi spiace, amico.'
+Kirgo-CH0-None-Hero-75802-0: 'Va bene.'
+Kirgo-CH0-None-Hero-49599-0: 'In tutta onestà, comunque, non c''è così tanto da dire.
+  Tutti sono in ansia per via della guerra, e tutte quelle dicerie che girano sugli
+  Orchi non aiutano di certo. '
+Kirgo-CH0-None-Hero-7847: 'Si dice però che i Nordmariani abbiano ottenuto qualche
+  piccola vittoria, se non altro. '
+Kirgo-CH0-None-Kirgo-86946: 'Grazie a Innos. Speriamo che riescano a riprendersi alcune
+  aree minerarie - è impossibile che noi qui riusciremo a stare al passo con la richiesta
+  sul lungo periodo, a prescindere da quanti prigionieri ci manderà il Re.'
+Kirgo-CH0-None-Kirgo-51889: 'Che mi dici di Khorinis? Sei riuscito a vederla mentre
+  ti portavano qui?'
+Kirgo-CH0-None-Hero-69630: 'Non proprio. Sono stato rinchiuso tutto il tempo.'
+Kirgo-CH0-None-Kirgo-15646: 'Che peccato. Ah, amico, mi manca quel posto... Ci ho
+  vissuto per un paio d''anni dopo che ho lasciato il Varant. Avevo una donna lì...
+  Rosa.'
+Kirgo-CH0-None-Kirgo-28860-0: 'Era la creatura più dolce che tu possa immaginare,
+  e più buona di quanto io sarò mai in tutta la mia esistenza.  '
+Kirgo-CH0-None-Kirgo-50097: 'Ah, merda, ecco che straparlo di nuovo come un vecchio
+  bavoso. Scusami. '
+Kirgo-CH0-None-Hero-42421: 'Non ho tempo per queste cose.'
+Kirgo-CH0-None-Kirgo-13085: 'Hmm. Che peccato. Vabbè, è una tua decisione.'
+Kirgo-CH0-None-Hero-73711: 'Non sono affari tuoi.'
+Kirgo-CH0-None-Kirgo-8473: 'Non sei un tipo loquace, eh? A me sta bene, ma se fossi
+  in te cambierei tono. I lupi solitari non fanno molta strada qui dentro. '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-87315: 'Ahia... Beh, non me l''aspettavo. Non male...
+  hai del potenziale. Tuttavia, credo di poterti insegnare qualche trucco. Ti interessa?'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-54063-0: 'Certo, perché no.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-565-0: 'Molto bene. Numero uno, quando usi un''arma
+  così, impugnala con una mano, non due. Dopo che ti sarai fatto un po'' di muscoli,
+  sarai molto più agile e potrai combinare più attacchi.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-95345-0: 'Due, se stai per colpire e ti rendi conto
+  che il nemico è in una posizione di vantaggio, arretra ed evita il suo colpo. Ti
+  ci vorrà un po'' di pratica, ma ce la puoi fare.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35698: 'Infine, quando pari, cerca di farlo con
+  il giusto tempismo. Sbilancerà il tuo avversario e ti darà l''occasione per colpire.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473-0: 'Va bene, ho capito. Grazie.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210-0: 'Figurati. Ora dovresti proprio cercare
+  un accampamento, però - presto sarà buio. '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35355: 'Bel combattimento! Spero di non averti
+  fatto male?'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-61657: '... Va tutto bene.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-59331: 'Lieto di sentirlo. Non sei male, amico
+  mio - hai bisogno di fare un po'' di pratica, ma hai del potenziale. Vuoi che ti
+  insegni qualche trucchetto? '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-10101: 'Infine, quando pari, fallo con il giusto
+  tempismo, così da aprire la guardia del tuo avversario. '
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473: 'Va bene, ho capito. Grazie.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210: 'Figurati. Ora dovresti proprio cercare
+  un accampamento, però - presto sarà buio. '
+Kirgo-CH0-None-Kirgo-65501: 'Non male... non l''avevo previsto.'
+Kirgo-CH0-None-Kirgo-30285-0: 'Ad ogni modo, devo rimettermi al lavoro adesso. Ci
+  vediamo.'
+Kirgo-CH0-None-Kirgo-22502: 'Bel combattimento. Stai imparando!'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-97338: 'Bella chiacchierata.'
+TEXT_HECTO_20230814_160412_686: '(Termina conversazione)'
+Kirgo-CH0-None-Hero-24591: 'È vero che non ci sono donne qui dentro? Nemmeno una?'
+Kirgo-CH0-None-Kirgo-12464: 'Solo quelle che i baroni delle miniere tengono per il
+  proprio divertimento. Ma se solo provi a guardarle, Gomez ti farà frustare a sangue. '
+Kirgo-CH0-None-Kirgo-85213: 'Si mormora di una coppia che è fuggita e si sta nascondendo
+  da qualche parte, ma ne dubito. La gente adora blaterare... e bere... e poi blaterare
+  ancora.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-99779: 'Ora tocca a te. Che consiglio hai per me?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70361: 'Unisciti a Campo Vecchio. Siamo il cuore
+  della Colonia - tutto quel che arriva dall''esterno, finisce a noi.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-25026: 'Valanghe permettendo...'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-58252: 'Non preoccuparti, i nostri libereranno
+  il sentiero in men che non si dica. Gomez è severo, ma sa come mandare avanti questo
+  posto.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-59810: '"Gomez" è il vostro leader?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-34033: 'Esatto, è l''uomo più potente di Campo
+  Vecchio. Ha guidato la rivolta della prigione e da allora ha preso il comando.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18590: 'È lui a dire al Re cosa vogliamo in cambio
+  del minerale. E il Re lo asseconda.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-26319: 'Capisco.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-52548: 'Un''altra cosa - sembra che in passato
+  tu abbia già impugnato una spada. Ti andrebbe di fare un po'' di pratica?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-630: ' La prossima settimana ho un combattimento
+  in programma, e potrei mostrarti qualche trucchetto in cambio.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-1372: 'Hai un "combattimento in programma"?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-68105: 'Sì, nell''arena. Vedrai.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-91130: 'Mi spiace, devo davvero andare.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-3837: 'Che peccato. Beh, magari un''altra volta.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-95013: 'Certo, perché no.  '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-63047: 'Fantastico! Fammi solo sapere quando sei
+  pronto.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-41448: 'Sì, certo. Mi tratterrò ancora per un po''.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-64994: 'Sono pronto a combattere.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-65948-6: 'Va bene. Diamoci da fare.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-39679: 'Come, senza un''arma? Prima procuratene
+  una, altrimenti non avrai nessuna chance.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-21333: 'Comunque, perché sei così amichevole?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-42430-0: 'Lo dici come se fosse una brutta cosa.
+  Non saprei. Forse è perché la gente da queste parti si comporta come se non cagasse
+  da anni, quindi io cerco di riequilibrare un po'' le cose.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-57048: 'Che ne dici di una rivincita?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70786: 'Hmm, perché no. Prima però procurati un''arma.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-48441: 'Come, di già? Certo. Dimmi quando sei pronto.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-23822: 'Combattiamo.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18035: 'Va bene. Mostrami cosa sai fare!'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-92998: 'Stavolta non trattenerti. Impegnati fino
+  in fondo.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-72913: 'Ne sei sicuro? Va bene, diamoci da fare.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-17711: 'Dammi un attimo.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-27576: 'Va bene. Sai dove trovarmi.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-79373: 'Forse più tardi.'
