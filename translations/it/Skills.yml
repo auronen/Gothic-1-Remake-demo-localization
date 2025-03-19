@@ -5,48 +5,79 @@ Skill_Ranged_Crossbow: 'Balestra'
 Skill_Pickpocketing: 'Borseggio'
 Skill_Lockpicking: 'Forzare serrature'
 Skill_Crafting_Blacksmith: 'Forgiare'
-Skill_Orcish: ''
-Skill_Diving: ''
-Skill_Acrobatics: ''
-Skill_Sneaking: ''
-Skill_Wallclimbing: ''
-Skill_Crafting_Alchemy: ''
-Skill_Crafting_Inscription: ''
-Skill_Hunting_Claw: ''
-Skill_Hunting_Skin: ''
-Skill_Hunting_Teeth: ''
-Skill_Hunting_Scutes: ''
-Skill_Hunting_Organ: ''
-Skill_Hunting_Fins: ''
-Skill_Hunting_Secretion: ''
-Skill_Hunting_Fur: ''
-Skill_Hunting_UluMulu: ''
-Skill_Hunting_Spines: ''
-Skill_Hunting_SkullArmor: ''
-Skill_Hunting_Stings: ''
-Skill_Hunting_MCMandibles: ''
-Skill_Hunting_MCPlate: ''
-Skill_Hunting_TongueOfFire: ''
-Skill_Hunting_ShadowbeastHorn: ''
-Skill_Hunting_SwampsharkTeeth: ''
-Skill_Hunting_SkinSwampshark: ''
-Skill_Hunting_TrollHorn: ''
-SkillMastery_Untrained: ''
-SkillMastery_Trained: ''
-SkillMastery_Master: ''
-Skill_Melee_OneHanded_Description: ''
-Skill_Melee_OneHanded_Untrained_Description: ''
-Skill_Melee_OneHanded_Trained_Description: ''
-Skill_Melee_OneHanded_Master_Description: ''
-Skill_Melee_TwoHanded_Description: ''
-Skill_Melee_TwoHanded_Untrained_Description: ''
-Skill_Melee_TwoHanded_Trained_Description: ''
-Skill_Melee_TwoHanded_Master_Description: ''
-Skill_Ranged_Bow_Description: ''
-Skill_Ranged_Bow_UntrainedDescriptions: ''
-Skill_Ranged_Bow_Trained_Description: ''
-Skill_Ranged_Bow_Master_Description: ''
-Skill_Ranged_Crossbow_Description: ''
-Skill_Ranged_Crossbow_Untrained_Description: ''
-Skill_Ranged_Crossbow_Trained_Description: ''
-Skill_Ranged_Crossbow_Master_Description: ''
+Skill_Orcish: 'Orchesco'
+Skill_Diving: 'Immersione'
+Skill_Acrobatics: 'Acrobazia'
+Skill_Sneaking: 'Furtività'
+Skill_Wallclimbing: 'Arrampicata'
+Skill_Crafting_Alchemy: 'Alchimia'
+Skill_Crafting_Inscription: 'Scrittura'
+Skill_Hunting_Claw: 'Estrarre artigli'
+Skill_Hunting_Skin: 'Prendere pelli'
+Skill_Hunting_Teeth: 'Estrarre denti'
+Skill_Hunting_Scutes: 'Usare scudi'
+Skill_Hunting_Organ: 'Estrarre organi'
+Skill_Hunting_Fins: 'Prendere ali'
+Skill_Hunting_Secretion: 'Estrarre secrezioni'
+Skill_Hunting_Fur: 'Prendere pelliccia'
+Skill_Hunting_UluMulu: 'Prendere Ulu-Mulu'
+Skill_Hunting_Spines: 'Estrarre colonna vertebrale'
+Skill_Hunting_SkullArmor: 'Prendi l''armatura del teschio'
+Skill_Hunting_Stings: 'Estrai pungiglioni'
+Skill_Hunting_MCMandibles: 'Estrai mandibole'
+Skill_Hunting_MCPlate: 'Prendi scaglie'
+Skill_Hunting_TongueOfFire: 'Prendi lingua di lucertola del fuoco'
+Skill_Hunting_ShadowbeastHorn: 'Prendi corno'
+Skill_Hunting_SwampsharkTeeth: 'Estrai denti di squalo'
+Skill_Hunting_SkinSwampshark: 'Prendi pelle di squalo'
+Skill_Hunting_TrollHorn: 'Prendi corno'
+SkillMastery_Untrained: 'Inesperto'
+SkillMastery_Trained: 'Addestrato'
+SkillMastery_Master: 'Maestro'
+Skill_Melee_OneHanded_Description: 'La tua abilità con le armi a una mano determina
+  la tua efficienza in combattimento, dai colpi di base alle combinazioni fluide e
+  magistrali.'
+Skill_Melee_OneHanded_Untrained_Description: 'Non sei addestrato. Sai maneggiare un''arma.
+  Non aspettarti finezza; combo e parate sono al di là della tua portata.'
+Skill_Melee_OneHanded_Trained_Description: 'Con l''allenamento i tuoi movimenti diventano
+  fluidi, consentendo combinazioni di attacchi e parate abili. Puoi sferrare colpi
+  critici e avere la capacità di annullare parzialmente gli attacchi.'
+Skill_Melee_OneHanded_Master_Description: 'Un maestro del combattimento a una mano
+  è una forza da non sottovalutare. Le tue possibilità di colpi critici sono maggiori
+  e puoi causare contraccolpi. Parare diventa una seconda natura, consentendo potenti
+  contrattacchi.'
+Skill_Melee_TwoHanded_Description: 'La tua abilità con le armi a due mani definisce
+  la tua abilità in battaglia, dai colpi veloci alle combinazioni aggraziate e dominanti.'
+Skill_Melee_TwoHanded_Untrained_Description: 'Non sei addestrato. Riesci a impugnare
+  un''arma a due mani, ma il suo pieno potenziale resta sfuggente. Combo e parate
+  sono fuori dalla tua portata e i tuoi attacchi sono semplici e poco raffinati.'
+Skill_Melee_TwoHanded_Trained_Description: 'Con l''allenamento il tuo controllo sulle
+  armi a due mani diventa fluido, consentendoti di tessere potenti combinazioni e
+  abili parate. I colpi critici diventano possibili e ottieni la capacità di annullare
+  gli attacchi.'
+Skill_Melee_TwoHanded_Master_Description: 'Come maestro del combattimento a due mani,
+  la tua abilità è formidabile. I colpi critici diventano più frequenti, la parata
+  consente i contrattacchi e i tuoi potenti colpi possono far barcollare i nemici
+  con respingimenti.'
+Skill_Ranged_Bow_Description: 'La tua abilità con l''arco definisce la tua abilità
+  nel tiro, dalla mira di base ai tiri precisi e rapidi.'
+Skill_Ranged_Bow_UntrainedDescriptions: 'Non sei allenato. Riesci a tenere un arco,
+  ma mirare è impegnativo e disegnare e ricaricare è macchinoso.'
+Skill_Ranged_Bow_Trained_Description: 'Con l''allenamento le tue abilità con l''arco
+  si sono affinate. Ora sei molto più abile nel ricaricare e mirare con l''arco, e
+  la tua maggiore precisione ti consente di effettuare colpi critici.'
+Skill_Ranged_Bow_Master_Description: 'Il tuo controllo sull''arco è magistrale. I
+  tuoi colpi critici devastano i tuoi nemici e la rapidità e la precisione dei tuoi
+  colpi li sopraffanno.'
+Skill_Ranged_Crossbow_Description: 'La tua padronanza delle balestre riflette la tua
+  abilità nel combattimento a distanza, passando dall''uso di base al tiro rapido
+  e preciso.'
+Skill_Ranged_Crossbow_Untrained_Description: 'Non sei addestrato. Puoi usare le balestre,
+  ma le tue mani instabili potrebbero rivelarsi inadatte alla mira e ricaricare è
+  lento e noioso.'
+Skill_Ranged_Crossbow_Trained_Description: 'Con l''allenamento la tua abilità con
+  la balestra cresce. Ricaricare è più veloce, la tua mira si stabilizza e i colpi
+  critici diventano una vera minaccia.'
+Skill_Ranged_Crossbow_Master_Description: 'Sei un maestro le balestre. I colpi critici
+  arrivano con maggiore facilità, ogni colpo vanta una precisione senza pari e le
+  tue mani abili ricaricano rapidamente i dardi.'
