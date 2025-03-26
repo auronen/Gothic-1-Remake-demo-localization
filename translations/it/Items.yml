@@ -92,7 +92,7 @@ ReMw_1H_Mace_Light_01: 'Randello'
 ReMw_1H_Mace_Sledgehammer_01: 'Martello da fabbro'
 ReMw_1H_Mace_01: 'Mazza'
 ReMw_1H_Mace_02: 'Mazza aculeata'
-ReMw_1H_Mace_03: 'Pungiglione di sanguimosca'
+ReMw_1H_Mace_03: 'Pungiglione di mosca vampiro'
 ReMw_1H_Mace_04: 'Lingua d''acciaio'
 ReMw_1H_Mace_War_01: 'Morningstar'
 ReMw_1H_Mace_War_02: 'Mazza d''acciaio'
@@ -119,7 +119,7 @@ ReMw_2H_Sword_Heavy_01: 'Arma pesante a due mani'
 ReAr_Scroll_Charm: 'Pergamena ''Fascino'''
 ReAr_Scroll_Control: 'Pergamena ''Controllo'''
 ReAr_Scroll_Transformbiter: 'Pergamena ''Trasforama in Azzannatore'''
-ReAr_Scroll_Transformbloodfly: 'Pergamena ''Trasforma in Sanguimosca'''
+ReAr_Scroll_Transformbloodfly: 'Pergamena ''Trasforma in Mosca vampiro'''
 ReAr_Scroll_Transformbloodhound: 'Pergamena ''Trasforma in Segugio'''
 ReAr_Scroll_Transformfirelizard: 'Pergamena ''Trasforma in Lucertola di Fuoco'''
 ReAr_Scroll_Transformharpy: 'Pergamena ''Trasforma in Arpia'''
@@ -378,7 +378,7 @@ ItFo_Plants_Mushroom_01: Funghi del demonio
 ItFo_Plants_Mushroom_02: Pane degli schiavi
 ItFo_Plants_Nightshadow_01: Solanacee
 ItFo_Plants_Nightshadow_02: Lunacee
-ItFo_Plants_Orcherb_01: Foglia d'orco
+ItFo_Plants_Orcherb_01: Foglia di quercia
 ItFo_Plants_Orcherb_02: Foglia di quercia
 ItFo_Plants_Ravenherb_01: Erbe nere
 ItFo_Plants_Ravenherb_02: Erbe scure
@@ -388,52 +388,52 @@ ItFo_Plants_Stoneroot_02: Radice del drago
 ItFo_Plants_Towerwood_01: 'Semi di Quercia della Torre'
 ItFo_Plants_Trollberrys_01: 'Troll Oscuro'
 ItFo_Plants_Velayis_01: 'Velaya'
-ItMi_Joint_01: Verde del novizio
+ItMi_Joint_01: Novizio verde
 ItMi_Joint_02: Buio del Nord
 ItMi_Joint_03: Evocasogni
 ItMi_Plants_Swampherb_01: Erba di palude
-ItKe_Berg_01: Chiave di uno scrigno.
+ItKe_Berg_01: Chiave del forziere (vecchio forte di montagna)
 ItKe_Brass: 'Chiave (ottone)'
 ItKe_Cavalorn_01: Chiave di Cavalorn
 ItKe_Dungeonkey: Chiave delle segrete
-ItKe_Focus_04: Chiave
-ItKe_Focus_05: Chiave
-ItKe_Freemine: Chiave della miniera libera
+ItKe_Focus_04: Chiave (rovine del monastero)
+ItKe_Focus_05: Chiave (anello di pietra)
+ItKe_Freemine: Chiave (miniera libera)
 ItKe_Gold: 'Chiave (oro)'
 ItKe_Gomez_01: Chiave di Gomez
 ItKe_Grey: 'Chiave (Grigia)'
-ItKe_Kalom_01: Chiave del laboratorio
-ItKe_Om_02: Chiave di uno scrigno
-ItKe_Om_03: Chiave di uno scrigno
-ItKe_OrcGraveyard: ''
-ItKe_OrcGraveyardPiece_01: 'Chiave del cimitero degli Orchi'
-ItKe_OrcGraveyardPiece_02: ''
+ItKe_Kalom_01: Chiave del laboratorio (Campo Palude)
+ItKe_Om_02: Chiave del forziere (Aaron)
+ItKe_Om_03: Chiave del forziere (magazzino della vecchia miniera)
+ItKe_OrcGraveyard: 'Chiave del cimitero degli Orchi'
+ItKe_OrcGraveyardPiece_01: 'Pezzo della chiave del cimitero degli Orchi'
+ItKe_OrcGraveyardPiece_02: 'Pezzo della chiave del cimitero degli Orchi'
 ItKe_Ricelord_01: Chiave del Signore del Riso
 ItKe_Smith_01: Chiave di ferro
 ItKe_Storage_01: Chiave del magazzino
-ItKe_Sunkentower: Chiave
-ItKe_White: ''
+ItKe_Sunkentower: Chiave del forziere (torre sommersa)
+ItKe_White: 'Chiave (bianca)'
 ItAt_Biter_01: ''
 ItAt_Biter_02: ''
 ItAt_Biter_03: ''
 ItAt_Bloodfly_01: Ali
 ItAt_Bloodfly_02: Pungiglione di mosca vampiro
-ItAt_Bloodfly_03: ''
+ItAt_Bloodfly_03: 'Sacca del veleno di mosca vampiro'
 ItAt_Bloodhound_01: ''
 ItAt_Bloodhound_02: ''
 ItAt_Claws_01: Artigli
-ItAt_Crawler_01: Mascella di pidocchio
+ItAt_Crawler_01: Mascella di pidocchio di miniera
 ItAt_Crawler_02: La corazza di un pidocchio di miniera
 ItAt_Crawlerqueen: Uovo di pidocchio di miniera
 ItAt_Damlurker_01: Artigli di imboscatore della diga
 ItAt_Firegolem_01: Cuore di un golem di fuoco
-ItAt_Firegolem_02: ''
+ItAt_Firegolem_02: 'Nucleo di ossidiana'
 ItAt_Firelizard_01: Lingua di fuoco
 ItAt_Firelizard_02: ''
 ItAt_Firelizard_03: ''
 ItAt_Firelizard_04: ''
-ItAt_Harpy_01: ''
-ItAt_Harpy_02: ''
+ItAt_Harpy_01: 'Piuma di Arpia'
+ItAt_Harpy_02: 'Artiglio di Arpia'
 ItAt_Icegolem_01: Cuore di un golem di ghiaccio
 ItAt_Icegolem_02: Pezzo di un golem di ghiaccio
 ItAt_Lizard_01: ''
@@ -442,13 +442,13 @@ ItAt_Lizard_03: ''
 ItAt_Lurker_01: Artigli di imboscatore
 ItAt_Lurker_02: Pelle di imboscatore
 ItAt_Lurker_03: ''
-ItAt_Minecrawlerqueen_01: ''
+ItAt_Minecrawlerqueen_01: 'Ghiandola di feromoni della Regina'
 ItAt_Orcdog_01: ''
 ItAt_Orcdog_02: Pelle di cane orco
 ItAt_Razor_01: ''
 ItAt_Razor_02: ''
-ItAt_Scavenger_01: ''
-ItAt_Scavenger_02: ''
+ItAt_Scavenger_01: 'Zanne di Saprofago'
+ItAt_Scavenger_02: 'Osso cranico di Saprofago'
 ItAt_Shadow_01: Pelle di un mostro d'ombra
 ItAt_Shadow_02: Corno di un mostro d'ombra
 ItAt_Shadow_03: ''
@@ -464,13 +464,13 @@ ItAt_Teeth_01: Denti
 ItAt_Troll_01: Pelle di troll
 ItAt_Troll_02: Zanna di troll
 ItAt_Wolf_01: Pelle di lupo
-ItAt_Wolf_02: ''
-ItMi_Inscription_Parchment: ''
-ItMi_Smith_1H_Axe_01: ''
-ItMi_Smith_1H_Axe_02: ''
-ItMi_Smith_1H_Axe_Hatchet_01: ''
-ItMi_Smith_1H_Axe_Old_01: ''
-ItMi_Smith_1H_Axe_Sickle_01: ''
+ItAt_Wolf_02: 'Zanna di lupo'
+ItMi_Inscription_Parchment: 'Pergamena'
+ItMi_Smith_1H_Axe_01: 'Ascia non affilata'
+ItMi_Smith_1H_Axe_02: 'Spaccacrani non affilata'
+ItMi_Smith_1H_Axe_Hatchet_01: 'Ascia non affilata'
+ItMi_Smith_1H_Axe_Old_01: 'Ascia rovinata non affilata'
+ItMi_Smith_1H_Axe_Sickle_01: 'Falcetto non affilato'
 ItMi_Smith_1H_Mace_01: ''
 ItMi_Smith_1H_Mace_02: ''
 ItMi_Smith_1H_Mace_03: ''
@@ -481,22 +481,22 @@ ItMi_Smith_1H_Mace_War_01: ''
 ItMi_Smith_1H_Mace_War_02: ''
 ItMi_Smith_1H_Mace_War_03: ''
 ItMi_Smith_1H_Mace_Warhammer_02: ''
-ItMi_Smith_1H_Sword_01: ''
-ItMi_Smith_1H_Sword_02: ''
-ItMi_Smith_1H_Sword_03: ''
-ItMi_Smith_1H_Sword_04: ''
-ItMi_Smith_1H_Sword_Bastard_02: ''
-ItMi_Smith_1H_Sword_Broad_01: ''
-ItMi_Smith_1H_Sword_Broad_02: ''
-ItMi_Smith_1H_Sword_Long_01: ''
+ItMi_Smith_1H_Sword_01: 'Spada grezza non affilata'
+ItMi_Smith_1H_Sword_02: 'Spada del Giudizio non affilata'
+ItMi_Smith_1H_Sword_03: 'Spada della Guardia non affilata'
+ItMi_Smith_1H_Sword_04: 'Spada da battaglia non affiliata'
+ItMi_Smith_1H_Sword_Bastard_02: 'Mannaia non affilata'
+ItMi_Smith_1H_Sword_Broad_01: 'Spada larga non affilata'
+ItMi_Smith_1H_Sword_Broad_02: 'Verdetto del guerriero non affilata'
+ItMi_Smith_1H_Sword_Long_01: 'Spada lunga non affilata'
 ItMi_Smith_1H_Sword_Scythe_01: ''
-ItMi_Smith_1H_Sword_Short_01: ''
-ItMi_Smith_1H_Sword_Short_02: ''
-ItMi_Smith_1H_Sword_Short_03: ''
-ItMi_Smith_1H_Sword_Short_04: ''
-ItMi_Smith_1H_Sword_Short_05: ''
-ItMi_Smith_2H_Axe_Heavy_02: ''
-ItMi_Smith_2H_Axe_Light_01: ''
+ItMi_Smith_1H_Sword_Short_01: 'Spada corta non affilata'
+ItMi_Smith_1H_Sword_Short_02: 'Difesa del Contadino non affilata'
+ItMi_Smith_1H_Sword_Short_03: 'Morso di imboscatore non affilata'
+ItMi_Smith_1H_Sword_Short_04: 'Spina letale non affilata'
+ItMi_Smith_1H_Sword_Short_05: 'Disciplina del Minatore non affilata'
+ItMi_Smith_2H_Axe_Heavy_02: 'Voce del Guerriero non affilata'
+ItMi_Smith_2H_Axe_Light_01: 'Ascia leggera da battaglia non affilata'
 ItMi_Smith_2H_Axe_Light_02: ''
 ItMi_Smith_2H_Axe_Old_02: ''
 ItMi_Smith_2H_Axe_Pickaxe: ''
@@ -548,19 +548,19 @@ ItMi_Smith_Leatherstraps: ''
 ItMi_Smith_Oak: ''
 ItMi_Smith_Obsidian: ''
 ItMi_Smith_Petrifiedwood: ''
-ItMi_Smith_Ruby: ''
-ItMi_Smith_Steel: ''
+ItMi_Smith_Ruby: 'Rubino'
+ItMi_Smith_Steel: 'Acciaio'
 ItMi_Smith_Swordblade: Lama
 ItMi_Smith_Swordbladehot: Lama luminosa
 ItMi_Smith_Swordraw: Acciaio grezzo
 ItMi_Smith_Swordrawhot: Acciaio luminoso
-ItMi_Smith_Willow: ''
+ItMi_Smith_Willow: 'Legno di salice'
 ItAm_Arrow: Freccia
-ItAm_Bolt: Globo
+ItAm_Bolt: Dardo
 ItKe_Lockpick: Grimaldello
 ItLs_Torch: Torcia
-ItLs_Torchburned: Torcia
-ItLs_Torchburning: ''
+ItLs_Torchburned: Torcia (usata)
+ItLs_Torchburning: 'Torcia (accesa)'
 ItLs_Torchfirespit: ''
 ItMi_Alchemy_Alcohol_01: Alcool puro
 ItMi_Alchemy_Flask: Provetta
@@ -572,7 +572,7 @@ ItMi_Alchemy_Syranoil_01: Olio sirianico
 ItMi_Coop: Cucchiaio di legno
 ItMi_Hammer: Martello
 ItMi_Lute: Liuto
-ItMi_Oldcoin_01: Gettone
+ItMi_Oldcoin_01: Moneta
 ItMi_Orenugget: Pezzo di metallo
 ItMi_Specialjoint: ''
 ItMi_Stomper: Schiacciaerba
@@ -585,16 +585,16 @@ ItMi_Stuff_Cup_01: Bicchiere
 ItMi_Stuff_Cup_02: Calice
 ItMi_Stuff_Idologront_01: Statua
 ItMi_Stuff_Mug_01: Bricco
-ItMi_Stuff_Pan_01: Pentola
+ItMi_Stuff_Pan_01: Padella
 ItMi_Stuff_Pipe_01: Tubo
 ItMi_Stuff_Plate_01: Piatto
 ItMi_Stuff_Silverware_01: Posata
 ItMi_Wedel: Fronda di palma
-HumanFists: ''
+HumanFists: 'Pugni'
 ItFo_Potion_Dex_01: Essenza di destrezza
 ItFo_Potion_Dex_02: Estratto di destrezza
 ItFo_Potion_Dex_03: Elisir di destrezza
-ItFo_Potion_Elixier: ''
+ItFo_Potion_Elixier: 'Elisir'
 ItFo_Potion_Elixier_Egg: ''
 ItFo_Potion_Haste_01: Pozione d'accelerazione
 ItFo_Potion_Haste_02: Pozione di velocità
@@ -618,16 +618,16 @@ ItFo_Potion_Orcmedicine: Medicina degli orchi
 ItFo_Potion_Strength_01: Essenza di forza
 ItFo_Potion_Strength_02: Estratto di forza
 ItFo_Potion_Strength_03: Elisir di forza
-ItAt_Amulet_Ulu_Talisman: ''
-ItMi_Recruitjoint: ''
+ItAt_Amulet_Ulu_Talisman: 'Talismano Ulu'
+ItMi_Recruitjoint: 'Erba di palude per minatore'
 ItMi_Stuff_Gearwheel_01: Ruota dentata
 ItMi_Stuff_Idolsleeper_01: Statuina
 ItMs_Demonprank: Attacco infernale
 ItMs_Focus_01: Pietra della scogliera
-ItMs_Focus_02: Pietra del Canyon.
-ItMs_Focus_03: Pietra del forte.
-ItMs_Focus_04: Pietra del monastero.
-ItMs_Focus_05: Pietra dell'anello.
+ItMs_Focus_02: Pietra del Canyon
+ItMs_Focus_03: Pietra del Forte di montagna
+ItMs_Focus_04: Pietra delle Rovine del monastero
+ItMs_Focus_05: Pietra dell'Anello di pietra
 ItMs_Lightbringer: Lama di luce
 ItMs_Spellblade: Lama dell'oblio
 ItMs_Timeblade: Lama del tempo
@@ -894,32 +894,32 @@ ItWr_Book_Circle_03: Il Terzo Cerchio Magico
 ItWr_Book_Circle_04: Il Quarto Cerchio Magico
 ItWr_Book_Circle_05: Il Quinto Cerchio Magico
 ItWr_Book_Circle_06: Il Sesto Cerchio Magico
-ItWr_Book_Crypt: ''
+ItWr_Book_Crypt: 'La Cripta'
 ItWr_Book_Focus: Almanacco
-ItWr_Book_Gods_01: Il Verbo Divino
-ItWr_Book_Gods_02: Il Verbo Divino
-ItWr_Book_Gods_03: Il Verbo Divino
-ItWr_Book_Godsgift: Un dono degli dèi
-ItWr_Book_Golem_01: ''
-ItWr_Book_Golem_02: ''
-ItWr_Book_Hunt: Cacciatore e preda
-ItWr_Book_Lyric: Poema di Myrtana
+ItWr_Book_Gods_01: Il Verbo Divino - Volume 1
+ItWr_Book_Gods_02: Il Verbo Divino - Volume 2
+ItWr_Book_Gods_03: Il Verbo Divino - Volume 3
+ItWr_Book_Godsgift: Un Dono degli Dei
+ItWr_Book_Golem_01: 'Arcanum Golum - Volume I'
+ItWr_Book_Golem_02: 'Arcanum Golum - Volume II'
+ItWr_Book_Hunt: Cacciatore e Preda
+ItWr_Book_Lyric: Poesie di Myrtana
 ItWr_Book_Magicore: Metallo magico
-ItWr_Book_Powerfulart: Un'arte potente
-ItWr_Book_Recipes_01: Ricette
-ItWr_Book_Recipes_02: Ricette
-ItWr_Book_Secrets: I segreti della magia
-ItWr_Book_Slave: Diario
-ItWr_Book_Tales: ''
-ItWr_Book_Troll: Pagina del diario
-ItWr_Book_True_Power: Il potere
+ItWr_Book_Powerfulart: Un'Arte Potente
+ItWr_Book_Recipes_01: Ricette - Parte I
+ItWr_Book_Recipes_02: Ricette - Parte II
+ItWr_Book_Secrets: I Segreti della Magia
+ItWr_Book_Slave: Diario (Tempio degli Orchi)
+ItWr_Book_Tales: 'Libro di Racconti'
+ItWr_Book_Troll: Pagina di diario (Cacciatore di Troll)
+ItWr_Book_True_Power: Vero Potere
 ItWr_Map_Cliff: Mappa delle pietre di Y'Berion
 ItWr_Map_Focus: Mappa delle pietre di Saturas
-ItWr_Map: Panoramica di Campo Nuovo
-ItWr_Map_OldCamp: Panoramica di Campo Vecchio
+ItWr_Map: Mappa di Campo Nuovo
+ItWr_Map_OldCamp: Mappa di Campo Vecchio
 ItWr_Map_OldMine: Mappa per la vecchia miniera
-ItWr_Map_Orc: Mappa della colonia (aggiornata)
-ItWr_Map_SwampCamp: Panoramica di Campo Palude
-ItWr_Map_Temple: ''
-ItWr_Map_World: Mappa della colonia
-ItWr_Map_WorldComplete: ''
+ItWr_Map_Orc: Mappa della Colonia (aggiornata)
+ItWr_Map_SwampCamp: Mappa di Campo Palude
+ItWr_Map_Temple: 'Bozzetto del Tempio'
+ItWr_Map_World: Mappa della Colonia
+ItWr_Map_WorldComplete: 'Mappa della Colonia (aggiornata)'
