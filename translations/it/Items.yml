@@ -116,114 +116,185 @@ ReMw_2H_Sword_Light_02: 'Lama del custode'
 ReMw_2H_Sword_Light_03: 'Spada del mercenario'
 ReMw_2H_Sword_01: 'Arma aue mani'
 ReMw_2H_Sword_Heavy_01: 'Arma pesante a due mani'
-ReAr_Scroll_Charm: 'Incantesimo ''Fascino'''
-ReAr_Scroll_Control: 'Incantesimo ''Controllo'''
-ReAr_Scroll_Transformbiter: 'Incantesimo ''Trasforam in Azzannatore'''
-ReAr_Scroll_Transformbloodfly: 'Incantesimo ''Trasforma in Sanguimosca'''
-ReAr_Scroll_Transformbloodhound: 'Incantesimo ''Trasforma in Segugio'''
-ReAr_Scroll_Transformfirelizard: 'Incantesimo ''Trasforma in Lucertola di Fuoco'''
-ReAr_Scroll_Transformharpy: 'Incantesimo ''Trasforma in Arpia'''
-ReAr_Scroll_Transformlizard: 'Incantesimo ''Trasforma in Lucertola'''
-ReAr_Scroll_Transformlurker: 'Incantesimo ''Trasforma in Predatore'''
-ReAr_Scroll_Transformmeatbug: 'Incantesimo ''Trasforma in Scarafaggio'''
-ReAr_Scroll_Transformminecrawler: 'Incantesimo ''Trasforma in Scavaragno'''
-ReAr_Scroll_Transformmolerat: 'Incantesimo ''Trasforma in Ratto Talpa'''
-ReAr_Scroll_Transformorcdog: 'Incantesimo ''Trasforma in Cane Orco'''
-ReAr_Scroll_Transformrazor: 'Incantesimo ''Trasforma in Razor'''
-ReAr_Scroll_Transformscavenger: 'Incantesimo ''Trasforma in Saprofago'''
-ReAr_Scroll_Transformshadowbeast: 'Incantesimo ''Trasforma in Bestia d''Ombra'''
-ReAr_Scroll_Transformsnapper: ''
-ReAr_Scroll_Transformswampshark: ''
-ReAr_Scroll_Transformwolf: ''
-Item_Weapon_Rune: ''
-Item_Weapon_Scroll: ''
-Item_Amulet: ''
-Item_Food: ''
-Item_Potion: ''
-Item_Herb: ''
-Item_Drug: ''
-Item_Key: ''
-Item_Trophy: ''
-Item_Material: ''
-Item_Ore: ''
-Item_Junk: ''
-Item_Ammo: ''
-Item_Quest: ''
-Item_Lockpick: ''
-Item_Instrument: ''
-Item_Weapon_Bow: ''
-Item_Weapon_Crossbow: ''
-Item_Ring: ''
-Item_Weapon_Axe_OneHand: ''
-Item_Weapon_Mace_OneHand: ''
-Item_Weapon_Sword_OneHand: ''
-Item_Weapon_Torch_OneHand: ''
-Item_Weapon_Axe_TwoHand: ''
-Item_Weapon_Mace_TwoHand: ''
-Item_Weapon_Staff_TwoHand: ''
-Item_Weapon_Sword_TwoHand: ''
-Item_Writing: ''
-Item_Weapon_Fist: ''
-ItAt_Meatbug_01_description: ''
-ItFo_Apple_description: ''
-ItFo_Cheese_description: ''
-ItFo_Grilledscavenger_description: ''
-ItFo_Loaf_description: ''
-ItFo_Meatbugragout_description: ''
-ItFo_Mutton_01_description: ''
-ItFo_Mutton_02_description: ''
-ItFo_Muttonraw_description: ''
-ItFo_Pear_description: ''
-ItFo_Potato_description: ''
-ItFo_Potion_Beer_description: ''
-ItFo_Potion_Booze_description: ''
-ItFo_Potion_Strongbeer_description: ''
-ItFo_Potion_Water_01_description: ''
-ItFo_Potion_Wine_description: ''
-ItFo_Rice_description: ''
-ItFo_Whitemeat_description: ''
-ItFo_Plants_Berrys_01_description: ''
-ItFo_Plants_Bloodwood_01_description: ''
-ItFo_Plants_Mushroom_01_description: ''
-ItFo_Plants_Orcherb_01_description: ''
-ItFo_Plants_Seraphis_01_description: ''
-ItFo_Plants_Stoneroot_01_description: ''
-ItAt_Claws_01_description: ''
-ItAm_Arrow_description: ''
-ItAm_Bolt_description: ''
-ItKe_Lockpick_description: ''
-ItMi_Hammer_description: ''
-ItMi_Lute_description: ''
-ItMi_Oldcoin_01_description: ''
-ItMi_Orenugget_description: ''
-ItMi_Stuff_Amphore_01_description: ''
-ItMi_Stuff_Barbknife_01_description: ''
-ItMi_Stuff_Brush_description: ''
-ItMi_Stuff_Cup_01_description: ''
-ItMi_Stuff_Cup_02_description: ''
-ItMi_Stuff_Mug_01_description: ''
-ItMi_Stuff_Pipe_01_description: ''
-ItMi_Stuff_Plate_01_description: ''
-HumanFists_description: ''
-ItFo_Potion_Health_01_description: ''
-ItWr_Scroll_Jacko_01_description: ''
-ItMw_1H_Axe_Sickle_01_description: ''
-ItMw_1H_Mace_03_description: ''
-ItMw_1H_Mace_Club_01_description: ''
-ItMw_1H_Sword_01_description: ''
-ItMw_1H_Sword_02_description: ''
-ItMw_1H_Sword_04_description: ''
-ItMw_1H_Sword_Old_01_description: ''
-ItMw_1H_Sword_Short_02_description: ''
-ItMw_1H_Torch_description: ''
-ItRw_Bow_Diego_description: ''
-ItRw_Bow_Long_01_description: ''
-ItRw_Bow_Small_01_description: ''
-ItRw_Bow_Small_02_description: ''
-ItRw_Bow_Small_04_description: ''
-ItRw_Crossbow_01_description: ''
-ItMw_2H_Axe_Pickaxe_description: ''
-ItWr_Scroll_Mysteriousnote_description: ''
+ReAr_Scroll_Charm: 'Pergamena ''Fascino'''
+ReAr_Scroll_Control: 'Pergamena ''Controllo'''
+ReAr_Scroll_Transformbiter: 'Pergamena ''Trasforama in Azzannatore'''
+ReAr_Scroll_Transformbloodfly: 'Pergamena ''Trasforma in Sanguimosca'''
+ReAr_Scroll_Transformbloodhound: 'Pergamena ''Trasforma in Segugio'''
+ReAr_Scroll_Transformfirelizard: 'Pergamena ''Trasforma in Lucertola di Fuoco'''
+ReAr_Scroll_Transformharpy: 'Pergamena ''Trasforma in Arpia'''
+ReAr_Scroll_Transformlizard: 'Pergamena ''Trasforma in Lucertola'''
+ReAr_Scroll_Transformlurker: 'Pergamena ''Trasforma in Predatore'''
+ReAr_Scroll_Transformmeatbug: 'Pergamena ''Trasforma in Scarafaggio'''
+ReAr_Scroll_Transformminecrawler: 'Pergamena ''Trasforma in Scavaragno'''
+ReAr_Scroll_Transformmolerat: 'Pergamena ''Trasforma in Ratto Talpa'''
+ReAr_Scroll_Transformorcdog: 'Pergamena ''Trasforma in Cane Orco'''
+ReAr_Scroll_Transformrazor: 'Pergamena ''Trasforma in Squartatore'''
+ReAr_Scroll_Transformscavenger: 'Pergamena ''Trasforma in Saprofago'''
+ReAr_Scroll_Transformshadowbeast: 'Pergamena ''Trasforma in Bestia d''Ombra'''
+ReAr_Scroll_Transformsnapper: 'Pergamena ''Trasforma in Laceratore'''
+ReAr_Scroll_Transformswampshark: 'Pergamena ''Trasforma in Squalo di Palude'''
+ReAr_Scroll_Transformwolf: 'Armatura'
+Item_Weapon_Rune: 'Runa'
+Item_Weapon_Scroll: 'Pergamena'
+Item_Amulet: 'Amuleto'
+Item_Food: 'Cibo'
+Item_Potion: 'Bevanda'
+Item_Herb: 'Erba'
+Item_Drug: 'Farmaco'
+Item_Key: 'Chiave'
+Item_Trophy: 'Trofeo'
+Item_Material: 'Materiale'
+Item_Ore: 'Metallo Magico'
+Item_Junk: 'Scarti'
+Item_Ammo: 'Munizioni'
+Item_Quest: 'Oggetto della missione'
+Item_Lockpick: 'Grimaldello'
+Item_Instrument: 'Strumento'
+Item_Weapon_Bow: 'Arco'
+Item_Weapon_Crossbow: 'Balestra'
+Item_Ring: 'Anello'
+Item_Weapon_Axe_OneHand: 'Ascia'
+Item_Weapon_Mace_OneHand: 'Mazza'
+Item_Weapon_Sword_OneHand: 'Spada'
+Item_Weapon_Torch_OneHand: 'Torcia'
+Item_Weapon_Axe_TwoHand: 'Ascia a due mani'
+Item_Weapon_Mace_TwoHand: 'Mazza a due mani'
+Item_Weapon_Staff_TwoHand: 'Bastone'
+Item_Weapon_Sword_TwoHand: 'Spada a due mani'
+Item_Writing: 'Scriptorium'
+Item_Weapon_Fist: 'Pugno'
+ItAt_Meatbug_01_description: 'Carne di scarafaggio. Gustosa quando cotta, non tanto
+  cruda.'
+ItFo_Apple_description: 'Queste mele simboleggiano il monopolio commerciale del Campo
+  Vecchio.'
+ItFo_Cheese_description: 'Formaggio di Myrtana, riservato alle élite del Campo Vecchio.
+  Il suo aroma pungente si diffonde nel castello.'
+ItFo_Grilledscavenger_description: 'Carne di Saprofago, deliziosa grigliata alla perfezione.'
+ItFo_Loaf_description: 'Il punto di forza della colonia: il suo rifornimento costante
+  mantiene le pance piene e frena i disordini.'
+ItFo_Meatbugragout_description: 'Una specialità del Campo Vecchio nata dalla necessità,
+  un gustoso ragù di funghi porcini e carne di scarafaggi.'
+ItFo_Mutton_01_description: 'Baciato dal fuoco, riempie lo stomaco e riscalda l''anima.'
+ItFo_Mutton_02_description: 'Stagionato e squisito, una vera delizia a base di carne.'
+ItFo_Muttonraw_description: 'Appena cacciato, attende l''abbraccio del fuoco.'
+ItFo_Pear_description: 'Frutta dolce da fuori, il sapore di casa.'
+ItFo_Potato_description: 'Questi tuberi costituiscono un alimento base in tutti gli
+  accampamenti e contribuiscono a sostenere la forza lavoro della colonia.'
+ItFo_Potion_Beer_description: 'Birra importata da Myrtana, un lusso del Campo Vecchio
+  che olia gli ingranaggi delle trattative e del commercio nella colonia penale.'
+ItFo_Potion_Booze_description: 'L''orgoglio del Campo Nuovo, distillato dalle riso.
+  Questo potente alcolico funge da valuta e lubrificante sociale, incarnando l''intraprendenza
+  del campo'
+ItFo_Potion_Strongbeer_description: 'Potente bevanda preferita dai sorveglianti delle
+  miniere. Il suo alto contenuto alcolico aumenta la produttività a breve termine,
+  nonostante i rischi di un uso prolungato.'
+ItFo_Potion_Water_01_description: 'Sebbene ampiamente disponibile, il controllo delle
+  fonti di acqua pulita è fondamentale per il mantenimento della colonia.'
+ItFo_Potion_Wine_description: 'Simbolo dei legami esterni del Campo Nuovo, un lusso
+  raro che si trovava alle tavole dei Baroni del Metallo.'
+ItFo_Rice_description: 'Il fondamento dell''indipendenza del Campo Nuovo, coltivato
+  con cura in risaie sorvegliate. Il suo surplus guida il loro commercio e plasma
+  le relazioni con gli altri campi.'
+ItFo_Whitemeat_description: 'Tenera carne di Saprofago, in attesa della cottura,'
+ItFo_Plants_Berrys_01_description: 'Bacche selvatiche che si trovano nelle zone più
+  selvagge della colonia. Raccoglierle spesso significa mettere a rischio gli arti
+  e la vita.'
+ItFo_Plants_Bloodwood_01_description: 'Una pianta resistente con caratteristici baccelli
+  marroni. Apprezzata per le sue proprietà medicinali nel duro ambiente della colonia.'
+ItFo_Plants_Mushroom_01_description: 'Fungo comune nella Valle delle Miniere. Riconoscibile
+  dal suo cappello bianco.'
+ItFo_Plants_Orcherb_01_description: 'Una potente erba curativa proveniente dai territori
+  degli orchi. Il suo reperimento spesso porta a incontri pericolosi, rendendola una
+  merce preziosa per i guaritori delle colonie.'
+ItFo_Plants_Seraphis_01_description: 'Una visione comune nella valle, cruciale per
+  la produttività della colonia. I suoi effetti ricostituenti mantengono in vita la
+  forza lavoro dei prigionieri.'
+ItFo_Plants_Stoneroot_01_description: 'Questa pianta resistente, fondamentale per
+  ripristinare l''energia magica, viene raccolta con zelo dai maghi della colonia.'
+ItAt_Claws_01_description: 'Artigli affilati come rasoi, molto apprezzati dagli artigiani
+  della colonia. Raccoglierli è tanto pericoloso quanto redditizio.'
+ItAm_Arrow_description: 'Realizzate con materiali robusti, queste frecce sono essenziali
+  per gli archi e fanno la differenza tra un bastone e un''arma.'
+ItAm_Bolt_description: 'Realizzate per le balestre preferite dalle guardie del Campo
+  Vecchio. Il loro fischio nell''aria spesso mette a tacere il dissenso prima che
+  inizi.'
+ItKe_Lockpick_description: 'Indispensabile per chi è abile nell''aprire ciò che è
+  chiuso a chiave.'
+ItMi_Hammer_description: 'Un martello robusto. Essenziale per fabbri e artigiani,
+  è un simbolo di duro lavoro nella colonia.'
+ItMi_Lute_description: 'Un legame tangibile con il mondo esterno. Le sue melodie preservano
+  la sanità mentale e la cultura, rendendolo come un minerale prezioso.'
+ItMi_Oldcoin_01_description: 'Una reliquia della vita prima della barriera. Un tempo
+  preziosa a Myrtana, ora inutile sotto la barriera.'
+ItMi_Orenugget_description: 'La linfa vitale della colonia. Le sue proprietà uniche
+  la rendono sia una valuta che una risorsa ambita, plasmando la colonia e le dinamiche
+  di potere del regno.'
+ItMi_Stuff_Amphore_01_description: 'Questi recipienti, reliquie del commercio precoloniale,
+  oggi svolgono molteplici funzioni nella vita dell''accampamento.'
+ItMi_Stuff_Barbknife_01_description: 'Un simbolo di civiltà nella dura colonia. Sebbene
+  sia usato principalmente per la rasatura, il suo filo tagliente serve come un sottile
+  promemoria di potenziale violenza.'
+ItMi_Stuff_Brush_description: 'Più che semplici strumenti per la pulizia, queste spazzole
+  sono essenziali per la manutenzione di armi, armature e salute nelle dure condizioni
+  della colonia.'
+ItMi_Stuff_Cup_01_description: 'Ha visto molti brindisi. Spesso l''unico lusso dei
+  miseri beni di un minatore.'
+ItMi_Stuff_Cup_02_description: 'Calice d''argento decorato, probabilmente rubato tra
+  i resti della nobiltà di Myrtana nella colonia.'
+ItMi_Stuff_Mug_01_description: 'Onnipresenti in tutti gli accampamenti, queste semplici
+  brocche sono essenziali per la distribuzione dell''acqua.'
+ItMi_Stuff_Pipe_01_description: 'Un conforto prezioso nella colonia, spesso utilizzato
+  insieme alle erbe locali.'
+ItMi_Stuff_Plate_01_description: 'Piatto di metallo usurato. Un promemoria del fatto
+  che anche i prigionieri hanno bisogno di mangiare.'
+HumanFists_description: 'I pugni nudi, l''ultima risorsa dei disperati o l''arma preferita
+  dei più sicuri di sé. Efficaci, se sai come usarli.'
+ItFo_Potion_Health_01_description: 'Pozione curativa ricavata da erbe rare. Le sue
+  rapide proprietà curative salvano innumerevoli vite, rendendo gli alchimisti esperti
+  molto stimati nella colonia'
+ItWr_Scroll_Jacko_01_description: 'Jacko, ho ricevuto il tuo messaggio. Non sapevo
+  che Silas avesse una scorta in cantina. Sono d''accordo, potremmo dividerla a metà
+  se dovessi trovarla. Ho dei contatti nella taverna e forse ho appena scoperto un
+  modo per accedere alla cantina.'
+ItMw_1H_Axe_Sickle_01_description: 'Simbolo dell''autosufficienza del Campo Nuovo,
+  questo strumento funge sia da mietitore che da protettore. La sua lama curva incarna
+  la determinazione del campo a prosperare.'
+ItMw_1H_Mace_03_description: 'Una mazza brutale con una testa di metallo chiodata,
+  realizzata per imitare la puntura mortale delle sanguimosche delle colonie. Preferita
+  dai furfanti, il suo design distintivo incute timore.'
+ItMw_1H_Mace_Club_01_description: 'Un compagno di scavo. La sua rozza efficacia incarna
+  la brutale semplicità della vita in colonia'
+ItMw_1H_Sword_01_description: 'Una spada di acciaio basica con un''impugnatura leggermente
+  curva. Dotazione standard per le guardie di rango inferiore del Campo Vecchio.'
+ItMw_1H_Sword_02_description: 'Lama incisa con la guardia dorata. Simbolo dei guerrieri
+  esperti nel Campo Vecchio.'
+ItMw_1H_Sword_04_description: 'Una spada di qualità con lama decorata e guardia a
+  croce. Preferita dai combattenti esperti per la sua versatilità.'
+ItMw_1H_Sword_Old_01_description: 'Queste lame usurate, reliquia dei primi giorni
+  della colonia, vengono ancora utilizzate dai nuovi arrivati.'
+ItMw_1H_Sword_Short_02_description: 'Una semplice spada corta con un pomolo d''argento.
+  Le sue dimensioni compatte la rendono ideale per combattimenti rapidi e ravvicinati.'
+ItMw_1H_Torch_description: 'Indispensabile per orientarsi nelle insidiose zone oscure
+  della colonia. Può essere usato come arma improvvisata contro le bestie, a volte
+  con brucianti conseguenze.'
+ItRw_Bow_Diego_description: 'Questo arco lungo, magistralmente realizzato, è tanto
+  un simbolo della leadership di Diego quanto un''arma.'
+ItRw_Bow_Long_01_description: 'Arco lungo di legno con curvatura leggera. Design semplice
+  senza impugnatura avvolgente. Popolare tra i residenti di New Camp per la sua portata.'
+ItRw_Bow_Small_01_description: 'Un arco corto rozzamente realizzato con bracci asimmetrici.
+  Popolare tra i cacciatori alle prime armi e i prigionieri disperati.'
+ItRw_Bow_Small_02_description: 'Un arco corto in legno. Il suo design semplice lo
+  rende popolare tra gli arcieri delle Ombre e nel Campo Nuovo.'
+ItRw_Bow_Small_04_description: 'Un arco corto in legno scuro con braccia rinforzate
+  in metallo. Preferito dalle Ombre influenti per la sua potenza e precisione.'
+ItRw_Crossbow_01_description: 'Balestra leggera in legno con rinforzi in metallo.
+  Popolare tra le guardie del Campo Vecchio.'
+ItMw_2H_Axe_Pickaxe_description: 'Lo strumento più cruciale della colonia, questo
+  piccone estrae il minerale magico che guida la politica dell''accampamento. In mani
+  esperte, è anche un''arma pericolosa.'
+ItWr_Scroll_Mysteriousnote_description: 'Immagine enigmatica dallo scopo sconosciuto,
+  presumibilmente disegnata da Jorik.'
 ItAt_Amulet_Brotherhood: Simbolo della Fratellanza
 ItAt_Amulet_Dexterity_01: Amuleto d'agilità
 ItAt_Amulet_Dexterity_02: Amuleto di destrezza
@@ -256,7 +327,7 @@ Kdf_Armor_L: Veste di fuoco
 Kdw_Armor_H: Alta veste d'acqua
 Kdw_Armor_L: Veste d'acqua
 Law_Armor: Veste da giudice
-NH_Armor: ''
+NH_Armor: 'Abiti da detenuto'
 Nov_Armor: Armatura da novizio
 Ore_Armor_H: Armatura di metallo potenziata
 Ore_Armor_M: Antica armatura di metallo
@@ -270,30 +341,30 @@ Vlk_Armor_L: Calzoni leggeri da minatore
 Vlk_Armor_M: Calzoni da minatore
 ItAt_Meatbug_01: Scarafaggio
 ItFo_Apple: Mela
-ItFo_Cabbage: ''
-ItFo_Carrot: ''
+ItFo_Cabbage: 'Cavolo'
+ItFo_Carrot: 'Carota'
 ItFo_Cheese: Formaggio
 ItFo_Crawlersoup: Zuppa di pidocchi di miniera
-ItFo_Grilledscavenger: ''
-ItFo_Lemon: ''
+ItFo_Grilledscavenger: 'Carne di Saprofago grigliata'
+ItFo_Lemon: 'Limone'
 ItFo_Loaf: Pane
 ItFo_Meatbugragout: Ragù di scarafaggi
 ItFo_Mutton_01: Carne grigliata
 ItFo_Mutton_02: Prosciutto
 ItFo_Muttonraw: Carne cruda
-ItFo_Onion: ''
-ItFo_Pear: ''
-ItFo_Potato: ''
+ItFo_Onion: 'Cipolla'
+ItFo_Pear: 'Pera'
+ItFo_Potato: 'Patata'
 ItFo_Potion_Beer: Birra
 ItFo_Potion_Booze: Grappa di riso
-ItFo_Potion_Specialwater: ''
+ItFo_Potion_Specialwater: 'Acqua magica'
 ItFo_Potion_Strongbeer: Birra forte
 ItFo_Potion_Water_01: Acqua
 ItFo_Potion_Wine: Vino
 ItFo_Rice: Riso
-ItFo_Sausage: ''
+ItFo_Sausage: 'Salsiccia'
 ItFo_Soup: Zuppa di radice
-ItFo_Whitemeat: ''
+ItFo_Whitemeat: 'Carne bianca cruda'
 ItFo_Wineberrys_01: Uva
 ItFo_Plants_Berrys_01: Mirtilli
 ItFo_Plants_Bloodwood_01: Seme di faggio rosso
@@ -314,28 +385,28 @@ ItFo_Plants_Ravenherb_02: Erbe scure
 ItFo_Plants_Seraphis_01: Seraphis
 ItFo_Plants_Stoneroot_01: Radice di pietra
 ItFo_Plants_Stoneroot_02: Radice del drago
-ItFo_Plants_Towerwood_01: ''
-ItFo_Plants_Trollberrys_01: ''
-ItFo_Plants_Velayis_01: ''
+ItFo_Plants_Towerwood_01: 'Semi di Quercia della Torre'
+ItFo_Plants_Trollberrys_01: 'Troll Oscuro'
+ItFo_Plants_Velayis_01: 'Velaya'
 ItMi_Joint_01: Verde del novizio
 ItMi_Joint_02: Buio del Nord
 ItMi_Joint_03: Evocasogni
 ItMi_Plants_Swampherb_01: Erba di palude
 ItKe_Berg_01: Chiave di uno scrigno.
-ItKe_Brass: ''
+ItKe_Brass: 'Chiave (ottone)'
 ItKe_Cavalorn_01: Chiave di Cavalorn
 ItKe_Dungeonkey: Chiave delle segrete
 ItKe_Focus_04: Chiave
 ItKe_Focus_05: Chiave
 ItKe_Freemine: Chiave della miniera libera
-ItKe_Gold: ''
+ItKe_Gold: 'Chiave (oro)'
 ItKe_Gomez_01: Chiave di Gomez
-ItKe_Grey: ''
+ItKe_Grey: 'Chiave (Grigia)'
 ItKe_Kalom_01: Chiave del laboratorio
 ItKe_Om_02: Chiave di uno scrigno
 ItKe_Om_03: Chiave di uno scrigno
 ItKe_OrcGraveyard: ''
-ItKe_OrcGraveyardPiece_01: ''
+ItKe_OrcGraveyardPiece_01: 'Chiave del cimitero degli Orchi'
 ItKe_OrcGraveyardPiece_02: ''
 ItKe_Ricelord_01: Chiave del Signore del Riso
 ItKe_Smith_01: Chiave di ferro
@@ -637,7 +708,7 @@ ItAr_Scroll_SummonGolem: Evoca un golem
 ItAr_Scroll_SummonSkeletons: Evoca gli scheletri
 ItAr_Scroll_Telekinesis: Telecinesi
 ItAr_Scroll_TeleportToMagiciansOfWater: Teletrasporto ai Maghi dell'Acqua
-ItAr_Scroll_TeleportToOrcCementery: Incantesimo di teletrasporto degli orchi
+ItAr_Scroll_TeleportToOrcCementery: Pergamena di teletrasporto degli orchi
 ItAr_Scroll_TeleportToSleepersTemple: ''
 ItAr_Scroll_TransformBiter: ''
 ItAr_Scroll_TransformBloodfly: Trasformazione in mosca vampiro
