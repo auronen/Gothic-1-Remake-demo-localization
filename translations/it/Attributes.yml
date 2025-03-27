@@ -35,12 +35,25 @@ AttributeSet_Mana_Mana_Description: 'Il mana alimenta le tue abilità magiche. I
 AttributeSet_Mana_MaxMana_Description: 'Il mana alimenta le tue abilità magiche. Il
   mana si consuma lanciando incantesimi e non si rigenera automaticamente, perciò
   dovrai sfruttare riposi e oggetti.'
-AttributeSet_Strength_Strength_Description: 'La forza rappresenta la tua prestanza
-  fisica'
-AttributeSet_Dexterity_Dexterity_Description: ''
-AttributeSet_LevelProgression_Toughness_Description: ''
-AttributeSet_Mana_MagicianLevel_Description: ''
-AttributeSet_Armor_Resistance_Blunt_Description: ''
-AttributeSet_Armor_Resistance_Edge_Description: ''
-AttributeSet_Armor_Resistance_Point_Description: ''
+AttributeSet_Strength_Strength_Description: 'La forza esprime la tua abilità fisica.
+  Maggiore è la tua forza, più potenti saranno le armi che potrai maneggiare e più
+  dannosi saranno i tuoi attacchi corpo a corpo.'
+AttributeSet_Dexterity_Dexterity_Description: 'La destrezza rappresenta la tua padronanza,
+  equilibrio e controllo sul tuo corpo. Determina le armi a distanza che puoi usare
+  e migliora l''efficacia del tuo attacco a distanza e le possibilità di successo
+  durante il borseggio.'
+AttributeSet_LevelProgression_Toughness_Description: 'La tenacia è una misura della
+  tua capacità di portare oggetti. Man mano che diventi più tenace, puoi trasportare
+  più oggetti. Sovraccaricarti ostacolerà i tuoi movimenti, quindi gestisci il tuo
+  inventario con saggezza.'
+AttributeSet_Mana_MagicianLevel_Description: 'I cerchi magici simboleggiano la profondità
+  della saggezza e della conoscenza di un mago nelle arti arcane. Mentre sali attraverso
+  i cerchi, ottieni accesso a incantesimi più intricati e potenti, amplificando la
+  tua abilità magica.'
+AttributeSet_Armor_Resistance_Blunt_Description: 'Fornisce difesa contro i colpi devastanti
+  delle mazze.'
+AttributeSet_Armor_Resistance_Edge_Description: 'Fornisce difesa contro i fili taglienti
+  di spade e asce.'
+AttributeSet_Armor_Resistance_Point_Description: 'Questa protezione riduce i danni
+  perforanti causati da frecce e dardi.'
 AttributeSet_Armor_Resistance_Fire_Description: ''
