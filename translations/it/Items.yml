@@ -413,9 +413,9 @@ ItKe_Smith_01: Chiave di ferro
 ItKe_Storage_01: Chiave del magazzino
 ItKe_Sunkentower: Chiave del forziere (torre sommersa)
 ItKe_White: 'Chiave (bianca)'
-ItAt_Biter_01: ''
-ItAt_Biter_02: ''
-ItAt_Biter_03: ''
+ItAt_Biter_01: 'Artiglio di Sbranatore'
+ItAt_Biter_02: 'Zanna di Sbranatore'
+ItAt_Biter_03: 'Pelle di Sbranatore'
 ItAt_Bloodfly_01: Ali
 ItAt_Bloodfly_02: Pungiglione di mosca vampiro
 ItAt_Bloodfly_03: 'Sacca del veleno di mosca vampiro'
@@ -454,7 +454,7 @@ ItAt_Shadow_02: Corno di un mostro d'ombra
 ItAt_Shadow_03: 'Zanna di Bestia d''Ombra'
 ItAt_Shadow_04: 'Spina dorsale di Bestia d''Ombra'
 ItAt_Snapper_01: ''
-ItAt_Snapper_02: ''
+ItAt_Snapper_02: 'Zanna di Squartatore'
 ItAt_Stonegolem_01: Cuore di un golem di pietra
 ItAt_Stonegolem_02: ''
 ItAt_Swampshark_01: Pelle di uno squalo di palude
