@@ -419,8 +419,8 @@ ItAt_Biter_03: ''
 ItAt_Bloodfly_01: Ali
 ItAt_Bloodfly_02: Pungiglione di mosca vampiro
 ItAt_Bloodfly_03: 'Sacca del veleno di mosca vampiro'
-ItAt_Bloodhound_01: ''
-ItAt_Bloodhound_02: ''
+ItAt_Bloodhound_01: 'Denti di segugio'
+ItAt_Bloodhound_02: 'Pelle di segugio'
 ItAt_Claws_01: Artigli
 ItAt_Crawler_01: Mascella di pidocchio di miniera
 ItAt_Crawler_02: La corazza di un pidocchio di miniera
@@ -429,37 +429,37 @@ ItAt_Damlurker_01: Artigli di imboscatore della diga
 ItAt_Firegolem_01: Cuore di un golem di fuoco
 ItAt_Firegolem_02: 'Nucleo di ossidiana'
 ItAt_Firelizard_01: Lingua di fuoco
-ItAt_Firelizard_02: ''
+ItAt_Firelizard_02: 'Ghiandola di veleno di fuoco'
 ItAt_Firelizard_03: ''
-ItAt_Firelizard_04: ''
+ItAt_Firelizard_04: 'Pelle di Lucertola di Fuoco'
 ItAt_Harpy_01: 'Piuma di Arpia'
 ItAt_Harpy_02: 'Artiglio di Arpia'
 ItAt_Icegolem_01: Cuore di un golem di ghiaccio
 ItAt_Icegolem_02: Pezzo di un golem di ghiaccio
-ItAt_Lizard_01: ''
-ItAt_Lizard_02: ''
+ItAt_Lizard_01: 'Artigli di Lucertola'
+ItAt_Lizard_02: 'Pelle di Lucertola'
 ItAt_Lizard_03: ''
 ItAt_Lurker_01: Artigli di imboscatore
 ItAt_Lurker_02: Pelle di imboscatore
 ItAt_Lurker_03: ''
 ItAt_Minecrawlerqueen_01: 'Ghiandola di feromoni della Regina'
-ItAt_Orcdog_01: ''
+ItAt_Orcdog_01: 'Zanna di Cane Orco'
 ItAt_Orcdog_02: Pelle di cane orco
-ItAt_Razor_01: ''
-ItAt_Razor_02: ''
+ItAt_Razor_01: 'Artiglio di Squartatore'
+ItAt_Razor_02: 'Placca cutanea di Squartatore'
 ItAt_Scavenger_01: 'Zanne di Saprofago'
 ItAt_Scavenger_02: 'Osso cranico di Saprofago'
 ItAt_Shadow_01: Pelle di un mostro d'ombra
 ItAt_Shadow_02: Corno di un mostro d'ombra
-ItAt_Shadow_03: ''
-ItAt_Shadow_04: ''
+ItAt_Shadow_03: 'Zanna di Bestia d''Ombra'
+ItAt_Shadow_04: 'Spina dorsale di Bestia d''Ombra'
 ItAt_Snapper_01: ''
 ItAt_Snapper_02: ''
 ItAt_Stonegolem_01: Cuore di un golem di pietra
 ItAt_Stonegolem_02: ''
 ItAt_Swampshark_01: Pelle di uno squalo di palude
 ItAt_Swampshark_02: Denti di uno squalo di palude
-ItAt_Swampshark_03: ''
+ItAt_Swampshark_03: 'Placca di Squalo di Palude'
 ItAt_Teeth_01: Denti
 ItAt_Troll_01: Pelle di troll
 ItAt_Troll_02: Zanna di troll
@@ -471,16 +471,16 @@ ItMi_Smith_1H_Axe_02: 'Spaccacrani non affilata'
 ItMi_Smith_1H_Axe_Hatchet_01: 'Ascia non affilata'
 ItMi_Smith_1H_Axe_Old_01: 'Ascia rovinata non affilata'
 ItMi_Smith_1H_Axe_Sickle_01: 'Falcetto non affilato'
-ItMi_Smith_1H_Mace_01: ''
-ItMi_Smith_1H_Mace_02: ''
-ItMi_Smith_1H_Mace_03: ''
-ItMi_Smith_1H_Mace_04: ''
-ItMi_Smith_1H_Mace_Light_01: ''
-ItMi_Smith_1H_Mace_Sledgehammer_01: ''
-ItMi_Smith_1H_Mace_War_01: ''
-ItMi_Smith_1H_Mace_War_02: ''
-ItMi_Smith_1H_Mace_War_03: ''
-ItMi_Smith_1H_Mace_Warhammer_02: ''
+ItMi_Smith_1H_Mace_01: 'Mazza grezza'
+ItMi_Smith_1H_Mace_02: 'Mazza aculeata grezza'
+ItMi_Smith_1H_Mace_03: 'Aculeo di Sanguimosca grezzo'
+ItMi_Smith_1H_Mace_04: 'Lungua d''Acciaio grezza'
+ItMi_Smith_1H_Mace_Light_01: 'Randello grezzo'
+ItMi_Smith_1H_Mace_Sledgehammer_01: 'Martello da Fabbro grezzo'
+ItMi_Smith_1H_Mace_War_01: 'Morningstar grezza'
+ItMi_Smith_1H_Mace_War_02: 'Mazza d''acciaio grezza'
+ItMi_Smith_1H_Mace_War_03: 'Spaccasassi grezzo'
+ItMi_Smith_1H_Mace_Warhammer_02: 'Martellod da Guerra grezzo'
 ItMi_Smith_1H_Sword_01: 'Spada grezza non affilata'
 ItMi_Smith_1H_Sword_02: 'Spada del Giudizio non affilata'
 ItMi_Smith_1H_Sword_03: 'Spada della Guardia non affilata'
@@ -489,7 +489,7 @@ ItMi_Smith_1H_Sword_Bastard_02: 'Mannaia non affilata'
 ItMi_Smith_1H_Sword_Broad_01: 'Spada larga non affilata'
 ItMi_Smith_1H_Sword_Broad_02: 'Verdetto del guerriero non affilata'
 ItMi_Smith_1H_Sword_Long_01: 'Spada lunga non affilata'
-ItMi_Smith_1H_Sword_Scythe_01: ''
+ItMi_Smith_1H_Sword_Scythe_01: 'Coltello smussato'
 ItMi_Smith_1H_Sword_Short_01: 'Spada corta non affilata'
 ItMi_Smith_1H_Sword_Short_02: 'Difesa del Contadino non affilata'
 ItMi_Smith_1H_Sword_Short_03: 'Morso di imboscatore non affilata'
@@ -497,57 +497,58 @@ ItMi_Smith_1H_Sword_Short_04: 'Spina letale non affilata'
 ItMi_Smith_1H_Sword_Short_05: 'Disciplina del Minatore non affilata'
 ItMi_Smith_2H_Axe_Heavy_02: 'Voce del Guerriero non affilata'
 ItMi_Smith_2H_Axe_Light_01: 'Ascia leggera da battaglia non affilata'
-ItMi_Smith_2H_Axe_Light_02: ''
-ItMi_Smith_2H_Axe_Old_02: ''
-ItMi_Smith_2H_Axe_Pickaxe: ''
-ItMi_Smith_2H_Sword_01: ''
-ItMi_Smith_2H_Sword_Heavy_01: ''
-ItMi_Smith_2H_Sword_Light_01: ''
-ItMi_Smith_2H_Sword_Light_02: ''
-ItMi_Smith_2H_Sword_Light_03: ''
-ItMi_Smith_Blade_Arming: ''
-ItMi_Smith_Blade_Flamberge: ''
-ItMi_Smith_Blade_Great: ''
-ItMi_Smith_Blade_Long: ''
-ItMi_Smith_Blade_Short: ''
-ItMi_Smith_Blade_Sickle: ''
-ItMi_Smith_Blade_Singleedge: ''
-ItMi_Smith_Gold: ''
-ItMi_Smith_Head_Battleaxe: ''
-ItMi_Smith_Head_Broadaxe: ''
-ItMi_Smith_Head_Club: ''
+ItMi_Smith_2H_Axe_Light_02: 'Colpo di Tuono Smussato'
+ItMi_Smith_2H_Axe_Old_02: 'Mietitore di sangue smussato'
+ItMi_Smith_2H_Axe_Pickaxe: 'Piccone smussato'
+ItMi_Smith_2H_Sword_01: 'Spada a due mani smussata'
+ItMi_Smith_2H_Sword_Heavy_01: 'Spada a due mani pesante smussata'
+ItMi_Smith_2H_Sword_Light_01: 'Spada a due mani leggera smussata'
+ItMi_Smith_2H_Sword_Light_02: 'Lama del Custode smussata'
+ItMi_Smith_2H_Sword_Light_03: 'Lama del Mercenario smussata'
+ItMi_Smith_Blade_Arming: 'Spada d''Arme'
+ItMi_Smith_Blade_Flamberge: 'Lama a Flamberga'
+ItMi_Smith_Blade_Great: 'Grande Lama'
+ItMi_Smith_Blade_Long: 'Lama lunga'
+ItMi_Smith_Blade_Short: 'Lama corta'
+ItMi_Smith_Blade_Sickle: 'Lama di Falce'
+ItMi_Smith_Blade_Singleedge: 'Lama a un filo'
+ItMi_Smith_Gold: 'Oro'
+ItMi_Smith_Head_Battleaxe: 'Testa di Ascia da Battaglia'
+ItMi_Smith_Head_Broadaxe: 'Testa d''Ascia Larga'
+ItMi_Smith_Head_Club: 'Testa di Randello'
 ItMi_Smith_Head_Fledged: ''
-ItMi_Smith_Head_Greatbattleaxe: ''
-ItMi_Smith_Head_Hammer: ''
-ItMi_Smith_Head_Morningstar: ''
-ItMi_Smith_Head_Pickaxe: ''
-ItMi_Smith_Head_Poleaxe: ''
-ItMi_Smith_Head_Scythe: ''
-ItMi_Smith_Head_Warhammer: ''
-ItMi_Smith_Intermediate_Blade_Arming: ''
-ItMi_Smith_Intermediate_Blade_Flamberge: ''
-ItMi_Smith_Intermediate_Blade_Great: ''
-ItMi_Smith_Intermediate_Blade_Long: ''
-ItMi_Smith_Intermediate_Blade_Short: ''
-ItMi_Smith_Intermediate_Blade_Sickle: ''
-ItMi_Smith_Intermediate_Blade_Singleedge: ''
-ItMi_Smith_Intermediate_Head_Battleaxe: ''
-ItMi_Smith_Intermediate_Head_Broadaxe: ''
-ItMi_Smith_Intermediate_Head_Club: ''
+ItMi_Smith_Head_Greatbattleaxe: 'Testa di Grande Ascia da Battaglia'
+ItMi_Smith_Head_Hammer: 'Testa di Martello'
+ItMi_Smith_Head_Morningstar: 'Testa di Morningstar'
+ItMi_Smith_Head_Pickaxe: 'Testa di Piccone'
+ItMi_Smith_Head_Poleaxe: 'Testa di Ascia'
+ItMi_Smith_Head_Scythe: 'Testa di Falce'
+ItMi_Smith_Head_Warhammer: 'Testa di Martello da Guerrra'
+ItMi_Smith_Intermediate_Blade_Arming: 'Lama d''Arme non temprata'
+ItMi_Smith_Intermediate_Blade_Flamberge: 'Lama di Flamberga non temprata'
+ItMi_Smith_Intermediate_Blade_Great: 'lama di Spadone non temprata'
+ItMi_Smith_Intermediate_Blade_Long: 'Lama lunga non temprata'
+ItMi_Smith_Intermediate_Blade_Short: 'Lama corta non temprata'
+ItMi_Smith_Intermediate_Blade_Sickle: 'Lama di Falce non temprata'
+ItMi_Smith_Intermediate_Blade_Singleedge: 'Lama a un filo non temprata'
+ItMi_Smith_Intermediate_Head_Battleaxe: 'Testa di Ascia da Battaglia non temprata'
+ItMi_Smith_Intermediate_Head_Broadaxe: 'Testa di ascia non temprata'
+ItMi_Smith_Intermediate_Head_Club: 'tesra di randello non temprata'
 ItMi_Smith_Intermediate_Head_Fledged: ''
-ItMi_Smith_Intermediate_Head_Greatbattleaxe: ''
-ItMi_Smith_Intermediate_Head_Hammer: ''
-ItMi_Smith_Intermediate_Head_Morningstar: ''
-ItMi_Smith_Intermediate_Head_Pickaxe: ''
-ItMi_Smith_Intermediate_Head_Poleaxe: ''
-ItMi_Smith_Intermediate_Head_Scythe: ''
-ItMi_Smith_Intermediate_Head_Warhammer: ''
-ItMi_Smith_Iron: ''
-ItMi_Smith_Ironwood: ''
-ItMi_Smith_Leatherstraps: ''
-ItMi_Smith_Oak: ''
-ItMi_Smith_Obsidian: ''
-ItMi_Smith_Petrifiedwood: ''
+ItMi_Smith_Intermediate_Head_Greatbattleaxe: 'Testa di Grande Asia da Battaglia non
+  temprata'
+ItMi_Smith_Intermediate_Head_Hammer: 'Testa di Martello non temprata'
+ItMi_Smith_Intermediate_Head_Morningstar: 'Testa di Morningstar non temprata'
+ItMi_Smith_Intermediate_Head_Pickaxe: 'Testa di piccone non temprata'
+ItMi_Smith_Intermediate_Head_Poleaxe: 'Testa d''Ascia non temprata'
+ItMi_Smith_Intermediate_Head_Scythe: 'Testa di Falce non temprata'
+ItMi_Smith_Intermediate_Head_Warhammer: 'Testa di Martello da Guerra non temprata'
+ItMi_Smith_Iron: 'Ferro'
+ItMi_Smith_Ironwood: 'Legno di albero del ferro'
+ItMi_Smith_Leatherstraps: 'Cinghie di quoio'
+ItMi_Smith_Oak: 'Legno di Quercia'
+ItMi_Smith_Obsidian: 'Gemma di ossidiana'
+ItMi_Smith_Petrifiedwood: 'Legno Pietrificato'
 ItMi_Smith_Ruby: 'Rubino'
 ItMi_Smith_Steel: 'Acciaio'
 ItMi_Smith_Swordblade: Lama
@@ -561,7 +562,7 @@ ItKe_Lockpick: Grimaldello
 ItLs_Torch: Torcia
 ItLs_Torchburned: Torcia (usata)
 ItLs_Torchburning: 'Torcia (accesa)'
-ItLs_Torchfirespit: ''
+ItLs_Torchfirespit: 'Torcia'
 ItMi_Alchemy_Alcohol_01: Alcool puro
 ItMi_Alchemy_Flask: Provetta
 ItMi_Alchemy_Moleratlubric_01: Grasso di topo talpa
@@ -574,7 +575,7 @@ ItMi_Hammer: Martello
 ItMi_Lute: Liuto
 ItMi_Oldcoin_01: Moneta
 ItMi_Orenugget: Pezzo di metallo
-ItMi_Specialjoint: ''
+ItMi_Specialjoint: 'Chiamata dei sogni pronta'
 ItMi_Stomper: Schiacciaerba
 ItMi_Stuff_Alarmhorn: Corno
 ItMi_Stuff_Amphore_01: Anfora
@@ -709,28 +710,28 @@ ItAr_Scroll_SummonSkeletons: Evoca gli scheletri
 ItAr_Scroll_Telekinesis: Telecinesi
 ItAr_Scroll_TeleportToMagiciansOfWater: Teletrasporto ai Maghi dell'Acqua
 ItAr_Scroll_TeleportToOrcCementery: Pergamena di teletrasporto degli orchi
-ItAr_Scroll_TeleportToSleepersTemple: ''
+ItAr_Scroll_TeleportToSleepersTemple: 'Pergamena ''Teletrasporto al Tempio del Dormiente'''
 ItAr_Scroll_TransformBiter: ''
 ItAr_Scroll_TransformBloodfly: Trasformazione in mosca vampiro
-ItAr_Scroll_TransformBloodhound: ''
-ItAr_Scroll_TransformFireLizard: ''
-ItAr_Scroll_TransformHarpy: ''
+ItAr_Scroll_TransformBloodhound: 'Pergamena ''Trasforma in Segugio'''
+ItAr_Scroll_TransformFireLizard: 'Pergamena ''Trasforma in Lucertola del Fuoco'''
+ItAr_Scroll_TransformHarpy: 'Pergamena ''Trasforma in Arpia'''
 ItAr_Scroll_TransformLizard: Trasformazione in lucertola
 ItAr_Scroll_TransformLurker: Trasformazione in imboscatore
 ItAr_Scroll_TransformMeatbug: Trasformazione in scarafaggio
 ItAr_Scroll_TransformMinecrawler: Trasformazione in pidocchio delle miniere
 ItAr_Scroll_TransformMolerat: Trasformazione in topo talpa
 ItAr_Scroll_TransformOrcDog: Trasformazione in cane orco
-ItAr_Scroll_TransformRazor: ''
+ItAr_Scroll_TransformRazor: 'Pergamena ''Trasforma in Squartatore'''
 ItAr_Scroll_TransformScavenger: Trasformazione in saprofago
 ItAr_Scroll_TransformShadowbeast: Trasformazione in mostro d'ombra
 ItAr_Scroll_TransformSnapper: Trasformazione in laceratore
-ItAr_Scroll_TransformSwampshark: ''
+ItAr_Scroll_TransformSwampshark: 'Pergamena ''Trasforma in Squalo di Palude'''
 ItAr_Scroll_TransformWolf: Trasformazione in lupo
-ItWr_Scroll_AbandonMineSketch: ''
+ItWr_Scroll_AbandonMineSketch: 'Mappa della Miniera Abbandonata'
 ItWr_Scroll_Certificate: Attestato nobiliare
 ItWr_Scroll_Cronos: Lettera di Cronos per i Maghi del Fuoco
-ItWr_Scroll_Jacko_01: ''
+ItWr_Scroll_Jacko_01: 'Nota di Jacko'
 ItWr_Scroll_Kalom: Ricetta di Kalom
 ItWr_Scroll_Letter_01: Lettera per i Maghi del Fuoco
 ItWr_Scroll_Letter_02: Lettera per i Maghi del Fuoco
@@ -765,7 +766,7 @@ ItMw_1H_Mace_Sledgehammer_01: Martello da fabbro
 ItMw_1H_Mace_War_01: Stella del mattino
 ItMw_1H_Mace_War_02: Mazza d'acciaio
 ItMw_1H_Mace_War_03: Schiacciasassi
-ItMw_1H_Mace_War_04: ''
+ItMw_1H_Mace_War_04: 'Spaccacuore'
 ItMw_1H_Mace_Warhammer_01: Martello degli orchi
 ItMw_1H_Mace_Warhammer_02: Martello da guerra
 ItMw_1H_Mace_Warhammer_03: Martello degli dèi
@@ -791,7 +792,7 @@ ItMw_1H_Sword_Long_03: Spada dell'odio
 ItMw_1H_Sword_Long_04: Spada della vittoria
 ItMw_1H_Sword_Long_05: Spada della morte
 ItMw_1H_Sword_Old_01: Spada arrugginita
-ItMw_1H_Sword_Old_02: ''
+ItMw_1H_Sword_Old_02: 'Spada Antica'
 ItMw_1H_Sword_Paw: Pugno di Paw
 ItMw_1H_Sword_Raven: Diritto di Raven
 ItMw_1H_Sword_Scar: Spada di Scar
@@ -813,7 +814,7 @@ ItRw_Bow_Long_06: Spezzavento
 ItRw_Bow_Long_07: Arco militare
 ItRw_Bow_Long_08: Arco di corno
 ItRw_Bow_Long_09: Arco di Nimrod
-ItRw_Bow_Small_01: ''
+ItRw_Bow_Small_01: 'Arco Corto'
 ItRw_Bow_Small_02: Arco da cavaliere
 ItRw_Bow_Small_03: Arco da battaglia
 ItRw_Bow_Small_04: Arco da caccia
@@ -848,11 +849,11 @@ ItMw_2H_Axe_Orik: Ascia di Orik
 ItMw_2H_Axe_Pickaxe: Piccone
 ItMw_2H_Axe_Torlof: Ascia di Torlof
 ItMw_2H_Mace_Orc_01: Krush Karrok
-ItMw_2H_Scepter_Skeletonmage: ''
-ItMw_2H_Staff_01: ''
+ItMw_2H_Scepter_Skeletonmage: 'Scettro del mago'
+ItMw_2H_Staff_01: 'Bastone da Battaglia'
 ItMw_2H_Staff_02: Asta del giudizio
-ItMw_2H_Staff_03: ''
-ItMw_2H_Staff_Light: ''
+ItMw_2H_Staff_03: 'Bastone del sacerdote'
+ItMw_2H_Staff_Light: 'Bastone di Luce'
 ItMw_2H_Staff_Orc: Grachtnakk
 ItMw_2H_Staff_Scepter: Scettro
 ItMw_2H_Staff_Ulumulu: Ulu-Mulu
@@ -860,7 +861,7 @@ ItMw_2H_Staff_Unorc: ShaBaNakk
 ItMw_2H_Sword_01: Spada a due mani
 ItMw_2H_Sword_02: Lama dell'eroe
 ItMw_2H_Sword_03: Lama sanguinaria
-ItMw_2H_Sword_Beliar: ''
+ItMw_2H_Sword_Beliar: 'Artiglio di Beliar'
 ItMw_2H_Sword_Heavy_01: Spada pesante a due mani
 ItMw_2H_Sword_Heavy_02: Acciaio di collera
 ItMw_2H_Sword_Heavy_03: Acciaio d'ira
