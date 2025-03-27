@@ -9,9 +9,9 @@ AttributeSet_Strength_Strength: 'Forza'
 AttributeSet_Dexterity_Dexterity: 'Destrezza'
 AttributeSet_LevelProgression_Toughness: 'Resistenza'
 AttributeSet_Mana_MagicianLevel: 'Cerchio magico'
-AttributeSet_Armor_Resistance_Blunt: ''
-AttributeSet_Armor_Resistance_Edge: ''
-AttributeSet_Armor_Resistance_Point: ''
+AttributeSet_Armor_Resistance_Blunt: 'Contundente'
+AttributeSet_Armor_Resistance_Edge: 'Taglio'
+AttributeSet_Armor_Resistance_Point: 'Perforante'
 AttributeSet_Armor_Resistance_Fire: 'Fuoco'
 AttributeSet_Armor_Resistance_Energy: 'Energia'
 AttributeSet_Armor_Resistance_Ice: 'Ghiaccio'
@@ -35,7 +35,8 @@ AttributeSet_Mana_Mana_Description: 'Il mana alimenta le tue abilità magiche. I
 AttributeSet_Mana_MaxMana_Description: 'Il mana alimenta le tue abilità magiche. Il
   mana si consuma lanciando incantesimi e non si rigenera automaticamente, perciò
   dovrai sfruttare riposi e oggetti.'
-AttributeSet_Strength_Strength_Description: ''
+AttributeSet_Strength_Strength_Description: 'La forza rappresenta la tua prestanza
+  fisica'
 AttributeSet_Dexterity_Dexterity_Description: ''
 AttributeSet_LevelProgression_Toughness_Description: ''
 AttributeSet_Mana_MagicianLevel_Description: ''
