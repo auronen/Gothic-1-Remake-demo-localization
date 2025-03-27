@@ -430,7 +430,7 @@ ItAt_Firegolem_01: Cuore di un golem di fuoco
 ItAt_Firegolem_02: 'Nucleo di ossidiana'
 ItAt_Firelizard_01: Lingua di fuoco
 ItAt_Firelizard_02: 'Ghiandola di veleno di fuoco'
-ItAt_Firelizard_03: ''
+ItAt_Firelizard_03: 'Cresta di fuoco'
 ItAt_Firelizard_04: 'Pelle di Lucertola di Fuoco'
 ItAt_Harpy_01: 'Piuma di Arpia'
 ItAt_Harpy_02: 'Artiglio di Arpia'
@@ -441,11 +441,11 @@ ItAt_Lizard_02: 'Pelle di Lucertola'
 ItAt_Lizard_03: ''
 ItAt_Lurker_01: Artigli di imboscatore
 ItAt_Lurker_02: Pelle di imboscatore
-ItAt_Lurker_03: ''
+ItAt_Lurker_03: 'Branchia di Predatore'
 ItAt_Minecrawlerqueen_01: 'Ghiandola di feromoni della Regina'
 ItAt_Orcdog_01: 'Zanna di Cane Orco'
 ItAt_Orcdog_02: Pelle di cane orco
-ItAt_Razor_01: 'Artiglio di Squartatore'
+ItAt_Razor_01: 'Artiglio di Rasoio'
 ItAt_Razor_02: 'Placca cutanea di Squartatore'
 ItAt_Scavenger_01: 'Zanne di Saprofago'
 ItAt_Scavenger_02: 'Osso cranico di Saprofago'
@@ -453,10 +453,10 @@ ItAt_Shadow_01: Pelle di un mostro d'ombra
 ItAt_Shadow_02: Corno di un mostro d'ombra
 ItAt_Shadow_03: 'Zanna di Bestia d''Ombra'
 ItAt_Shadow_04: 'Spina dorsale di Bestia d''Ombra'
-ItAt_Snapper_01: ''
+ItAt_Snapper_01: 'Artiglio di Squartatore'
 ItAt_Snapper_02: 'Zanna di Squartatore'
 ItAt_Stonegolem_01: Cuore di un golem di pietra
-ItAt_Stonegolem_02: ''
+ItAt_Stonegolem_02: 'Radice infusa di minerale'
 ItAt_Swampshark_01: Pelle di uno squalo di palude
 ItAt_Swampshark_02: Denti di uno squalo di palude
 ItAt_Swampshark_03: 'Placca di Squalo di Palude'
@@ -516,7 +516,7 @@ ItMi_Smith_Gold: 'Oro'
 ItMi_Smith_Head_Battleaxe: 'Testa di Ascia da Battaglia'
 ItMi_Smith_Head_Broadaxe: 'Testa d''Ascia Larga'
 ItMi_Smith_Head_Club: 'Testa di Randello'
-ItMi_Smith_Head_Fledged: ''
+ItMi_Smith_Head_Fledged: 'Testa Ferrata'
 ItMi_Smith_Head_Greatbattleaxe: 'Testa di Grande Ascia da Battaglia'
 ItMi_Smith_Head_Hammer: 'Testa di Martello'
 ItMi_Smith_Head_Morningstar: 'Testa di Morningstar'
@@ -534,7 +534,7 @@ ItMi_Smith_Intermediate_Blade_Singleedge: 'Lama a un filo non temprata'
 ItMi_Smith_Intermediate_Head_Battleaxe: 'Testa di Ascia da Battaglia non temprata'
 ItMi_Smith_Intermediate_Head_Broadaxe: 'Testa di ascia non temprata'
 ItMi_Smith_Intermediate_Head_Club: 'tesra di randello non temprata'
-ItMi_Smith_Intermediate_Head_Fledged: ''
+ItMi_Smith_Intermediate_Head_Fledged: 'Testa Ferrata non temperata'
 ItMi_Smith_Intermediate_Head_Greatbattleaxe: 'Testa di Grande Asia da Battaglia non
   temprata'
 ItMi_Smith_Intermediate_Head_Hammer: 'Testa di Martello non temprata'
@@ -596,7 +596,7 @@ ItFo_Potion_Dex_01: Essenza di destrezza
 ItFo_Potion_Dex_02: Estratto di destrezza
 ItFo_Potion_Dex_03: Elisir di destrezza
 ItFo_Potion_Elixier: 'Elisir'
-ItFo_Potion_Elixier_Egg: ''
+ItFo_Potion_Elixier_Egg: 'Pozione di Scavaragno'
 ItFo_Potion_Haste_01: Pozione d'accelerazione
 ItFo_Potion_Haste_02: Pozione di velocità
 ItFo_Potion_Haste_03: Pozione di rapidità
@@ -711,7 +711,7 @@ ItAr_Scroll_Telekinesis: Telecinesi
 ItAr_Scroll_TeleportToMagiciansOfWater: Teletrasporto ai Maghi dell'Acqua
 ItAr_Scroll_TeleportToOrcCementery: Pergamena di teletrasporto degli orchi
 ItAr_Scroll_TeleportToSleepersTemple: 'Pergamena ''Teletrasporto al Tempio del Dormiente'''
-ItAr_Scroll_TransformBiter: ''
+ItAr_Scroll_TransformBiter: 'Pergamena ''Trasforma in Sbranatore'''
 ItAr_Scroll_TransformBloodfly: Trasformazione in mosca vampiro
 ItAr_Scroll_TransformBloodhound: 'Pergamena ''Trasforma in Segugio'''
 ItAr_Scroll_TransformFireLizard: 'Pergamena ''Trasforma in Lucertola del Fuoco'''
