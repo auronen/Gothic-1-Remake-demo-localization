@@ -42,8 +42,8 @@ AttributeSet_Dexterity_Dexterity_Description: 'La destrezza rappresenta la tua p
   equilibrio e controllo sul tuo corpo. Determina le armi a distanza che puoi usare
   e migliora l''efficacia del tuo attacco a distanza e le possibilità di successo
   durante il borseggio.'
-AttributeSet_LevelProgression_Toughness_Description: 'La tenacia è una misura della
-  tua capacità di portare oggetti. Man mano che diventi più tenace, puoi trasportare
+AttributeSet_LevelProgression_Toughness_Description: 'La costituzione misura la tua
+  capacità nel portare oggetti. All''aumentare della costituzione, potrai trasportare
   più oggetti. Sovraccaricarti ostacolerà i tuoi movimenti, quindi gestisci il tuo
   inventario con saggezza.'
 AttributeSet_Mana_MagicianLevel_Description: 'I cerchi magici simboleggiano la profondità
