@@ -1,6 +1,6 @@
 Kirgo-CH0-None-Kirgo-13159: 'Ia te uită, o față nouă. Tocmai te-o aruncat înăuntru?'
 Kirgo-CH0-None-Caption-90162: 'Da.'
-Kirgo-CH0-None-Hero-61590: ''
+Kirgo-CH0-None-Hero-61590: 'Da.'
 Kirgo-CH0-None-Kirgo-72322: 'Păi, atunci bine ai venit in Colonie, cred. Cum te cheamă?
   Eu îs Kirgo.'
 Kirgo-CH0-None-Hero-54970: 'Nyras.'
@@ -37,61 +37,93 @@ Kirgo-CH0-None-Kirgo-15646: 'Păcat. Ah, frate, mi-e dor de locul ăla ... am lo
   acolo doi ani după ce am plecat din Varant. Am avut o drăguță acolo ... Rosa.'
 Kirgo-CH0-None-Kirgo-28860-0: 'Ea era cel mai dulce lucru pe care ți l-ai fi putut
   imagina, și un suflet mai bun decât o să fiu eu vreodată.  '
-Kirgo-CH0-None-Kirgo-50097: ''
-Kirgo-CH0-None-Hero-42421: ''
-Kirgo-CH0-None-Kirgo-13085: ''
-Kirgo-CH0-None-Hero-73711: ''
-Kirgo-CH0-None-Kirgo-8473: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-87315: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-54063-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-565-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-95345-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35698: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35355: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-61657: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-59331: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-10101: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210: ''
-Kirgo-CH0-None-Kirgo-65501: ''
-Kirgo-CH0-None-Kirgo-30285-0: ''
-Kirgo-CH0-None-Kirgo-22502: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-97338: ''
-TEXT_HECTO_20230814_160412_686: ''
-Kirgo-CH0-None-Hero-24591: ''
-Kirgo-CH0-None-Kirgo-12464: ''
-Kirgo-CH0-None-Kirgo-85213: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-99779: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70361: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-25026: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-58252: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-59810: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-34033: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18590: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-26319: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-52548: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-630: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-1372: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-68105: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-91130: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-3837: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-95013: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-63047: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-41448: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-64994: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-65948-6: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-39679: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-21333: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-42430-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-57048: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70786: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-48441: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-23822: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18035: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-92998: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-72913: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-17711: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-27576: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-79373: ''
+Kirgo-CH0-None-Kirgo-50097: 'Ahh, căcat! Uite cum mă întind la taclale precum un moș
+  pârțâit. Scuză-mă! '
+Kirgo-CH0-None-Hero-42421: 'N-am timp pentru așa ceva.'
+Kirgo-CH0-None-Kirgo-13085: 'Hmm... Păcat. Dar na, e alegerea ta.'
+Kirgo-CH0-None-Hero-73711: 'Nu-i treaba ta.'
+Kirgo-CH0-None-Kirgo-8473: 'Nu ești prea vorbăreț, este? Te-nțeleg, dar aș fi mai
+  atent la ton în locul tău. Lupii singuratici nu ajung departe aici. '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-87315: 'Auch ... măi să fie, n-aș fi zis. Nu-i
+  rău... ai potențial. Totuși, cred că aș putea să te învăț câteva trucuri. Mai ești
+  interesat?'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-54063-0: 'Sigur, de ce nu.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-565-0: 'Bun. Regula numărul 1, când folosești o
+  armă ușoară, ține-o cu o mână, nu cu ambele. Odată ce îți dezvolți musculatura,
+  vei fi mult mai agil și îți vei putea înșiruii atacurile.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-95345-0: 'Doi, dacă ești deja angajat intr-o lovitură,
+  și realizezi că lovitura te va arunca direct într-o ripostă, retrage-te și ferește-te.
+  Va fi nevoie de puțină practică pentru a înțelege mișcarea, dar o poți face.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35698: 'Și-n final, când parezi, încearcă să o
+  faci la momentul potrivit. Astfel îți vei dezechilibra adversarul și vei avea o
+  șansă să ripostezi.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473-0: 'În regulă, am înțeles. Mulțumesc.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210-0: 'Oricând. Doar că ar cam fi cazul să-ți
+  găsești un loc sigur pentru la noapte - se va întuneca în curând. '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35355: 'Bună luptă! Sper că nu ți-am rupt nimic?'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-61657: '... E în regulă.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-59331: 'Mă bucur. Nu ești rău deloc, prietene -
+  ai nevoie de puțin antrenament, dar ai potențial. Vrei să te învăț câteva trucuri? '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-10101: 'Și-n final, când parezi, încearcă să o
+  faci la momentul potrivit. Astfel îți vei dezechilibra adversarul și-l vei lăsa
+  deschis pentru a încasa o lovitură. '
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473: 'În regulă, am înțeles. Mulțumesc.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210: 'Oricând. Doar că ar cam fi cazul să-ți
+  găsești un loc sigur pentru la noapte - se va întuneca în curând. '
+Kirgo-CH0-None-Kirgo-65501: 'Nu-i rău... Nu mă așteptam la asta.'
+Kirgo-CH0-None-Kirgo-30285-0: 'Oricum, trebuie să mă întorc la muncă. Ne mai vedem
+  pe aici'
+Kirgo-CH0-None-Kirgo-22502: 'Bine luptat. Ești pe direcția bună!'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-97338: 'Bună discuție.'
+TEXT_HECTO_20230814_160412_686: '(Sfârșitul conversației)'
+Kirgo-CH0-None-Hero-24591: 'Este adevărat că nu sunt femei aici? Deloc?'
+Kirgo-CH0-None-Kirgo-12464: 'Doar cele pe care baronii minereului le păstrează pentru
+  distracția lor. Grijă mare, doar de-arunci un ochi la ele, Gomez te va biciui pân''
+  la os. '
+Kirgo-CH0-None-Kirgo-85213: 'Există un zvon despre câteva care au scăpat și se ascund
+  pe undeva, dar mă îndoiesc. Gura lumii... știi cum e unora le place să vorbească...
+  și să bea... și iar să vorbească.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-99779: 'E rândul tău. Îmi dai vreun sfat?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70361: 'Alătură-te Taberei Vechi. Noi suntem inima
+  Coloniei - toate lucrurile pe care ni le trimit de afară, ni le aduc nouă.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-25026: 'Asta numa dacă nu e o alunecare de teren...'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-58252: 'Nu-ți face griji pentru asta, băieții noștri
+  vor curăța traseul în cel mai scurt timp. Gomez este dur, dar știe cum să mențină
+  locul ăsta în așa fel încât lucrurile să funcționeze.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-59810: '„Gomez” este șeful?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-34033: 'Este cel mai puternic om din Tabăra Veche,
+  da. El a condus revolta ocnașilor atunci și a preluat conducerea.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18590: 'El este tipul care îi spune regelui ce
+  vrem pentru minereul nostru. Și regele livrează.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-26319: 'Înțeleg.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-52548: 'Încă un lucru - arăți de parcă ai mai ținut
+  o sabie în mână până acu. N-ai chef de un mic antrenament, cumva?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-630: ' Săptămâna viitoare am o luptă, în schimb
+  aș putea să-ți arăt câteva trucuri.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-1372: 'Ai o „luptă săptămâna viitoare?”'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-68105: 'Da, în arenă. O să vezi.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-91130: 'Îmi pare rău, dar chiar trebuie să plec.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-3837: 'Păcat. Ei bine, poate într-o altă zi.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-95013: 'Bine, de ce nu.  '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-63047: 'Ești mare! Doar anunță-mă când poți.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-41448: 'Da, sigur. Se pare că voi mai fi pe aici
+  un pic mai mult.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-64994: 'Sunt gata de luptă.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-65948-6: 'În regulă. Hai să dansăm.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-39679: 'Ce, fără armă? Ia-ți o sabie mai întâi,
+  altfel nu va fi nimic distractiv... mai ales pentru tine.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-21333: 'Care-i treaba? De ce ești atât de prietenos?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-42430-0: 'O zici de parcă ar fi un lucru rău. Nu
+  știu. Poate pentru că gagiii de pe aici tind să pară că nu au avut un deceniu de
+  căcat, așa că încerc să echilibrez cumva situația.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-57048: 'Ce zici de o revanșă?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70786: 'Hm, de ce nu. Ia-ți mai întâi o armă, totuși.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-48441: 'Ce, deja? Sigur. Doar dă startul.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-23822: 'Să luptăm.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18035: 'În regulă. Arată-mi ce poți!'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-92998: 'De data asta nu te abține. Dă tot ce ai.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-72913: 'Ești sigur de asta? În regulă, să dansăm,
+  zic.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-17711: 'Dă-mi o clipă.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-27576: 'Bine. Știi unde să mă găsești.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-79373: 'Poate mai târziu.'
