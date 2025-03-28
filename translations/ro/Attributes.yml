@@ -1,33 +1,63 @@
-AttributeSet_LevelProgression_Level: ''
-AttributeSet_LevelProgression_Experience: ''
-AttributeSet_LevelProgression_Skillpoints: ''
-AttributeSet_Health_Health: ''
-AttributeSet_Health_MaxHealth: ''
-AttributeSet_Mana_Mana: ''
-AttributeSet_Mana_MaxMana: ''
-AttributeSet_Strength_Strength: ''
-AttributeSet_Dexterity_Dexterity: ''
-AttributeSet_LevelProgression_Toughness: ''
-AttributeSet_Mana_MagicianLevel: ''
-AttributeSet_Armor_Resistance_Blunt: ''
-AttributeSet_Armor_Resistance_Edge: ''
-AttributeSet_Armor_Resistance_Point: ''
-AttributeSet_Armor_Resistance_Fire: ''
-AttributeSet_Armor_Resistance_Energy: ''
-AttributeSet_Armor_Resistance_Ice: ''
-AttributeSet_Armor_Resistance_Wind: ''
-AttributeSet_Armor_Resistance_Falling: ''
-AttributeSet_LevelProgression_Experience_Description: ''
-AttributeSet_LevelProgression_Skillpoints_Description: ''
-AttributeSet_Health_Health_Description: ''
-AttributeSet_Health_MaxHealth_Description: ''
-AttributeSet_Mana_Mana_Description: ''
-AttributeSet_Mana_MaxMana_Description: ''
-AttributeSet_Strength_Strength_Description: ''
-AttributeSet_Dexterity_Dexterity_Description: ''
-AttributeSet_LevelProgression_Toughness_Description: ''
-AttributeSet_Mana_MagicianLevel_Description: ''
-AttributeSet_Armor_Resistance_Blunt_Description: ''
-AttributeSet_Armor_Resistance_Edge_Description: ''
-AttributeSet_Armor_Resistance_Point_Description: ''
-AttributeSet_Armor_Resistance_Fire_Description: ''
+AttributeSet_LevelProgression_Level: 'Nivel'
+AttributeSet_LevelProgression_Experience: 'Experiență'
+AttributeSet_LevelProgression_Skillpoints: 'Puncte de abilitate'
+AttributeSet_Health_Health: 'Viață'
+AttributeSet_Health_MaxHealth: 'Viață max'
+AttributeSet_Mana_Mana: 'Mană'
+AttributeSet_Mana_MaxMana: 'Mană max'
+AttributeSet_Strength_Strength: 'Forța'
+AttributeSet_Dexterity_Dexterity: 'Dexteritate'
+AttributeSet_LevelProgression_Toughness: 'Rezistenţă'
+AttributeSet_Mana_MagicianLevel: 'Cercul magiei'
+AttributeSet_Armor_Resistance_Blunt: 'Bont'
+AttributeSet_Armor_Resistance_Edge: 'Tăiș'
+AttributeSet_Armor_Resistance_Point: 'Vârf'
+AttributeSet_Armor_Resistance_Fire: 'Foc'
+AttributeSet_Armor_Resistance_Energy: 'Energie'
+AttributeSet_Armor_Resistance_Ice: 'Gheață'
+AttributeSet_Armor_Resistance_Wind: 'Vânt'
+AttributeSet_Armor_Resistance_Falling: 'Căzătură'
+AttributeSet_LevelProgression_Experience_Description: 'Punctele de experiență reprezintă
+  creșterea ta prin luptă și sarcini finalizate. Câștigă suficient pentru a avansa
+  în nivel și pentru a câștiga noi puncte de abilitate.'
+AttributeSet_LevelProgression_Skillpoints_Description: 'Punctele de abilitate sunt
+  câștigate cu fiecare nivel. Consumă-le cu instructorii pentru a vă îmbunătăți atributele
+  și abilitățile în luptă, meșteșug și magie.'
+AttributeSet_Health_Health_Description: 'Viața este rezistența ta fizică. Cu cât ai
+  mai multă viață, cu atât poți încasa mai multe lovituri înainte de a pierde lupta.
+  Viața ta va crește odată cu experiența, menținându-te rezistent împotriva adversarilor
+  din ce în ce mai puternici.'
+AttributeSet_Health_MaxHealth_Description: 'Viața este rezistența ta fizică. Cu cât
+  ai mai multă viață, cu atât poți încasa mai multe lovituri înainte de a pierde lupta.
+  Viața ta va crește odată cu experiența, menținându-te rezistent împotriva adversarilor
+  din ce în ce mai puternici.'
+AttributeSet_Mana_Mana_Description: 'Mana îți alimentează abilitățile tale magice.
+  Mana este consumată în timp ce faci vrăji și nu se regenerează independent, așa
+  că planificați-vă odihna și consumul mană în consecință.'
+AttributeSet_Mana_MaxMana_Description: 'Mana îți alimentează abilitățile tale magice.
+  Mana este consumată în timp ce faci vrăji și nu se regenerează independent, așa
+  că planificați-vă odihna și consumul mană în consecință.'
+AttributeSet_Strength_Strength_Description: 'Forța exprimă puterea ta fizică. Cu cât
+  forța ta este mai mare, cu atât poți mânui arme mai puternice și cu atât atacurile
+  tale corp la corp vor fi mai zdrobitoare.'
+AttributeSet_Dexterity_Dexterity_Description: 'Dexteritatea reprezintă stăpânirea,
+  echilibrul și controlul asupra corpului tău. Determină armele de distanță pe care
+  le puteți folosi și vă îmbunătățește eficacitatea atacului de la distanță și șansa
+  de succes în timpul furtului din buzunare.'
+AttributeSet_LevelProgression_Toughness_Description: 'Rezistența este o măsură a capacității
+  tale de a suporta o povară. Pe măsură ce devii mai rezistent, poți transporta mai
+  multe articole. Supraîncărcarea vă va împiedica mișcarea, așa că gestionați-vă stocul
+  cu înțelepciune.'
+AttributeSet_Mana_MagicianLevel_Description: 'Cercurile magiei semnifică profunzimea
+  înțelepciunii și cunoștințelor unui vrăjitor în artele de cult. Pe măsură ce urcați
+  prin cercuri, obțineți acces la vrăji mai complexe și mai puternice, amplificându-vă
+  priceperea în magie.'
+AttributeSet_Armor_Resistance_Blunt_Description: 'Oferă protecție împotriva loviturilor
+  zdrobitoare ale buzduganelor.'
+AttributeSet_Armor_Resistance_Edge_Description: 'Oferă protecție împotriva tăișului
+  săbiilor și topoarelor.'
+AttributeSet_Armor_Resistance_Point_Description: 'Această protecție reduce daunele
+  cauzate prin perforare de săgeți și bolțuri.'
+AttributeSet_Armor_Resistance_Fire_Description: 'Conceput pentru a proteja împotriva
+  căldurii intense a flăcărilor, această protecție vă asigură că sunteți mai puțin
+  afectat de atacurile și pericolele cauzate de foc.'
