@@ -1,0 +1,78 @@
+TEXT_WIP_YGVNZSC_20250212_104425: Plac Wymian przemierza cieniostwór. Muszę znaleźć
+  bezpieczne schronienie przed nadejściem nocy.
+TEXT_WIP_YGVNZSC_20250212_120816: Ratford zasugerował, bym pomógł jego przyjacielowi
+  Draxowi w polowaniu na ścierwojady w pobliżu traktu w dolinie. To może być moja
+  szansa na znalezienie noclegu przy ognisku.
+TEXT_WIP_YGVNZSC_20250212_120924: Drax potrzebuje pomocy w polowaniu na ścierwojady.
+  Jeśli okażę się przydatny, mogę zyskać miejsce przy ich ognisku, z dala od cieniostwora.
+TEXT_WIP_YGVNZSC_20250212_121142: Jorik, członek ekipy łowców, zaginął w kanionie.
+  Jeśli go odnajdę, być może zapewnię sobie bezpieczny nocleg.
+TEXT_WIP_YGVNZSC_20250212_121254: Zasłużyłem na miejsce przy ognisku myśliwych w starym
+  obozie Kopaczy naprzeciwko Opuszczonej Kopalni. Czas usiąść przy ognisku i odpocząć.
+TEXT_WIP_YGVNZSC_20250212_130017: Muszę znaleźć przyjaciela Draxa, Ratforda, i zapytać
+  o Jorika, zaginionego członka ich grupy. To może być ostatnie zadanie, dzięki któremu
+  zapewnię sobie bezpieczny nocleg.
+TEXT_WIP_YGVNZSC_20250212_124856: Powinienem powiedzieć Draxowi, że jestem gotów na
+  polowanie. Czeka na mnie w pobliżu wejścia do doliny.
+TEXT_WIP_YGVNZSC_20250212_124922: Zanim wyruszę na polowanie z Draxem, muszę znaleźć
+  jakąś broń. Na pewno znajdę coś w okolicy.
+TEXT_WIP_YGVNZSC_20250212_125311: Drax twierdzi, że ścierwojady nie są groźne, ale
+  nie jestem do końca przekonany. Powinienem uważać podczas polowania.
+TEXT_WIP_YGVNZSC_20250212_125414: Jorik zniknął gdzieś w kanionie. Jeśli go odnajdę
+  lub dowiem się, co go spotkało, zyskam przychylność łowców i zapewnię sobie bezpieczny
+  nocleg.
+TEXT_WIP_YGVNZSC_20250212_125504: Powinienem powiedzieć Kirgo, że jestem gotowy na
+  sparing. Czeka na mnie w pobliżu zawalonych skał i jest gotów, by sprawdzić moje
+  zdolności.
+TEXT_WIP_YGVNZSC_20250212_125539: Potrzebuję broni do sparingu z Kirgo. W okolicy
+  z pewnością znajdę jakiś oręż.
+TEXT_WIP_YGVNZSC_20250212_125000: Gdzieś na Placu Wymian musi być jakieś piwo… może
+  poszukam w miejscu, w którym przechowują dostawy z zewnątrz?
+TEXT_WIP_YGVNZSC_20250212_125005: Znalazłem piwo. Pora zanieść je Orry’emu, który
+  pilnuje bramy do Placu Wymian. Ciekawe, co mi powie w zamian.
+QUEST-MAIN-DESCRIPTION: Przywieźli mnie do Górniczej Doliny. Już widzę połyskującą
+  barierę, po przekroczeniu której stanę się wygnańcem. Podczas gdy strażnicy przygotowują
+  się do wrzucenia mnie za barierę, ja zastanawiam się, jaki będzie mój los w tej
+  zapomnianej dziurze pełnej rudy i szumowin.
+QUEST-MAIN-NAME: Witamy w Kolonii
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: Powitanie Diego jest niewielką pociechą.
+  Lawina skalna blokuje dostęp do doliny, a w pobliżu grasuje cieniostwór. Muszę znaleźć
+  jakieś schronienie, w którym przenocuję.
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: Miejsce do spania
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: Znajdź schronienie przed
+  nadejściem nocy
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: Dołącz do łowców przy
+  ich ognisku
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: Pomóż Draxowi w polowaniu
+  na ścierwojady
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: Odnajdź Jorika w kanionie
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: Znajdź Draxa i zaoferuj
+  mu pomoc
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: Porozmawiaj z Ratfordem
+  o Joriku
+QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: Pewien łowca z tak zwanego Nowego Obozu zaoferował
+  pożywienie i schronienie w zamian za pomoc przy polowaniu na ścierwojady. Polowanie
+  wydaje się mało skomplikowane, ale lepiej zachować ostrożność.
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: Polowanie na ścierwojady
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: Znajdź broń
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: Zabij ścierwojady w okolicy
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: Porozmawiaj z Draxem, by wyruszyć
+  na polowanie
+QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: Członek Nowego Obozu imieniem Jorik zaginął
+  gdzieś w kanionie. Poszukuje go jego załoga. Jeśli znajdę Jorika, być może zapewnię
+  sobie bezpieczny nocleg.
+QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: Poszukiwania Jorika
+QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: Zbadaj zaginięcie Jorika
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: Kirgo, strażnik ze Starego Obozu i wojownik
+  walczący na arenie, zaproponował mi sparing. To dla mnie szansa, by dowieść swej
+  wartości i nauczyć się cennych umiejętności walki. Jeśli się wykażę, zyskam szacunek.
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: Sparing
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: Znajdź broń na sparing
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: Powiedz Kirgo, że jesteś
+  gotów do walki
+QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: Orry, Strażnik bramy, może podzielić się
+  ze mną informacjami w zamian za piwo. W tym okrutnym miejscu nawet alkohol jest
+  cenny. Jeśli znajdę dla niego piwo, może dowiem się, jak tutaj przetrwać.
+QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: Spragniony Strażnik
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: Daj Orry'emu piwo
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: Znajdź piwo

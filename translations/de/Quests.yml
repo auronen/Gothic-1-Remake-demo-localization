@@ -1,0 +1,82 @@
+TEXT_WIP_YGVNZSC_20250212_104425: Ein Schattenläufer durchstreift die Austauschzone.
+  Ich muss einen sicheren Unterschlupf finden, bevor die Nacht hereinbricht.
+TEXT_WIP_YGVNZSC_20250212_120816: Ratford schlug vor, dass ich seinem Freund Drax
+  bei der Jagd nach Scavengern in der Nähe des Talpfads helfen sollte. Es könnte meine
+  Chance sein, mir für die Nacht einen Platz an ihrem Lagerfeuer zu sichern.
+TEXT_WIP_YGVNZSC_20250212_120924: Drax braucht Hilfe bei der Jagd auf Scavenger. Wenn
+  ich mich als nützlich erweist, verdiene ich mir vielleicht einen Platz an ihrem
+  Lagerfeuer, sicher vor dem Schattenläufer.
+TEXT_WIP_YGVNZSC_20250212_121142: Jorik, einer der Jäger, wird im Canyon vermisst.
+  Wenn ich ihn finde, könnte mir das heute Nacht einen sicheren Schlafplatz verschaffen.
+TEXT_WIP_YGVNZSC_20250212_121254: Ich habe mir einen Platz am Lagerfeuer der Jäger
+  im alten Buddlerlager gegenüber der verlassenen Mine erarbeitet. Zeit, meinen Platz
+  am Feuer einzunehmen und mich auszuruhen.
+TEXT_WIP_YGVNZSC_20250212_130017: Ich muss Drax‘ Freund Ratford finden und nach Jorik
+  fragen, ihrem vermissten Kollegen. Dies könnte mein letzter Schritt sein, um mir
+  einen sicheren Schlafplatz zu verschaffen.
+TEXT_WIP_YGVNZSC_20250212_124856: Ich sollte Drax sagen, dass ich bereit für die Scavengerjagd
+  bin. Er wartet beim Abgang ins Tal.
+TEXT_WIP_YGVNZSC_20250212_124922: Ich brauche eine Waffe, bevor ich mit Drax jagen
+  gehen kann. Es muss hier irgendwas in der Umgebung geben.
+TEXT_WIP_YGVNZSC_20250212_125311: Drax sagt, dass Scavenger nicht sehr gefährlich
+  sind, aber ich bin mir nicht sicher. Ich sollte bei der Jagd auf der Hut sein.
+TEXT_WIP_YGVNZSC_20250212_125414: Jorik ist im Canyon verschwunden. Wenn ich ihn finde,
+  wird mir das einen guten Stand mit den Banditen einbringen und auch einen Platz
+  zum Übernachten.
+TEXT_WIP_YGVNZSC_20250212_125504: Ich sollte Kirgo sagen, dass ich für einen Trainingskampf bereit bin. Er wartet dort, wo der Steinschlag stattgefunden hat,
+  um meine Fähigkeiten im Kampf auf die Probe zu stellen.
+TEXT_WIP_YGVNZSC_20250212_125539: Ich brauche eine Waffe, um mit Kirgo zu kämpfen.
+  Es muss hier irgendwas rumliegen.
+TEXT_WIP_YGVNZSC_20250212_125000: Es muss irgendwo im Austauschplatz Bier geben...vielleicht
+  dort, wo sie die Lieferungen aus der Außenwelt lagern?
+TEXT_WIP_YGVNZSC_20250212_125005: Ich hab etwas Bier gefunden. Nun kann ich es Orry
+  am Tor zum Austauschplatz geben, um an ein paar Informationen ranzukommen.
+QUEST-MAIN-DESCRIPTION: Ich habe das Minental erreicht; die schimmernde Barriere steht
+  für mein Exil von der Außenwelt. Als die Wachen sich fertig machen, mich reinzuwerfen,
+  denke ich über mein Schicksal nach, in dieser verlorenen Grube aus Erz und Abschaum.
+QUEST-MAIN-NAME: Willkommen in der Kolonie
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: Diegos Begrüßung hat mir kaum geholfen.
+  Ein Steinschlag blockiert den Zugang zum Tal und ein Schattenläufer treibt hier
+  sein Unwesen. Ich muss einen sicheren Schlafplatz finden.
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: Ein Platz zum Übernachten
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: Suche vor Einbruch der
+  Dunkelheit Schutz
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: Treffe die Jäger bei
+  ihrer Feuerstelle
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: Hilf Drax bei der Jagd nach
+  Scavenger
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: Finde Jorik im Canyon
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: Finde Drax und biete Hilfe
+  an
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: Sprich mit Ratford über
+  Jorik
+QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: Ein Jäger aus dem Neuen Lager hat Nahrung
+  und einen Schlafplatz angeboten, wenn ich mit ihm Scavenger jagen gehe. Das klingt
+  alles simpel, aber ich sollte auf der Hut sein.
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: Scavengerjagd
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: Finde eine Waffe
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: Töte die Scavenger in der
+  Umgebung
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: Sag Drax, dass du bereit bist
+  mit ihm jagen zu gehen
+QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: Jorik, ein Mitglied des Neuen Lagers, ist
+  in der Schlucht verschwunden. Seine Leute suchen nach ihm. Wenn ich ihn finde, könnte
+  mir das einen Schlafplatz einbringen.
+QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: Finde Jorik
+QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: Untersuche Joriks Verschwinden
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: Einer der Gardisten aus dem alten Lager,
+  der auch noch ein gefürchteter Kämpfer ist, hat eine Trainingseinheit angeboten.
+  Das ist eine gute Chance mich zu beweisen und meine Kampfskills zu verbessern. Wenn
+  ich gut abschneide, bringt mir das sicher Respekt ein.
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: Trainingseinheit
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: Finde eine Waffe für ein
+  Training
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: Sag Kirgo, dass du
+  bereit bist, um zu kämpfen
+QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: Der Wachmann Orry würde wohl Informationen
+  preisgeben, wenn ich ihm ein Bier besorge.In so einem Drecksloch ist sogar Alkohol
+  kostbar. Jetzt muss ich nur noch welchen finden, um ein paar nützliche Tipps zu
+  bekommen.
+QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: Der durstige Wachmann
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: Gib Orry ein Bier
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: Finde ein Bier

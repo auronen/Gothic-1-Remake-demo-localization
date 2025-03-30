@@ -1,0 +1,72 @@
+TEXT_WIP_YGVNZSC_20250212_104425: A Shadowbeast roams the exchange zone. I must find
+  safe shelter before night falls.
+TEXT_WIP_YGVNZSC_20250212_120816: Ratford suggested I help his friend Drax hunt scavengers
+  near the valley path. It could be my chance to earn a spot at their campfire for
+  the night.
+TEXT_WIP_YGVNZSC_20250212_120924: Drax needs help hunting scavengers. If I prove useful,
+  I might earn a spot at their campfire safe from the Shadowbeast.
+TEXT_WIP_YGVNZSC_20250212_121142: Jorik, a member of the hunters' crew, is missing
+  in the canyon. Finding him might secure me a safe place to sleep tonight.
+TEXT_WIP_YGVNZSC_20250212_121254: I've earned a spot at the hunters' campfire at the
+  old diggers' camp across from the Abandoned Mine. Time to claim my spot by the fire
+  and get some rest.
+TEXT_WIP_YGVNZSC_20250212_130017: I need to find Drax's friend Ratford and ask about
+  Jorik, their missing crew member. This might be my last step to securing a safe
+  place for the night.
+TEXT_WIP_YGVNZSC_20250212_124856: I should tell Drax I'm ready to start the scavenger
+  hunt. He's waiting near the valley entrance.
+TEXT_WIP_YGVNZSC_20250212_124922: I need a weapon before hunting with Drax. There
+  must be something I can use around here.
+TEXT_WIP_YGVNZSC_20250212_125311: Drax says scavengers aren't that dangerous, but
+  I'm not so sure. I'll need to stay alert during the hunt.
+TEXT_WIP_YGVNZSC_20250212_125414: Jorik vanished in the canyon. Finding him or his
+  fate could secure my good graces with the hunters and a safe place to sleep.
+TEXT_WIP_YGVNZSC_20250212_125504: I should tell Kirgo I'm ready to spar. He's waiting
+  by the rockslide eager to test my skills.
+TEXT_WIP_YGVNZSC_20250212_125539: I need a weapon to spar with Kirgo. There must be
+  something I can use around here.
+TEXT_WIP_YGVNZSC_20250212_125000: There must be beer somewhere in this exchange zone...
+  maybe where they store deliveries from the outside world?
+TEXT_WIP_YGVNZSC_20250212_125005: I've found some beer. Time to bring it to Orry at
+  the exchange gate, let's see what information he'll share for this beer.
+QUEST-MAIN-DESCRIPTION: I reach the Valley of Mines, the shimmering barrier marking
+  my exile. As guards prepare to cast me in, I ponder my fate in this forsaken pit
+  of ore and scum.
+QUEST-MAIN-NAME: Welcome to the Colony
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: Diego's welcome offered little comfort.
+  A rockslide blocks access to the valley and a Shadowbeast prowls nearby. I must
+  find shelter for the night
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: A Place to Sleep
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: Seek shelter before nightfall
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: Join the hunters at their
+  fireplace
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: Help Drax hunt scavengers
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: Locate Jorik in the canyon
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: Find Drax and offer assistance
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: Talk to Ratford about
+  Jorik
+QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: A hunter from a so-called New Camp offered
+  food and shelter in exchange for help hunting scavengers. The hunt seems simple,
+  but I should stay wary of any tricks.
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: Scavenger Hunt
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: Find a weapon
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: Kill scavengers in the area
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: Tell Drax to start the hunt
+QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: A New Camp member named Jorik is missing
+  in the canyon. His crew is searching for him. Finding Jorik could earn me a safe
+  place for the night.
+QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: Finding Jorik
+QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: Investigate Jorik's disappearance
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: Kirgo, an Old Camp guard and arena fighter,
+  offered to spar. It's a chance to prove myself and learn valuable fighting skills.
+  A good showing might earn some respect here.
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: Sparring Session
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: Find a weapon for sparring
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: Tell Kirgo you're ready
+  to fight
+QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: Orry, a gate guard, might share info for
+  a beer. In this harsh place, even alcohol is precious. Finding some could help me
+  learn about surviving here.
+QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: The Thirsty Guard
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: Give beer to Orry
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: Find a beer
