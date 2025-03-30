@@ -1,40 +1,78 @@
-TEXT_WIP_YGVNZSC_20250212_104425: ''
-TEXT_WIP_YGVNZSC_20250212_120816: ''
-TEXT_WIP_YGVNZSC_20250212_120924: ''
-TEXT_WIP_YGVNZSC_20250212_121142: ''
-TEXT_WIP_YGVNZSC_20250212_121254: ''
-TEXT_WIP_YGVNZSC_20250212_130017: ''
-TEXT_WIP_YGVNZSC_20250212_124856: ''
-TEXT_WIP_YGVNZSC_20250212_124922: ''
-TEXT_WIP_YGVNZSC_20250212_125311: ''
-TEXT_WIP_YGVNZSC_20250212_125414: ''
-TEXT_WIP_YGVNZSC_20250212_125504: ''
-TEXT_WIP_YGVNZSC_20250212_125539: ''
-TEXT_WIP_YGVNZSC_20250212_125000: ''
-TEXT_WIP_YGVNZSC_20250212_125005: ''
-QUEST-MAIN-DESCRIPTION: ''
-QUEST-MAIN-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: ''
+TEXT_WIP_YGVNZSC_20250212_104425: 'Una Bestia d''Ombra vaga per la zona di scambio.
+  Devo trovare un luogo sicuro prima che giunga la notte.'
+TEXT_WIP_YGVNZSC_20250212_120816: 'Ratford mi ha suggerito di aiutare il suo amico
+  Drax nel cacciare saprofagi vicino al passo della valle. Potrebbe essere l''occasione
+  per guadagnarmi un posto al falò per la notte.'
+TEXT_WIP_YGVNZSC_20250212_120924: 'Drax ha bisogno di aiuto a cacciare saprofagi.
+  Se mi dimostro d''aiuto, potrei guadagnami un posto al loro falò al sicuro dalla
+  Bestia d''Ombra.'
+TEXT_WIP_YGVNZSC_20250212_121142: 'Jorik, un membro del gruppo dei cacciatori, è scomparso
+  nel canyon. Trovarlo potrebbe assicurarmi un posto sicuro dove dormire stanotte.'
+TEXT_WIP_YGVNZSC_20250212_121254: 'Mi sono guadagnato un posto al falò dei cacciatori
+  nel vecchio campo dei minatori oltre la Miniera Abbandonata. È tempo di reclamare
+  il mio posto vicino al fuoco e riposare.'
+TEXT_WIP_YGVNZSC_20250212_130017: 'Devo trovare Ratford, l''amico di Drax, e chiedergli
+  di Jorik, il loro compagno scomparso. Questo potrebbe essere il mio ultimo passo
+  per assicurarmi un posto sicuro per la notte.'
+TEXT_WIP_YGVNZSC_20250212_124856: 'Dovrei dire a Drax che sono pronto a cominciare
+  la caccia a saprofagi. Sta aspettando vicino l''ingresso della valle.'
+TEXT_WIP_YGVNZSC_20250212_124922: 'Ho bisogno di un''arma prima della caccia con Drax.
+  Ci dev''essere qualcosa di utile qui attorno.'
+TEXT_WIP_YGVNZSC_20250212_125311: 'Drax dice che i Saprofagi non sono così pericolosi.
+  ma non sono così sicuro. Dovrò stare allerta durante la caccia.'
+TEXT_WIP_YGVNZSC_20250212_125414: 'Jorik è sparito nel canyon. Trovare lui o scoprire
+  che gli è successo, potrebbe farmi entrare nelle grazie dei cacciatori, e potrei
+  trovare un posto sicuro per dormire.'
+TEXT_WIP_YGVNZSC_20250212_125504: 'Dovrei dire a Kirgo che sono pronto a combattere.
+  Sta aspettando vicino alla frana, ansioso di testare le mie abilità.'
+TEXT_WIP_YGVNZSC_20250212_125539: 'Ho bisogno di un''arma per combattere con Kirgo.
+  Ci deve''essere qualcosa di utile qui attorno.'
+TEXT_WIP_YGVNZSC_20250212_125000: 'Dev''esserci della birra da qualche parte in questa
+  zona di scambio... forse dove stoccano le consegne dal mondo esterno?'
+TEXT_WIP_YGVNZSC_20250212_125005: 'Ho trovato della birra. È ora di portarla da Orry
+  al cancello di scambio, vediamo che informazioni mi darà in cambio di questa birra.'
+QUEST-MAIN-DESCRIPTION: 'Ho raggiunto la Valle delle Miniere, la barriera luccicante
+  segna il mio esilio. Mentre le guardie si preparano a buttarmi dentro, penso al
+  mio destino in questa fossa dimenticata di feccia e metallo.'
+QUEST-MAIN-NAME: 'Benvenuto alla Colonia'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: 'Il benvenuto di Diego ha offerto ben
+  poco conforto. Una frana blocca l''accesso alla valle e una Bestia d''Ombra si aggira
+  nelle vicinanze. Devo trovare un rifugio per la notte'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: 'Un luogo per Dormire'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: 'Trova un riparo prima
+  della notte'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: 'Unisciti ai cacciatori
+  al falò'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: 'Aiuta Drax a cacciare saprofagi'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: 'Trova Jorik nel canyon'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: 'Trova Drax e offri aiuto'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: 'Parla con Ratford e
+  Jorik'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: 'Un cacciatore da un cosiddetto Campo Nuovo
+  ha offerto cibo e un riparo in cambio di aiuto nella caccia ai saprofagi. La caccia
+  sembra semplice, ma dovrei fare attenzione per ogni tranello.'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Caccia ai saprofagi'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: 'Trova un''arma'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'uccidi i saprofagi nell''area'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Dì a Drax di cominciare la caccia'
+QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: 'Un membro di Campo Nuovo di nome Jorik
+  è sparito nel canyon. Il suo gruppo lo sta cercando. Trovare Jorik potrebbe assicurarmi
+  un posto sicuro per la notte.'
+QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: 'Trovare Jorik'
+QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: 'Indaga sulla scomparsa di
+  Jorik'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: 'Kirko, una guardia di Campo Vecchio e
+  combattente dell''arena, si è offerto di combattere. È una possibilità per mettermi
+  alla prova e imparare qualche utile abilità di combattimento. Mettersi in mostra
+  potrebbe far guadagnare qualcosa qui.'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: 'Sessione di allenamento'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: 'Trova un''arma per l''allenamento'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: 'Dì a Kirgo che sei
+  pronto a combattere'
+QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: 'Orry, una guardia del cancello, potrebbe
+  condividere delle informazioni per una birra. In questo luogo così insidioso, anche
+  l''alcol è prezioso. Trovarne un po'' potrebbe aiutarmi ad imparare qualcosa sul
+  come sopravvivere qui.'
+QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: 'La guardia assetata'
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: 'Dai la birra a Orry'
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: 'Trova la birra'
