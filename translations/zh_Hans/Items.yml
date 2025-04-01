@@ -9,18 +9,18 @@ ItIg_Worldsplitter: 矿袋
 ItIg_Worldsplitter_Description: 一袋矿石
 ItWr_Scroll_Mysteriousnote: 神秘的笔记
 ItWr_Scroll_Mysteriousnote_Description: 一张意义不明的神秘图画，大概是由乔里克绘制的。
-ReFo_Potion_Health_01: ''
-ReFo_Potion_Health_02: ''
-ReFo_Potion_Health_03: ''
-ReFo_Potion_Mana_01: ''
-ReFo_Potion_Mana_02: ''
-ReFo_Potion_Mana_03: ''
+ReFo_Potion_Health_01: '治愈精华'
+ReFo_Potion_Health_02: '治疗精华'
+ReFo_Potion_Health_03: '治愈灵药'
+ReFo_Potion_Mana_01: '魔力精华'
+ReFo_Potion_Mana_02: '魔力提取物'
+ReFo_Potion_Mana_03: '魔法能量药剂'
 ReFo_Crawlersoup: 爬矿虫汤
 ReFo_Meatbugragout: 肉虫炖肉
 ReFo_Mutton_01: 烤肉
 ReFo_Grilledscavenger: 烤食尸鸟肉
 ReFo_Soup: 根汤
-ReMi_Smith_1H_Axe_01: ''
+ReMi_Smith_1H_Axe_01: '钝斧'
 ReMi_Smith_1H_Axe_02: ''
 ReMi_Smith_1H_Axe_Hatchet_01: ''
 ReMi_Smith_1H_Axe_Old_01: ''
@@ -205,7 +205,8 @@ ItMi_Stuff_Pipe_01_description: 殖民地里珍贵的慰藉物，通常与当地
 ItMi_Stuff_Plate_01_description: 破旧的金属盘子。提醒着人们即使是囚犯也需要吃饭。
 HumanFists_description: 赤手空拳，要么是绝望者的最后手段，要么是真正自信者的首选武器。只要你懂得挥拳的技巧， 它们就会很有效。
 ItFo_Potion_Health_01_description: 用稀有药草酿造的治疗药水。它快速治疗的特性拯救了无数生命，使熟练的炼金术士在殖民地备受推崇
-ItWr_Scroll_Jacko_01_description: 杰科，我收到了你的消息。我之前根本不知道，塞拉斯竟然在他的地下室里藏了一堆东西。我同意，如果我真能找到那些玩意儿，咱们可以对半分。我在酒馆里认识一些人，我可能刚刚找到了一个进入地下室的方法。
+ItWr_Scroll_Jacko_01_description: 
+  杰科，我收到了你的消息。我之前根本不知道，塞拉斯竟然在他的地下室里藏了一堆东西。我同意，如果我真能找到那些玩意儿，咱们可以对半分。我在酒馆里认识一些人，我可能刚刚找到了一个进入地下室的方法。
 ItMw_1H_Axe_Sickle_01_description: 作为新营地独立自主的象征，这个工具既能用来收割，也能用来防身。其弯曲的刀刃象征着营地想要繁荣发展的决心。
 ItMw_1H_Mace_03_description: 一把残忍的钉头锤，金属头部带有尖刺，仿照殖民地血蝇的致命毒针而制成。深受恶徒们的青睐，其独特的设计令人恐惧。
 ItMw_1H_Mace_Club_01_description: 矿工的伙伴。其简陋的功用体现了单调得过分的殖民地生活
