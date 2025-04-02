@@ -257,21 +257,33 @@ ItMw_1H_Sword_01_description: ''
 ItMw_1H_Sword_02_description: ''
 ItMw_1H_Sword_04_description: ''
 ItMw_1H_Sword_Old_01_description: ''
-ItMw_1H_Sword_Short_02_description: ''
-ItMw_1H_Torch_description: ''
-ItRw_Bow_Diego_description: ''
-ItRw_Bow_Long_01_description: ''
-ItRw_Bow_Small_01_description: ''
-ItRw_Bow_Small_02_description: ''
-ItRw_Bow_Small_04_description: ''
-ItRw_Crossbow_01_description: ''
-ItMw_2H_Axe_Pickaxe_description: ''
-ItWr_Scroll_Mysteriousnote_description: ''
-ItAt_Amulet_Brotherhood: ''
-ItAt_Amulet_Dexterity_01: ''
-ItAt_Amulet_Dexterity_02: ''
-ItAt_Amulet_Enlight: ''
-ItAt_Amulet_Fire: ''
+ItMw_1H_Sword_Short_02_description: 'O simplă sabie scurtă cu un burduşi argintiu.
+  Fiind compactă , este ideală pentru lupte rapide corp la corp.'
+ItMw_1H_Torch_description: 'Indispensabil pentru a naviga în zonele periculoase și
+  întunecate coloniei. Poate fi folosit ca o armă improvizată împotriva fiarelor,
+  uneori cu consecințe de incendiare.'
+ItRw_Bow_Diego_description: 'Acest arc lung realizat cu măiestrie este atât de un
+  simbol al autorității lui Diego, cât este o armă.'
+ItRw_Bow_Long_01_description: 'Arc înalt, ușor curbat din lemn. Design simplu, fără
+  priză înfășurată. Popular printre rezidenții Taberei Noi pentru raza sa.'
+ItRw_Bow_Small_01_description: 'Un arc scurt facut de mântuială, cu laturi asimetrice.
+  Popular printre vânătorii începători și prizonierii disperați.'
+ItRw_Bow_Small_02_description: 'Un arc scurt din lemn compactat. Designul său simplu
+  îl face popular printre umbre și arcașii din Tabăra Nouă.'
+ItRw_Bow_Small_04_description: 'Un arc scurt din lemn de întunecat, cu laturi întărite
+  cu metal. Preferat de umbrele influente pentru puterea și precizie.'
+ItRw_Crossbow_01_description: 'Arbaletă ușoară din lemn, cu întăriri metalice. Popular
+  printre gardienii din Tabăra Veche.'
+ItMw_2H_Axe_Pickaxe_description: 'Cel mai important instrument al coloniei, acest
+  târnăcop extrage minereul magic care dictează politica taberelor. În mâini pricepute,
+  este și o armă decentă.'
+ItWr_Scroll_Mysteriousnote_description: 'Imagine criptică cu un scop necunoscut, probabil
+  desenată de Jorik.'
+ItAt_Amulet_Brotherhood: 'Insigna Frăției'
+ItAt_Amulet_Dexterity_01: 'Amuletă de Agilitate'
+ItAt_Amulet_Dexterity_02: 'Amuletă de Dexteritate'
+ItAt_Amulet_Enlight: 'Amuleta Iluminării'
+ItAt_Amulet_Fire: 'Amuleta Flăcărilor'
 ItAt_Amulet_Life: ''
 ItAt_Amulet_Magic_01: ''
 ItAt_Amulet_Magic_02: ''
