@@ -17,36 +17,67 @@ TEXT_WIP_YGVNZSC_20250212_130017: 'Trebuie să-l găsesc pe Ratford, prietenul l
   pentru a-mi asigura un loc sigur pentru la noapte.'
 TEXT_WIP_YGVNZSC_20250212_124856: 'Ar trebui să-i spun lui Drax că sunt gata să-l
   ajut cu vânătoarea de Necrofagi. Îl găsesc pe potecă lângă intrarea în vale.'
-TEXT_WIP_YGVNZSC_20250212_124922: ''
-TEXT_WIP_YGVNZSC_20250212_125311: ''
-TEXT_WIP_YGVNZSC_20250212_125414: ''
-TEXT_WIP_YGVNZSC_20250212_125504: ''
-TEXT_WIP_YGVNZSC_20250212_125539: ''
-TEXT_WIP_YGVNZSC_20250212_125000: ''
-TEXT_WIP_YGVNZSC_20250212_125005: ''
-QUEST-MAIN-DESCRIPTION: ''
-QUEST-MAIN-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: ''
+TEXT_WIP_YGVNZSC_20250212_124922: 'Am nevoie de o armă înainte de a vâna cu Drax.
+  Ar trebui să găsesc pe aici ceva ce pot folosi.'
+TEXT_WIP_YGVNZSC_20250212_125311: 'Drax spune că Necrofagii nu sunt atât de periculoși,
+  dar nu sunt atât de sigur. Ar trebui totuși să fiu atent în timpul vânătorii.'
+TEXT_WIP_YGVNZSC_20250212_125414: 'Jorik a dispărut în canion. Dacă îl găsesc sau
+  aflu care i-o fi fost soarta, mi-ar putea asigura bunăvoința din partea vânătorilor
+  și un loc sigur pentru a dormi.'
+TEXT_WIP_YGVNZSC_20250212_125504: 'Ar trebui să-i spun lui Kirgo că sunt gata de luptă.
+  El mă așteaptă lângă alunecarea de teren dornic să-mi testeze abilitățile.'
+TEXT_WIP_YGVNZSC_20250212_125539: 'Am nevoie de o armă pentru antrenamentul cu Kirgo.
+  Trebuie să fie ceva pe aici ce aș putea folosi.'
+TEXT_WIP_YGVNZSC_20250212_125000: 'Trebuie să fie o bere undeva prin Zona de schimb...
+  poate unde se depozitează livrările din lumea exterioară?'
+TEXT_WIP_YGVNZSC_20250212_125005: 'Am găsit o bere. E timpul să i-o duc lui Orry la
+  poarta zonei de schimb și să vedem ce informații va împărtăși pentru această bere.'
+QUEST-MAIN-DESCRIPTION: 'Am ajuns în Valea Minelor, bariera sclipitoare ne blochează
+  exilul. În timp ce paznicii se pregătesc să mă arunce înăuntru, mă gândesc la soarta
+  mea în această groapă nenorocită cu minereu și gunoaie.'
+QUEST-MAIN-NAME: 'Bun venit în Colonie'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: 'Primirea din partea lui Diego mi-a
+  oferit puțin confort. O alunecare de teren blochează accesul în vale, iar o Bestiaumbrei
+  se dă târcoale prin apropiere. Trebuie să găsesc un adăpost pentru la noapte'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: 'Un loc de dormit'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: 'Găsește un adăpost înainte
+  de căderea nopții'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: 'Alătură-te vânătorilor
+  la focul lor'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: 'Ajută-l pe Drax să vâneze
+  necrofagi'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: 'Găsește-l pe Jorik în
+  canion'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: 'Găsește-l pe Drax și oferă-i
+  suport'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: 'Vorbește cu Ratford
+  despre Jorik'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: 'Un vânător dintr-o așa-numită Tabără Nouă
+  mi-ar oferi hrană și adăpost în schimbul ajutorului la vânătoarea de Necrofagi.
+  Vânătoarea pare simplă, dar ar trebui să mă feresc de orice trucuri.'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Vânătoare de Necrofagi'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: 'Găsește o armă'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Ucideți Necrofagii din zonă'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Spune-i lui Drax să începeți
+  vânătoarea'
+QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: 'Un membru al Taberei Noi, pe nume Jorik,
+  a dispărut în canion. Colegii lui îl caută. Găsirea lui Jorik mi-ar putea câștiga
+  un loc sigur pentru la noapte.'
+QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: 'Căutarea lui Jorik'
+QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: 'Investighează dispariția lui
+  Jorik'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: 'Kirgo, o gardă din Tabăra Veche și luptător
+  în arenă, s-a oferit să dăm o luptă de antrenament. Este o șansă de a-mi dovedi
+  și, în același timp, de a învăța abilități valoroase de luptă. O luptă bună mi-ar
+  putea câștiga ceva respect aici.'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: 'Sesiune de antrenament'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: 'Găsiți o armă pentru antrenament'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: 'Spune-i lui Kirgo
+  că ești gata să lupți'
+QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: 'Orry, o gardă de la poartă, mi-ar putea
+  împărtăși câteva informații contra unei beri. În acest loc aspru, chiar și alcoolul
+  este prețios. Găsirea unei beri m-ar putea ajuta să învăț mai multe despre supraviețuirea
+  pe aici.'
+QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: 'Garda însetată'
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: 'Dă-i berea lui Orry'
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: 'Găsește o bere'
