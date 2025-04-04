@@ -307,7 +307,7 @@ UI_Main_Quit: Verlassen
 UI_Main_QuitGame: Spiel verlassen
 UI_Main_QuitModal: Du möchtest Gothic wirklich verlassen?
 UI_GameOver_ModalMainMenu: Bist du sicher, dass du ins Hauptmenü zurück möchtest?
-UI_Main: Neues Spiel
+UI_Main_NewGame: Neues Spiel
 UI_Main_Load: Laden
 UI_EnterNameHere: 'Gib einen Namen ein (zB Namenlos):'
 UI_LoadSave_LoadGame: Spiel laden

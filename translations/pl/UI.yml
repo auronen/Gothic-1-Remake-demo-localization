@@ -297,7 +297,7 @@ UI_Main_Quit: Zamknij
 UI_Main_QuitGame: Zamknij grę
 UI_Main_QuitModal: Czy na pewno chcesz opuścić grę?
 UI_GameOver_ModalMainMenu: Czy na pewno chcesz wrócić do menu głównego?
-UI_Main: Nowa gra
+UI_Main_NewGame: Nowa gra
 UI_Main_Load: Wczytaj
 UI_EnterNameHere: 'Wpisz nazwę:'
 UI_LoadSave_LoadGame: Wczytaj grę

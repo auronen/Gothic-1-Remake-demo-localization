@@ -293,7 +293,7 @@ UI_Main_Quit: Quit
 UI_Main_QuitGame: Quit Game
 UI_Main_QuitModal: Are you sure you want to quit the game?
 UI_GameOver_ModalMainMenu: Are you sure you want to return to the main menu?
-UI_Main: New Game
+UI_Main_NewGame: New Game
 UI_Main_Load: Load Game
 UI_EnterNameHere: 'Enter the name here:'
 UI_LoadSave_LoadGame: Load Game

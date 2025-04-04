@@ -303,7 +303,7 @@ UI_Main_Quit: Выйти
 UI_Main_QuitGame: Выйти из игры
 UI_Main_QuitModal: Выйти из игры?
 UI_GameOver_ModalMainMenu: Вернуться в главное меню?
-UI_Main: Новая игра
+UI_Main_NewGame: Новая игра
 UI_Main_Load: Загрузить игру
 UI_EnterNameHere: 'Введите имя:'
 UI_LoadSave_LoadGame: Загрузить игру

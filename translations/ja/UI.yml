@@ -237,7 +237,7 @@ UI_Main_Quit: 終了
 UI_Main_QuitGame: ゲームを終了
 UI_Main_QuitModal: 本当にゲームを終了しますか？
 UI_GameOver_ModalMainMenu: メインメニューに戻りますか？
-UI_Main: ニューゲーム
+UI_Main_NewGame: ニューゲーム
 UI_Main_Load: ゲームをロード
 UI_EnterNameHere: 名前を入力：
 UI_LoadSave_LoadGame: ゲームをロード

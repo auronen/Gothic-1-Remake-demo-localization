@@ -297,7 +297,7 @@ UI_Main_Quit: Salir
 UI_Main_QuitGame: Salir de la partida
 UI_Main_QuitModal: ¿Seguro que quieres salir de la partida?
 UI_GameOver_ModalMainMenu: ¿Seguro que quieres volver al menú principal?
-UI_Main: Nueva partida
+UI_Main_NewGame: Nueva partida
 UI_Main_Load: Cargar partida
 UI_EnterNameHere: 'Introduce el nombre aquí:'
 UI_LoadSave_LoadGame: Cargar partida

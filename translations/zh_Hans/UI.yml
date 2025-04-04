@@ -237,7 +237,7 @@ UI_Main_Quit: 退出
 UI_Main_QuitGame: 退出游戏
 UI_Main_QuitModal: 您确定要退出游戏吗？
 UI_GameOver_ModalMainMenu: 您确实要返回主菜单吗？
-UI_Main: 新游戏
+UI_Main_NewGame: 新游戏
 UI_Main_Load: 读取存档
 UI_EnterNameHere: 在此输入名称：
 UI_LoadSave_LoadGame: 读取存档
