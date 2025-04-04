@@ -224,7 +224,7 @@ Text_Continue: Continuar
 Text_Confirm: Confirmar
 Text_Select: Seleccionar
 Text_Yes: Sí
-Text_No: false
+Text_No: 'False'
 Text_Reset: Restablecer
 Text_SaveChanges: Guardar cambios
 Text_LootAll: Coger todo
@@ -451,7 +451,7 @@ UI_Settings_Language_Japanese: Japonés
 UI_Settings_ObjectsOutliner: Contorno de objetos
 UI_Settings_ObjectsOutliner_Default: Predeterminado
 UI_Settings_ObjectsOutliner_Low: Bajo
-UI_Settings_ObjectsOutliner_No: false
+UI_Settings_ObjectsOutliner_No: 'False'
 UI_Settings_Subtitles: Subtítulos
 UI_Settings_SubtitleStyle: Estilo de subtítulos
 UI_Settings_SubtitleSize_Default: Predeterminado
