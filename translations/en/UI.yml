@@ -282,10 +282,11 @@ UI_Notification_SkillIncreasedFormat: 'Skill increased: {SkillName}'
 UI_Notification_SkillLearnedFormat: 'Skill learned: {SkillName}'
 UI_Notification_ShowMore: Show More
 UI_GameSaved_Notification: Game was saved.
-UI_CantSave_Notification: Blunt Damage
+UI_CantSave_Notification: Cant save game right now.
+Item_Damage_Physical_Blunt: Blunt Damage
 Item_Damage_Physical_Edge: Edge Damage
 Item_Damage_Physical_Point: Point Damage
-Item_Damage_Elemental_Fire: Play
+Item_Damage_Elemental_Fire: Fire Damage
 UI_Main_Singleplayer: Single Player
 UI_Main_Settings: Settings
 UI_Main_Credits: Credits
