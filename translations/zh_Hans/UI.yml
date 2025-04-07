@@ -174,7 +174,7 @@ Text_LootTake: 拿取
 Text_LootChest: 箱子
 Text_LootCorpse: 尸体
 Text_LootStore: 储存物品
-Text_LootInventory: ''
+Text_LootInventory: '库存'
 Text_TradeAccept: 接受
 Text_HoldAccept: '[长按]接受'
 Text_TradeCancel: 取消
@@ -225,11 +225,11 @@ UI_Notification_KeyUsedFormat: 使用了钥匙：{KeyName}
 UI_Notification_SkillIncreasedFormat: 技能提升：{SkillName}
 UI_Notification_SkillLearnedFormat: 习得技能：{SkillName}
 UI_Notification_ShowMore: 显示详情
-UI_GameSaved_Notification: ''
-UI_CantSave_Notification: 钝击伤害
+UI_GameSaved_Notification: '游戏已保存。'
+UI_CantSave_Notification: 现在无法保存游戏。
 Item_Damage_Physical_Edge: 切砍伤害
 Item_Damage_Physical_Point: 穿刺伤害
-Item_Damage_Elemental_Fire: 开始游玩
+Item_Damage_Elemental_Fire: 火焰伤害
 UI_Main_Singleplayer: 单人游戏
 UI_Main_Settings: 设置
 UI_Main_Credits: 致谢
@@ -252,7 +252,8 @@ UI_Loadingscreen_HintsHeadline: 提示
 UI_LoadingScreen_ChapterFormat: 第{ChapterNumber}章
 UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter}——{ChapterTitle}'
 UI_Loadingscreen_Chapter1Title: 欢迎来到殖民地
-UI_Loadingscreen_Chapter1Text: ''
+UI_Loadingscreen_Chapter1Text: '本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字
+  本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字'
 UI_Loadingscreen_Chapter2Title: 爬矿虫之巢
 UI_Loadingscreen_Chapter2Text: ''
 UI_Loadingscreen_Chapter3Title: 古代力量的神器
@@ -355,7 +356,7 @@ UI_Profile_ModalError: 发生错误。
 UI_Profile_DefaultSaveFileName: '{location}，第{day}天，{hours}：{minutes}'
 UI_Difficulty_SelectDifficulty: 选择难度
 UI_Difficulty_Easy: 简单
-UI_Difficulty_EasyDescription: ''
+UI_Difficulty_EasyDescription: '在此处添加对简单难度的描述'
 UI_Difficulty_Standard: 普通
 UI_Difficulty_StandardDescription: ''
 UI_Difficulty_Hard: 困难
@@ -459,3 +460,4 @@ UI_Settings_VoiceVolume: 你睡了一觉，感觉休息得很好。
 UI_SleepEndedMessage_Default_2: 你睡了一觉，感觉休息得很好（替代文本）
 UI_SleepEndedMessage_StrangeDreams_1: 你睡了一觉，但做了奇怪的梦。
 UI_SleepEndedMessage_StrangeDreams_2: 你睡了一觉，但做了奇怪的梦（替代文本）
+Item_Damage_Physical_Blunt: 钝器伤害
