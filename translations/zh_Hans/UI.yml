@@ -255,7 +255,7 @@ UI_Loadingscreen_Chapter1Title: 欢迎来到殖民地
 UI_Loadingscreen_Chapter1Text: '本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字
   本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字 本章故事中迄今为止的第一段文字'
 UI_Loadingscreen_Chapter2Title: 爬矿虫之巢
-UI_Loadingscreen_Chapter2Text: ''
+UI_Loadingscreen_Chapter2Text: '目前章节故事中的第二个文本'
 UI_Loadingscreen_Chapter3Title: 古代力量的神器
 UI_Loadingscreen_Chapter4Title: 萨达
 UI_Loadingscreen_Chapter5Title: 传送门的看守
@@ -358,18 +358,18 @@ UI_Difficulty_SelectDifficulty: 选择难度
 UI_Difficulty_Easy: 简单
 UI_Difficulty_EasyDescription: '在此处添加对简单难度的描述'
 UI_Difficulty_Standard: 普通
-UI_Difficulty_StandardDescription: ''
+UI_Difficulty_StandardDescription: '在此处添加标准难度的描述'
 UI_Difficulty_Hard: 困难
-UI_Difficulty_HardDescription: ''
+UI_Difficulty_HardDescription: '在此处添加对高难度的描述'
 UI_Difficulty_Custom: 自定义
-UI_Difficulty_CustomDescription: ''
+UI_Difficulty_CustomDescription: '在此添加自定义难度的描述'
 UI_Difficulty_Start: 开始游戏
 UI_Difficulty_CombatLabel: 战斗
 UI_Difficulty_ResourcesLabel: 资源
 UI_Difficulty_ProgressionLabel: 进度
-UI_Difficulty_CombatTooltip: ''
-UI_Difficulty_ResourcesTooltip: ''
-UI_Difficulty_ProgressionTooltip: ''
+UI_Difficulty_CombatTooltip: '战斗提示'
+UI_Difficulty_ResourcesTooltip: '资源工具提示'
+UI_Difficulty_ProgressionTooltip: '进度工具提示'
 UI_Settings_Reset: 重置
 UI_Settings_Game: 游戏
 UI_Settings_CameraPreset: 镜头预设
