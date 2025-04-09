@@ -459,3 +459,7 @@ UI_Settings_VoiceVolume: 睡眠をとり、よく休めた。
 UI_SleepEndedMessage_Default_2: 睡眠をとり、よく休めた（別バージョン）
 UI_SleepEndedMessage_StrangeDreams_1: 睡眠をとれたが、変な夢を見た。
 UI_SleepEndedMessage_StrangeDreams_2: 睡眠をとれたが、変な夢を見た（別バージョン）
+Item_Damage_Physical_Blunt: 鈍的ダメージ
+Item_Damage_Physical_Edge: 刃物ダメージ
+Item_Damage_Physical_Point: ポイントダメージ
+Item_Damage_Elemental_Fire: 炎ダメージ

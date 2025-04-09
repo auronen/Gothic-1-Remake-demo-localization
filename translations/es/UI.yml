@@ -535,3 +535,7 @@ UI_SleepEndedMessage_Default_2: Has dormido y te sientes descansado (texto alter
 UI_SleepEndedMessage_StrangeDreams_1: Has dormido pero has tenido sueños extraños.
 UI_SleepEndedMessage_StrangeDreams_2: Has dormido pero has tenido sueños extraños
   (texto alternativo)
+Item_Damage_Physical_Blunt: Daño contundente
+Item_Damage_Physical_Edge: Daño cortante
+Item_Damage_Physical_Point: Daño perforante
+Item_Damage_Elemental_Fire: Daño de fuego

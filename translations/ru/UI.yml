@@ -537,3 +537,7 @@ UI_SleepEndedMessage_Default_2: Вы поспали и хорошо отдохн
 UI_SleepEndedMessage_StrangeDreams_1: Вы поспали, но вам снились странные сны.
 UI_SleepEndedMessage_StrangeDreams_2: Вы поспали, но вам снились странные сны (альтернативное
   описание).
+Item_Damage_Physical_Blunt: Урон (дробление)
+Item_Damage_Physical_Edge: Урон (рассечение)
+Item_Damage_Physical_Point: Урон (пронзание)
+Item_Damage_Elemental_Fire: Урон (огонь)

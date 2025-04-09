@@ -537,3 +537,7 @@ UI_SleepEndedMessage_Default_2: Przespales sie i czujesz sie wypoczety (tekst al
 UI_SleepEndedMessage_StrangeDreams_1: Przespales sie, ale miales dziwne sny.
 UI_SleepEndedMessage_StrangeDreams_2: Przespales sie, ale miales dziwne sny (tekst
   alternatywny)
+Item_Damage_Physical_Blunt: Obrażenia obuchowe
+Item_Damage_Physical_Edge: Obrażenia sieczne
+Item_Damage_Physical_Point: Obrażenia kłute
+Item_Damage_Elemental_Fire: Obrażenia od ognia

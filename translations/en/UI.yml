@@ -535,3 +535,7 @@ UI_SleepEndedMessage_Default_2: You have slept and feel well rested (alt text)
 UI_SleepEndedMessage_StrangeDreams_1: You have slept but you had strange dreams.
 UI_SleepEndedMessage_StrangeDreams_2: You have slept but you had strange dreams (alt
   text)
+Item_Damage_Physical_Blunt: Blunt Damage
+Item_Damage_Physical_Edge: Edge Damage
+Item_Damage_Physical_Point: Point Damage
+Item_Damage_Elemental_Fire: Fire Damage

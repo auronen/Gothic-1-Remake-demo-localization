@@ -544,3 +544,7 @@ UI_SleepEndedMessage_StrangeDreams_1: Du hast geschlafen, aber du hattest seltsa
   Träume.
 UI_SleepEndedMessage_StrangeDreams_2: Du hast geschlafen, hattest aber seltsame Träume
   (alternativer Text)
+Item_Damage_Physical_Blunt: Stumpfer Schaden
+Item_Damage_Physical_Edge: Klingenschaden
+Item_Damage_Physical_Point: Stichschaden
+Item_Damage_Elemental_Fire: Feuerschaden
