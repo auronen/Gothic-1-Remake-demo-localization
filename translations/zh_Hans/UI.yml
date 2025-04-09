@@ -456,7 +456,7 @@ UI_Settings_Sound: 声音
 UI_Settings_MasterVolume: 主音量
 UI_Settings_MusicVolume: 音乐音量
 UI_Settings_SFXVolume: 音效音量
-UI_Settings_VoiceVolume: 你睡了一觉，感觉休息得很好。
+UI_Settings_VoiceVolume: 语音音量
 UI_SleepEndedMessage_Default_2: 你睡了一觉，感觉休息得很好（替代文本）
 UI_SleepEndedMessage_StrangeDreams_1: 你睡了一觉，但做了奇怪的梦。
 UI_SleepEndedMessage_StrangeDreams_2: 你睡了一觉，但做了奇怪的梦（替代文本）
