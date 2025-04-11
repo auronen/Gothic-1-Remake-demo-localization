@@ -17,8 +17,8 @@ Drax-CH0-G1RDemo_DraxHunt-Hero-43176: 'Adevărat. Caut un loc unde să poposesc 
 Drax-CH0-G1RDemo_DraxHunt-Drax-70619: 'Chiar ESTE. Am văzut-o și noi ... e o jigodie
   a naibii de mare.'
 Drax-CH0-G1RDemo_DraxHunt-Drax-49351: 'Hmm ... hei, ce zici de ideea asta? Tu mă ajuți
-  să vânez acea turmă de necrofagi, iar la schimb, împărțim mâncarea și poți dormi
-  la focul nostru.'
+  să vânez acea turmă de necroi, iar la schimb, împărțim mâncarea și poți dormi la
+  focul nostru.'
 Drax-CH0-G1RDemo_DraxHunt-Drax-43533: 'E la tabăra foștilor mineri vizavi de mina
   inundată și e bine protejat. Ce zici?'
 Drax-CH0-G1RDemo_DraxHunt-Hero-47782: 'Focul "nostru"?'
@@ -33,7 +33,7 @@ Drax-CH0-G1RDemo_DraxHunt-Drax-27434: 'Vrei să zici că eu sunt marele ticălos
 Drax-CH0-G1RDemo_DraxHunt-Drax-91704: 'Fără supărare, amice, dar dacă aveam vreo problemă
   cu tine, erai mort deja.'
 Drax-CH0-G1RDemo_DraxHunt-Hero-61662-0: 'Ție ce-ți iese din asta? Pare că ai putea
-  să omori acei necrofagi de unul singur.'
+  să omori acei necroi de unul singur.'
 Drax-CH0-G1RDemo_DraxHunt-Drax-66721: 'Tare precaut mai ești. Bun! În primul rând
   ''mi-amintesc cum o fost să fiu aruncat aici și cum toată lumea încerca să mi-o
   tragă.'
@@ -114,37 +114,37 @@ Drax-CH0-None-Drax-54567: 'Ți-ai făcut un prieten, Rats! N-am crezut c-o să p
 Drax-CH0-None-Ratford-71939: 'Du-te naibii. Ai cina noastră?'
 Drax-CH0-None-Drax-85556: 'Da, noul flăcău m-a ajutat. L-ai găsit pe Jorik, ei? Ce
   l-a omorât?'
-Drax-CH0-None-Ratford-33049: 'Proabil bestia neagră. Trebuie să avem grijă deseară.'
+Drax-CH0-None-Ratford-33049: 'Probabil bestia neagră. Trebuie să avem grijă diseară.'
 Drax-CH0-None-Drax-88422: 'Deci, zi-mi, flăcău: când l-ai găsit pe Jorik, ai aflat
-  și de ce a dispărut? Sincer, tot nu înțeleg. '
+  și de ce a dispărut? Sincer, tot nu mă prind. '
 Drax-CH0-None-Drax-95327: 'Am fumat mai multe țigări decât un șemineu, și nici un
-  zeu încă nu a "șoptit la mine în visuri."'
-Drax-CH0-None-Hero-68340: 'Păi, a avut o schiță. Stai, că o am.'
-Drax-CH0-None-Ratford-90529: 'Ține acea hârtie la tine în nădragi și să nu-mi vorbești
-  de acel câcat. Jorik a fumat prea mult și și-a pierdut mințile, atât.'
-Drax-CH0-None-Drax-44226: 'Pe Coaiele lui Beliar, calmează-te, omule. Era doar o întrebare.'
+  zeu încă nu mi-a „șoptit în vise”.'
+Drax-CH0-None-Hero-68340: 'Păi, a avut o schiță. Stai că o am.'
+Drax-CH0-None-Ratford-90529: 'Ține hârtia aia la tine în nădragi și nu mai vorbi de
+  căcatul ăla. Jorik a fumat prea mult și și-a pierdut mințile, atât.'
+Drax-CH0-None-Drax-44226: 'Pe coaiele lui Beliar, calmează-te, omule. Era doar o întrebare.'
 Drax-CH0-None-Drax-54188: 'Schimbăm vorba, deci. Probabil ai realizat că sunt trei
-  tabere in Colonie. '
-Drax-CH0-None-Drax-73206: 'O să fiu sincer: văd că nu ești de mântuială ca restu care
-  sunt aruncați aici, ar trebui să încerci să ni te alături. '
-Drax-CH0-None-Ratford-52326: 'Ne faci să sunăm de parcă am fi o turmă de domnițe gata
+  tabere în Colonie. '
+Drax-CH0-None-Drax-73206: 'O să fiu sincer: având în vedere că nu ești de mântuială
+  ca restu'' care sunt aruncați aici, ar trebui să încerci să ni te alături. '
+Drax-CH0-None-Ratford-52326: 'O faci să sune de parcă am fi o turmă de domnițe gata
   să ne aruncăm fustele la el.'
 Drax-CH0-None-Ratford-68439: 'Drax are dreptate, să știi, am avea nevoie de oameni
-  noi, și tu pari să ai ce ne trebuie. Zicând asta, dacă nu vrei să ajungi să culegi
-  orez, va trebui să lucrezi din greu să eviți asta. '
-Drax-CH0-None-Drax-15941: 'E adevărat oriunde se duce. Măcar avem un plan care ne
-  va scoate de aici, și e un plan bun, nu baliverne de cultiști despre zei adormiți.'
-Drax-CH0-None-Ratford-70406: 'Dacă tu crezi că prostia de ''să aruncăm în aer grămada
-  de minerale albastre'' o să meargă, ești mai dus cu zânele ca Nebunii. '
-Drax-CH0-None-Ratford-94638: 'Vreau să zic, cât de multe minerale crezi că o săpat
-  până acuma, de ajuns să cumperi tot deșertul Varant? Și totuși, când îi întrebi
-  pe mercs dacă vrăjitori au deajuns, mereu zic "încă puțin."'
-Drax-CH0-None-Ratford-61772: 'Serios, deja mă întreb dacă nu ne joacă pe degete cum
-  tipul ăla Y''Berion joacă oile lui. N-ași fi surprins... '
+  noi, și tu pari să ai ce ne trebuie. Astea fiind spuse, dacă nu vrei să ajungi să
+  culegi orez, va trebui să lucrezi din greu. '
+Drax-CH0-None-Drax-15941: 'E adevărat oriunde se duce. Măcar noi avem un plan care
+  ne va scoate de aici, și e un plan bun, nu baliverne de cultiști despre zei adormiți.'
+Drax-CH0-None-Ratford-70406: 'Dacă mai crezi că prostia aia de „să aruncăm în aer
+  grămada de minereu albastru” o să meargă, ești mai dus cu zânele ca Nebunii. '
+Drax-CH0-None-Ratford-94638: 'Vreau să zic, cât de mult minereu crezi că o săpat până
+  acuma, de ajuns să cumperi tot deșerturile din Varant? Și totuși, când întrebi mercenarii
+  dacă magicienii au în sfârșit destul, mereu zic "încă puțin."'
+Drax-CH0-None-Ratford-61772: 'Serios, deja mă întreb dacă nu ne joacă pe degete, la
+  fel cum tipul ăla Y''Berion face cu oile lui. N-aș fi surprins... '
 Drax-CH0-G1RDemo_DraxHunt-Hero-36233: 'Să vânăm.'
 Drax-CH0-None-Drax-27879: 'Muzică pentru urechile mele. Ai o armă?'
 Drax-CH0-None-Hero-90162: 'Da.'
-Drax-CH0-None-Drax-91362: 'Bun. Atunci urmează-mă.'
+Drax-CH0-None-Drax-91362: 'Bun. Atunci hai după mine.'
 Drax-CH0-None-Hero-54250: 'Nu.'
 Drax-CH0-None-Drax-3588-0: 'Vorbești serios? Atunci du-te și găsește una. Pot să mai
   aștept câteva minute. '
