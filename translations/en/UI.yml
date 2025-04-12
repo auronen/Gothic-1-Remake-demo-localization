@@ -220,8 +220,8 @@ Text_Button_Back: Back
 Text_Continue: Continue
 Text_Confirm: Confirm
 Text_Select: Select
-Text_Yes: true
-Text_No: false
+Text_Yes: 'True'
+Text_No: 'False'
 Text_Reset: Reset
 Text_SaveChanges: Save Changes
 Text_LootAll: Take All
@@ -325,8 +325,8 @@ UI_Loadingscreen_Chapter6Title: The sleeper's halls
 UI_Settings_Gameplay: Gameplay
 UI_Settings_Controls: Controls
 UI_Settings_Audio: Audio
-UI_Settings_On: true
-UI_Settings_Off: false
+UI_Settings_On: 'True'
+UI_Settings_Off: 'False'
 UI_Settings_InvertedVCam: Inverted Vertical Camera
 UI_Settings_InvertedHCam: Inverted Horizontal Camera
 UI_Settings_CameraSentivity: Camera Sensitivity
@@ -454,7 +454,7 @@ UI_Settings_Language_Japanese: Japanese
 UI_Settings_ObjectsOutliner: Objects outliner
 UI_Settings_ObjectsOutliner_Default: Default
 UI_Settings_ObjectsOutliner_Low: Low
-UI_Settings_ObjectsOutliner_No: false
+UI_Settings_ObjectsOutliner_No: 'False'
 UI_Settings_Subtitles: Subtitles
 UI_Settings_SubtitleStyle: Subtitle size
 UI_Settings_SubtitleSize_Default: Default
@@ -530,7 +530,7 @@ UI_Settings_Sound: Sound
 UI_Settings_MasterVolume: Master volume
 UI_Settings_MusicVolume: Music volume
 UI_Settings_SFXVolume: SFX volume
-UI_Settings_VoiceVolume: You have slept and feel well rested.
+UI_Settings_VoiceVolume: Voice volume
 UI_SleepEndedMessage_Default_2: You have slept and feel well rested (alt text)
 UI_SleepEndedMessage_StrangeDreams_1: You have slept but you had strange dreams.
 UI_SleepEndedMessage_StrangeDreams_2: You have slept but you had strange dreams (alt
