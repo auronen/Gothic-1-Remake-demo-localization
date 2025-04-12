@@ -421,7 +421,7 @@ UI_Settings_TextureQuality: 纹理质量
 UI_Settings_VSync: 垂直同步
 UI_Settings_Vibration: 振动
 UI_Settings_ViewDistanceQuality: 视距质量
-UI_Settings_VoiceVolume: 你睡了一觉，感觉休息得很好。
+UI_Settings_VoiceVolume: 语音音量
 UI_Settings_Volume_Master: 主音量
 UI_Settings_Volume_Music: 音乐
 UI_Settings_Volume_Sound: 音效
@@ -429,7 +429,6 @@ UI_Settings_Volume_Voice: 语音
 UI_Skill_OpenLocks: 开锁
 UI_Skill_Pickpocketing: 扒窃
 UI_Skill_SpecialSkills: 特殊技能
-UI_Settings_VoiceVolume: 语音音量
 UI_SleepEndedMessage_Default_2: 你睡了一觉，感觉休息得很好（替代文本）
 UI_SleepEndedMessage_StrangeDreams_1: 你睡了一觉，但做了奇怪的梦。
 UI_SleepEndedMessage_StrangeDreams_2: 你睡了一觉，但做了奇怪的梦（替代文本）
