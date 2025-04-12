@@ -408,7 +408,6 @@ UI_Settings_ResolutionQuality: 分辨率质量
 UI_Settings_ResolutionQuality_Description: 调整分辨率质量以提高性能或提高视效质量。
 UI_Settings_RightStickSensitivity: 右摇杆灵敏度
 UI_Settings_SFXVolume: 音效音量
-<<<<<<< HEAD
 UI_Settings_ShadingQuality: 着色质量
 UI_Settings_ShadowQuality: 阴影质量
 UI_Settings_Sound: 声音
@@ -430,9 +429,7 @@ UI_Settings_Volume_Voice: 语音
 UI_Skill_OpenLocks: 开锁
 UI_Skill_Pickpocketing: 扒窃
 UI_Skill_SpecialSkills: 特殊技能
-=======
 UI_Settings_VoiceVolume: 语音音量
->>>>>>> 27f0a93bd1819011cc74afc5bc567e1c043b93db
 UI_SleepEndedMessage_Default_2: 你睡了一觉，感觉休息得很好（替代文本）
 UI_SleepEndedMessage_StrangeDreams_1: 你睡了一觉，但做了奇怪的梦。
 UI_SleepEndedMessage_StrangeDreams_2: 你睡了一觉，但做了奇怪的梦（替代文本）
