@@ -1,24 +1,513 @@
-UI_Profile_ChapterNyras: 'Nyras'
-UI_Settings_Disclaimer: 'Mai multe setări ale jocului, inclusiv opțiunile de afișare
-  a interfeței de utilizare și a notificărilor, vor fi disponibile în jocul final.'
-UI_Settings_ResolutionDisclaimer: 'Vă rugăm să rețineți că presetarea de calitate
-  Alkimia Overdose poate funcționa numai pe un hardware de ultimă generație.'
-UI_Loadingscreen_Hint1: 'În acest demo, nu veți juca și nu îl veți vedea pe faimosul
-  Erou Fără Nume'
-UI_Loadingscreen_Hint2: 'Gothic 1 Remake este un RPG cu o lume deschisă în spiritul
-  Gothic-ului original'
-UI_Loadingscreen_Hint3: 'Vă rugăm să nu vă plângeți că eroul din acest demo (Nyras)
-  nu seamănă cu dragul nostru Erou Fără Nume.'
-UI_Loadingscreen_Hint4: 'Nu uitați să vă alăturați comunității și să adăugați jocul
-  pe lista de dorințe. Toate informațiile sunt disponibile pe gothic-game.com'
-UI_Loadingscreen_Hint5: 'Cu sprijinul vostru, franciza Gothic are un viitor strălucit
-  în viitor!'
-UI_Loadingscreen_Hint6: 'Doar pentru acest demo există o opțiune de Reînviere disponibilă
-  dacă mori. Jocul complet nu va avea asta, dar vei avea oricând varianta salvare/încărcare.'
-UI_Disclaimer: 'Acest demo este un prequel cu o experiență limitată creată pentru
-  a arăta unele dintre principalele caracteristici ale Gothic 1 Remake, deoarece jocul
+GE_Param_Duration: Durată
+GE_Param_Heal: Vindecă
+GE_Param_Mana: Mană
+Item_Damage_Elemental_Fire: Joacă
+TEXT_BACK: Înapoi
+TEXT_DIALOG_END: Încheie.
+Text_Aim: Țintește
+Text_Attack1: Atac 1
+Text_Attack2: Atac 2
+Text_Attack3: Atac 3
+Text_Attack4: Atac 4
+Text_Attack5: Atac 5
+Text_Block: Blochează/Parează
+Text_Button_Back: Înapoi
+Text_Cancel: Anulează
+Text_CancelThrow: Anulează aruncarea
+Text_Cast: Vrajă
+Text_ChangeObjective: Schimbă obiectivul
+Text_Close: Închide
+Text_Combat: Luptă
+Text_Compare: Compară
+Text_Confirm: Confirmă
+Text_Consume: Consumă
+Text_Continue: Continuă
+Text_Crouch: Ghemuire
+Text_CycleHint: Sugestie de ciclu
+Text_Days: Zile
+Text_Dive: Scufundare
+Text_DocumentMinimize: Minimizează
+Text_Dodge: Eschivă
+Text_Draw: "Scoate arma \n[Hold] Scoate arma de distanță\n"
+Text_DrawMelee: Scoate arma
+Text_DrawRanged: Scoate Arma de distanţă
+Text_Drop: '[Hold] Aruncă'
+Text_DropTorch: Aruncă Torța
+Text_Equip: Echipează
+Text_Equipped: Echipat
+Text_Exploration: Explorare
+Text_FilterAll: Toate
+Text_FilterArtefacts: Artefacte
+Text_FilterCompleted: Terminat
+Text_FilterCreatures: Creaturi
+Text_FilterDocuments: Documente
+Text_FilterFood: Mâncare
+Text_FilterHiddenCamp: Tabăra Ascunsă
+Text_FilterItems: Articole
+Text_FilterLocations: Locații
+Text_FilterMagic: Magie
+Text_FilterMaterials: Materiale
+Text_FilterMelee: Corp la corp
+Text_FilterMiscellaneous: Diverse
+Text_FilterNewCamp: Tabăra Nouă
+Text_FilterOldCamp: Tabăra Veche
+Text_FilterOutsiders: Din afară
+Text_FilterPotions: Poțiuni
+Text_FilterRanged: La distanță
+Text_FilterSwampCamp: Tabăra Mlaștinii
+Text_FilterWearables: Purtabile
+Text_FilterWorld: Colonia
+Text_From: 'De la:'
+Text_Hold: Ține
+Text_HoldAccept: '[Hold] Acceptă'
+Text_Hours: h
+Text_Interact: Interacționează
+Text_Interact1: Interacțiunea principală
+Text_Interact2: Interacțiune secundară
+Text_Inventory: Stoc
+Text_Jump: Salt
+Text_JumpClimb: Sari/Urci
+Text_Kick: Lovește
+Text_LaunchSpell: Dăi cu vraja
+Text_Lock: Blochează Ținta
+Text_LockpickMoveHorizontal: Deplasați stânga/dreapta
+Text_LockpickMoveVertical: Deplasați sus/jos
+Text_LockpickSkillRequired: Este necesară o abilitate de spargere lacăte.
+Text_LockpickToolRequired: Este necesar un șperaclu.
+Text_Look: Privește
+Text_LootAll: Ia Tot
+Text_LootChest: Cufăr
+Text_LootCorpse: Cadavru
+Text_LootInventory: Stocuri
+Text_LootStore: Depozitează articole
+Text_LootSwitchSection: Comută atenția
+Text_LootTake: Ia
+Text_Max_Uppercase: MAX
+Text_Minutes: m
+Text_Mouse: Mouse
+Text_Move: Mișcă
+Text_MoveBack: Mers înapoi
+Text_MoveForward: Mers în față
+Text_MoveLeft: Mers în stânga
+Text_MoveRight: Mers în dreapta
+Text_No: Fals
+Text_OpenChest: Deschide cufăr
+Text_OpenDoor: Deschide ușa
+Text_OpenGlossary: Deschide Glosarul
+Text_OpenMenu: Deschideți Meniu
+Text_PauseMenu: Meniu pauză
+Text_QuickAccess: Articole cu acces rapid
+Text_Read: Citește
+Text_Reset: Resetați
+Text_Restart: Restart
+Text_Resume: Reîncepe
+Text_Roll: Rostogolire
+Text_SaveChanges: Salvați modificările
+Text_Seconds: s
+Text_Select: Selectează
+Text_SelectThrow: Selectați Aruncarea articolului rapid
+Text_SkipDialogue: Omite dialogul
+Text_SleepFor: 'Dormi pentru:'
+Text_Sneak: Intră/Ieși pe furiș
+Text_Sprint: '[Click] Comutați pe alergare'
+Text_Start: START
+Text_Surface: Înoată spre suprafață
+Text_Throw: Aruncă obiectul
+Text_To: 'Pentru:'
+Text_ToggleQuick: Comutați Accesul rapid
+Text_TradeAccept: Acceptă
+Text_TradeCancel: Renunță
+Text_Unequip: Dezechipează
+Text_UseQuick: Utilizează articol rapid
+Text_Walk: Comutați pe mers
+Text_Yes: Adevărat
+UI_ArmourCustomization_ArmorAlterations: Modificările armurii
+UI_ArmourCustomization_Equip: Echipează
+UI_ArmourCustomization_Equipped: E
+UI_ArmourCustomization_Legs: Picioare
+UI_ArmourCustomization_Purchase: '[Hold] Cumpără '
+UI_ArmourCustomization_Torso: Trunchi
+UI_ArmourCustomization_Unequip: Dezechipează
+UI_ArmourCustomization_Waist: Talie
+UI_Attribute_Atributes: Atribute
+UI_Attribute_Dexterity: Dexteritate
+UI_Attribute_Dexterity_Tooltip: Dexteritatea reprezintă stăpânirea, echilibrul și
+  controlul asupra corpului tău. Determină armele de distanță pe care le poți folosi
+  și îți îmbunătățește eficacitatea atacului de la distanță și șansa de succes în
+  timpul furtului din buzunare.
+UI_Attribute_Health: Viață
+UI_Attribute_Health_Tooltip: Viața este rezistența ta fizică. Cu cât ai mai multă
+  viață, cu atât poți încasa mai multe lovituri înainte de a pierde lupta. Viața ta
+  va crește odată cu experiența, menținându-te rezistent împotriva adversarilor din
+  ce în ce mai puternici.
+UI_Attribute_MagicCircle: Cercul magiei
+UI_Attribute_MagicCircle_Tooltip: Cercurile magiei semnifică profunzimea înțelepciunii
+  și cunoștințelor unui vrăjitor în artele de cult. Pe măsură ce urcați prin cercuri,
+  obțineți acces la vrăji mai complexe și mai puternice, amplificându-vă priceperea
+  în magie.
+UI_Attribute_Mana: Mană
+UI_Attribute_Mana_Tooltip: Mana îți alimentează abilitățile tale magice. Mana este
+  consumată în timp ce faci vrăji și nu se regenerează independent, așa că planificați-vă
+  odihna și consumul mană în consecință.
+UI_Attribute_Strength: Forță
+UI_Attribute_Strength_Tooltip: Forța exprimă puterea ta fizică. Cu cât forța ta este
+  mai mare, cu atât poți mânui arme mai puternice și cu atât atacurile tale corp la
+  corp vor fi mai zdrobitoare.
+UI_Attribute_Toughness: Rezistență
+UI_Attribute_Toughness_Tooltip: Rezistența este o măsură a capacității tale de a suporta
+  o povară. Pe măsură ce devii mai rezistent, poți transporta mai multe articole.
+  Supraîncărcarea vă va împiedica mișcarea, așa că gestionați-vă stocul cu înțelepciune.
+UI_CantSave_Notification: Atac contondent
+UI_Crafting_CoolingDownItem: Răcirea articolului
+UI_Crafting_Cost: Cost
+UI_Crafting_ForgingItem: Forjarea articolului
+UI_Crafting_GoToAnvil: Du-te la nicovală
+UI_Crafting_GoToWaterBarrel: Du-te la butoiul de apă
+UI_Crafting_HasMaterials: Are Materiale
+UI_Crafting_InProgress: Rețetă în preparare...
+UI_Crafting_MenuTitle_Alchemy: Laborator de Alchimie
+UI_Crafting_MenuTitle_Cauldron: Cazan
+UI_Crafting_MenuTitle_Forge: Forjă
+UI_Crafting_MenuTitle_Inscription: Lăcaș de inscripție
+UI_Crafting_MenuTitle_Pan: Tigaie
+UI_Crafting_MenuTitle_Whetstone: Gresie de ascuţit
+UI_Crafting_MenuTitle_Workbench: Banc de lucru
+UI_Crafting_PanCook: Gătește în tigaie
+UI_Crafting_Quantity: 'Cantitate:'
+UI_Crafting_Scrap: '[Hold] Gunoi'
+UI_Crafting_Section: Secțiune
+UI_Crafting_ShapingItem: Modelarea articolului
+UI_Crafting_Start: '[Hold] Meșteșug'
+UI_Demo_CheatCode: Este un demo, pe bune, nu ai nevoie de Marvin aici. Totuși, în
+  jocul complet...
+UI_Demo_Gratitude: Vă mulțumim că ați jucat acest demo!
+UI_Demo_Gratitude_Follow: 'Asigurați-vă că ne urmăriți:'
+UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
+UI_Demo_Gratitude_QR: 'Vă rugăm să furnizați feedback la:'
+UI_Difficulty_CombatLabel: Luptă
+UI_Difficulty_CombatTooltip: Indicator pentru luptă
+UI_Difficulty_Custom: Personalizat
+UI_Difficulty_CustomDescription: Add a description for the custom difficulty here
+UI_Difficulty_Easy: Uşor
+UI_Difficulty_EasyDescription: Adăugați aici o descriere pentru dificultatea ușoară
+UI_Difficulty_Hard: Greu
+UI_Difficulty_HardDescription: Add a description for the hard difficulty here
+UI_Difficulty_ProgressionLabel: Progres
+UI_Difficulty_ProgressionTooltip: Indicator de progres
+UI_Difficulty_ResourcesLabel: Resurse
+UI_Difficulty_ResourcesTooltip: Indicator de resurse
+UI_Difficulty_SelectDifficulty: Selectați Dificultate
+UI_Difficulty_Standard: Standard
+UI_Difficulty_StandardDescription: Add a description for the standard difficulty here
+UI_Difficulty_Start: Începe jocul
+UI_Disclaimer: Acest demo este un prequel cu o experiență limitată creată pentru a
+  arăta unele dintre principalele caracteristici ale Gothic 1 Remake, deoarece jocul
   încă este în lucru, poate conține erori și buguri. Jocul complet urmărește povestea,
-  structura și spiritul Gothic-ului original, cu Eroul Fără Nume ca protagonist.'
+  structura și spiritul Gothic-ului original, cu Eroul Fără Nume ca protagonist.
+UI_EnterNameHere: 'Introduceți numele aici:'
+UI_Fighting_Bow: Arc
+UI_Fighting_Bow_Master_Tooltip: Controlul asupra arcului este maestral. Loviturile
+  critice îți devastează inamicii, iar rapiditatea și precizia loviturilor îi copleșesc.
+UI_Fighting_Bow_Tooltip: Abilitatea cu arcurile definește ochirea țintelor, de la
+  țintirea de bază până la lovituri precise și rapide.
+UI_Fighting_Bow_Trained_Tooltip: Odată cu antrenamentul, abilitățile tale cu arcul
+  s-au ascuțit. Acum ești mult mai priceput la reîncărcarea și țintirea arcului, iar
+  precizia sporită permite lovituri critice.
+UI_Fighting_Bow_Untrained_Tooltip: Ești neantrenat. Poți ține un arc, dar țintirea
+  este o provocare, iar tragerea săgeților și reîncărcarea îți e greoaie.
+UI_Fighting_Crossbow: Arbaleta
+UI_Fighting_Crossbow_Master_Tooltip: Ai obținut stăpânirea peste arbalete. Loviturile
+  critice vin cu mai multă ușurință, fiecare lovitură vine cu o precizie de neegalat,
+  iar mâinile iscusite reîncarcă rapid bolțuile.
+UI_Fighting_Crossbow_Tooltip: Stăpânirea asupra arbaletelor reflectă măiestria de
+  luptă la distanță, evoluând de la manevrarea de bază la tragerile rapide și precise.
+UI_Fighting_Crossbow_Trained_Tooltip: Odată cu antrenamentul abilitățile cu arbaleta
+  cresc. Reîncărcarea este mai rapidă, mâinile ți se stabilizează totodata și ținta,
+  iar loviturile critice devin o adevărată amenințare.
+UI_Fighting_Crossbow_Untrained_Tooltip: Esti neantrenat. Poți folosi arbalete, dar
+  cu mâinile instabile nu-ți pot nimeri ținta, iar reîncărcarea este lentă și obositoare.
+UI_Fighting_Fighting: Luptă
+UI_Fighting_OneHanded: Cu o mână
+UI_Fighting_OneHanded_Master_Tooltip: Un maestru al luptei cu o mână este o forță
+  de luat în considerare. Îți cresc șansele de loviri critice și poți provoca dezechilibre
+  adversarului. Pararea devine și mai bună, permițând contraatacuri puternice.
+UI_Fighting_OneHanded_Tooltip: Competențele cu armele de-o mână determină eficiența
+  în luptă, de la loviturile de bază până la combinații fluide și maestrale.
+UI_Fighting_OneHanded_Trained_Tooltip: Odată cu antrenamentul, mișcările tale devin
+  fluide, asta îți va permite combinații de atac și parări eficiente. Poți da lovituri
+  critice și ai capacitatea de a-ți anula atacurile pe parcursul efectuării lor.
+UI_Fighting_OneHanded_Untrained_Tooltip: Ești neinstruit. Poți mânui o armă. Dar nu
+  te aștepta la finețuri; combinațiile și parările nu-ți sunt la îndemână.
+UI_Fighting_TwoHanded: Cu două mâini
+UI_Fighting_TwoHanded_Master_Tooltip: Ca maestru al luptei cu două mâini, priceperea
+  ta este formidabilă. Loviturile critice devin mai frecvente, pararea permite contraatacuri,
+  iar loviturile foarte puternice îți pot face inamicii să zvâcnească.
+UI_Fighting_TwoHanded_Tooltip: Competențele cu armele de două mâni îți determină capacitatea
+  în luptă, de la loviturile brutale până la combinații grațioase și dominante.
+UI_Fighting_TwoHanded_Trained_Tooltip: Odată cu antrenamentul, controlul asupra armelor
+  de două mâini devine fluid, ceea ce îți permite combinații puternice și parări pricepute.
+  Loviturile critice devin posibile și obți abilitatea de anulare a atacurilor.
+UI_Fighting_TwoHanded_Untrained_Tooltip: Ești neinstruit. Poți ține o armă cu două
+  mâini, dar întregul ei potențial îți rămâne evaziv. Combinațiile și parările sunt
+  departe de tine, iar atacurile îți sunt simple și nefinisate.
+UI_GameOver_ModalMainMenu: Ești sigur că vrei să revii la meniul principal?
+UI_GameSaved_Notification: Jocul a fost salvat.
+UI_Glossary_NoEntriesAvailable: Nu sunt disponibile intrări de glosar
+UI_HUD: Intrare nouă în glosar
+UI_HUD_Exp: Exp
+UI_HUD_Experience: Experienţă
+UI_HUD_SwitchWheel: Roată de comutare
+UI_Inventory_Bow: Arc
+UI_Inventory_Crossbow: Arbaleta
+UI_Inventory_Description: Descriere
+UI_Inventory_EquippedSlot: Echipat in slot
+UI_Inventory_Food: Mâncare
+UI_Inventory_OneHanded: Armă pentru o mână
+UI_Inventory_Open: Deschide stocurile
+UI_Inventory_Requirements: 'Cerințe:'
+UI_Inventory_ThousandsAbbreviation: Mii
+UI_Inventory_TwoHanded: Armă pentru două mâini
+UI_Lessons: Lecții
+UI_Lessons_Acrobatics: Acrobaţie
+UI_Lessons_Sneaking: Furișare
+UI_LoadSave: Salvare nouă
+UI_LoadSave_Load: Încarcă
+UI_LoadSave_LoadGame: Încărcați Jocul
+UI_LoadSave_Manual: Manual
+UI_LoadSave_Save: Salvează
+UI_LoadSave_SaveGame: Salvați jocul
+UI_LoadingScreen_ChapterFormat: Capitolul {ChapterNumber}
+UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
+UI_Loadingscreen_Chapter1Text: First text in the chapter story so far First text in
+  the chapter story so far First text in the chapter story so far First text in the
+  chapter story so far First text in the chapter story so far First text in the chapter
+  story so far First text in the chapter story so far
+UI_Loadingscreen_Chapter1Title: Bun venit în Colonie
+UI_Loadingscreen_Chapter2Text: Second text in the chapter story so far First text
+  in the chapter story so far First text in the chapter story so far First text in
+  the chapter story so far First text in the chapter story so far First text in the
+  chapter story so far First text in the chapter story so far
+UI_Loadingscreen_Chapter2Title: Cuibul târâtocnelor
+UI_Loadingscreen_Chapter3Title: Artefacte ale puterii antice
+UI_Loadingscreen_Chapter4Title: Xardas
+UI_Loadingscreen_Chapter5Title: Gardienii portalului
+UI_Loadingscreen_Chapter6Title: Holurile Adormitului
+UI_Loadingscreen_Hint1: În acest demo, nu veți juca și nu îl veți vedea pe faimosul
+  Erou Fără Nume
+UI_Loadingscreen_Hint2: Gothic 1 Remake este un RPG cu o lume deschisă în spiritul
+  Gothic-ului original
+UI_Loadingscreen_Hint3: Vă rugăm să nu vă plângeți că eroul din acest demo (Nyras)
+  nu seamănă cu dragul nostru Erou Fără Nume.
+UI_Loadingscreen_Hint4: Nu uitați să vă alăturați comunității și să adăugați jocul
+  pe lista de dorințe. Toate informațiile sunt disponibile pe gothic-game.com
+UI_Loadingscreen_Hint5: Cu sprijinul vostru, franciza Gothic are un viitor strălucit
+  în viitor!
+UI_Loadingscreen_Hint6: Doar pentru acest demo există o opțiune de Reînviere disponibilă
+  dacă mori. Jocul complet nu va avea asta, dar vei avea oricând varianta salvare/încărcare.
+UI_Loadingscreen_HintsHeadline: Sfaturi
+UI_Loadingscreen_Loading: Încărcare...
+UI_Loadingscreen_PressKeytoCtn: Apăsați orice tastă pentru a continua!
+UI_Main_Credits: Credite
+UI_Main_Load: Încărcați Jocul
+UI_Main_NewGame: Joc Nou
+UI_Main_Quit: Părăsește
+UI_Main_QuitGame: Părăsește jocul
+UI_Main_QuitModal: Ești sigur că vrei să părăsești jocul?
+UI_Main_Settings: Setări
+UI_Main_Singleplayer: Un singur jucător
+UI_Notification: Capitolul {ChapterNumber}
+UI_Notification_AreaDiscovered: Zonă nouă descoperită
+UI_Notification_ExperienceGainedFormat: '{Amount} Exp'
+UI_Notification_GlossaryUpdatedFormat: 'Glosar actualizat: {EntryName}'
+UI_Notification_KeyUsedFormat: 'Cheie folosită: {KeyName}'
+UI_Notification_LevelUp: Nivel crescut
+UI_Notification_ShowMore: Arată mai mult
+UI_Notification_SkillIncreasedFormat: 'Abilitate crescută: {SkillName}'
+UI_Notification_SkillLearnedFormat: 'Abilitate învățată: {SkillName}'
+UI_Profile: Profil nou
+UI_Profile_Chapter: Capitol
+UI_Profile_ChapterNyras: Nyras
+UI_Profile_DefaultSaveFileName: '{location}, Day {day}, {hours}:{minutes}'
+UI_Profile_Delete: Delete
+UI_Profile_Difficulty: Dificultate
+UI_Profile_LastSave: Ultima salvare
+UI_Profile_ModalDeleteProfile: Sigur doriți să ștergeți acest profil și toate salvările
+  jocului asociate?
+UI_Profile_ModalDeleteProfileTitle: Ștergeți profilul
+UI_Profile_ModalDeleteSaveGame: Sigur doriți să ștergeți această salvare de joc?
+UI_Profile_ModalDeleteSaveTitle: Ștergeți salvarea
+UI_Profile_ModalError: A apărut o eroare.
+UI_Profile_ModalNameEmpty: Câmpul numelui nu poate fi gol.
+UI_Profile_ModalNameInUse: Acest nume este deja folosit.
+UI_Profile_ModalNoMoreProfiles: Nu mai există sloturi de profil disponibile. Ștergeți
+  slotul existent pentru a crea unul nou.
+UI_Profile_Profile1: Profil 1
+UI_Profile_Profile2: Profil 2
+UI_Profile_Profile3: Profil 3
+UI_Profile_Profile4: Profil 4
+UI_Profile_SaveTime: Timpul salvării
+UI_Profile_SelectProfile: Selectați Profil
+UI_Profile_TimePlayed: Timp jucat
+UI_Protection_Arrows: Săgeți
+UI_Protection_Arrows_Tooltip: Această protecție reduce daunele cauzate prin perforare
+  de săgeți și bolțuri.
+UI_Protection_Fire: Foc
+UI_Protection_Fire_Tooltip: Conceput pentru a proteja împotriva căldurii intense a
+  flăcărilor, această protecție vă asigură că sunteți mai puțin afectat de atacurile
+  și pericolele cauzate de foc.
+UI_Protection_Magic: Magie
+UI_Protection_Magic_Tooltip: Îți întărește apărarea împotriva forțelor de cult. Această
+  protecție le reduce impactul, fie că este vorba de o vrajă rece de gheață sau de
+  un șoc fulgerător.
+UI_Protection_Physical: Fizică
+UI_Protection_Physical_Tooltip: Oferă protecție atât împotriva tăișului săbiilor și
+  topoarelor, cât și împotriva loviturilor zdrobitoare ale buzduganelor, minimizând
+  impactul atacurilor fizice directe.
+UI_Protection_Protection: Protecție
+UI_Quests: Misiune nouă
+UI_Quests_Complete: Misiune finalizată
+UI_Quests_DateFormat: '{days} zile'
+UI_Quests_DateTimeFormat: '{date}, {time}'
+UI_Quests_DateToday: Azi
+UI_Quests_DateYesterday: Ieri
+UI_Quests_Log: Jurnal
+UI_Quests_NoQuestsAvailable: Nu există misiuni disponibile
+UI_Quests_Objectives: Obiective
+UI_Quests_QuestFailed: Misiune eșuată
+UI_Quests_QuestUpdatedFormat: '''{quest}'' actualizat'
+UI_Quests_TimeFormat: '{hours}:{minutes}'
+UI_Quests_Update: Misiune actualizată
+UI_Settings_AimScalar: Viteza de ochire
+UI_Settings_AmbientOcclusionIntensity: Intensitatea ocluziei ambientale
+UI_Settings_AmbientOcclusionIntensity_Description: Intensitatea efectului de ocluzie
+  ambientală. Valorile mai mari vor avea ca rezultat umbre mai pronunțate în colțuri
+  și crăpături.
+UI_Settings_AntiAliasing: Anti-aliasing
+UI_Settings_AntiAliasingQuality: Calitatea Anti-aliasing
+UI_Settings_Audio: Audio
+UI_Settings_AudioLanguage: Limba vocilor
+UI_Settings_AutoCloseChests: Auto-închiderea cuferelor
+UI_Settings_AutoCloseChests_Description: Dacă această setare este activată, cuferele
+  se vor închide automat atunci când este utilizată opțiunea „ia toate”. În caz contrar,
+  cufărul va rămâne deschis până când este închis manual.
+UI_Settings_BloomIntensity: Intensitatea înfloririi
+UI_Settings_BloomIntensity_Description: Intensitatea efectului de înflorire. Valorile
+  mai mari vor avea ca rezultat o strălucire mai intensă în jurul obiectelor luminoase.
+UI_Settings_Brightness: Luminozitate
+UI_Settings_ButtonGraphics: Grafica butoanelor
+UI_Settings_CameraPreset: Camera presetată
+UI_Settings_CameraPreset_Classic: Clasic
+UI_Settings_CameraPreset_Default: Implicit
+UI_Settings_CameraSentivity: Sensibilitatea camerei
+UI_Settings_ColorBrightness: Luminozitate
+UI_Settings_ColorBrightness_Description: Creșterea sau scăderea acestei valori va
+  duce la luminarea sau întunecarea întregii scene.
+UI_Settings_ColorContrast: Contrast
+UI_Settings_ColorContrast_Description: Gama de valori de lumină și întuneric din scena
+  ta. Valorile mai mici vor reduce diferența dintre zonele luminoase și cele întunecate,
+  în timp ce valorile mai mari vor crește diferența.
+UI_Settings_ColorSaturation: Saturaţie
+UI_Settings_ColorSaturation_Description: Intensitatea culorii (nuanța) pentru întreaga
+  imagine. Valorile mai mari vor avea ca rezultat culori mai vibrante.
+UI_Settings_Contrast: Contrast
+UI_Settings_Controls: Controale
+UI_Settings_DepthOfField: Adâncimea câmpului
+UI_Settings_Disclaimer: Mai multe setări ale jocului, inclusiv opțiunile de afișare
+  a interfeței de utilizare și a notificărilor, vor fi disponibile în jocul final.
+UI_Settings_Display: Display
+UI_Settings_DisplayMode: Modul de afișare
+UI_Settings_DisplayMode_Borderless: Fără margini
+UI_Settings_DisplayMode_Fullscreen: Fullscreen
+UI_Settings_DisplayMode_Windowed: În ferestre
+UI_Settings_DynamicResolution: Rezoluție dinamică
+UI_Settings_EffectsQuality: Calitatea efectelor
+UI_Settings_FOV: Câmp de vedere
+UI_Settings_FoliageQuality: Calitatea foliage
+UI_Settings_FrameRateLimit: Limită de frecvență a cadrelor
+UI_Settings_FrameRateLimit_Unlimited: Nelimitat
+UI_Settings_Game: Joc
+UI_Settings_Gameplay: Gameplay
+UI_Settings_Gamma: Gamma
+UI_Settings_GlobalIlluminationQuality: Calitatea Global illumination
+UI_Settings_Graphics: Grafică
+UI_Settings_HDR: HDR
+UI_Settings_InvertXAxis: Inversați axa X
+UI_Settings_InvertYAxis: Inversați axa Y
+UI_Settings_InvertedHCam: Cameră orizontală inversată
+UI_Settings_InvertedVCam: Cameră verticală inversată
+UI_Settings_LandscapeQuality: Calitatea peisajului
+UI_Settings_Language_Chinese: Chineza
+UI_Settings_Language_English: Engleza
+UI_Settings_Language_French: Franceza
+UI_Settings_Language_German: Germana
+UI_Settings_Language_Italian: Italana
+UI_Settings_Language_Japanese: Japoneza
+UI_Settings_Language_Korean: Coreana
+UI_Settings_Language_Polish: Poloneza
+UI_Settings_Language_Russian: Rusa
+UI_Settings_Language_Spanish: Spaniola
+UI_Settings_Language_Text: Limba textului
+UI_Settings_Language_Voice: Limba vocii
+UI_Settings_LeftStickSensitivity: Sensibilitatea stick-ului stâng
+UI_Settings_MasterVolume: Volumul principal
+UI_Settings_MotionBlurIntensity: Intensitatea blurului de mișcare
+UI_Settings_MotionBlurIntensity_Description: Intensitatea efectului de estompare a
+  mișcării. Valorile mai mari vor avea ca rezultat un efect de estompare mai intens
+  atunci când mișcați rapid camera.
+UI_Settings_MusicVolume: Volumul muzicii
+UI_Settings_ObjectsOutliner: Conturul obiectelor
+UI_Settings_ObjectsOutliner_Default: Implicit
+UI_Settings_ObjectsOutliner_Low: Scăzut
+UI_Settings_ObjectsOutliner_No: Fals
+UI_Settings_Off: Fals
+UI_Settings_On: Adevărat
+UI_Settings_OverallQuality: Calitate prestabilită
+UI_Settings_PostProcessingQuality: Calitate post-procesare
+UI_Settings_Quality_Cinematic: Alkimia Overdose
+UI_Settings_Quality_Custom: Personalizat
+UI_Settings_Quality_Epic: Gothic
+UI_Settings_Quality_High: Ridicat
+UI_Settings_Quality_Low: Scăzut
+UI_Settings_Quality_Medium: Mediu
+UI_Settings_Quality_Recommended: Recomandat
+UI_Settings_ReflectionQuality: Calitatea reflexiei
+UI_Settings_Reset: Reset
+UI_Settings_Resolution: Rezoluţie
+UI_Settings_ResolutionDisclaimer: Vă rugăm să rețineți că presetarea de calitate Alkimia
+  Overdose poate funcționa numai pe un hardware de ultimă generație.
+UI_Settings_ResolutionQuality: Calitatea rezoluției
+UI_Settings_ResolutionQuality_Description: Reglați calitatea rezoluției pentru a îmbunătăți
+  performanța sau calitatea vizuală.
+UI_Settings_RightStickSensitivity: Sensibilitatea stick-ului drept
+UI_Settings_SFXVolume: Volumul SFX
+UI_Settings_ShadingQuality: Calitatea umbririi
+UI_Settings_ShadowQuality: Calitatea umbrei
+UI_Settings_Sound: Sunet
+UI_Settings_SubtitleSize_Default: Implicit
+UI_Settings_SubtitleSize_Larger: Mai mare
+UI_Settings_SubtitleStyle: Dimensiunea subtitrărilor
+UI_Settings_Subtitles: Subtitrări
+UI_Settings_SubtitlesToggle: Subtitrări
+UI_Settings_TextLanguage: Limba textului
+UI_Settings_TextureQuality: Calitatea texturii
+UI_Settings_VSync: VSync
+UI_Settings_Vibration: Vibrație
+UI_Settings_ViewDistanceQuality: Vizualizați calitatea distanței
+UI_Settings_VoiceVolume: Ai dormit și te simți odihnit.
+UI_Settings_Volume_Master: Master Volume
+UI_Settings_Volume_Music: Muzică
+UI_Settings_Volume_Sound: Sound FX
+UI_Settings_Volume_Voice: Voce
+UI_Skill_OpenLocks: Sparge încuietori
+UI_Skill_Pickpocketing: Buzunăreală
+UI_Skill_SpecialSkills: Abilități speciale
+UI_SleepEndedMessage_Default_2: Ai dormit și te simți bine (text alternativ)
+UI_SleepEndedMessage_StrangeDreams_1: Ai dormit dar ai avut vise ciudate.
+UI_SleepEndedMessage_StrangeDreams_2: Ai dormit dar ai visat urât (text alternativ)
+UI_Sleep_WaitingForPartner: '[ Need to wait ]'
+UI_Stats_CharacterStats: Atribute personaj
+UI_Stats_Level: Nivel
+UI_Stats_SkillPoints: Puncte de abilitate
 UI_StoryIntro: 'Povestea are loc în valea minelor din Khornis. O colonie a ocnașilor
   care au preluat violent puterea după ce magicienii au eșuat în vraja lor de a crea
   o barieră magică, deținuții trăiesc acum în interdependență cu regele, care are
@@ -30,511 +519,19 @@ UI_StoryIntro: 'Povestea are loc în valea minelor din Khornis. O colonie a ocna
 
 
   <b> Bun venit în noua ta viață!</>'
-GE_Param_Heal: 'Vindecă'
-GE_Param_Duration: 'Durată'
-GE_Param_Mana: 'Mană'
-UI_Tabs_Inventory: 'Stocuri'
-UI_Tabs_Quests: 'Misiuni'
-UI_Tabs_Glossary: 'Glosar'
-UI_Tabs_Map: 'Hărți'
-UI_Tabs_Stats: 'Atribute'
-UI_Tabs_Buy: 'Cumpăra'
-UI_Tabs_Sell: 'Vinde'
-Text_FilterMelee: 'Corp la corp'
-Text_FilterRanged: 'La distanță'
-Text_FilterMagic: 'Magie'
-Text_FilterWearables: 'Purtabile'
-Text_FilterFood: 'Mâncare'
-Text_FilterPotions: 'Poțiuni'
-Text_FilterMaterials: 'Materiale'
-Text_FilterMiscellaneous: 'Diverse'
-Text_FilterArtefacts: 'Artefacte'
-Text_FilterDocuments: 'Documente'
-Text_FilterOldCamp: 'Tabăra Veche'
-Text_FilterSwampCamp: 'Tabăra Mlaștinii'
-Text_FilterNewCamp: 'Tabăra Nouă'
-Text_FilterHiddenCamp: 'Tabăra Ascunsă'
-Text_FilterOutsiders: 'Din afară'
-Text_FilterCreatures: 'Creaturi'
-Text_FilterItems: 'Articole'
-Text_FilterLocations: 'Locații'
-Text_FilterWorld: 'Colonia'
-Text_FilterCompleted: 'Terminat'
-Text_FilterAll: 'Toate'
-UI_Inventory_Requirements: 'Cerințe:'
-UI_Inventory_Description: 'Descriere'
-UI_Inventory_EquippedSlot: 'Echipat in slot'
-UI_Inventory_OneHanded: 'Armă pentru o mână'
-UI_Inventory_TwoHanded: 'Armă pentru două mâini'
-UI_Inventory_Bow: 'Arc'
-UI_Inventory_Crossbow: 'Arbaleta'
-UI_Inventory_Food: 'Mâncare'
-UI_Inventory_Open: 'Deschide stocurile'
-UI_Inventory_ThousandsAbbreviation: 'Mii'
-UI_Quests_Objectives: 'Obiective'
-UI_Quests_Log: 'Jurnal'
-UI_Quests_DateTimeFormat: '{date}, {time}'
-UI_Quests_DateFormat: '{days} zile'
-UI_Quests_TimeFormat: '{hours}:{minutes}'
-UI_Quests_DateToday: 'Azi'
-UI_Quests_DateYesterday: 'Ieri'
-UI_Quests_Update: 'Misiune actualizată'
-UI_Quests_Complete: 'Misiune finalizată'
-UI_Quests_QuestFailed: 'Misiune eșuată'
-UI_Quests: 'Misiune nouă'
-UI_Quests_NoQuestsAvailable: 'Nu există misiuni disponibile'
-UI_Quests_QuestUpdatedFormat: '''{quest}'' actualizat'
-UI_Glossary_NoEntriesAvailable: 'Nu sunt disponibile intrări de glosar'
-UI_Stats_CharacterStats: 'Atribute personaj'
-UI_Stats_Level: 'Nivel'
-UI_Stats_SkillPoints: 'Puncte de abilitate'
-UI_Attribute_Atributes: 'Atribute'
-UI_Attribute_Health: 'Viață'
-UI_Attribute_Mana: 'Mană'
-UI_Attribute_Strength: 'Forță'
-UI_Attribute_Dexterity: 'Dexteritate'
-UI_Attribute_MagicCircle: 'Cercul magiei'
-UI_Attribute_Toughness: 'Rezistență'
-UI_Protection_Protection: 'Protecție'
-UI_Protection_Physical: 'Fizică'
-UI_Protection_Arrows: 'Săgeți'
-UI_Protection_Magic: 'Magie'
-UI_Protection_Fire: 'Foc'
-UI_Fighting_Fighting: 'Luptă'
-UI_Fighting_OneHanded: 'Cu o mână'
-UI_Fighting_TwoHanded: 'Cu două mâini'
-UI_Fighting_Crossbow: 'Arbaleta'
-UI_Fighting_Bow: 'Arc'
-UI_Skill_SpecialSkills: 'Abilități speciale'
-UI_Skill_OpenLocks: 'Sparge încuietori'
-UI_Skill_Pickpocketing: 'Buzunăreală'
-UI_Lessons: 'Lecții'
-UI_Lessons_Sneaking: 'Furișare'
-UI_Lessons_Acrobatics: 'Acrobaţie'
-UI_Attribute_Health_Tooltip: 'Viața este rezistența ta fizică. Cu cât ai mai multă
-  viață, cu atât poți încasa mai multe lovituri înainte de a pierde lupta. Viața ta
-  va crește odată cu experiența, menținându-te rezistent împotriva adversarilor din
-  ce în ce mai puternici.'
-UI_Attribute_Mana_Tooltip: 'Mana îți alimentează abilitățile tale magice. Mana este
-  consumată în timp ce faci vrăji și nu se regenerează independent, așa că planificați-vă
-  odihna și consumul mană în consecință.'
-UI_Attribute_Strength_Tooltip: 'Forța exprimă puterea ta fizică. Cu cât forța ta este
-  mai mare, cu atât poți mânui arme mai puternice și cu atât atacurile tale corp la
-  corp vor fi mai zdrobitoare.'
-UI_Attribute_Dexterity_Tooltip: 'Dexteritatea reprezintă stăpânirea, echilibrul și
-  controlul asupra corpului tău. Determină armele de distanță pe care le poți folosi
-  și îți îmbunătățește eficacitatea atacului de la distanță și șansa de succes în
-  timpul furtului din buzunare.'
-UI_Attribute_MagicCircle_Tooltip: 'Cercurile magiei semnifică profunzimea înțelepciunii
-  și cunoștințelor unui vrăjitor în artele de cult. Pe măsură ce urcați prin cercuri,
-  obțineți acces la vrăji mai complexe și mai puternice, amplificându-vă priceperea
-  în magie.'
-UI_Attribute_Toughness_Tooltip: 'Rezistența este o măsură a capacității tale de a
-  suporta o povară. Pe măsură ce devii mai rezistent, poți transporta mai multe articole.
-  Supraîncărcarea vă va împiedica mișcarea, așa că gestionați-vă stocul cu înțelepciune.'
-UI_Protection_Physical_Tooltip: 'Oferă protecție atât împotriva tăișului săbiilor
-  și topoarelor, cât și împotriva loviturilor zdrobitoare ale buzduganelor, minimizând
-  impactul atacurilor fizice directe.'
-UI_Protection_Arrows_Tooltip: 'Această protecție reduce daunele cauzate prin perforare
-  de săgeți și bolțuri.'
-UI_Protection_Magic_Tooltip: 'Îți întărește apărarea împotriva forțelor de cult. Această
-  protecție le reduce impactul, fie că este vorba de o vrajă rece de gheață sau de
-  un șoc fulgerător.'
-UI_Protection_Fire_Tooltip: 'Conceput pentru a proteja împotriva căldurii intense
-  a flăcărilor, această protecție vă asigură că sunteți mai puțin afectat de atacurile
-  și pericolele cauzate de foc.'
-UI_Fighting_OneHanded_Tooltip: 'Competențele cu armele de-o mână determină eficiența
-  în luptă, de la loviturile de bază până la combinații fluide și maestrale.'
-UI_Fighting_OneHanded_Untrained_Tooltip: 'Ești neinstruit. Poți mânui o armă. Dar
-  nu te aștepta la finețuri; combinațiile și parările nu-ți sunt la îndemână.'
-UI_Fighting_OneHanded_Trained_Tooltip: 'Odată cu antrenamentul, mișcările tale devin
-  fluide, asta îți va permite combinații de atac și parări eficiente. Poți da lovituri
-  critice și ai capacitatea de a-ți anula atacurile pe parcursul efectuării lor.'
-UI_Fighting_OneHanded_Master_Tooltip: 'Un maestru al luptei cu o mână este o forță
-  de luat în considerare. Îți cresc șansele de loviri critice și poți provoca dezechilibre
-  adversarului. Pararea devine și mai bună, permițând contraatacuri puternice.'
-UI_Fighting_TwoHanded_Tooltip: 'Competențele cu armele de două mâni îți determină
-  capacitatea în luptă, de la loviturile brutale până la combinații grațioase și dominante.'
-UI_Fighting_TwoHanded_Untrained_Tooltip: 'Ești neinstruit. Poți ține o armă cu două
-  mâini, dar întregul ei potențial îți rămâne evaziv. Combinațiile și parările sunt
-  departe de tine, iar atacurile îți sunt simple și nefinisate.'
-UI_Fighting_TwoHanded_Trained_Tooltip: 'Odată cu antrenamentul, controlul asupra armelor
-  de două mâini devine fluid, ceea ce îți permite combinații puternice și parări pricepute.
-  Loviturile critice devin posibile și obți abilitatea de anulare a atacurilor.'
-UI_Fighting_TwoHanded_Master_Tooltip: 'Ca maestru al luptei cu două mâini, priceperea
-  ta este formidabilă. Loviturile critice devin mai frecvente, pararea permite contraatacuri,
-  iar loviturile foarte puternice îți pot face inamicii să zvâcnească.'
-UI_Fighting_Crossbow_Tooltip: 'Stăpânirea asupra arbaletelor reflectă măiestria de
-  luptă la distanță, evoluând de la manevrarea de bază la tragerile rapide și precise.'
-UI_Fighting_Crossbow_Untrained_Tooltip: 'Esti neantrenat. Poți folosi arbalete, dar
-  cu mâinile instabile nu-ți pot nimeri ținta, iar reîncărcarea este lentă și obositoare.'
-UI_Fighting_Crossbow_Trained_Tooltip: 'Odată cu antrenamentul abilitățile cu arbaleta
-  cresc. Reîncărcarea este mai rapidă, mâinile ți se stabilizează totodata și ținta,
-  iar loviturile critice devin o adevărată amenințare.'
-UI_Fighting_Crossbow_Master_Tooltip: 'Ai obținut stăpânirea peste arbalete. Loviturile
-  critice vin cu mai multă ușurință, fiecare lovitură vine cu o precizie de neegalat,
-  iar mâinile iscusite reîncarcă rapid bolțuile.'
-UI_Fighting_Bow_Tooltip: 'Abilitatea cu arcurile definește ochirea țintelor, de la
-  țintirea de bază până la lovituri precise și rapide.'
-UI_Fighting_Bow_Untrained_Tooltip: 'Ești neantrenat. Poți ține un arc, dar țintirea
-  este o provocare, iar tragerea săgeților și reîncărcarea îți e greoaie.'
-UI_Fighting_Bow_Trained_Tooltip: 'Odată cu antrenamentul, abilitățile tale cu arcul
-  s-au ascuțit. Acum ești mult mai priceput la reîncărcarea și țintirea arcului, iar
-  precizia sporită permite lovituri critice.'
-UI_Fighting_Bow_Master_Tooltip: 'Controlul asupra arcului este maestral. Loviturile
-  critice îți devastează inamicii, iar rapiditatea și precizia loviturilor îi copleșesc.'
-UI_Crafting_InProgress: 'Rețetă în preparare...'
-UI_Crafting_ForgingItem: 'Forjarea articolului'
-UI_Crafting_GoToAnvil: 'Du-te la nicovală'
-UI_Crafting_ShapingItem: 'Modelarea articolului'
-UI_Crafting_GoToWaterBarrel: 'Du-te la butoiul de apă'
-UI_Crafting_CoolingDownItem: 'Răcirea articolului'
-UI_Crafting_PanCook: 'Gătește în tigaie'
-UI_Crafting_MenuTitle_Pan: 'Tigaie'
-UI_Crafting_MenuTitle_Cauldron: 'Cazan'
-UI_Crafting_MenuTitle_Forge: 'Forjă'
-UI_Crafting_MenuTitle_Workbench: 'Banc de lucru'
-UI_Crafting_MenuTitle_Whetstone: 'Gresie de ascuţit'
-UI_Crafting_MenuTitle_Alchemy: 'Laborator de Alchimie'
-UI_Crafting_MenuTitle_Inscription: 'Lăcaș de inscripție'
-UI_Crafting_HasMaterials: 'Are Materiale'
-UI_Crafting_Quantity: 'Cantitate:'
-UI_Crafting_Cost: 'Cost'
-UI_Crafting_Start: '[Hold] Meșteșug'
-UI_Crafting_Section: 'Secțiune'
-UI_Crafting_Scrap: '[Hold] Gunoi'
-UI_death_GameOver: 'Joc încheiat'
-UI_death_Revive: 'Reînvie'
-UI_death_ReviveLeft: 'Reînvieri rămase'
-UI_death_MainMenu: 'Meniul principal'
-Text_Resume: 'Reîncepe'
-Text_OpenMenu: 'Deschideți Meniu'
-TEXT_BACK: 'Înapoi'
-TEXT_DIALOG_END: 'Încheie.'
-Text_Cancel: 'Anulează'
-Text_Equip: 'Echipează'
-Text_Equipped: 'Echipat'
-Text_Unequip: 'Dezechipează'
-Text_Consume: 'Consumă'
-Text_Compare: 'Compară'
-Text_Drop: '[Hold] Aruncă'
-Text_Read: 'Citește'
-Text_Close: 'Închide'
-Text_Start: 'START'
-Text_Button_Back: 'Înapoi'
-Text_Continue: 'Continuă'
-Text_Confirm: 'Confirmă'
-Text_Select: 'Selectează'
-Text_Yes: 'Adevărat'
-Text_No: 'Fals'
-Text_Reset: 'Resetați'
-Text_SaveChanges: 'Salvați modificările'
-Text_LootAll: 'Ia Tot'
-Text_LootSwitchSection: 'Comută atenția'
-Text_LootTake: 'Ia'
-Text_LootChest: 'Cufăr'
-Text_LootCorpse: 'Cadavru'
-Text_LootStore: 'Depozitează articole'
-Text_LootInventory: 'Stocuri'
-Text_TradeAccept: 'Acceptă'
-Text_HoldAccept: '[Hold] Acceptă'
-Text_TradeCancel: 'Renunță'
-Text_DocumentMinimize: 'Minimizează'
-Text_OpenGlossary: 'Deschide Glosarul'
-Text_CycleHint: 'Sugestie de ciclu'
-Text_From: 'De la:'
-Text_To: 'Pentru:'
-Text_SleepFor: 'Dormi pentru:'
-Text_Days: 'Zile'
-Text_Hours: 'h'
-Text_Minutes: 'm'
-Text_Seconds: 's'
-Text_Max_Uppercase: 'MAX'
-Text_Restart: 'Restart'
-UI_HUD_SwitchWheel: 'Roată de comutare'
-UI_Demo_Gratitude: 'Vă mulțumim că ați jucat acest demo!'
-UI_Demo_Gratitude_QR: 'Vă rugăm să furnizați feedback la:'
-UI_Demo_Gratitude_Follow: 'Asigurați-vă că ne urmăriți:'
-UI_Demo_Gratitude_Links: 'https://gothic.thqnordic.com/'
-UI_Demo_CheatCode: 'Este un demo, pe bune, nu ai nevoie de Marvin aici. Totuși, în
-  jocul complet...'
-UI_Trading_MyInventory: 'Stocul meu'
-UI_Trading_SellerInventory: 'Stocul vânzătorului'
-UI_Trading_Balance: 'Balanță'
-UI_Trading_SellBuy: 'Adăugați la coadă'
-UI_Trading_Remove: 'Elimină'
-UI_Sleep_WaitingForPartner: '[ Need to wait ]'
-Text_LockpickMoveHorizontal: 'Deplasați stânga/dreapta'
-Text_LockpickMoveVertical: 'Deplasați sus/jos'
-Text_OpenChest: 'Deschide cufăr'
-Text_OpenDoor: 'Deschide ușa'
-Text_LockpickToolRequired: 'Este necesar un șperaclu.'
-Text_LockpickSkillRequired: 'Este necesară o abilitate de spargere lacăte.'
-UI_ArmourCustomization_Torso: 'Trunchi'
-UI_ArmourCustomization_Waist: 'Talie'
-UI_ArmourCustomization_Legs: 'Picioare'
-UI_ArmourCustomization_ArmorAlterations: 'Modificările armurii'
-UI_ArmourCustomization_Equipped: 'E'
-UI_ArmourCustomization_Equip: 'Echipează'
-UI_ArmourCustomization_Purchase: '[Hold] Cumpără '
-UI_ArmourCustomization_Unequip: 'Dezechipează'
-UI_Notification_LevelUp: 'Nivel crescut'
-UI_Notification: 'Capitolul {ChapterNumber}'
-UI_Notification_AreaDiscovered: 'Zonă nouă descoperită'
-UI_Notification_ExperienceGainedFormat: '{Amount} Exp'
-UI_Notification_GlossaryUpdatedFormat: 'Glosar actualizat: {EntryName}'
-UI_Notification_KeyUsedFormat: 'Cheie folosită: {KeyName}'
-UI_Notification_SkillIncreasedFormat: 'Abilitate crescută: {SkillName}'
-UI_Notification_SkillLearnedFormat: 'Abilitate învățată: {SkillName}'
-UI_Notification_ShowMore: 'Arată mai mult'
-UI_GameSaved_Notification: 'Jocul a fost salvat.'
-UI_CantSave_Notification: 'Atac contondent'
-Item_Damage_Physical_Edge: 'Atac cu tăiș'
-Item_Damage_Physical_Point: 'Atac de străpungere'
-Item_Damage_Elemental_Fire: 'Joacă'
-UI_Main_Singleplayer: 'Un singur jucător'
-UI_Main_Settings: 'Setări'
-UI_Main_Credits: 'Credite'
-UI_Main_Quit: 'Părăsește'
-UI_Main_QuitGame: 'Părăsește jocul'
-UI_Main_QuitModal: 'Ești sigur că vrei să părăsești jocul?'
-UI_GameOver_ModalMainMenu: 'Ești sigur că vrei să revii la meniul principal?'
-UI_Main_NewGame: 'Joc Nou'
-UI_Main_Load: 'Încărcați Jocul'
-UI_EnterNameHere: 'Introduceți numele aici:'
-UI_LoadSave_LoadGame: 'Încărcați Jocul'
-UI_LoadSave_SaveGame: 'Salvați jocul'
-UI_LoadSave: 'Salvare nouă'
-UI_LoadSave_Load: 'Încarcă'
-UI_LoadSave_Save: 'Salvează'
-UI_LoadSave_Manual: 'Manual'
-UI_Loadingscreen_Loading: 'Încărcare...'
-UI_Loadingscreen_PressKeytoCtn: 'Apăsați orice tastă pentru a continua!'
-UI_Loadingscreen_HintsHeadline: 'Sfaturi'
-UI_LoadingScreen_ChapterFormat: 'Capitolul {ChapterNumber}'
-UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
-UI_Loadingscreen_Chapter1Title: 'Bun venit în Colonie'
-UI_Loadingscreen_Chapter1Text: 'First text in the chapter story so far First text
-  in the chapter story so far First text in the chapter story so far First text in
-  the chapter story so far First text in the chapter story so far First text in the
-  chapter story so far First text in the chapter story so far'
-UI_Loadingscreen_Chapter2Title: 'Cuibul târâtocnelor'
-UI_Loadingscreen_Chapter2Text: 'Second text in the chapter story so far First text
-  in the chapter story so far First text in the chapter story so far First text in
-  the chapter story so far First text in the chapter story so far First text in the
-  chapter story so far First text in the chapter story so far'
-UI_Loadingscreen_Chapter3Title: 'Artefacte ale puterii antice'
-UI_Loadingscreen_Chapter4Title: 'Xardas'
-UI_Loadingscreen_Chapter5Title: 'Gardienii portalului'
-UI_Loadingscreen_Chapter6Title: 'Holurile Adormitului'
-UI_Settings_Gameplay: 'Gameplay'
-UI_Settings_Controls: 'Controale'
-UI_Settings_Audio: 'Audio'
-UI_Settings_On: 'Adevărat'
-UI_Settings_Off: 'Fals'
-UI_Settings_InvertedVCam: 'Cameră verticală inversată'
-UI_Settings_InvertedHCam: 'Cameră orizontală inversată'
-UI_Settings_CameraSentivity: 'Sensibilitatea camerei'
-UI_Settings_Volume_Master: 'Master Volume'
-UI_Settings_Volume_Sound: 'Sound FX'
-UI_Settings_Volume_Music: 'Muzică'
-UI_Settings_Volume_Voice: 'Voce'
-UI_Settings_Language_Text: 'Limba textului'
-UI_Settings_Language_Voice: 'Limba vocii'
-UI_Settings_SubtitlesToggle: 'Subtitrări'
-UI_Settings_Brightness: 'Luminozitate'
-UI_Settings_Contrast: 'Contrast'
-UI_Settings_HDR: 'HDR'
-UI_HUD: 'Intrare nouă în glosar'
-UI_HUD_Experience: 'Experienţă'
-UI_HUD_Exp: 'Exp'
-Text_MoveForward: 'Mers în față'
-Text_MoveBack: 'Mers înapoi'
-Text_MoveLeft: 'Mers în stânga'
-Text_MoveRight: 'Mers în dreapta'
-Text_Attack1: 'Atac 1'
-Text_Attack2: 'Atac 2'
-Text_Attack3: 'Atac 3'
-Text_Attack4: 'Atac 4'
-Text_Attack5: 'Atac 5'
-Text_Block: 'Blochează/Parează'
-Text_CancelThrow: 'Anulează aruncarea'
-Text_Combat: 'Luptă'
-Text_Dodge: 'Eschivă'
-Text_Draw: "Scoate arma \n[Hold] Scoate arma de distanță\n"
-Text_DrawMelee: 'Scoate arma'
-Text_DropTorch: 'Aruncă Torța'
-Text_DrawRanged: 'Scoate Arma de distanţă'
-Text_Exploration: 'Explorare'
-Text_Hold: 'Ține'
-Text_Interact: 'Interacționează'
-Text_Interact1: 'Interacțiunea principală'
-Text_Interact2: 'Interacțiune secundară'
-Text_Inventory: 'Stoc'
-Text_JumpClimb: 'Sari/Urci'
-Text_Crouch: 'Ghemuire'
-Text_Jump: 'Salt'
-Text_Kick: 'Lovește'
-Text_Lock: 'Blochează Ținta'
-Text_ChangeObjective: 'Schimbă obiectivul'
-Text_Look: 'Privește'
-Text_Move: 'Mișcă'
-Text_PauseMenu: 'Meniu pauză'
-Text_QuickAccess: 'Articole cu acces rapid'
-Text_SelectThrow: 'Selectați Aruncarea articolului rapid'
-Text_Roll: 'Rostogolire'
-Text_Sneak: 'Intră/Ieși pe furiș'
-Text_Walk: 'Comutați pe mers'
-Text_Sprint: '[Click] Comutați pe alergare'
-Text_Throw: 'Aruncă obiectul'
-Text_ToggleQuick: 'Comutați Accesul rapid'
-Text_UseQuick: 'Utilizează articol rapid'
-Text_Dive: 'Scufundare'
-Text_Surface: 'Înoată spre suprafață'
-Text_Cast: 'Vrajă'
-Text_LaunchSpell: 'Dăi cu vraja'
-Text_SkipDialogue: 'Omite dialogul'
-Text_Aim: 'Țintește'
-Text_Mouse: 'Mouse'
-UI_Profile_LastSave: 'Ultima salvare'
-UI_Profile_SaveTime: 'Timpul salvării'
-UI_Profile_TimePlayed: 'Timp jucat'
-UI_Profile_Chapter: 'Capitol'
-UI_Profile_Difficulty: 'Dificultate'
-UI_Profile_SelectProfile: 'Selectați Profil'
-UI_Profile_Delete: 'Delete'
-UI_Profile: 'Profil nou'
-UI_Profile_Profile1: 'Profil 1'
-UI_Profile_Profile2: 'Profil 2'
-UI_Profile_Profile3: 'Profil 3'
-UI_Profile_Profile4: 'Profil 4'
-UI_Profile_ModalDeleteProfile: 'Sigur doriți să ștergeți acest profil și toate salvările
-  jocului asociate?'
-UI_Profile_ModalDeleteProfileTitle: 'Ștergeți profilul'
-UI_Profile_ModalDeleteSaveTitle: 'Ștergeți salvarea'
-UI_Profile_ModalDeleteSaveGame: 'Sigur doriți să ștergeți această salvare de joc?'
-UI_Profile_ModalNoMoreProfiles: 'Nu mai există sloturi de profil disponibile. Ștergeți
-  slotul existent pentru a crea unul nou.'
-UI_Profile_ModalNameInUse: 'Acest nume este deja folosit.'
-UI_Profile_ModalNameEmpty: 'Câmpul numelui nu poate fi gol.'
-UI_Profile_ModalError: 'A apărut o eroare.'
-UI_Profile_DefaultSaveFileName: '{location}, Day {day}, {hours}:{minutes}'
-UI_Difficulty_SelectDifficulty: 'Selectați Dificultate'
-UI_Difficulty_Easy: 'Uşor'
-UI_Difficulty_EasyDescription: 'Adăugați aici o descriere pentru dificultatea ușoară'
-UI_Difficulty_Standard: 'Standard'
-UI_Difficulty_StandardDescription: 'Add a description for the standard difficulty
-  here'
-UI_Difficulty_Hard: 'Greu'
-UI_Difficulty_HardDescription: 'Add a description for the hard difficulty here'
-UI_Difficulty_Custom: 'Personalizat'
-UI_Difficulty_CustomDescription: 'Add a description for the custom difficulty here'
-UI_Difficulty_Start: 'Începe jocul'
-UI_Difficulty_CombatLabel: 'Luptă'
-UI_Difficulty_ResourcesLabel: 'Resurse'
-UI_Difficulty_ProgressionLabel: 'Progres'
-UI_Difficulty_CombatTooltip: 'Indicator pentru luptă'
-UI_Difficulty_ResourcesTooltip: 'Indicator de resurse'
-UI_Difficulty_ProgressionTooltip: 'Indicator de progres'
-UI_Settings_Reset: 'Reset'
-UI_Settings_Game: 'Joc'
-UI_Settings_CameraPreset: 'Camera presetată'
-UI_Settings_CameraPreset_Default: 'Implicit'
-UI_Settings_CameraPreset_Classic: 'Clasic'
-UI_Settings_TextLanguage: 'Limba textului'
-UI_Settings_AudioLanguage: 'Limba vocilor'
-UI_Settings_Language_English: 'Engleza'
-UI_Settings_Language_German: 'Germana'
-UI_Settings_Language_Polish: 'Poloneza'
-UI_Settings_Language_Russian: 'Rusa'
-UI_Settings_Language_Spanish: 'Spaniola'
-UI_Settings_Language_French: 'Franceza'
-UI_Settings_Language_Italian: 'Italana'
-UI_Settings_Language_Chinese: 'Chineza'
-UI_Settings_Language_Korean: 'Coreana'
-UI_Settings_Language_Japanese: 'Japoneza'
-UI_Settings_ObjectsOutliner: 'Conturul obiectelor'
-UI_Settings_ObjectsOutliner_Default: 'Implicit'
-UI_Settings_ObjectsOutliner_Low: 'Scăzut'
-UI_Settings_ObjectsOutliner_No: 'Fals'
-UI_Settings_Subtitles: 'Subtitrări'
-UI_Settings_SubtitleStyle: 'Dimensiunea subtitrărilor'
-UI_Settings_SubtitleSize_Default: 'Implicit'
-UI_Settings_SubtitleSize_Larger: 'Mai mare'
-UI_Settings_AimScalar: 'Viteza de ochire'
-UI_Settings_AutoCloseChests: 'Auto-închiderea cuferelor'
-UI_Settings_AutoCloseChests_Description: 'Dacă această setare este activată, cuferele
-  se vor închide automat atunci când este utilizată opțiunea „ia toate”. În caz contrar,
-  cufărul va rămâne deschis până când este închis manual.'
-UI_Settings_InvertXAxis: 'Inversați axa X'
-UI_Settings_InvertYAxis: 'Inversați axa Y'
-UI_Settings_RightStickSensitivity: 'Sensibilitatea stick-ului drept'
-UI_Settings_LeftStickSensitivity: 'Sensibilitatea stick-ului stâng'
-UI_Settings_Vibration: 'Vibrație'
-UI_Settings_ButtonGraphics: 'Grafica butoanelor'
-UI_Settings_Display: 'Display'
-UI_Settings_DisplayMode: 'Modul de afișare'
-UI_Settings_DisplayMode_Windowed: 'În ferestre'
-UI_Settings_DisplayMode_Borderless: 'Fără margini'
-UI_Settings_DisplayMode_Fullscreen: 'Fullscreen'
-UI_Settings_Resolution: 'Rezoluţie'
-UI_Settings_DynamicResolution: 'Rezoluție dinamică'
-UI_Settings_VSync: 'VSync'
-UI_Settings_FrameRateLimit: 'Limită de frecvență a cadrelor'
-UI_Settings_FrameRateLimit_Unlimited: 'Nelimitat'
-UI_Settings_Gamma: 'Gamma'
-UI_Settings_Graphics: 'Grafică'
-UI_Settings_FOV: 'Câmp de vedere'
-UI_Settings_DepthOfField: 'Adâncimea câmpului'
-UI_Settings_MotionBlurIntensity: 'Intensitatea blurului de mișcare'
-UI_Settings_MotionBlurIntensity_Description: 'Intensitatea efectului de estompare
-  a mișcării. Valorile mai mari vor avea ca rezultat un efect de estompare mai intens
-  atunci când mișcați rapid camera.'
-UI_Settings_BloomIntensity: 'Intensitatea înfloririi'
-UI_Settings_BloomIntensity_Description: 'Intensitatea efectului de înflorire. Valorile
-  mai mari vor avea ca rezultat o strălucire mai intensă în jurul obiectelor luminoase.'
-UI_Settings_AmbientOcclusionIntensity: 'Intensitatea ocluziei ambientale'
-UI_Settings_AmbientOcclusionIntensity_Description: 'Intensitatea efectului de ocluzie
-  ambientală. Valorile mai mari vor avea ca rezultat umbre mai pronunțate în colțuri
-  și crăpături.'
-UI_Settings_AntiAliasing: 'Anti-aliasing'
-UI_Settings_ColorSaturation: 'Saturaţie'
-UI_Settings_ColorSaturation_Description: 'Intensitatea culorii (nuanța) pentru întreaga
-  imagine. Valorile mai mari vor avea ca rezultat culori mai vibrante.'
-UI_Settings_ColorContrast: 'Contrast'
-UI_Settings_ColorContrast_Description: 'Gama de valori de lumină și întuneric din
-  scena ta. Valorile mai mici vor reduce diferența dintre zonele luminoase și cele
-  întunecate, în timp ce valorile mai mari vor crește diferența.'
-UI_Settings_ColorBrightness: 'Luminozitate'
-UI_Settings_ColorBrightness_Description: 'Creșterea sau scăderea acestei valori va
-  duce la luminarea sau întunecarea întregii scene.'
-UI_Settings_OverallQuality: 'Calitate prestabilită'
-UI_Settings_Quality_Low: 'Scăzut'
-UI_Settings_Quality_Medium: 'Mediu'
-UI_Settings_Quality_High: 'Ridicat'
-UI_Settings_Quality_Epic: 'Gothic'
-UI_Settings_Quality_Cinematic: 'Alkimia Overdose'
-UI_Settings_Quality_Custom: 'Personalizat'
-UI_Settings_Quality_Recommended: 'Recomandat'
-UI_Settings_ResolutionQuality: 'Calitatea rezoluției'
-UI_Settings_ResolutionQuality_Description: 'Reglați calitatea rezoluției pentru a
-  îmbunătăți performanța sau calitatea vizuală.'
-UI_Settings_ViewDistanceQuality: 'Vizualizați calitatea distanței'
-UI_Settings_AntiAliasingQuality: 'Calitatea Anti-aliasing'
-UI_Settings_ShadowQuality: 'Calitatea umbrei'
-UI_Settings_GlobalIlluminationQuality: 'Calitatea Global illumination'
-UI_Settings_ReflectionQuality: 'Calitatea reflexiei'
-UI_Settings_PostProcessingQuality: 'Calitate post-procesare'
-UI_Settings_TextureQuality: 'Calitatea texturii'
-UI_Settings_EffectsQuality: 'Calitatea efectelor'
-UI_Settings_FoliageQuality: 'Calitatea foliage'
-UI_Settings_ShadingQuality: 'Calitatea umbririi'
-UI_Settings_LandscapeQuality: 'Calitatea peisajului'
-UI_Settings_Sound: 'Sunet'
-UI_Settings_MasterVolume: 'Volumul principal'
-UI_Settings_MusicVolume: 'Volumul muzicii'
-UI_Settings_SFXVolume: 'Volumul SFX'
-UI_Settings_VoiceVolume: 'Ai dormit și te simți odihnit.'
-UI_SleepEndedMessage_Default_2: 'Ai dormit și te simți bine (text alternativ)'
-UI_SleepEndedMessage_StrangeDreams_1: 'Ai dormit dar ai avut vise ciudate.'
-UI_SleepEndedMessage_StrangeDreams_2: 'Ai dormit dar ai visat urât (text alternativ)'
+UI_Tabs_Buy: Cumpăra
+UI_Tabs_Glossary: Glosar
+UI_Tabs_Inventory: Stocuri
+UI_Tabs_Map: Hărți
+UI_Tabs_Quests: Misiuni
+UI_Tabs_Sell: Vinde
+UI_Tabs_Stats: Atribute
+UI_Trading_Balance: Balanță
+UI_Trading_MyInventory: Stocul meu
+UI_Trading_Remove: Elimină
+UI_Trading_SellBuy: Adăugați la coadă
+UI_Trading_SellerInventory: Stocul vânzătorului
+UI_death_GameOver: Joc încheiat
+UI_death_MainMenu: Meniul principal
+UI_death_Revive: Reînvie
+UI_death_ReviveLeft: Reînvieri rămase

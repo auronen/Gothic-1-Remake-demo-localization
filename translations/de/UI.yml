@@ -1,8 +1,309 @@
-UI_Profile_ChapterNyras: Nyras
-UI_Settings_Disclaimer: Weitere Spieleinstellungen, darunter Anzeigeoptionen für UI
-  und HUD, werden in der Vollversion des Spiels verfügbar sein.
-UI_Settings_ResolutionDisclaimer: Bitte beachte, dass die Grafik Voreinstellung Alkimia
-  Overdose möglicherweise nur auf sehr starker Hardware funktioniert.
+GE_Param_Duration: Dauer
+GE_Param_Heal: Heilen
+GE_Param_Mana: Mana
+Item_Damage_Elemental_Fire: Feuerschaden
+Item_Damage_Physical_Blunt: Stumpfer Schaden
+Item_Damage_Physical_Edge: Klingenschaden
+Item_Damage_Physical_Point: Stichschaden
+TEXT_BACK: Zurück
+TEXT_DIALOG_END: Ende.
+Text_Aim: Zielen
+Text_Attack1: Attacke 1
+Text_Attack2: Attacke 2
+Text_Attack3: Attacke 3
+Text_Attack4: Attacke 4
+Text_Attack5: Attacke 5
+Text_Block: Blockieren/Parieren
+Text_Button_Back: Zurück
+Text_Cancel: Abbrechen
+Text_CancelThrow: Werfen abbrechen
+Text_Cast: Zauber wirken
+Text_ChangeObjective: Ziel wechseln
+Text_Close: Schließen
+Text_Combat: Kampf
+Text_Compare: Vergleichen
+Text_Confirm: Bestätigen
+Text_Consume: Verbrauchen
+Text_Continue: Fortfahren
+Text_Crouch: Ducken
+Text_CycleHint: Nächster Tipp
+Text_Days: Tag(e)
+Text_Dive: Tauchen
+Text_DocumentMinimize: Minimieren
+Text_Dodge: Ausweichen
+Text_Draw: 'Ziehen/Wegstecken einer Nahkampfwaffe
+
+  [Halten] Ziehen/Wegstecken einer Fernkampfwaffe
+
+  '
+Text_DrawMelee: Ziehen/Wegstecken einer Nahkampfwaffe
+Text_DrawRanged: Ziehen/Wegstecken einer Fernkampfwaffe
+Text_Drop: '[Halten] Fallen lassen'
+Text_DropTorch: Fackel fallenlassen
+Text_Equip: Ausrüsten
+Text_Equipped: Ausgerüstet
+Text_Exploration: Erkundung
+Text_FilterAll: Alle
+Text_FilterArtefacts: Artefakte
+Text_FilterCompleted: Abgeschlossen
+Text_FilterCreatures: Kreaturen
+Text_FilterDocuments: Dokumente
+Text_FilterFood: Nahrung
+Text_FilterHiddenCamp: Verstecktes Lager
+Text_FilterItems: Items
+Text_FilterLocations: Orte
+Text_FilterMagic: Magie
+Text_FilterMaterials: Materialien
+Text_FilterMelee: Nahkampf
+Text_FilterMiscellaneous: Krimskrams
+Text_FilterNewCamp: Neues Lager
+Text_FilterOldCamp: Altes Lager
+Text_FilterOutsiders: Außenseiter
+Text_FilterPotions: Tränke
+Text_FilterRanged: Fernkampf
+Text_FilterSwampCamp: Sumpflager
+Text_FilterWearables: Kleidung
+Text_FilterWorld: Minental
+Text_From: 'Von:'
+Text_Hold: Halten
+Text_HoldAccept: '[Halten] Annehmen'
+Text_Hours: Std.
+Text_Interact: Interagieren
+Text_Interact1: Primäre Interaktion
+Text_Interact2: Sekundäre Interaktion
+Text_Inventory: Inventar
+Text_Jump: Springen
+Text_JumpClimb: Springen/Klettern
+Text_Kick: Tritt
+Text_LaunchSpell: Zauber abfeuern
+Text_Lock: Ziel anvisieren
+Text_LockpickMoveHorizontal: Nach links/rechts bewegen
+Text_LockpickMoveVertical: Nach oben/unten bewegen
+Text_LockpickSkillRequired: Du musst Schlösser knacken erlernt haben.
+Text_LockpickToolRequired: Ein Dietrich wird benötigt.
+Text_Look: Umschauen
+Text_LootAll: Alle nehmen
+Text_LootChest: Truhe
+Text_LootCorpse: Leiche
+Text_LootInventory: Inventar
+Text_LootStore: Gegenstand lagern
+Text_LootSwitchSection: Fokus wechseln
+Text_LootTake: Nehmen
+Text_Max_Uppercase: MAX.
+Text_Minutes: Min.
+Text_Mouse: Maus
+Text_Move: Bewegen
+Text_MoveBack: Rückwärts
+Text_MoveForward: Vorwärts
+Text_MoveLeft: Links
+Text_MoveRight: Rechts
+Text_No: Nein
+Text_OpenChest: Truhe öffnen
+Text_OpenDoor: Tür öffnen
+Text_OpenGlossary: Glossar öffnen
+Text_OpenMenu: Menü öffnen
+Text_PauseMenu: Pausen Menü
+Text_QuickAccess: Schnellauswahl Gegenstände
+Text_Read: Lesen
+Text_Reset: Zurücksetzen
+Text_Restart: Neu starten
+Text_Resume: Fortsetzen
+Text_Roll: Rollen
+Text_SaveChanges: Änderungen speichern
+Text_Seconds: Sek.
+Text_Select: Auswählen
+Text_SelectThrow: Auswählen eines Wurf-Items
+Text_SkipDialogue: Dialog überspringen
+Text_SleepFor: 'Schlafen für:'
+Text_Sneak: Schleichmodus Ein/Aus
+Text_Sprint: '[Drücken] Sprint umschalten'
+Text_Start: START
+Text_Surface: Nach oben schwimmen
+Text_Throw: Gegenstand werfen
+Text_To: 'An:'
+Text_ToggleQuick: Schnellauswahl anzeigen
+Text_TradeAccept: Annehmen
+Text_TradeCancel: Abbrechen
+Text_Unequip: Ablegen
+Text_UseQuick: Schnellauswahl-Gegenstand benutzen
+Text_Walk: Bewegungsmodus Umschalten
+Text_Yes: Ja
+UI_ArmourCustomization_ArmorAlterations: Rüstungsanpassungen
+UI_ArmourCustomization_Equip: Ausrüsten
+UI_ArmourCustomization_Equipped: A
+UI_ArmourCustomization_Legs: Beine
+UI_ArmourCustomization_Purchase: '[Halten] Kaufen'
+UI_ArmourCustomization_Torso: Oberkörper
+UI_ArmourCustomization_Unequip: Ablegen
+UI_ArmourCustomization_Waist: Hüfte
+UI_Attribute_Atributes: Attribute
+UI_Attribute_Dexterity: Geschicklichkeit
+UI_Attribute_Dexterity_Tooltip: Geschicklichkeit steht für deine Körperbeherrschung,
+  deine Balance und deine Kontrolle über deinen Körper. Sie bestimmt, welche Fernkampfwaffen
+  du einsetzen kannst, und verbessert die Effektivität deiner Fernkampfangriffe sowie
+  deine Erfolgschance beim Taschendiebstahl.
+UI_Attribute_Health: Lebenspunkte
+UI_Attribute_Health_Tooltip: Lebenspunkte stellen deine physische Konstitution dar.
+  Je mehr Lebenspunkte du hast, desto mehr Schaden hältst du aus, bevor du zu Boden
+  gehst. Mit zunehmender Erfahrung steigen deine Lebenspunkte, sodass du immer stärkeren
+  Gegnern standhalten kannst.
+UI_Attribute_MagicCircle: Magischer Kreis
+UI_Attribute_MagicCircle_Tooltip: Magische Kreise stehen für die Weisheit eines Magiers
+  und sein Wissen um die arkanen Künste. Wenn du in den Kreisen aufsteigst, erhältst
+  du Zugang zu immer komplexeren und mächtigeren Zaubern, die deine magischen Fähigkeiten
+  erweitern.
+UI_Attribute_Mana: Mana
+UI_Attribute_Mana_Tooltip: Mana ermöglicht dir den Einsatz magischer Fähigkeiten.
+  Mana wird beim Wirken von Zaubern verbraucht und regeneriert sich nicht von selbst.
+  Du musst also rasten und Gegenstände verbrauchen, um es aufzufüllen.
+UI_Attribute_Strength: Stärke
+UI_Attribute_Strength_Tooltip: Stärke steht für deine körperliche Kraft. Je größer
+  deine Stärke, desto mächtigere Waffen kannst du schwingen und desto mehr Schaden
+  verursachen deine Nahkampfangriffe.
+UI_Attribute_Toughness: Zähheit
+UI_Attribute_Toughness_Tooltip: Zähheit ist deine Fähigkeit, Belastungen zu ertragen.
+  Je zäher du bist, desto mehr Gegenstände kannst du tragen. Wenn du zu viel Gewicht
+  trägst, wirst du in deiner Bewegung eingeschränkt, also verwalte dein Inventar mit
+  Bedacht.
+UI_CantSave_Notification: Stumpfer Schaden
+UI_Crafting_CoolingDownItem: Gegenstand abkühlen
+UI_Crafting_Cost: Kosten
+UI_Crafting_ForgingItem: Gegenstand schmieden
+UI_Crafting_GoToAnvil: Geh zum Amboss
+UI_Crafting_GoToWaterBarrel: Geh zum Wasserfass
+UI_Crafting_HasMaterials: Material vorhanden
+UI_Crafting_InProgress: Rezept wird vorbereitet ...
+UI_Crafting_MenuTitle_Alchemy: Alchemietisch
+UI_Crafting_MenuTitle_Cauldron: Kessel
+UI_Crafting_MenuTitle_Forge: Schmiede
+UI_Crafting_MenuTitle_Inscription: Schreibertisch
+UI_Crafting_MenuTitle_Pan: Pfanne
+UI_Crafting_MenuTitle_Whetstone: Schleifstein
+UI_Crafting_MenuTitle_Workbench: Werkbank
+UI_Crafting_PanCook: In Pfanne braten
+UI_Crafting_Quantity: 'Menge:'
+UI_Crafting_Scrap: '[Halten] Zerlegen'
+UI_Crafting_Section: Abschnitt
+UI_Crafting_ShapingItem: Gegenstand formen
+UI_Crafting_Start: '[Halten] Herstellen'
+UI_Demo_CheatCode: Leute, das ist eine Demo! Ihr werdet doch in der Demo keinen Marvin-Modus
+  brauchen?! Im vollen Spiel könnt ihr damit aber auf den Putz hauen!
+UI_Demo_Gratitude: Danke, dass du diese Demo gespielt hast!
+UI_Demo_Gratitude_Follow: 'Folge uns:'
+UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
+UI_Demo_Gratitude_QR: 'Gib uns gerne Feedback unter:'
+UI_Difficulty_CombatLabel: Kampf
+UI_Difficulty_CombatTooltip: ''
+UI_Difficulty_Custom: Individuell
+UI_Difficulty_CustomDescription: ''
+UI_Difficulty_Easy: Leicht
+UI_Difficulty_EasyDescription: ''
+UI_Difficulty_Hard: Schwer
+UI_Difficulty_HardDescription: ''
+UI_Difficulty_ProgressionLabel: Progression
+UI_Difficulty_ProgressionTooltip: ''
+UI_Difficulty_ResourcesLabel: Ressourcen
+UI_Difficulty_ResourcesTooltip: ''
+UI_Difficulty_SelectDifficulty: Schwierigkeit auswählen
+UI_Difficulty_Standard: Standard
+UI_Difficulty_StandardDescription: ''
+UI_Difficulty_Start: Spiel starten
+UI_Disclaimer: Diese Demo ist ein eigenständiges Prequel, das einige der wichtigsten
+  Funktionen des Gothic 1 Remakes vorstellt. Bitte beachte, dass sich das Spiel noch
+  in der Entwicklung befindet und daher Bugs und Glitches enthalten kann. Die Vollversion
+  des Spiels bleibt der Story, dem Aufbau und dem Stil des ursprünglichen Gothic treu
+  und wird natürlich die Geschichte des namenlosen Helden als Protagonisten erzählen.
+UI_EnterNameHere: 'Gib einen Namen ein (zB Namenlos):'
+UI_Fighting_Bow: Bogen
+UI_Fighting_Bow_Master_Tooltip: Du beherrschst den Bogen meisterhaft. Deine kritischen
+  Treffer sind verheerend für deine Gegner, und die Schnelligkeit und Präzision deiner
+  Schüsse überwältigt sie.
+UI_Fighting_Bow_Tooltip: Deine Fähigkeiten im Umgang mit dem Bogen bestimmen über
+  deine Schießkünste, vom einfachen Zielen bis hin zu präzisen, schnellen Schüssen.
+UI_Fighting_Bow_Trained_Tooltip: Durch das Training haben sich deine Bogenfähigkeiten
+  verbessert. Du kannst jetzt viel schneller Pfeile einlegen und mit dem Bogen zielen,
+  und deine erhöhte Präzision ermöglicht kritische Treffer.
+UI_Fighting_Bow_Untrained_Tooltip: Du bist untrainiert. Du kannst einen Bogen halten,
+  aber das Zielen fällt dir schwer und das Spannen der Sehne und Einlegen von Pfeilen
+  fühlt sich umständlich an.
+UI_Fighting_Crossbow: Armbrust
+UI_Fighting_Crossbow_Master_Tooltip: Du bist ein Meister mit der Armbrust. Kritische
+  Treffer fallen dir leichter, jeder Schuss weist eine unübertroffene Präzision auf
+  und deine geschickten Hände laden die Bolzen schnell nach.
+UI_Fighting_Crossbow_Tooltip: Die Beherrschung der Armbrust spiegelt deine Fernkampffähigkeiten
+  wider, die sich von der einfachen Handhabung bis zu schnellen und präzisen Schüssen
+  weiterentwickeln.
+UI_Fighting_Crossbow_Trained_Tooltip: Mit genug Training verbessern sich deine Fähigkeiten
+  im Umgang mit der Armbrust. Du lädst schneller nach, kannst ruhiger zielen und deine
+  kritischen Treffer werden zu einer echten Gefahr.
+UI_Fighting_Crossbow_Untrained_Tooltip: Du bist untrainiert. Du kannst eine Armbrust
+  führen, aber deine unruhige Hand könnte das Zielen erschweren, und das Nachladen
+  ist langsam und mühselig.
+UI_Fighting_Fighting: Kampf
+UI_Fighting_OneHanded: Einhand
+UI_Fighting_OneHanded_Master_Tooltip: Ein Meister des einhändigen Kampfes ist nicht
+  zu unterschätzen. Deine Chance auf kritische Treffer ist erhöht und du kannst Gegner
+  zurückstoßen. Das Parieren geht dir in Fleisch und Blut über und ermöglicht starke
+  Gegenangriffe.
+UI_Fighting_OneHanded_Tooltip: Dein Können im Umgang mit Einhandwaffen bestimmt deine
+  Kampfeffizienz, von einfachen Schwüngen bis hin zu fließenden und meisterhaften
+  Kombinationen.
+UI_Fighting_OneHanded_Trained_Tooltip: Mit etwas Training werden deine Bewegungen
+  fließender und Angriffskombinationen sowie geschickte Paraden möglich. Du kannst
+  kritische Treffer landen und Angriffe mittendrin abbrechen.
+UI_Fighting_OneHanded_Untrained_Tooltip: Du bist untrainiert. Du kannst eine Waffe
+  führen. Erwarte aber keine Finesse. Kombos und Paraden übersteigen deine Möglichkeiten.
+UI_Fighting_TwoHanded: Zweihand
+UI_Fighting_TwoHanded_Master_Tooltip: Als Meister des Zweihandkampfes verfügst du
+  über beeindruckende Fähigkeiten. Kritische Treffer werden häufiger, Paraden ermöglichen
+  Gegenschläge und deine mächtigen Schwünge können Gegner zurückstoßen und ins Taumeln
+  bringen.
+UI_Fighting_TwoHanded_Tooltip: Deine Fähigkeiten mit Zweihandwaffen bestimmen über
+  deine Möglichkeiten im Kampf – von rohen Schlägen bis hin zu grazilen und überwältigenden
+  Kombinationen.
+UI_Fighting_TwoHanded_Trained_Tooltip: Mit zunehmender Übung fällt dir die Kontrolle
+  über zweihändige Waffen leichter, sodass du mächtige Kombinationen und gekonnte
+  Paraden ausführen kannst. Kritische Treffer werden möglich und du erhältst die Fähigkeit,
+  Angriffe abzubrechen.
+UI_Fighting_TwoHanded_Untrained_Tooltip: Du bist untrainiert. Du kannst eine Zweihandwaffe
+  führen, aber ihr volles Potenzial entzieht sich dir. Kombos und Paraden übersteigen
+  deine Möglichkeiten und deine Angriffe sind simpel und grobschlächtig.
+UI_GameOver_ModalMainMenu: Bist du sicher, dass du ins Hauptmenü zurück möchtest?
+UI_GameSaved_Notification: ''
+UI_Glossary_NoEntriesAvailable: Keine Glossareinträge verfügbar
+UI_HUD: Neuer Glossar Eintrag
+UI_HUD_Exp: XP
+UI_HUD_Experience: Erfahrung
+UI_HUD_SwitchWheel: Rad wechseln
+UI_Inventory_Bow: Bogen
+UI_Inventory_Crossbow: Armbrust
+UI_Inventory_Description: Beschreibung
+UI_Inventory_EquippedSlot: In Slot ausgerüstet
+UI_Inventory_Food: Nahrung
+UI_Inventory_OneHanded: Einhandwaffe
+UI_Inventory_Open: Inventar öffnen
+UI_Inventory_Requirements: 'Voraussetzung:'
+UI_Inventory_ThousandsAbbreviation: tsd
+UI_Inventory_TwoHanded: Zweihandwaffe
+UI_Lessons: Lektionen
+UI_Lessons_Acrobatics: Akrobatik
+UI_Lessons_Sneaking: Schleichen
+UI_LoadSave: Neuer Spielstand
+UI_LoadSave_Load: Laden
+UI_LoadSave_LoadGame: Spiel laden
+UI_LoadSave_Manual: Manuell
+UI_LoadSave_Save: Speichern
+UI_LoadSave_SaveGame: Spiel speichern
+UI_LoadingScreen_ChapterFormat: Kapitel {ChapterNumber}
+UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
+UI_Loadingscreen_Chapter1Text: ''
+UI_Loadingscreen_Chapter1Title: Die Welt der Verurteilten
+UI_Loadingscreen_Chapter2Text: ''
+UI_Loadingscreen_Chapter2Title: Das Nest der Minecrawler
+UI_Loadingscreen_Chapter3Title: Artefakte von uralter Macht
+UI_Loadingscreen_Chapter4Title: Xardas
+UI_Loadingscreen_Chapter5Title: Die Hüter des Portals
+UI_Loadingscreen_Chapter6Title: Die Hallen des Schläfers
 UI_Loadingscreen_Hint1: Der Namenlose Held kann in dieser Demo leider nicht gespielt
   werden.
 UI_Loadingscreen_Hint2: Gothic ist ein Open World RPG...ach ihr wisst schon was Gothic
@@ -14,11 +315,209 @@ UI_Loadingscreen_Hint4: Die Gemeinschaft der Gothic Fans ist groß! Komm doch zu
 UI_Loadingscreen_Hint5: Alles wird gut...
 UI_Loadingscreen_Hint6: Nur für diese Demo haben wir eine Wiederbeleben Funktion eingebaut.
   Das volle Spiel hat das nicht mehr, dafür aber ein Speichern und Laden System
-UI_Disclaimer: Diese Demo ist ein eigenständiges Prequel, das einige der wichtigsten
-  Funktionen des Gothic 1 Remakes vorstellt. Bitte beachte, dass sich das Spiel noch
-  in der Entwicklung befindet und daher Bugs und Glitches enthalten kann. Die Vollversion
-  des Spiels bleibt der Story, dem Aufbau und dem Stil des ursprünglichen Gothic treu
-  und wird natürlich die Geschichte des namenlosen Helden als Protagonisten erzählen.
+UI_Loadingscreen_HintsHeadline: Tipps
+UI_Loadingscreen_Loading: Laden...
+UI_Loadingscreen_PressKeytoCtn: Beliebige Taste drücken, um fortzufahren
+UI_Main_Credits: Credits
+UI_Main_Load: Laden
+UI_Main_NewGame: Neues Spiel
+UI_Main_Quit: Verlassen
+UI_Main_QuitGame: Spiel verlassen
+UI_Main_QuitModal: Du möchtest Gothic wirklich verlassen?
+UI_Main_Settings: Einstellungen
+UI_Main_Singleplayer: Einzelspieler
+UI_Notification: Kapitel {ChapterNumber}
+UI_Notification_AreaDiscovered: Neues Gebiet entdeckt
+UI_Notification_ExperienceGainedFormat: '{Amount} XP'
+UI_Notification_GlossaryUpdatedFormat: 'Glossar aktualisiert: {EntryName}'
+UI_Notification_KeyUsedFormat: 'Schlüssel verwendet: {KeyName}'
+UI_Notification_LevelUp: Stufenaufstieg
+UI_Notification_ShowMore: Mehr Anzeigen
+UI_Notification_SkillIncreasedFormat: 'Fähigkeit verbessert: {SkillName}'
+UI_Notification_SkillLearnedFormat: 'Fähigkeit erlernt: {SkillName}'
+UI_Profile: Neues Profil
+UI_Profile_Chapter: Kapitel
+UI_Profile_ChapterNyras: Nyras
+UI_Profile_DefaultSaveFileName: '{location}, Tag {day}, {hours}:{minutes}'
+UI_Profile_Delete: Löschen
+UI_Profile_Difficulty: Schwierigkeitsgrad
+UI_Profile_LastSave: Letzter Speicherstand
+UI_Profile_ModalDeleteProfile: Bist du sicher, dass du dieses Profil und alle verknüpften
+  Speicherstände zu den Ratten schicken möchtest?
+UI_Profile_ModalDeleteProfileTitle: Profil löschen
+UI_Profile_ModalDeleteSaveGame: Willst du wirklich diesen Spielstand löschen?
+UI_Profile_ModalDeleteSaveTitle: Save löschen
+UI_Profile_ModalError: Ein Fehler ist aufgetreten
+UI_Profile_ModalNameEmpty: Das Namensfeld kann nicht leer sein
+UI_Profile_ModalNameInUse: Diesen Namen gibt es schon.
+UI_Profile_ModalNoMoreProfiles: Es gibt keine weiteren freien Profil-Slots. Lösche
+  einen existierenden, um ein neues Profil zu erstellen.
+UI_Profile_Profile1: Profil 1
+UI_Profile_Profile2: Profil 2
+UI_Profile_Profile3: Profil 3
+UI_Profile_Profile4: Profil 4
+UI_Profile_SaveTime: Speicherzeit
+UI_Profile_SelectProfile: Profil auswählen
+UI_Profile_TimePlayed: Gespielte Zeit
+UI_Protection_Arrows: Pfeile
+UI_Protection_Arrows_Tooltip: Bietet Schutz gegen die durchbohrenden Spitzen von Pfeilen
+  und Bolzen.
+UI_Protection_Fire: Feuer
+UI_Protection_Fire_Tooltip: Schützt vor der intensiven Hitze der Flammen und sorgt
+  dafür, dass du Feuerangriffen und -gefahren besser standhalten kannst.
+UI_Protection_Magic: Magie
+UI_Protection_Magic_Tooltip: Stärkt deine Verteidigung gegen die Mächte des Arkanen.
+  Dieser Schutz mildert ihre Wirkung, ob frostiger Eiszauber oder donnernder Schock.
+UI_Protection_Physical: Physisch
+UI_Protection_Physical_Tooltip: Bietet Schutz sowohl gegen die scharfen Klingen von
+  Schwertern und Äxten als auch die verheerenden Hiebe von Streitkolben. Die Wirkung
+  von direkten physischen Angriffen wird minimiert.
+UI_Protection_Protection: Schutz
+UI_Quests: Neue Quest
+UI_Quests_Complete: Quest abgeschlossen
+UI_Quests_DateFormat: Vor {days} Tagen
+UI_Quests_DateTimeFormat: '{date}, {time}'
+UI_Quests_DateToday: Heute
+UI_Quests_DateYesterday: Gestern
+UI_Quests_Log: Log
+UI_Quests_NoQuestsAvailable: Keine Quests verfügbar
+UI_Quests_Objectives: Ziele
+UI_Quests_QuestFailed: Quest gescheitert
+UI_Quests_QuestUpdatedFormat: „{quest}” aktualisiert
+UI_Quests_TimeFormat: '{hours}:{minutes}'
+UI_Quests_Update: Quest aktualisiert
+UI_Settings_AimScalar: Geschwindigkeit beim Anvisieren
+UI_Settings_AmbientOcclusionIntensity: Umgebungsverdeckung-Intensität
+UI_Settings_AmbientOcclusionIntensity_Description: Die Intensität des Umgebungsverdeckung-Effekts.
+  Höhere Werte sorgen für ausgeprägtere Schatten in Ecken und Spalten.
+UI_Settings_AntiAliasing: Anti-Aliasing
+UI_Settings_AntiAliasingQuality: Anti-Aliasing-Qualität
+UI_Settings_Audio: Audio
+UI_Settings_AudioLanguage: Audiosprache
+UI_Settings_AutoCloseChests: Truhen automatisch schließen
+UI_Settings_AutoCloseChests_Description: Wenn diese Option aktiviert ist, schließen
+  sich Truhen automatisch, wenn die Option „Alles nehmen“ verwendet wird. Andernfalls
+  bleibt die Truhe geöffnet, bis sie manuell geschlossen wird.
+UI_Settings_BloomIntensity: Blooming-Intensität
+UI_Settings_BloomIntensity_Description: Die Intensität des Blooming-Effekts. Höhere
+  Werte sorgen für ein intensiveres Leuchten um helle Objekte herum.
+UI_Settings_Brightness: Helligkeit
+UI_Settings_ButtonGraphics: Tastenanzeige
+UI_Settings_CameraPreset: Kameravoreinstellung
+UI_Settings_CameraPreset_Classic: Klassisch
+UI_Settings_CameraPreset_Default: Standard
+UI_Settings_CameraSentivity: Kameraempfindlichkeit
+UI_Settings_ColorBrightness: Helligkeit
+UI_Settings_ColorBrightness_Description: Durch Erhöhen oder Verringern dieses Wertes
+  wird die gesamte Szene heller oder dunkler.
+UI_Settings_ColorContrast: Kontrast
+UI_Settings_ColorContrast_Description: Die Bandbreite der hellen und dunklen Werte
+  in deiner Szene. Niedrigere Werte verringern den Unterschied zwischen hellen und
+  dunklen Bereichen, höhere Werte verstärken ihn.
+UI_Settings_ColorSaturation: Farbsättigung
+UI_Settings_ColorSaturation_Description: Die Farbintensität (Farbton) für das gesamte
+  Bild. Höhere Werte sorgen für lebendigere Farben.
+UI_Settings_Contrast: Kontrast
+UI_Settings_Controls: Steuerung
+UI_Settings_DepthOfField: Schärfentiefe
+UI_Settings_Disclaimer: Weitere Spieleinstellungen, darunter Anzeigeoptionen für UI
+  und HUD, werden in der Vollversion des Spiels verfügbar sein.
+UI_Settings_Display: Anzeige
+UI_Settings_DisplayMode: Anzeigemodus
+UI_Settings_DisplayMode_Borderless: Randlos
+UI_Settings_DisplayMode_Fullscreen: Vollbild
+UI_Settings_DisplayMode_Windowed: Fenster
+UI_Settings_DynamicResolution: Dynamische Auflösung
+UI_Settings_EffectsQuality: Effektqualität
+UI_Settings_FOV: Sichtfeld
+UI_Settings_FoliageQuality: Vegetationsqualität
+UI_Settings_FrameRateLimit: Bildfrequenzlimit
+UI_Settings_FrameRateLimit_Unlimited: Unbegrenzt
+UI_Settings_Game: Spiel
+UI_Settings_Gameplay: Gameplay
+UI_Settings_Gamma: Gamma
+UI_Settings_GlobalIlluminationQuality: Gesamtbeleuchtungsqualität
+UI_Settings_Graphics: Grafik
+UI_Settings_HDR: HDR
+UI_Settings_InvertXAxis: X-Achse umkehren
+UI_Settings_InvertYAxis: Y-Achse umkehren
+UI_Settings_InvertedHCam: Invertierte horizontale Kamera
+UI_Settings_InvertedVCam: Invertierte vertikale Kamera
+UI_Settings_LandscapeQuality: Landschaftsqualität
+UI_Settings_Language_Chinese: Chinesisch
+UI_Settings_Language_English: Englisch
+UI_Settings_Language_French: Französisch
+UI_Settings_Language_German: Deutsch
+UI_Settings_Language_Italian: Italienisch
+UI_Settings_Language_Japanese: Japanisch
+UI_Settings_Language_Korean: Koreanisch
+UI_Settings_Language_Polish: Polnisch
+UI_Settings_Language_Russian: Russisch
+UI_Settings_Language_Spanish: Spanisch
+UI_Settings_Language_Text: Textsprache
+UI_Settings_Language_Voice: Sprachausgabe
+UI_Settings_LeftStickSensitivity: Empfindlichkeit (linker Stick)
+UI_Settings_MasterVolume: Gesamtlautstärke
+UI_Settings_MotionBlurIntensity: Motion-Blur-Intensität
+UI_Settings_MotionBlurIntensity_Description: Die Intensität des Bewegungsunschärfe-Effekts.
+  Höhere Werte sorgen bei schnellen Kamerabewegungen für einen stärkeren Unschärfe-Effekt.
+UI_Settings_MusicVolume: Musiklautstärke
+UI_Settings_ObjectsOutliner: Objekt-Umrisse
+UI_Settings_ObjectsOutliner_Default: Standard
+UI_Settings_ObjectsOutliner_Low: Niedrig
+UI_Settings_ObjectsOutliner_No: Keine
+UI_Settings_Off: Aus
+UI_Settings_On: Ein
+UI_Settings_OverallQuality: Qualitätsvoreinstellung
+UI_Settings_PostProcessingQuality: Post-Processing-Qualität
+UI_Settings_Quality_Cinematic: Alkimia Overdose
+UI_Settings_Quality_Custom: Benutzerdefiniert
+UI_Settings_Quality_Epic: Gothic
+UI_Settings_Quality_High: Hoch
+UI_Settings_Quality_Low: Niedrig
+UI_Settings_Quality_Medium: Mittel
+UI_Settings_Quality_Recommended: Empfohlen
+UI_Settings_ReflectionQuality: Reflexionsqualität
+UI_Settings_Reset: Zurücksetzen
+UI_Settings_Resolution: Auflösung
+UI_Settings_ResolutionDisclaimer: Bitte beachte, dass die Grafik Voreinstellung Alkimia
+  Overdose möglicherweise nur auf sehr starker Hardware funktioniert.
+UI_Settings_ResolutionQuality: Auflösungsqualität
+UI_Settings_ResolutionQuality_Description: Passe die Auflösungsqualität an, um die
+  Performance oder die visuelle Qualität zu verbessern.
+UI_Settings_RightStickSensitivity: Empfindlichkeit (rechter Stick)
+UI_Settings_SFXVolume: Soundeffekt-Lautstärke
+UI_Settings_ShadingQuality: Shading-Qualität
+UI_Settings_ShadowQuality: Schattenqualität
+UI_Settings_Sound: Audio
+UI_Settings_SubtitleSize_Default: Standard
+UI_Settings_SubtitleSize_Larger: Größer
+UI_Settings_SubtitleStyle: Untertitelgröße
+UI_Settings_Subtitles: Untertitel
+UI_Settings_SubtitlesToggle: Untertitel
+UI_Settings_TextLanguage: Textsprache
+UI_Settings_TextureQuality: Texturenqualität
+UI_Settings_VSync: V-Sync
+UI_Settings_Vibration: Vibration
+UI_Settings_ViewDistanceQuality: Sichtweitenqualität
+UI_Settings_VoiceVolume: Sie haben geschlafen und fühlen sich ausgeruht.
+UI_Settings_Volume_Master: Gesamtlautstärke
+UI_Settings_Volume_Music: Musik
+UI_Settings_Volume_Sound: Soundeffekte
+UI_Settings_Volume_Voice: Stimmen
+UI_Skill_OpenLocks: Schlösserknacken
+UI_Skill_Pickpocketing: Taschendiebstahl
+UI_Skill_SpecialSkills: Spezialfähigkeiten
+UI_SleepEndedMessage_Default_2: Sie haben geschlafen und fühlen sich ausgeruht (alternativer
+  Text)
+UI_SleepEndedMessage_StrangeDreams_1: Du hast geschlafen, aber du hattest seltsame
+  Träume.
+UI_SleepEndedMessage_StrangeDreams_2: Du hast geschlafen, hattest aber seltsame Träume
+  (alternativer Text)
+UI_Sleep_WaitingForPartner: '[ Du musst warten ]'
+UI_Stats_CharacterStats: Stats
+UI_Stats_Level: Stufe
+UI_Stats_SkillPoints: Lernpunkte
 UI_StoryIntro: 'Diese Geschichte spielt im Minental von Khorinis. Nachdem ein Barrierezauber
   fehlschlug und die Strafkolonie gewaltsam von den Gefangenen übernommen wurde, sind
   die Insassen und der König gegenseitig voneinander abhängig: Er benötigt sie für
@@ -30,521 +529,19 @@ UI_StoryIntro: 'Diese Geschichte spielt im Minental von Khorinis. Nachdem ein Ba
 
 
   <b>Willkommen in deinem neuen Leben!</>'
-GE_Param_Heal: Heilen
-GE_Param_Duration: Dauer
-GE_Param_Mana: Mana
-UI_Tabs_Inventory: Inventar
-UI_Tabs_Quests: Quests
-UI_Tabs_Glossary: Glossar
-UI_Tabs_Map: Karten
-UI_Tabs_Stats: Stats
 UI_Tabs_Buy: Kaufen
+UI_Tabs_Glossary: Glossar
+UI_Tabs_Inventory: Inventar
+UI_Tabs_Map: Karten
+UI_Tabs_Quests: Quests
 UI_Tabs_Sell: Verkaufen
-Text_FilterMelee: Nahkampf
-Text_FilterRanged: Fernkampf
-Text_FilterMagic: Magie
-Text_FilterWearables: Kleidung
-Text_FilterFood: Nahrung
-Text_FilterPotions: Tränke
-Text_FilterMaterials: Materialien
-Text_FilterMiscellaneous: Krimskrams
-Text_FilterArtefacts: Artefakte
-Text_FilterDocuments: Dokumente
-Text_FilterOldCamp: Altes Lager
-Text_FilterSwampCamp: Sumpflager
-Text_FilterNewCamp: Neues Lager
-Text_FilterHiddenCamp: Verstecktes Lager
-Text_FilterOutsiders: Außenseiter
-Text_FilterCreatures: Kreaturen
-Text_FilterItems: Items
-Text_FilterLocations: Orte
-Text_FilterWorld: Minental
-Text_FilterCompleted: Abgeschlossen
-Text_FilterAll: Alle
-UI_Inventory_Requirements: 'Voraussetzung:'
-UI_Inventory_Description: Beschreibung
-UI_Inventory_EquippedSlot: In Slot ausgerüstet
-UI_Inventory_OneHanded: Einhandwaffe
-UI_Inventory_TwoHanded: Zweihandwaffe
-UI_Inventory_Bow: Bogen
-UI_Inventory_Crossbow: Armbrust
-UI_Inventory_Food: Nahrung
-UI_Inventory_Open: Inventar öffnen
-UI_Inventory_ThousandsAbbreviation: tsd
-UI_Quests_Objectives: Ziele
-UI_Quests_Log: Log
-UI_Quests_DateTimeFormat: '{date}, {time}'
-UI_Quests_DateFormat: Vor {days} Tagen
-UI_Quests_TimeFormat: '{hours}:{minutes}'
-UI_Quests_DateToday: Heute
-UI_Quests_DateYesterday: Gestern
-UI_Quests_Update: Quest aktualisiert
-UI_Quests_Complete: Quest abgeschlossen
-UI_Quests_QuestFailed: Quest gescheitert
-UI_Quests: Neue Quest
-UI_Quests_NoQuestsAvailable: Keine Quests verfügbar
-UI_Quests_QuestUpdatedFormat: „{quest}” aktualisiert
-UI_Glossary_NoEntriesAvailable: Keine Glossareinträge verfügbar
-UI_Stats_CharacterStats: Stats
-UI_Stats_Level: Stufe
-UI_Stats_SkillPoints: Lernpunkte
-UI_Attribute_Atributes: Attribute
-UI_Attribute_Health: Lebenspunkte
-UI_Attribute_Mana: Mana
-UI_Attribute_Strength: Stärke
-UI_Attribute_Dexterity: Geschicklichkeit
-UI_Attribute_MagicCircle: Magischer Kreis
-UI_Attribute_Toughness: Zähheit
-UI_Protection_Protection: Schutz
-UI_Protection_Physical: Physisch
-UI_Protection_Arrows: Pfeile
-UI_Protection_Magic: Magie
-UI_Protection_Fire: Feuer
-UI_Fighting_Fighting: Kampf
-UI_Fighting_OneHanded: Einhand
-UI_Fighting_TwoHanded: Zweihand
-UI_Fighting_Crossbow: Armbrust
-UI_Fighting_Bow: Bogen
-UI_Skill_SpecialSkills: Spezialfähigkeiten
-UI_Skill_OpenLocks: Schlösserknacken
-UI_Skill_Pickpocketing: Taschendiebstahl
-UI_Lessons: Lektionen
-UI_Lessons_Sneaking: Schleichen
-UI_Lessons_Acrobatics: Akrobatik
-UI_Attribute_Health_Tooltip: Lebenspunkte stellen deine physische Konstitution dar.
-  Je mehr Lebenspunkte du hast, desto mehr Schaden hältst du aus, bevor du zu Boden
-  gehst. Mit zunehmender Erfahrung steigen deine Lebenspunkte, sodass du immer stärkeren
-  Gegnern standhalten kannst.
-UI_Attribute_Mana_Tooltip: Mana ermöglicht dir den Einsatz magischer Fähigkeiten.
-  Mana wird beim Wirken von Zaubern verbraucht und regeneriert sich nicht von selbst.
-  Du musst also rasten und Gegenstände verbrauchen, um es aufzufüllen.
-UI_Attribute_Strength_Tooltip: Stärke steht für deine körperliche Kraft. Je größer
-  deine Stärke, desto mächtigere Waffen kannst du schwingen und desto mehr Schaden
-  verursachen deine Nahkampfangriffe.
-UI_Attribute_Dexterity_Tooltip: Geschicklichkeit steht für deine Körperbeherrschung,
-  deine Balance und deine Kontrolle über deinen Körper. Sie bestimmt, welche Fernkampfwaffen
-  du einsetzen kannst, und verbessert die Effektivität deiner Fernkampfangriffe sowie
-  deine Erfolgschance beim Taschendiebstahl.
-UI_Attribute_MagicCircle_Tooltip: Magische Kreise stehen für die Weisheit eines Magiers
-  und sein Wissen um die arkanen Künste. Wenn du in den Kreisen aufsteigst, erhältst
-  du Zugang zu immer komplexeren und mächtigeren Zaubern, die deine magischen Fähigkeiten
-  erweitern.
-UI_Attribute_Toughness_Tooltip: Zähheit ist deine Fähigkeit, Belastungen zu ertragen.
-  Je zäher du bist, desto mehr Gegenstände kannst du tragen. Wenn du zu viel Gewicht
-  trägst, wirst du in deiner Bewegung eingeschränkt, also verwalte dein Inventar mit
-  Bedacht.
-UI_Protection_Physical_Tooltip: Bietet Schutz sowohl gegen die scharfen Klingen von
-  Schwertern und Äxten als auch die verheerenden Hiebe von Streitkolben. Die Wirkung
-  von direkten physischen Angriffen wird minimiert.
-UI_Protection_Arrows_Tooltip: Bietet Schutz gegen die durchbohrenden Spitzen von Pfeilen
-  und Bolzen.
-UI_Protection_Magic_Tooltip: Stärkt deine Verteidigung gegen die Mächte des Arkanen.
-  Dieser Schutz mildert ihre Wirkung, ob frostiger Eiszauber oder donnernder Schock.
-UI_Protection_Fire_Tooltip: Schützt vor der intensiven Hitze der Flammen und sorgt
-  dafür, dass du Feuerangriffen und -gefahren besser standhalten kannst.
-UI_Fighting_OneHanded_Tooltip: Dein Können im Umgang mit Einhandwaffen bestimmt deine
-  Kampfeffizienz, von einfachen Schwüngen bis hin zu fließenden und meisterhaften
-  Kombinationen.
-UI_Fighting_OneHanded_Untrained_Tooltip: Du bist untrainiert. Du kannst eine Waffe
-  führen. Erwarte aber keine Finesse. Kombos und Paraden übersteigen deine Möglichkeiten.
-UI_Fighting_OneHanded_Trained_Tooltip: Mit etwas Training werden deine Bewegungen
-  fließender und Angriffskombinationen sowie geschickte Paraden möglich. Du kannst
-  kritische Treffer landen und Angriffe mittendrin abbrechen.
-UI_Fighting_OneHanded_Master_Tooltip: Ein Meister des einhändigen Kampfes ist nicht
-  zu unterschätzen. Deine Chance auf kritische Treffer ist erhöht und du kannst Gegner
-  zurückstoßen. Das Parieren geht dir in Fleisch und Blut über und ermöglicht starke
-  Gegenangriffe.
-UI_Fighting_TwoHanded_Tooltip: Deine Fähigkeiten mit Zweihandwaffen bestimmen über
-  deine Möglichkeiten im Kampf – von rohen Schlägen bis hin zu grazilen und überwältigenden
-  Kombinationen.
-UI_Fighting_TwoHanded_Untrained_Tooltip: Du bist untrainiert. Du kannst eine Zweihandwaffe
-  führen, aber ihr volles Potenzial entzieht sich dir. Kombos und Paraden übersteigen
-  deine Möglichkeiten und deine Angriffe sind simpel und grobschlächtig.
-UI_Fighting_TwoHanded_Trained_Tooltip: Mit zunehmender Übung fällt dir die Kontrolle
-  über zweihändige Waffen leichter, sodass du mächtige Kombinationen und gekonnte
-  Paraden ausführen kannst. Kritische Treffer werden möglich und du erhältst die Fähigkeit,
-  Angriffe abzubrechen.
-UI_Fighting_TwoHanded_Master_Tooltip: Als Meister des Zweihandkampfes verfügst du
-  über beeindruckende Fähigkeiten. Kritische Treffer werden häufiger, Paraden ermöglichen
-  Gegenschläge und deine mächtigen Schwünge können Gegner zurückstoßen und ins Taumeln
-  bringen.
-UI_Fighting_Crossbow_Tooltip: Die Beherrschung der Armbrust spiegelt deine Fernkampffähigkeiten
-  wider, die sich von der einfachen Handhabung bis zu schnellen und präzisen Schüssen
-  weiterentwickeln.
-UI_Fighting_Crossbow_Untrained_Tooltip: Du bist untrainiert. Du kannst eine Armbrust
-  führen, aber deine unruhige Hand könnte das Zielen erschweren, und das Nachladen
-  ist langsam und mühselig.
-UI_Fighting_Crossbow_Trained_Tooltip: Mit genug Training verbessern sich deine Fähigkeiten
-  im Umgang mit der Armbrust. Du lädst schneller nach, kannst ruhiger zielen und deine
-  kritischen Treffer werden zu einer echten Gefahr.
-UI_Fighting_Crossbow_Master_Tooltip: Du bist ein Meister mit der Armbrust. Kritische
-  Treffer fallen dir leichter, jeder Schuss weist eine unübertroffene Präzision auf
-  und deine geschickten Hände laden die Bolzen schnell nach.
-UI_Fighting_Bow_Tooltip: Deine Fähigkeiten im Umgang mit dem Bogen bestimmen über
-  deine Schießkünste, vom einfachen Zielen bis hin zu präzisen, schnellen Schüssen.
-UI_Fighting_Bow_Untrained_Tooltip: Du bist untrainiert. Du kannst einen Bogen halten,
-  aber das Zielen fällt dir schwer und das Spannen der Sehne und Einlegen von Pfeilen
-  fühlt sich umständlich an.
-UI_Fighting_Bow_Trained_Tooltip: Durch das Training haben sich deine Bogenfähigkeiten
-  verbessert. Du kannst jetzt viel schneller Pfeile einlegen und mit dem Bogen zielen,
-  und deine erhöhte Präzision ermöglicht kritische Treffer.
-UI_Fighting_Bow_Master_Tooltip: Du beherrschst den Bogen meisterhaft. Deine kritischen
-  Treffer sind verheerend für deine Gegner, und die Schnelligkeit und Präzision deiner
-  Schüsse überwältigt sie.
-UI_Crafting_InProgress: Rezept wird vorbereitet ...
-UI_Crafting_ForgingItem: Gegenstand schmieden
-UI_Crafting_GoToAnvil: Geh zum Amboss
-UI_Crafting_ShapingItem: Gegenstand formen
-UI_Crafting_GoToWaterBarrel: Geh zum Wasserfass
-UI_Crafting_CoolingDownItem: Gegenstand abkühlen
-UI_Crafting_PanCook: In Pfanne braten
-UI_Crafting_MenuTitle_Pan: Pfanne
-UI_Crafting_MenuTitle_Cauldron: Kessel
-UI_Crafting_MenuTitle_Forge: Schmiede
-UI_Crafting_MenuTitle_Workbench: Werkbank
-UI_Crafting_MenuTitle_Whetstone: Schleifstein
-UI_Crafting_MenuTitle_Alchemy: Alchemietisch
-UI_Crafting_MenuTitle_Inscription: Schreibertisch
-UI_Crafting_HasMaterials: Material vorhanden
-UI_Crafting_Quantity: 'Menge:'
-UI_Crafting_Cost: Kosten
-UI_Crafting_Start: '[Halten] Herstellen'
-UI_Crafting_Section: Abschnitt
-UI_Crafting_Scrap: '[Halten] Zerlegen'
+UI_Tabs_Stats: Stats
+UI_Trading_Balance: Tauschbilanz
+UI_Trading_MyInventory: Mein Inventar
+UI_Trading_Remove: Entfernen
+UI_Trading_SellBuy: Zur Liste hinzufügen
+UI_Trading_SellerInventory: Händlerinventar
 UI_death_GameOver: Du bist tot
+UI_death_MainMenu: Hauptmenü
 UI_death_Revive: Wiederbeleben
 UI_death_ReviveLeft: Übrige Wiederbelebungen
-UI_death_MainMenu: Hauptmenü
-Text_Resume: Fortsetzen
-Text_OpenMenu: Menü öffnen
-TEXT_BACK: Zurück
-TEXT_DIALOG_END: Ende.
-Text_Cancel: Abbrechen
-Text_Equip: Ausrüsten
-Text_Equipped: Ausgerüstet
-Text_Unequip: Ablegen
-Text_Consume: Verbrauchen
-Text_Compare: Vergleichen
-Text_Drop: '[Halten] Fallen lassen'
-Text_Read: Lesen
-Text_Close: Schließen
-Text_Start: START
-Text_Button_Back: Zurück
-Text_Continue: Fortfahren
-Text_Confirm: Bestätigen
-Text_Select: Auswählen
-Text_Yes: Ja
-Text_No: Nein
-Text_Reset: Zurücksetzen
-Text_SaveChanges: Änderungen speichern
-Text_LootAll: Alle nehmen
-Text_LootSwitchSection: Fokus wechseln
-Text_LootTake: Nehmen
-Text_LootChest: Truhe
-Text_LootCorpse: Leiche
-Text_LootStore: Gegenstand lagern
-Text_LootInventory: Inventar
-Text_TradeAccept: Annehmen
-Text_HoldAccept: '[Halten] Annehmen'
-Text_TradeCancel: Abbrechen
-Text_DocumentMinimize: Minimieren
-Text_OpenGlossary: Glossar öffnen
-Text_CycleHint: Nächster Tipp
-Text_From: 'Von:'
-Text_To: 'An:'
-Text_SleepFor: 'Schlafen für:'
-Text_Days: Tag(e)
-Text_Hours: Std.
-Text_Minutes: Min.
-Text_Seconds: Sek.
-Text_Max_Uppercase: MAX.
-Text_Restart: Neu starten
-UI_HUD_SwitchWheel: Rad wechseln
-UI_Demo_Gratitude: Danke, dass du diese Demo gespielt hast!
-UI_Demo_Gratitude_QR: 'Gib uns gerne Feedback unter:'
-UI_Demo_Gratitude_Follow: 'Folge uns:'
-UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
-UI_Demo_CheatCode: Leute, das ist eine Demo! Ihr werdet doch in der Demo keinen Marvin-Modus
-  brauchen?! Im vollen Spiel könnt ihr damit aber auf den Putz hauen!
-UI_Trading_MyInventory: Mein Inventar
-UI_Trading_SellerInventory: Händlerinventar
-UI_Trading_Balance: Tauschbilanz
-UI_Trading_SellBuy: Zur Liste hinzufügen
-UI_Trading_Remove: Entfernen
-UI_Sleep_WaitingForPartner: '[ Du musst warten ]'
-Text_LockpickMoveHorizontal: Nach links/rechts bewegen
-Text_LockpickMoveVertical: Nach oben/unten bewegen
-Text_OpenChest: Truhe öffnen
-Text_OpenDoor: Tür öffnen
-Text_LockpickToolRequired: Ein Dietrich wird benötigt.
-Text_LockpickSkillRequired: Du musst Schlösser knacken erlernt haben.
-UI_ArmourCustomization_Torso: Oberkörper
-UI_ArmourCustomization_Waist: Hüfte
-UI_ArmourCustomization_Legs: Beine
-UI_ArmourCustomization_ArmorAlterations: Rüstungsanpassungen
-UI_ArmourCustomization_Equipped: A
-UI_ArmourCustomization_Equip: Ausrüsten
-UI_ArmourCustomization_Purchase: '[Halten] Kaufen'
-UI_ArmourCustomization_Unequip: Ablegen
-UI_Notification_LevelUp: Stufenaufstieg
-UI_Notification: Kapitel {ChapterNumber}
-UI_Notification_AreaDiscovered: Neues Gebiet entdeckt
-UI_Notification_ExperienceGainedFormat: '{Amount} XP'
-UI_Notification_GlossaryUpdatedFormat: 'Glossar aktualisiert: {EntryName}'
-UI_Notification_KeyUsedFormat: 'Schlüssel verwendet: {KeyName}'
-UI_Notification_SkillIncreasedFormat: 'Fähigkeit verbessert: {SkillName}'
-UI_Notification_SkillLearnedFormat: 'Fähigkeit erlernt: {SkillName}'
-UI_Notification_ShowMore: Mehr Anzeigen
-UI_GameSaved_Notification: ''
-UI_CantSave_Notification: Stumpfer Schaden
-Item_Damage_Physical_Edge: Klingenschaden
-Item_Damage_Physical_Point: Stichschaden
-Item_Damage_Elemental_Fire: Spielen
-UI_Main_Singleplayer: Einzelspieler
-UI_Main_Settings: Einstellungen
-UI_Main_Credits: Credits
-UI_Main_Quit: Verlassen
-UI_Main_QuitGame: Spiel verlassen
-UI_Main_QuitModal: Du möchtest Gothic wirklich verlassen?
-UI_GameOver_ModalMainMenu: Bist du sicher, dass du ins Hauptmenü zurück möchtest?
-UI_Main_NewGame: Neues Spiel
-UI_Main_Load: Laden
-UI_EnterNameHere: 'Gib einen Namen ein (zB Namenlos):'
-UI_LoadSave_LoadGame: Spiel laden
-UI_LoadSave_SaveGame: Spiel speichern
-UI_LoadSave: Neuer Spielstand
-UI_LoadSave_Load: Laden
-UI_LoadSave_Save: Speichern
-UI_LoadSave_Manual: Manuell
-UI_Loadingscreen_Loading: Laden...
-UI_Loadingscreen_PressKeytoCtn: Beliebige Taste drücken, um fortzufahren
-UI_Loadingscreen_HintsHeadline: Tipps
-UI_LoadingScreen_ChapterFormat: Kapitel {ChapterNumber}
-UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
-UI_Loadingscreen_Chapter1Title: Die Welt der Verurteilten
-UI_Loadingscreen_Chapter1Text: ''
-UI_Loadingscreen_Chapter2Title: Das Nest der Minecrawler
-UI_Loadingscreen_Chapter2Text: ''
-UI_Loadingscreen_Chapter3Title: Artefakte von uralter Macht
-UI_Loadingscreen_Chapter4Title: Xardas
-UI_Loadingscreen_Chapter5Title: Die Hüter des Portals
-UI_Loadingscreen_Chapter6Title: Die Hallen des Schläfers
-UI_Settings_Gameplay: Gameplay
-UI_Settings_Controls: Steuerung
-UI_Settings_Audio: Audio
-UI_Settings_On: Ein
-UI_Settings_Off: Aus
-UI_Settings_InvertedVCam: Invertierte vertikale Kamera
-UI_Settings_InvertedHCam: Invertierte horizontale Kamera
-UI_Settings_CameraSentivity: Kameraempfindlichkeit
-UI_Settings_Volume_Master: Gesamtlautstärke
-UI_Settings_Volume_Sound: Soundeffekte
-UI_Settings_Volume_Music: Musik
-UI_Settings_Volume_Voice: Stimmen
-UI_Settings_Language_Text: Textsprache
-UI_Settings_Language_Voice: Sprachausgabe
-UI_Settings_SubtitlesToggle: Untertitel
-UI_Settings_Brightness: Helligkeit
-UI_Settings_Contrast: Kontrast
-UI_Settings_HDR: HDR
-UI_HUD: Neuer Glossar Eintrag
-UI_HUD_Experience: Erfahrung
-UI_HUD_Exp: XP
-Text_MoveForward: Vorwärts
-Text_MoveBack: Rückwärts
-Text_MoveLeft: Links
-Text_MoveRight: Rechts
-Text_Attack1: Attacke 1
-Text_Attack2: Attacke 2
-Text_Attack3: Attacke 3
-Text_Attack4: Attacke 4
-Text_Attack5: Attacke 5
-Text_Block: Blockieren/Parieren
-Text_CancelThrow: Werfen abbrechen
-Text_Combat: Kampf
-Text_Dodge: Ausweichen
-Text_Draw: 'Ziehen/Wegstecken einer Nahkampfwaffe
-
-  [Halten] Ziehen/Wegstecken einer Fernkampfwaffe
-
-  '
-Text_DrawMelee: Ziehen/Wegstecken einer Nahkampfwaffe
-Text_DropTorch: Fackel fallenlassen
-Text_DrawRanged: Ziehen/Wegstecken einer Fernkampfwaffe
-Text_Exploration: Erkundung
-Text_Hold: Halten
-Text_Interact: Interagieren
-Text_Interact1: Primäre Interaktion
-Text_Interact2: Sekundäre Interaktion
-Text_Inventory: Inventar
-Text_JumpClimb: Springen/Klettern
-Text_Crouch: Ducken
-Text_Jump: Springen
-Text_Kick: Tritt
-Text_Lock: Ziel anvisieren
-Text_ChangeObjective: Ziel wechseln
-Text_Look: Umschauen
-Text_Move: Bewegen
-Text_PauseMenu: Pausen Menü
-Text_QuickAccess: Schnellauswahl Gegenstände
-Text_SelectThrow: Auswählen eines Wurf-Items
-Text_Roll: Rollen
-Text_Sneak: Schleichmodus Ein/Aus
-Text_Walk: Bewegungsmodus Umschalten
-Text_Sprint: '[Drücken] Sprint umschalten'
-Text_Throw: Gegenstand werfen
-Text_ToggleQuick: Schnellauswahl anzeigen
-Text_UseQuick: Schnellauswahl-Gegenstand benutzen
-Text_Dive: Tauchen
-Text_Surface: Nach oben schwimmen
-Text_Cast: Zauber wirken
-Text_LaunchSpell: Zauber abfeuern
-Text_SkipDialogue: Dialog überspringen
-Text_Aim: Zielen
-Text_Mouse: Maus
-UI_Profile_LastSave: Letzter Speicherstand
-UI_Profile_SaveTime: Speicherzeit
-UI_Profile_TimePlayed: Gespielte Zeit
-UI_Profile_Chapter: Kapitel
-UI_Profile_Difficulty: Schwierigkeitsgrad
-UI_Profile_SelectProfile: Profil auswählen
-UI_Profile_Delete: Löschen
-UI_Profile: Neues Profil
-UI_Profile_Profile1: Profil 1
-UI_Profile_Profile2: Profil 2
-UI_Profile_Profile3: Profil 3
-UI_Profile_Profile4: Profil 4
-UI_Profile_ModalDeleteProfile: Bist du sicher, dass du dieses Profil und alle verknüpften
-  Speicherstände zu den Ratten schicken möchtest?
-UI_Profile_ModalDeleteProfileTitle: Profil löschen
-UI_Profile_ModalDeleteSaveTitle: Save löschen
-UI_Profile_ModalDeleteSaveGame: Willst du wirklich diesen Spielstand löschen?
-UI_Profile_ModalNoMoreProfiles: Es gibt keine weiteren freien Profil-Slots. Lösche
-  einen existierenden, um ein neues Profil zu erstellen.
-UI_Profile_ModalNameInUse: Diesen Namen gibt es schon.
-UI_Profile_ModalNameEmpty: Das Namensfeld kann nicht leer sein
-UI_Profile_ModalError: Ein Fehler ist aufgetreten
-UI_Profile_DefaultSaveFileName: '{location}, Tag {day}, {hours}:{minutes}'
-UI_Difficulty_SelectDifficulty: Schwierigkeit auswählen
-UI_Difficulty_Easy: Leicht
-UI_Difficulty_EasyDescription: ''
-UI_Difficulty_Standard: Standard
-UI_Difficulty_StandardDescription: ''
-UI_Difficulty_Hard: Schwer
-UI_Difficulty_HardDescription: ''
-UI_Difficulty_Custom: Individuell
-UI_Difficulty_CustomDescription: ''
-UI_Difficulty_Start: Spiel starten
-UI_Difficulty_CombatLabel: Kampf
-UI_Difficulty_ResourcesLabel: Ressourcen
-UI_Difficulty_ProgressionLabel: Progression
-UI_Difficulty_CombatTooltip: ''
-UI_Difficulty_ResourcesTooltip: ''
-UI_Difficulty_ProgressionTooltip: ''
-UI_Settings_Reset: Zurücksetzen
-UI_Settings_Game: Spiel
-UI_Settings_CameraPreset: Kameravoreinstellung
-UI_Settings_CameraPreset_Default: Standard
-UI_Settings_CameraPreset_Classic: Klassisch
-UI_Settings_TextLanguage: Textsprache
-UI_Settings_AudioLanguage: Audiosprache
-UI_Settings_Language_English: Englisch
-UI_Settings_Language_German: Deutsch
-UI_Settings_Language_Polish: Polnisch
-UI_Settings_Language_Russian: Russisch
-UI_Settings_Language_Spanish: Spanisch
-UI_Settings_Language_French: Französisch
-UI_Settings_Language_Italian: Italienisch
-UI_Settings_Language_Chinese: Chinesisch
-UI_Settings_Language_Korean: Koreanisch
-UI_Settings_Language_Japanese: Japanisch
-UI_Settings_ObjectsOutliner: Objekt-Umrisse
-UI_Settings_ObjectsOutliner_Default: Standard
-UI_Settings_ObjectsOutliner_Low: Niedrig
-UI_Settings_ObjectsOutliner_No: Keine
-UI_Settings_Subtitles: Untertitel
-UI_Settings_SubtitleStyle: Untertitelgröße
-UI_Settings_SubtitleSize_Default: Standard
-UI_Settings_SubtitleSize_Larger: Größer
-UI_Settings_AimScalar: Geschwindigkeit beim Anvisieren
-UI_Settings_AutoCloseChests: Truhen automatisch schließen
-UI_Settings_AutoCloseChests_Description: Wenn diese Option aktiviert ist, schließen
-  sich Truhen automatisch, wenn die Option „Alles nehmen“ verwendet wird. Andernfalls
-  bleibt die Truhe geöffnet, bis sie manuell geschlossen wird.
-UI_Settings_InvertXAxis: X-Achse umkehren
-UI_Settings_InvertYAxis: Y-Achse umkehren
-UI_Settings_RightStickSensitivity: Empfindlichkeit (rechter Stick)
-UI_Settings_LeftStickSensitivity: Empfindlichkeit (linker Stick)
-UI_Settings_Vibration: Vibration
-UI_Settings_ButtonGraphics: Tastenanzeige
-UI_Settings_Display: Anzeige
-UI_Settings_DisplayMode: Anzeigemodus
-UI_Settings_DisplayMode_Windowed: Fenster
-UI_Settings_DisplayMode_Borderless: Randlos
-UI_Settings_DisplayMode_Fullscreen: Vollbild
-UI_Settings_Resolution: Auflösung
-UI_Settings_DynamicResolution: Dynamische Auflösung
-UI_Settings_VSync: V-Sync
-UI_Settings_FrameRateLimit: Bildfrequenzlimit
-UI_Settings_FrameRateLimit_Unlimited: Unbegrenzt
-UI_Settings_Gamma: Gamma
-UI_Settings_Graphics: Grafik
-UI_Settings_FOV: Sichtfeld
-UI_Settings_DepthOfField: Schärfentiefe
-UI_Settings_MotionBlurIntensity: Motion-Blur-Intensität
-UI_Settings_MotionBlurIntensity_Description: Die Intensität des Bewegungsunschärfe-Effekts.
-  Höhere Werte sorgen bei schnellen Kamerabewegungen für einen stärkeren Unschärfe-Effekt.
-UI_Settings_BloomIntensity: Blooming-Intensität
-UI_Settings_BloomIntensity_Description: Die Intensität des Blooming-Effekts. Höhere
-  Werte sorgen für ein intensiveres Leuchten um helle Objekte herum.
-UI_Settings_AmbientOcclusionIntensity: Umgebungsverdeckung-Intensität
-UI_Settings_AmbientOcclusionIntensity_Description: Die Intensität des Umgebungsverdeckung-Effekts.
-  Höhere Werte sorgen für ausgeprägtere Schatten in Ecken und Spalten.
-UI_Settings_AntiAliasing: Anti-Aliasing
-UI_Settings_ColorSaturation: Farbsättigung
-UI_Settings_ColorSaturation_Description: Die Farbintensität (Farbton) für das gesamte
-  Bild. Höhere Werte sorgen für lebendigere Farben.
-UI_Settings_ColorContrast: Kontrast
-UI_Settings_ColorContrast_Description: Die Bandbreite der hellen und dunklen Werte
-  in deiner Szene. Niedrigere Werte verringern den Unterschied zwischen hellen und
-  dunklen Bereichen, höhere Werte verstärken ihn.
-UI_Settings_ColorBrightness: Helligkeit
-UI_Settings_ColorBrightness_Description: Durch Erhöhen oder Verringern dieses Wertes
-  wird die gesamte Szene heller oder dunkler.
-UI_Settings_OverallQuality: Qualitätsvoreinstellung
-UI_Settings_Quality_Low: Niedrig
-UI_Settings_Quality_Medium: Mittel
-UI_Settings_Quality_High: Hoch
-UI_Settings_Quality_Epic: Gothic
-UI_Settings_Quality_Cinematic: Alkimia Overdose
-UI_Settings_Quality_Custom: Benutzerdefiniert
-UI_Settings_Quality_Recommended: Empfohlen
-UI_Settings_ResolutionQuality: Auflösungsqualität
-UI_Settings_ResolutionQuality_Description: Passe die Auflösungsqualität an, um die
-  Performance oder die visuelle Qualität zu verbessern.
-UI_Settings_ViewDistanceQuality: Sichtweitenqualität
-UI_Settings_AntiAliasingQuality: Anti-Aliasing-Qualität
-UI_Settings_ShadowQuality: Schattenqualität
-UI_Settings_GlobalIlluminationQuality: Gesamtbeleuchtungsqualität
-UI_Settings_ReflectionQuality: Reflexionsqualität
-UI_Settings_PostProcessingQuality: Post-Processing-Qualität
-UI_Settings_TextureQuality: Texturenqualität
-UI_Settings_EffectsQuality: Effektqualität
-UI_Settings_FoliageQuality: Vegetationsqualität
-UI_Settings_ShadingQuality: Shading-Qualität
-UI_Settings_LandscapeQuality: Landschaftsqualität
-UI_Settings_Sound: Audio
-UI_Settings_MasterVolume: Gesamtlautstärke
-UI_Settings_MusicVolume: Musiklautstärke
-UI_Settings_SFXVolume: Soundeffekt-Lautstärke
-UI_Settings_VoiceVolume: Sie haben geschlafen und fühlen sich ausgeruht.
-UI_SleepEndedMessage_Default_2: Sie haben geschlafen und fühlen sich ausgeruht (alternativer
-  Text)
-UI_SleepEndedMessage_StrangeDreams_1: Du hast geschlafen, aber du hattest seltsame
-  Träume.
-UI_SleepEndedMessage_StrangeDreams_2: Du hast geschlafen, hattest aber seltsame Träume
-  (alternativer Text)
-Item_Damage_Physical_Blunt: Stumpfer Schaden
-Item_Damage_Physical_Edge: Klingenschaden
-Item_Damage_Physical_Point: Stichschaden
-Item_Damage_Elemental_Fire: Feuerschaden

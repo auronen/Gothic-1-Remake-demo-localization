@@ -1,14 +1,440 @@
-UI_Profile_ChapterNyras: Nyras
-UI_Settings_Disclaimer: 製品版では、UIや通知の表示設定を含む、より多くのゲーム設定を利用できるようになります。
-UI_Settings_ResolutionDisclaimer: 「Alkimia Overdose」品質プリセットは、ハイエンドハードウェア以外では利用できない可能性があります。
+GE_Param_Duration: 持続時間
+GE_Param_Heal: 回復
+GE_Param_Mana: マナ
+Item_Damage_Elemental_Fire: 炎ダメージ
+Item_Damage_Physical_Blunt: 鈍的ダメージ
+Item_Damage_Physical_Edge: 刃物ダメージ
+Item_Damage_Physical_Point: ポイントダメージ
+TEXT_BACK: 戻る
+TEXT_DIALOG_END: 終了
+Text_Aim: エイム
+Text_Attack1: 攻撃1
+Text_Attack2: 攻撃2
+Text_Attack3: 攻撃3
+Text_Attack4: 攻撃4
+Text_Attack5: 攻撃5
+Text_Block: ブロック/パリィ
+Text_Button_Back: 戻る
+Text_Cancel: キャンセル
+Text_CancelThrow: 投げをキャンセル
+Text_Cast: 魔法を使う
+Text_ChangeObjective: 目標を変更
+Text_Close: 閉じる
+Text_Combat: 戦闘
+Text_Compare: 比較
+Text_Confirm: 確定
+Text_Consume: 消費
+Text_Continue: 続ける
+Text_Crouch: しゃがむ
+Text_CycleHint: ヒントを切り替え
+Text_Days: 日
+Text_Dive: 潜る/沈む
+Text_DocumentMinimize: 閉じる
+Text_Dodge: 回避
+Text_Draw: '近接武器を出す/しまう
+
+  [長押し]遠距離武器を出す/しまう'
+Text_DrawMelee: 近接武器を出す/しまう
+Text_DrawRanged: 遠距離武器を出す/しまう
+Text_Drop: '[長押し] スクラップ'
+Text_DropTorch: 松明を落とす
+Text_Equip: 装備する
+Text_Equipped: 装備中
+Text_Exploration: 探索
+Text_FilterAll: すべて
+Text_FilterArtefacts: アーティファクト
+Text_FilterCompleted: 完了
+Text_FilterCreatures: クリーチャー
+Text_FilterDocuments: ドキュメント
+Text_FilterFood: 食料
+Text_FilterHiddenCamp: 隠しキャンプ
+Text_FilterItems: アイテム
+Text_FilterLocations: ロケーション
+Text_FilterMagic: 魔法
+Text_FilterMaterials: 材料
+Text_FilterMelee: 近接
+Text_FilterMiscellaneous: その他
+Text_FilterNewCamp: ニュー・キャンプ
+Text_FilterOldCamp: オールド・キャンプ
+Text_FilterOutsiders: アウトサイダー
+Text_FilterPotions: ポーション
+Text_FilterRanged: 遠距離
+Text_FilterSwampCamp: スワンプ・キャンプ
+Text_FilterWearables: 衣類
+Text_FilterWorld: コロニー
+Text_From: 差出人：
+Text_Hold: 長押し
+Text_HoldAccept: '[長押し] 確定'
+Text_Hours: h
+Text_Interact: インタラクト
+Text_Interact1: インタラクト（メイン）
+Text_Interact2: インタラクト（サブ）
+Text_Inventory: インベントリー
+Text_Jump: ジャンプ
+Text_JumpClimb: ジャンプ/登る
+Text_Kick: キック
+Text_LaunchSpell: 魔法を発射
+Text_Lock: ターゲットにロックオン
+Text_LockpickMoveHorizontal: 左/右に移動
+Text_LockpickMoveVertical: 上/下に移動
+Text_LockpickSkillRequired: ロックピック・スキルが必要。
+Text_LockpickToolRequired: ロックピックの道具が必要。
+Text_Look: 見る
+Text_LootAll: すべてを取る
+Text_LootChest: チェスト
+Text_LootCorpse: 死体
+Text_LootInventory: インベントリー
+Text_LootStore: アイテムを保管
+Text_LootSwitchSection: フォーカスを切り替え
+Text_LootTake: 取る
+Text_Max_Uppercase: マックス
+Text_Minutes: m
+Text_Mouse: マウス
+Text_Move: 移動
+Text_MoveBack: 後ろに移動
+Text_MoveForward: 前に移動
+Text_MoveLeft: 左に移動
+Text_MoveRight: 右に移動
+Text_No: いいえ
+Text_OpenChest: チェストを開く
+Text_OpenDoor: ドアを開く
+Text_OpenGlossary: グロサリーを開く
+Text_OpenMenu: メニューを開く
+Text_PauseMenu: ポーズメニュー
+Text_QuickAccess: クイックアクセス・アイテム
+Text_Read: 読む
+Text_Reset: リセット
+Text_Restart: リスタート
+Text_Resume: 再開
+Text_Roll: ロール
+Text_SaveChanges: 変更を保存
+Text_Seconds: s
+Text_Select: 選択
+Text_SelectThrow: 投げるクイックアイテムを選択
+Text_SkipDialogue: 会話をスキップ
+Text_SleepFor: 寝る：
+Text_Sneak: 静かに入る/出る
+Text_Sprint: '[クリック]走りを切り替え'
+Text_Start: START
+Text_Surface: 水面に上がる/上に泳ぐ
+Text_Throw: アイテムを投げる
+Text_To: 送り先：
+Text_ToggleQuick: クイックアクセスを切り替え
+Text_TradeAccept: 確定
+Text_TradeCancel: キャンセル
+Text_Unequip: 外す
+Text_UseQuick: クイックアイテムを使う
+Text_Walk: 歩きを切り替え
+Text_Yes: はい
+UI_ArmourCustomization_ArmorAlterations: 防具の変更
+UI_ArmourCustomization_Equip: 装備する
+UI_ArmourCustomization_Equipped: E
+UI_ArmourCustomization_Legs: 脚
+UI_ArmourCustomization_Purchase: '[長押し] 購入 '
+UI_ArmourCustomization_Torso: 胴体
+UI_ArmourCustomization_Unequip: 外す
+UI_ArmourCustomization_Waist: ウェイスト
+UI_Attribute_Atributes: アトリビュート
+UI_Attribute_Dexterity: 技量
+UI_Attribute_Dexterity_Tooltip: 技量は自らの動きのバランスとコントロールを表す値。使える遠距離武器や、遠距離攻撃の効果、スリの成功率などはこの値で決まる。
+UI_Attribute_Health: 体力
+UI_Attribute_Health_Tooltip: 体力は体がどれだけ耐えられるかを表している。体力が高ければ高いほど、攻撃を受けられる。経験値と共に体力も上昇し、手ごわい敵も相手できるようになっていく。
+UI_Attribute_MagicCircle: マジック・サークル
+UI_Attribute_MagicCircle_Tooltip: マジック・サークルは魔術師の知識の深さを表す値。サークルが上昇すれば、より効果的な魔法が使えるようになり、強力な魔術師となれる。
+UI_Attribute_Mana: マナ
+UI_Attribute_Mana_Tooltip: 魔法を使うにはマナを消費する。スペルを使うとマナを消費し、自動的には回復しない。休憩のタイミングを計算し、アイテムを駆使しよう。
+UI_Attribute_Strength: 筋力
+UI_Attribute_Strength_Tooltip: 筋力は力の強さを表す値。筋力が高ければ高いほど、強力な武器を使うことができ、近接攻撃の威力も上がる。
+UI_Attribute_Toughness: 頑丈さ
+UI_Attribute_Toughness_Tooltip: 頑丈さはどれだけタフかを表す値。高ければ高いほど、多くのアイテムを持ち歩ける。アイテムを持ちすぎると、動きが制限されるので、インベントリーはちゃんと管理しよう。
+UI_CantSave_Notification: 鈍的ダメージ
+UI_Crafting_CoolingDownItem: アイテムをクールダウン中
+UI_Crafting_Cost: コスト
+UI_Crafting_ForgingItem: アイテムを作成中
+UI_Crafting_GoToAnvil: 鉄床に移動
+UI_Crafting_GoToWaterBarrel: ウォーターバレルに移動
+UI_Crafting_HasMaterials: 材料を所持
+UI_Crafting_InProgress: レシピを準備中…
+UI_Crafting_MenuTitle_Alchemy: アルケミー・ステーション
+UI_Crafting_MenuTitle_Cauldron: 大釜
+UI_Crafting_MenuTitle_Forge: 生成
+UI_Crafting_MenuTitle_Inscription: インスクリプション・ステーション
+UI_Crafting_MenuTitle_Pan: フライパン
+UI_Crafting_MenuTitle_Whetstone: ウェットストーン
+UI_Crafting_MenuTitle_Workbench: 作業台
+UI_Crafting_PanCook: フライパン
+UI_Crafting_Quantity: 量：
+UI_Crafting_Scrap: '[長押し] スクラップ'
+UI_Crafting_Section: セクション
+UI_Crafting_ShapingItem: アイテムを形作る
+UI_Crafting_Start: '[長押し] クラフト'
+UI_Demo_CheatCode: デモ版では必要ないですよね？でも製品版では…
+UI_Demo_Gratitude: デモをプレイしていただきありがとうございます！
+UI_Demo_Gratitude_Follow: フォローお願いします：
+UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
+UI_Demo_Gratitude_QR: ご意見やご感想は以下から：
+UI_Difficulty_CombatLabel: 戦闘
+UI_Difficulty_CombatTooltip: ''
+UI_Difficulty_Custom: カスタム
+UI_Difficulty_CustomDescription: ''
+UI_Difficulty_Easy: イージー
+UI_Difficulty_EasyDescription: ''
+UI_Difficulty_Hard: ハード
+UI_Difficulty_HardDescription: ''
+UI_Difficulty_ProgressionLabel: 進行度
+UI_Difficulty_ProgressionTooltip: ''
+UI_Difficulty_ResourcesLabel: 資源
+UI_Difficulty_ResourcesTooltip: ''
+UI_Difficulty_SelectDifficulty: 難易度選択
+UI_Difficulty_Standard: スタンダード
+UI_Difficulty_StandardDescription: ''
+UI_Difficulty_Start: ゲームをスタート
+UI_Disclaimer: このデモ版は、『Gothic 1 Remake』の主な機能の一部をご紹介するために作成された、独立した前日譚の体験版です。ゲームは現在も開発中であるため、バグやグリッチが含まれる可能性があります。ゲームの製品版では、原作『Gothic』のストーリー、構成、精神を踏襲し、名もなき主人公が登場します。
+UI_EnterNameHere: 名前を入力：
+UI_Fighting_Bow: 弓
+UI_Fighting_Bow_Master_Tooltip: ボウのコントロールをマスターした。クリティカルヒットで敵を蹴散らせ、滑らかな動きと正確さで狙ったターゲットは外さない。
+UI_Fighting_Bow_Tooltip: ボウのスキルはアーチャーとしての腕を表している。基本となるエイム、そして滑らかなショットが行える。
+UI_Fighting_Bow_Trained_Tooltip: トレーニングのかいあって、ボウのスキルが上昇した。ボウのリロードとエイム力が上昇し、クリティカルヒットを繰り出せるようになった。
+UI_Fighting_Bow_Untrained_Tooltip: トレーニングが必要。ボウを構えることができても、エイムやリロードにはまだ慣れていない。
+UI_Fighting_Crossbow: クロスボウ
+UI_Fighting_Crossbow_Master_Tooltip: クロスボウのマスターとなった。クリティカルヒットを繰り出すことができ、正確なショットが撃てる。ボルトのリロードも滑らかにできるようになった。
+UI_Fighting_Crossbow_Tooltip: クロスボウの能力が上昇した。基本的な構えと正確なエイムを行えるようになった。
+UI_Fighting_Crossbow_Trained_Tooltip: トレーニングと共にクロスボウの能力が上達した。より素早いリロード、エイムの安定、そしてクリティカルヒットを繰り出せるようになった。
+UI_Fighting_Crossbow_Untrained_Tooltip: トレーニングが必要だ。クロスボウを構えることはできるが、エイムもリロードも遅くていまいちだ。
+UI_Fighting_Fighting: 戦い
+UI_Fighting_OneHanded: 片手
+UI_Fighting_OneHanded_Master_Tooltip: 片手を使った戦いを熟練している。クリティカルストライクの確率が上昇し、ノックバックを行うことができる。パリィも上達し、カウンター攻撃が行えるようになった。
+UI_Fighting_OneHanded_Tooltip: 片手武器の熟練度は戦闘での効率を上げる。基本となるスイングから複雑なコンボまで、様々な技を使える。
+UI_Fighting_OneHanded_Trained_Tooltip: 訓練と共に動きが滑らかになり、コンボやパリィを行うことができる。クリティカルヒットを繰り出すことができ、攻撃を途中でキャンセルすることも可能だ。
+UI_Fighting_OneHanded_Untrained_Tooltip: 訓練が必要だ。武器を持つことはできるが、コンボやパリィは百年早い。
+UI_Fighting_TwoHanded: 両手持ち
+UI_Fighting_TwoHanded_Master_Tooltip: 両手持ち武器をマスターし、戦力が上昇。より頻繁にクリティカル・ストライクを出すことができ、パリィからのカウンターが可能となり、強力な一撃で敵を弾き飛ばすことができる。
+UI_Fighting_TwoHanded_Tooltip: 両手持ちのスキルは戦場での強さに直結している。強烈な一撃から、容赦ないコンボまで、様々な技を使える。
+UI_Fighting_TwoHanded_Trained_Tooltip: 訓練の甲斐があって、両手持ち武器を滑らかに使えるようになった。強力なコンボやパリィ、クリティカルヒット、そして攻撃のキャンセルが行えるようになった。
+UI_Fighting_TwoHanded_Untrained_Tooltip: 訓練が足りない。両手持ち武器を持つことができても、コンボやパリィはできず、まだまだワンパターンな攻撃だ。
+UI_GameOver_ModalMainMenu: メインメニューに戻りますか？
+UI_GameSaved_Notification: ''
+UI_Glossary_NoEntriesAvailable: グロサリーの登録がありません
+UI_HUD: 新グロサリー用語
+UI_HUD_Exp: XP
+UI_HUD_Experience: 経験値
+UI_HUD_SwitchWheel: ホイールを切り替え
+UI_Inventory_Bow: 弓
+UI_Inventory_Crossbow: クロスボウ
+UI_Inventory_Description: 説明
+UI_Inventory_EquippedSlot: スロットに装備中
+UI_Inventory_Food: 食料
+UI_Inventory_OneHanded: 片手武器
+UI_Inventory_Open: インベントリーを開く
+UI_Inventory_Requirements: 条件：
+UI_Inventory_ThousandsAbbreviation: k
+UI_Inventory_TwoHanded: 両手武器
+UI_Lessons: レッスン
+UI_Lessons_Acrobatics: アクロバティック
+UI_Lessons_Sneaking: スニーク
+UI_LoadSave: 新しいセーブ
+UI_LoadSave_Load: ロード
+UI_LoadSave_LoadGame: ゲームをロード
+UI_LoadSave_Manual: マニュアル
+UI_LoadSave_Save: 新しいセーブ
+UI_LoadSave_SaveGame: ゲームを保存
+UI_LoadingScreen_ChapterFormat: チャプター {ChapterNumber}
+UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
+UI_Loadingscreen_Chapter1Text: ''
+UI_Loadingscreen_Chapter1Title: コロニーへようこそ
+UI_Loadingscreen_Chapter2Text: ''
+UI_Loadingscreen_Chapter2Title: マインクローラーの巣
+UI_Loadingscreen_Chapter3Title: 古代の力を秘めたアーティファクト
+UI_Loadingscreen_Chapter4Title: サルダス
+UI_Loadingscreen_Chapter5Title: ポータルの守護者
+UI_Loadingscreen_Chapter6Title: スリーパーの会館
 UI_Loadingscreen_Hint1: このデモ版では、あの有名な名もなき英雄は登場しません。
 UI_Loadingscreen_Hint2: 『Gothic 1 Remake』は、オリジナル版『Gothic』の精神を受け継ぐオープンワールドRPGです。
 UI_Loadingscreen_Hint3: 一部英語のテキストが残っていることをお詫びします。最終版では全て日本語になります。
 UI_Loadingscreen_Hint4: 一部英語のテキストが残っていることをお詫びします。最終版では全て日本語になります。
 UI_Loadingscreen_Hint5: 一部英語のテキストが残っていることをお詫びします。最終版では全て日本語になります。
 UI_Loadingscreen_Hint6: このデモ版限定の機能として、死んでも復活できるオプションがあります。製品版には本機能はありませんが、セーブ/ロード機能は搭載されます。
-UI_Disclaimer: このデモ版は、『Gothic 1 
-  Remake』の主な機能の一部をご紹介するために作成された、独立した前日譚の体験版です。ゲームは現在も開発中であるため、バグやグリッチが含まれる可能性があります。ゲームの製品版では、原作『Gothic』のストーリー、構成、精神を踏襲し、名もなき主人公が登場します。
+UI_Loadingscreen_HintsHeadline: ヒント
+UI_Loadingscreen_Loading: ロード中…
+UI_Loadingscreen_PressKeytoCtn: キーを押して続行！
+UI_Main_Credits: クレジット
+UI_Main_Load: ゲームをロード
+UI_Main_NewGame: ニューゲーム
+UI_Main_Quit: 終了
+UI_Main_QuitGame: ゲームを終了
+UI_Main_QuitModal: 本当にゲームを終了しますか？
+UI_Main_Settings: 設定
+UI_Main_Singleplayer: シングルプレイヤー
+UI_Notification: チャプター {ChapterNumber}
+UI_Notification_AreaDiscovered: 新しいエリアを発見
+UI_Notification_ExperienceGainedFormat: '{Amount} XP'
+UI_Notification_GlossaryUpdatedFormat: グロサリー更新：{EntryName}
+UI_Notification_KeyUsedFormat: 使用した鍵：{KeyName}
+UI_Notification_LevelUp: レベルアップ
+UI_Notification_ShowMore: 詳細を表示
+UI_Notification_SkillIncreasedFormat: スキル上昇：{SkillName}
+UI_Notification_SkillLearnedFormat: スキル習得：{SkillName}
+UI_Profile: 新しいプロフィール
+UI_Profile_Chapter: チャプター
+UI_Profile_ChapterNyras: Nyras
+UI_Profile_DefaultSaveFileName: '{location}、タグ {day}、{hours}:{minutes}'
+UI_Profile_Delete: 削除
+UI_Profile_Difficulty: 難易度
+UI_Profile_LastSave: 最新のセーブ
+UI_Profile_ModalDeleteProfile: このプロフィールと関連するセーブデータをすべて削除してよろしいですか？
+UI_Profile_ModalDeleteProfileTitle: プロフィールを削除
+UI_Profile_ModalDeleteSaveGame: このセーブデータを削除してよろしいですか？
+UI_Profile_ModalDeleteSaveTitle: セーブを削除
+UI_Profile_ModalError: エラーが発生しました。
+UI_Profile_ModalNameEmpty: 名前は空欄にできません。
+UI_Profile_ModalNameInUse: この名前はすでに使用されています。
+UI_Profile_ModalNoMoreProfiles: 空いているプロフィール・スロットがありません。古いものを削除して新しいのを作成してください。
+UI_Profile_Profile1: プロフィール1
+UI_Profile_Profile2: プロフィール2
+UI_Profile_Profile3: プロフィール3
+UI_Profile_Profile4: プロフィール4
+UI_Profile_SaveTime: セーブ時間
+UI_Profile_SelectProfile: プロフィールを選択
+UI_Profile_TimePlayed: プレイ時間
+UI_Protection_Arrows: 矢
+UI_Protection_Arrows_Tooltip: このプロテクションは矢やボルトのダメージを軽減してくれる。
+UI_Protection_Fire: 炎
+UI_Protection_Fire_Tooltip: 炎の熱から守ってくれる。炎ベースの攻撃やダメージを軽減。
+UI_Protection_Magic: 魔法
+UI_Protection_Magic_Tooltip: 魔力の力から守ってくれる。アイススペルやイナズマなどのダメージを軽減。
+UI_Protection_Physical: 物理
+UI_Protection_Physical_Tooltip: 剣や斧、メイスなどの物理ダメージをカット。直接的な物理ダメージを軽減。
+UI_Protection_Protection: プロテクション
+UI_Quests: 新しいクエスト
+UI_Quests_Complete: クエスト完了
+UI_Quests_DateFormat: '{days}日前'
+UI_Quests_DateTimeFormat: '{date}, {time}'
+UI_Quests_DateToday: 今日
+UI_Quests_DateYesterday: 昨日
+UI_Quests_Log: ログ
+UI_Quests_NoQuestsAvailable: 有効なクエストがありません
+UI_Quests_Objectives: 目標
+UI_Quests_QuestFailed: クエスト失敗
+UI_Quests_QuestUpdatedFormat: '''{quest}''がアップデートされました'
+UI_Quests_TimeFormat: '{hours}:{minutes}'
+UI_Quests_Update: クエストがアップデートされました
+UI_Settings_AimScalar: エイムスピード
+UI_Settings_AmbientOcclusionIntensity: アンビエントオクルージョン強度
+UI_Settings_AmbientOcclusionIntensity_Description: アンビエントオクルージョン効果の強さ。値を高くすると、角や隙間の影がより強調されます。
+UI_Settings_AntiAliasing: アンチエイリアス
+UI_Settings_AntiAliasingQuality: アンチエイリアスのクオリティ
+UI_Settings_Audio: オーディオ
+UI_Settings_AudioLanguage: オーディオ言語
+UI_Settings_AutoCloseChests: 自動で宝箱を閉じる
+UI_Settings_AutoCloseChests_Description: この設定を有効にすると、アイテムを一括で取得すると自動的に宝箱が閉じます。それ以外の場合、宝箱は手動で閉じるまで開いたままになります。
+UI_Settings_BloomIntensity: ブルーム強度
+UI_Settings_BloomIntensity_Description: ブルーム効果の強さ。値を高くすると、明るいオブジェクトの周囲がより強く光ります。
+UI_Settings_Brightness: 明るさ
+UI_Settings_ButtonGraphics: ボタンのグラフィック
+UI_Settings_CameraPreset: カメラプリセット
+UI_Settings_CameraPreset_Classic: クラシック
+UI_Settings_CameraPreset_Default: デフォルト
+UI_Settings_CameraSentivity: カメラ感度
+UI_Settings_ColorBrightness: 明度
+UI_Settings_ColorBrightness_Description: この値を上げ下げすると、シーン全体が明るくなったり暗くなったりします。
+UI_Settings_ColorContrast: コントラスト
+UI_Settings_ColorContrast_Description: シーンの明暗値の範囲。低い値では明るい部分と暗い部分の差が小さくなり、高い値では差が大きくなります。
+UI_Settings_ColorSaturation: 飽和
+UI_Settings_ColorSaturation_Description: 画像全体の色（色相）の強さ。値を高くすると、より鮮やかな色になります。
+UI_Settings_Contrast: コントラスト
+UI_Settings_Controls: 操作方法
+UI_Settings_DepthOfField: 被写界深度
+UI_Settings_Disclaimer: 製品版では、UIや通知の表示設定を含む、より多くのゲーム設定を利用できるようになります。
+UI_Settings_Display: ディスプレイ
+UI_Settings_DisplayMode: 表示モード
+UI_Settings_DisplayMode_Borderless: ボーダーレス
+UI_Settings_DisplayMode_Fullscreen: 全画面
+UI_Settings_DisplayMode_Windowed: ウィンドウモード
+UI_Settings_DynamicResolution: ダイナミック解像度
+UI_Settings_EffectsQuality: エフェクトのクオリティ
+UI_Settings_FOV: 認識範囲
+UI_Settings_FoliageQuality: 枝葉のクオリティ
+UI_Settings_FrameRateLimit: フレームレート上限
+UI_Settings_FrameRateLimit_Unlimited: 無制限
+UI_Settings_Game: ゲーム
+UI_Settings_Gameplay: ゲームプレイ
+UI_Settings_Gamma: ガンマ
+UI_Settings_GlobalIlluminationQuality: グローバルイルミネーションのクオリティ
+UI_Settings_Graphics: グラフィック
+UI_Settings_HDR: HDR
+UI_Settings_InvertXAxis: X軸を反転
+UI_Settings_InvertYAxis: Y軸を反転
+UI_Settings_InvertedHCam: 水平カメラ反転
+UI_Settings_InvertedVCam: 垂直カメラ反転
+UI_Settings_LandscapeQuality: 地形のクオリティ
+UI_Settings_Language_Chinese: 中国語
+UI_Settings_Language_English: 英語
+UI_Settings_Language_French: フランス語
+UI_Settings_Language_German: ドイツ語
+UI_Settings_Language_Italian: イタリア語
+UI_Settings_Language_Japanese: 日本語
+UI_Settings_Language_Korean: 韓国語
+UI_Settings_Language_Polish: ポーランド語
+UI_Settings_Language_Russian: ロシア語
+UI_Settings_Language_Spanish: スペイン語
+UI_Settings_Language_Text: テキスト言語
+UI_Settings_Language_Voice: 音声言語
+UI_Settings_LeftStickSensitivity: 左スティック感度
+UI_Settings_MasterVolume: マスター音量
+UI_Settings_MotionBlurIntensity: モーションブラー強度
+UI_Settings_MotionBlurIntensity_Description: モーションブラー効果の強さ。値を高くすると、カメラを素早く動かしたときに、より強いブラー効果が得られます。
+UI_Settings_MusicVolume: 音量
+UI_Settings_ObjectsOutliner: オブジェクトの輪郭
+UI_Settings_ObjectsOutliner_Default: デフォルト
+UI_Settings_ObjectsOutliner_Low: 低
+UI_Settings_ObjectsOutliner_No: なし
+UI_Settings_Off: オフ
+UI_Settings_On: オン
+UI_Settings_OverallQuality: クオリティプリセット
+UI_Settings_PostProcessingQuality: ポストプロセスのクオリティ
+UI_Settings_Quality_Cinematic: Alkimia Overdose
+UI_Settings_Quality_Custom: カスタム
+UI_Settings_Quality_Epic: Gothic
+UI_Settings_Quality_High: 高
+UI_Settings_Quality_Low: 低
+UI_Settings_Quality_Medium: 中
+UI_Settings_Quality_Recommended: 推奨
+UI_Settings_ReflectionQuality: 反射のクオリティ
+UI_Settings_Reset: リセット
+UI_Settings_Resolution: 解像度
+UI_Settings_ResolutionDisclaimer: 「Alkimia Overdose」品質プリセットは、ハイエンドハードウェア以外では利用できない可能性があります。
+UI_Settings_ResolutionQuality: 解像度のクオリティ
+UI_Settings_ResolutionQuality_Description: 解像度のクオリティを、パフォーマンスまたはビジュアルのクオリティに合わせて調整します。
+UI_Settings_RightStickSensitivity: 右スティック感度
+UI_Settings_SFXVolume: SFX音量
+UI_Settings_ShadingQuality: 影のクオリティ
+UI_Settings_ShadowQuality: 影のクオリティ
+UI_Settings_Sound: サウンド
+UI_Settings_SubtitleSize_Default: デフォルト
+UI_Settings_SubtitleSize_Larger: 大きめ
+UI_Settings_SubtitleStyle: 字幕スタイル
+UI_Settings_Subtitles: 字幕
+UI_Settings_SubtitlesToggle: 字幕
+UI_Settings_TextLanguage: テキスト言語
+UI_Settings_TextureQuality: テクスチャのクオリティ
+UI_Settings_VSync: VSync
+UI_Settings_Vibration: 振動
+UI_Settings_ViewDistanceQuality: 視距離のクオリティ
+UI_Settings_VoiceVolume: 睡眠をとり、よく休めた。
+UI_Settings_Volume_Master: マスター音量
+UI_Settings_Volume_Music: 音楽
+UI_Settings_Volume_Sound: 効果音
+UI_Settings_Volume_Voice: ボイス
+UI_Skill_OpenLocks: 鍵を開ける
+UI_Skill_Pickpocketing: スリ
+UI_Skill_SpecialSkills: スペシャルスキル
+UI_SleepEndedMessage_Default_2: 睡眠をとり、よく休めた（別バージョン）
+UI_SleepEndedMessage_StrangeDreams_1: 睡眠をとれたが、変な夢を見た。
+UI_SleepEndedMessage_StrangeDreams_2: 睡眠をとれたが、変な夢を見た（別バージョン）
+UI_Sleep_WaitingForPartner: '[ ]'
+UI_Stats_CharacterStats: スタッツ
+UI_Stats_Level: レベル
+UI_Stats_SkillPoints: スキルポイント
 UI_StoryIntro: '物語の舞台はコリニスの鉱山谷。障壁の魔法が狂った後、囚人たちが暴力で占拠した流刑地だ。囚人たちは今では、敗色濃厚なオークとの戦争における人類最後の希望、魔法の「青鉱石」を必要とする王と相互依存の関係で暮らしている。
 
 
@@ -16,450 +442,19 @@ UI_StoryIntro: '物語の舞台はコリニスの鉱山谷。障壁の魔法が�
 
 
   <b>新しい人生へようこそ！</>'
-GE_Param_Heal: 回復
-GE_Param_Duration: 持続時間
-GE_Param_Mana: マナ
-UI_Tabs_Inventory: インベントリー
-UI_Tabs_Quests: クエスト
-UI_Tabs_Glossary: グロサリー
-UI_Tabs_Map: 地図
-UI_Tabs_Stats: スタッツ
 UI_Tabs_Buy: 購入
+UI_Tabs_Glossary: グロサリー
+UI_Tabs_Inventory: インベントリー
+UI_Tabs_Map: 地図
+UI_Tabs_Quests: クエスト
 UI_Tabs_Sell: 売却
-Text_FilterMelee: 近接
-Text_FilterRanged: 遠距離
-Text_FilterMagic: 魔法
-Text_FilterWearables: 衣類
-Text_FilterFood: 食料
-Text_FilterPotions: ポーション
-Text_FilterMaterials: 材料
-Text_FilterMiscellaneous: その他
-Text_FilterArtefacts: アーティファクト
-Text_FilterDocuments: ドキュメント
-Text_FilterOldCamp: オールド・キャンプ
-Text_FilterSwampCamp: スワンプ・キャンプ
-Text_FilterNewCamp: ニュー・キャンプ
-Text_FilterHiddenCamp: 隠しキャンプ
-Text_FilterOutsiders: アウトサイダー
-Text_FilterCreatures: クリーチャー
-Text_FilterItems: アイテム
-Text_FilterLocations: ロケーション
-Text_FilterWorld: コロニー
-Text_FilterCompleted: 完了
-Text_FilterAll: すべて
-UI_Inventory_Requirements: 条件：
-UI_Inventory_Description: 説明
-UI_Inventory_EquippedSlot: スロットに装備中
-UI_Inventory_OneHanded: 片手武器
-UI_Inventory_TwoHanded: 両手武器
-UI_Inventory_Bow: 弓
-UI_Inventory_Crossbow: クロスボウ
-UI_Inventory_Food: 食料
-UI_Inventory_Open: インベントリーを開く
-UI_Inventory_ThousandsAbbreviation: k
-UI_Quests_Objectives: 目標
-UI_Quests_Log: ログ
-UI_Quests_DateTimeFormat: '{date}, {time}'
-UI_Quests_DateFormat: '{days}日前'
-UI_Quests_TimeFormat: '{hours}:{minutes}'
-UI_Quests_DateToday: 今日
-UI_Quests_DateYesterday: 昨日
-UI_Quests_Update: クエストがアップデートされました
-UI_Quests_Complete: クエスト完了
-UI_Quests_QuestFailed: クエスト失敗
-UI_Quests: 新しいクエスト
-UI_Quests_NoQuestsAvailable: 有効なクエストがありません
-UI_Quests_QuestUpdatedFormat: '''{quest}''がアップデートされました'
-UI_Glossary_NoEntriesAvailable: グロサリーの登録がありません
-UI_Stats_CharacterStats: スタッツ
-UI_Stats_Level: レベル
-UI_Stats_SkillPoints: スキルポイント
-UI_Attribute_Atributes: アトリビュート
-UI_Attribute_Health: 体力
-UI_Attribute_Mana: マナ
-UI_Attribute_Strength: 筋力
-UI_Attribute_Dexterity: 技量
-UI_Attribute_MagicCircle: マジック・サークル
-UI_Attribute_Toughness: 頑丈さ
-UI_Protection_Protection: プロテクション
-UI_Protection_Physical: 物理
-UI_Protection_Arrows: 矢
-UI_Protection_Magic: 魔法
-UI_Protection_Fire: 炎
-UI_Fighting_Fighting: 戦い
-UI_Fighting_OneHanded: 片手
-UI_Fighting_TwoHanded: 両手持ち
-UI_Fighting_Crossbow: クロスボウ
-UI_Fighting_Bow: 弓
-UI_Skill_SpecialSkills: スペシャルスキル
-UI_Skill_OpenLocks: 鍵を開ける
-UI_Skill_Pickpocketing: スリ
-UI_Lessons: レッスン
-UI_Lessons_Sneaking: スニーク
-UI_Lessons_Acrobatics: アクロバティック
-UI_Attribute_Health_Tooltip: 体力は体がどれだけ耐えられるかを表している。体力が高ければ高いほど、攻撃を受けられる。経験値と共に体力も上昇し、手ごわい敵も相手できるようになっていく。
-UI_Attribute_Mana_Tooltip: 魔法を使うにはマナを消費する。スペルを使うとマナを消費し、自動的には回復しない。休憩のタイミングを計算し、アイテムを駆使しよう。
-UI_Attribute_Strength_Tooltip: 筋力は力の強さを表す値。筋力が高ければ高いほど、強力な武器を使うことができ、近接攻撃の威力も上がる。
-UI_Attribute_Dexterity_Tooltip: 技量は自らの動きのバランスとコントロールを表す値。使える遠距離武器や、遠距離攻撃の効果、スリの成功率などはこの値で決まる。
-UI_Attribute_MagicCircle_Tooltip: マジック・サークルは魔術師の知識の深さを表す値。サークルが上昇すれば、より効果的な魔法が使えるようになり、強力な魔術師となれる。
-UI_Attribute_Toughness_Tooltip: 頑丈さはどれだけタフかを表す値。高ければ高いほど、多くのアイテムを持ち歩ける。アイテムを持ちすぎると、動きが制限されるので、インベントリーはちゃんと管理しよう。
-UI_Protection_Physical_Tooltip: 剣や斧、メイスなどの物理ダメージをカット。直接的な物理ダメージを軽減。
-UI_Protection_Arrows_Tooltip: このプロテクションは矢やボルトのダメージを軽減してくれる。
-UI_Protection_Magic_Tooltip: 魔力の力から守ってくれる。アイススペルやイナズマなどのダメージを軽減。
-UI_Protection_Fire_Tooltip: 炎の熱から守ってくれる。炎ベースの攻撃やダメージを軽減。
-UI_Fighting_OneHanded_Tooltip: 片手武器の熟練度は戦闘での効率を上げる。基本となるスイングから複雑なコンボまで、様々な技を使える。
-UI_Fighting_OneHanded_Untrained_Tooltip: 訓練が必要だ。武器を持つことはできるが、コンボやパリィは百年早い。
-UI_Fighting_OneHanded_Trained_Tooltip: 訓練と共に動きが滑らかになり、コンボやパリィを行うことができる。クリティカルヒットを繰り出すことができ、攻撃を途中でキャンセルすることも可能だ。
-UI_Fighting_OneHanded_Master_Tooltip: 片手を使った戦いを熟練している。クリティカルストライクの確率が上昇し、ノックバックを行うことができる。パリィも上達し、カウンター攻撃が行えるようになった。
-UI_Fighting_TwoHanded_Tooltip: 両手持ちのスキルは戦場での強さに直結している。強烈な一撃から、容赦ないコンボまで、様々な技を使える。
-UI_Fighting_TwoHanded_Untrained_Tooltip: 訓練が足りない。両手持ち武器を持つことができても、コンボやパリィはできず、まだまだワンパターンな攻撃だ。
-UI_Fighting_TwoHanded_Trained_Tooltip: 訓練の甲斐があって、両手持ち武器を滑らかに使えるようになった。強力なコンボやパリィ、クリティカルヒット、そして攻撃のキャンセルが行えるようになった。
-UI_Fighting_TwoHanded_Master_Tooltip: 
-  両手持ち武器をマスターし、戦力が上昇。より頻繁にクリティカル・ストライクを出すことができ、パリィからのカウンターが可能となり、強力な一撃で敵を弾き飛ばすことができる。
-UI_Fighting_Crossbow_Tooltip: クロスボウの能力が上昇した。基本的な構えと正確なエイムを行えるようになった。
-UI_Fighting_Crossbow_Untrained_Tooltip: トレーニングが必要だ。クロスボウを構えることはできるが、エイムもリロードも遅くていまいちだ。
-UI_Fighting_Crossbow_Trained_Tooltip: トレーニングと共にクロスボウの能力が上達した。より素早いリロード、エイムの安定、そしてクリティカルヒットを繰り出せるようになった。
-UI_Fighting_Crossbow_Master_Tooltip: クロスボウのマスターとなった。クリティカルヒットを繰り出すことができ、正確なショットが撃てる。ボルトのリロードも滑らかにできるようになった。
-UI_Fighting_Bow_Tooltip: ボウのスキルはアーチャーとしての腕を表している。基本となるエイム、そして滑らかなショットが行える。
-UI_Fighting_Bow_Untrained_Tooltip: トレーニングが必要。ボウを構えることができても、エイムやリロードにはまだ慣れていない。
-UI_Fighting_Bow_Trained_Tooltip: トレーニングのかいあって、ボウのスキルが上昇した。ボウのリロードとエイム力が上昇し、クリティカルヒットを繰り出せるようになった。
-UI_Fighting_Bow_Master_Tooltip: ボウのコントロールをマスターした。クリティカルヒットで敵を蹴散らせ、滑らかな動きと正確さで狙ったターゲットは外さない。
-UI_Crafting_InProgress: レシピを準備中…
-UI_Crafting_ForgingItem: アイテムを作成中
-UI_Crafting_GoToAnvil: 鉄床に移動
-UI_Crafting_ShapingItem: アイテムを形作る
-UI_Crafting_GoToWaterBarrel: ウォーターバレルに移動
-UI_Crafting_CoolingDownItem: アイテムをクールダウン中
-UI_Crafting_PanCook: フライパン
-UI_Crafting_MenuTitle_Pan: フライパン
-UI_Crafting_MenuTitle_Cauldron: 大釜
-UI_Crafting_MenuTitle_Forge: 生成
-UI_Crafting_MenuTitle_Workbench: 作業台
-UI_Crafting_MenuTitle_Whetstone: ウェットストーン
-UI_Crafting_MenuTitle_Alchemy: アルケミー・ステーション
-UI_Crafting_MenuTitle_Inscription: インスクリプション・ステーション
-UI_Crafting_HasMaterials: 材料を所持
-UI_Crafting_Quantity: 量：
-UI_Crafting_Cost: コスト
-UI_Crafting_Start: '[長押し] クラフト'
-UI_Crafting_Section: セクション
-UI_Crafting_Scrap: '[長押し] スクラップ'
+UI_Tabs_Stats: スタッツ
+UI_Trading_Balance: バランス
+UI_Trading_MyInventory: 自分のインベントリー
+UI_Trading_Remove: 外す
+UI_Trading_SellBuy: キューに追加
+UI_Trading_SellerInventory: 商人のインベントリー
 UI_death_GameOver: ゲームオーバー
+UI_death_MainMenu: メインメニュー
 UI_death_Revive: 蘇生
 UI_death_ReviveLeft: 残り蘇生数
-UI_death_MainMenu: メインメニュー
-Text_Resume: 再開
-Text_OpenMenu: メニューを開く
-TEXT_BACK: 戻る
-TEXT_DIALOG_END: 終了
-Text_Cancel: キャンセル
-Text_Equip: 装備する
-Text_Equipped: 装備中
-Text_Unequip: 外す
-Text_Consume: 消費
-Text_Compare: 比較
-Text_Drop: '[長押し] スクラップ'
-Text_Read: 読む
-Text_Close: 閉じる
-Text_Start: START
-Text_Button_Back: 戻る
-Text_Continue: 続ける
-Text_Confirm: 確定
-Text_Select: 選択
-Text_Yes: はい
-Text_No: いいえ
-Text_Reset: リセット
-Text_SaveChanges: 変更を保存
-Text_LootAll: すべてを取る
-Text_LootSwitchSection: フォーカスを切り替え
-Text_LootTake: 取る
-Text_LootChest: チェスト
-Text_LootCorpse: 死体
-Text_LootStore: アイテムを保管
-Text_LootInventory: インベントリー
-Text_TradeAccept: 確定
-Text_HoldAccept: '[長押し] 確定'
-Text_TradeCancel: キャンセル
-Text_DocumentMinimize: 閉じる
-Text_OpenGlossary: グロサリーを開く
-Text_CycleHint: ヒントを切り替え
-Text_From: 差出人：
-Text_To: 送り先：
-Text_SleepFor: 寝る：
-Text_Days: 日
-Text_Hours: h
-Text_Minutes: m
-Text_Seconds: s
-Text_Max_Uppercase: マックス
-Text_Restart: リスタート
-UI_HUD_SwitchWheel: ホイールを切り替え
-UI_Demo_Gratitude: デモをプレイしていただきありがとうございます！
-UI_Demo_Gratitude_QR: ご意見やご感想は以下から：
-UI_Demo_Gratitude_Follow: フォローお願いします：
-UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
-UI_Demo_CheatCode: デモ版では必要ないですよね？でも製品版では…
-UI_Trading_MyInventory: 自分のインベントリー
-UI_Trading_SellerInventory: 商人のインベントリー
-UI_Trading_Balance: バランス
-UI_Trading_SellBuy: キューに追加
-UI_Trading_Remove: 外す
-UI_Sleep_WaitingForPartner: '[ ]'
-Text_LockpickMoveHorizontal: 左/右に移動
-Text_LockpickMoveVertical: 上/下に移動
-Text_OpenChest: チェストを開く
-Text_OpenDoor: ドアを開く
-Text_LockpickToolRequired: ロックピックの道具が必要。
-Text_LockpickSkillRequired: ロックピック・スキルが必要。
-UI_ArmourCustomization_Torso: 胴体
-UI_ArmourCustomization_Waist: ウェイスト
-UI_ArmourCustomization_Legs: 脚
-UI_ArmourCustomization_ArmorAlterations: 防具の変更
-UI_ArmourCustomization_Equipped: E
-UI_ArmourCustomization_Equip: 装備する
-UI_ArmourCustomization_Purchase: '[長押し] 購入 '
-UI_ArmourCustomization_Unequip: 外す
-UI_Notification_LevelUp: レベルアップ
-UI_Notification: チャプター {ChapterNumber}
-UI_Notification_AreaDiscovered: 新しいエリアを発見
-UI_Notification_ExperienceGainedFormat: '{Amount} XP'
-UI_Notification_GlossaryUpdatedFormat: グロサリー更新：{EntryName}
-UI_Notification_KeyUsedFormat: 使用した鍵：{KeyName}
-UI_Notification_SkillIncreasedFormat: スキル上昇：{SkillName}
-UI_Notification_SkillLearnedFormat: スキル習得：{SkillName}
-UI_Notification_ShowMore: 詳細を表示
-UI_GameSaved_Notification: ''
-UI_CantSave_Notification: 鈍的ダメージ
-Item_Damage_Physical_Edge: 刃物ダメージ
-Item_Damage_Physical_Point: ポイントダメージ
-Item_Damage_Elemental_Fire: プレイ
-UI_Main_Singleplayer: シングルプレイヤー
-UI_Main_Settings: 設定
-UI_Main_Credits: クレジット
-UI_Main_Quit: 終了
-UI_Main_QuitGame: ゲームを終了
-UI_Main_QuitModal: 本当にゲームを終了しますか？
-UI_GameOver_ModalMainMenu: メインメニューに戻りますか？
-UI_Main_NewGame: ニューゲーム
-UI_Main_Load: ゲームをロード
-UI_EnterNameHere: 名前を入力：
-UI_LoadSave_LoadGame: ゲームをロード
-UI_LoadSave_SaveGame: ゲームを保存
-UI_LoadSave: 新しいセーブ
-UI_LoadSave_Load: ロード
-UI_LoadSave_Save: 新しいセーブ
-UI_LoadSave_Manual: マニュアル
-UI_Loadingscreen_Loading: ロード中…
-UI_Loadingscreen_PressKeytoCtn: キーを押して続行！
-UI_Loadingscreen_HintsHeadline: ヒント
-UI_LoadingScreen_ChapterFormat: チャプター {ChapterNumber}
-UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
-UI_Loadingscreen_Chapter1Title: コロニーへようこそ
-UI_Loadingscreen_Chapter1Text: ''
-UI_Loadingscreen_Chapter2Title: マインクローラーの巣
-UI_Loadingscreen_Chapter2Text: ''
-UI_Loadingscreen_Chapter3Title: 古代の力を秘めたアーティファクト
-UI_Loadingscreen_Chapter4Title: サルダス
-UI_Loadingscreen_Chapter5Title: ポータルの守護者
-UI_Loadingscreen_Chapter6Title: スリーパーの会館
-UI_Settings_Gameplay: ゲームプレイ
-UI_Settings_Controls: 操作方法
-UI_Settings_Audio: オーディオ
-UI_Settings_On: オン
-UI_Settings_Off: オフ
-UI_Settings_InvertedVCam: 垂直カメラ反転
-UI_Settings_InvertedHCam: 水平カメラ反転
-UI_Settings_CameraSentivity: カメラ感度
-UI_Settings_Volume_Master: マスター音量
-UI_Settings_Volume_Sound: 効果音
-UI_Settings_Volume_Music: 音楽
-UI_Settings_Volume_Voice: ボイス
-UI_Settings_Language_Text: テキスト言語
-UI_Settings_Language_Voice: 音声言語
-UI_Settings_SubtitlesToggle: 字幕
-UI_Settings_Brightness: 明るさ
-UI_Settings_Contrast: コントラスト
-UI_Settings_HDR: HDR
-UI_HUD: 新グロサリー用語
-UI_HUD_Experience: 経験値
-UI_HUD_Exp: XP
-Text_MoveForward: 前に移動
-Text_MoveBack: 後ろに移動
-Text_MoveLeft: 左に移動
-Text_MoveRight: 右に移動
-Text_Attack1: 攻撃1
-Text_Attack2: 攻撃2
-Text_Attack3: 攻撃3
-Text_Attack4: 攻撃4
-Text_Attack5: 攻撃5
-Text_Block: ブロック/パリィ
-Text_CancelThrow: 投げをキャンセル
-Text_Combat: 戦闘
-Text_Dodge: 回避
-Text_Draw: '近接武器を出す/しまう
-
-  [長押し]遠距離武器を出す/しまう'
-Text_DrawMelee: 近接武器を出す/しまう
-Text_DropTorch: 松明を落とす
-Text_DrawRanged: 遠距離武器を出す/しまう
-Text_Exploration: 探索
-Text_Hold: 長押し
-Text_Interact: インタラクト
-Text_Interact1: インタラクト（メイン）
-Text_Interact2: インタラクト（サブ）
-Text_Inventory: インベントリー
-Text_JumpClimb: ジャンプ/登る
-Text_Crouch: しゃがむ
-Text_Jump: ジャンプ
-Text_Kick: キック
-Text_Lock: ターゲットにロックオン
-Text_ChangeObjective: 目標を変更
-Text_Look: 見る
-Text_Move: 移動
-Text_PauseMenu: ポーズメニュー
-Text_QuickAccess: クイックアクセス・アイテム
-Text_SelectThrow: 投げるクイックアイテムを選択
-Text_Roll: ロール
-Text_Sneak: 静かに入る/出る
-Text_Walk: 歩きを切り替え
-Text_Sprint: '[クリック]走りを切り替え'
-Text_Throw: アイテムを投げる
-Text_ToggleQuick: クイックアクセスを切り替え
-Text_UseQuick: クイックアイテムを使う
-Text_Dive: 潜る/沈む
-Text_Surface: 水面に上がる/上に泳ぐ
-Text_Cast: 魔法を使う
-Text_LaunchSpell: 魔法を発射
-Text_SkipDialogue: 会話をスキップ
-Text_Aim: エイム
-Text_Mouse: マウス
-UI_Profile_LastSave: 最新のセーブ
-UI_Profile_SaveTime: セーブ時間
-UI_Profile_TimePlayed: プレイ時間
-UI_Profile_Chapter: チャプター
-UI_Profile_Difficulty: 難易度
-UI_Profile_SelectProfile: プロフィールを選択
-UI_Profile_Delete: 削除
-UI_Profile: 新しいプロフィール
-UI_Profile_Profile1: プロフィール1
-UI_Profile_Profile2: プロフィール2
-UI_Profile_Profile3: プロフィール3
-UI_Profile_Profile4: プロフィール4
-UI_Profile_ModalDeleteProfile: このプロフィールと関連するセーブデータをすべて削除してよろしいですか？
-UI_Profile_ModalDeleteProfileTitle: プロフィールを削除
-UI_Profile_ModalDeleteSaveTitle: セーブを削除
-UI_Profile_ModalDeleteSaveGame: このセーブデータを削除してよろしいですか？
-UI_Profile_ModalNoMoreProfiles: 空いているプロフィール・スロットがありません。古いものを削除して新しいのを作成してください。
-UI_Profile_ModalNameInUse: この名前はすでに使用されています。
-UI_Profile_ModalNameEmpty: 名前は空欄にできません。
-UI_Profile_ModalError: エラーが発生しました。
-UI_Profile_DefaultSaveFileName: '{location}、タグ {day}、{hours}:{minutes}'
-UI_Difficulty_SelectDifficulty: 難易度選択
-UI_Difficulty_Easy: イージー
-UI_Difficulty_EasyDescription: ''
-UI_Difficulty_Standard: スタンダード
-UI_Difficulty_StandardDescription: ''
-UI_Difficulty_Hard: ハード
-UI_Difficulty_HardDescription: ''
-UI_Difficulty_Custom: カスタム
-UI_Difficulty_CustomDescription: ''
-UI_Difficulty_Start: ゲームをスタート
-UI_Difficulty_CombatLabel: 戦闘
-UI_Difficulty_ResourcesLabel: 資源
-UI_Difficulty_ProgressionLabel: 進行度
-UI_Difficulty_CombatTooltip: ''
-UI_Difficulty_ResourcesTooltip: ''
-UI_Difficulty_ProgressionTooltip: ''
-UI_Settings_Reset: リセット
-UI_Settings_Game: ゲーム
-UI_Settings_CameraPreset: カメラプリセット
-UI_Settings_CameraPreset_Default: デフォルト
-UI_Settings_CameraPreset_Classic: クラシック
-UI_Settings_TextLanguage: テキスト言語
-UI_Settings_AudioLanguage: オーディオ言語
-UI_Settings_Language_English: 英語
-UI_Settings_Language_German: ドイツ語
-UI_Settings_Language_Polish: ポーランド語
-UI_Settings_Language_Russian: ロシア語
-UI_Settings_Language_Spanish: スペイン語
-UI_Settings_Language_French: フランス語
-UI_Settings_Language_Italian: イタリア語
-UI_Settings_Language_Chinese: 中国語
-UI_Settings_Language_Korean: 韓国語
-UI_Settings_Language_Japanese: 日本語
-UI_Settings_ObjectsOutliner: オブジェクトの輪郭
-UI_Settings_ObjectsOutliner_Default: デフォルト
-UI_Settings_ObjectsOutliner_Low: 低
-UI_Settings_ObjectsOutliner_No: なし
-UI_Settings_Subtitles: 字幕
-UI_Settings_SubtitleStyle: 字幕スタイル
-UI_Settings_SubtitleSize_Default: デフォルト
-UI_Settings_SubtitleSize_Larger: 大きめ
-UI_Settings_AimScalar: エイムスピード
-UI_Settings_AutoCloseChests: 自動で宝箱を閉じる
-UI_Settings_AutoCloseChests_Description: この設定を有効にすると、アイテムを一括で取得すると自動的に宝箱が閉じます。それ以外の場合、宝箱は手動で閉じるまで開いたままになります。
-UI_Settings_InvertXAxis: X軸を反転
-UI_Settings_InvertYAxis: Y軸を反転
-UI_Settings_RightStickSensitivity: 右スティック感度
-UI_Settings_LeftStickSensitivity: 左スティック感度
-UI_Settings_Vibration: 振動
-UI_Settings_ButtonGraphics: ボタンのグラフィック
-UI_Settings_Display: ディスプレイ
-UI_Settings_DisplayMode: 表示モード
-UI_Settings_DisplayMode_Windowed: ウィンドウモード
-UI_Settings_DisplayMode_Borderless: ボーダーレス
-UI_Settings_DisplayMode_Fullscreen: 全画面
-UI_Settings_Resolution: 解像度
-UI_Settings_DynamicResolution: ダイナミック解像度
-UI_Settings_VSync: VSync
-UI_Settings_FrameRateLimit: フレームレート上限
-UI_Settings_FrameRateLimit_Unlimited: 無制限
-UI_Settings_Gamma: ガンマ
-UI_Settings_Graphics: グラフィック
-UI_Settings_FOV: 認識範囲
-UI_Settings_DepthOfField: 被写界深度
-UI_Settings_MotionBlurIntensity: モーションブラー強度
-UI_Settings_MotionBlurIntensity_Description: モーションブラー効果の強さ。値を高くすると、カメラを素早く動かしたときに、より強いブラー効果が得られます。
-UI_Settings_BloomIntensity: ブルーム強度
-UI_Settings_BloomIntensity_Description: ブルーム効果の強さ。値を高くすると、明るいオブジェクトの周囲がより強く光ります。
-UI_Settings_AmbientOcclusionIntensity: アンビエントオクルージョン強度
-UI_Settings_AmbientOcclusionIntensity_Description: アンビエントオクルージョン効果の強さ。値を高くすると、角や隙間の影がより強調されます。
-UI_Settings_AntiAliasing: アンチエイリアス
-UI_Settings_ColorSaturation: 飽和
-UI_Settings_ColorSaturation_Description: 画像全体の色（色相）の強さ。値を高くすると、より鮮やかな色になります。
-UI_Settings_ColorContrast: コントラスト
-UI_Settings_ColorContrast_Description: シーンの明暗値の範囲。低い値では明るい部分と暗い部分の差が小さくなり、高い値では差が大きくなります。
-UI_Settings_ColorBrightness: 明度
-UI_Settings_ColorBrightness_Description: この値を上げ下げすると、シーン全体が明るくなったり暗くなったりします。
-UI_Settings_OverallQuality: クオリティプリセット
-UI_Settings_Quality_Low: 低
-UI_Settings_Quality_Medium: 中
-UI_Settings_Quality_High: 高
-UI_Settings_Quality_Epic: Gothic
-UI_Settings_Quality_Cinematic: Alkimia Overdose
-UI_Settings_Quality_Custom: カスタム
-UI_Settings_Quality_Recommended: 推奨
-UI_Settings_ResolutionQuality: 解像度のクオリティ
-UI_Settings_ResolutionQuality_Description: 解像度のクオリティを、パフォーマンスまたはビジュアルのクオリティに合わせて調整します。
-UI_Settings_ViewDistanceQuality: 視距離のクオリティ
-UI_Settings_AntiAliasingQuality: アンチエイリアスのクオリティ
-UI_Settings_ShadowQuality: 影のクオリティ
-UI_Settings_GlobalIlluminationQuality: グローバルイルミネーションのクオリティ
-UI_Settings_ReflectionQuality: 反射のクオリティ
-UI_Settings_PostProcessingQuality: ポストプロセスのクオリティ
-UI_Settings_TextureQuality: テクスチャのクオリティ
-UI_Settings_EffectsQuality: エフェクトのクオリティ
-UI_Settings_FoliageQuality: 枝葉のクオリティ
-UI_Settings_ShadingQuality: 影のクオリティ
-UI_Settings_LandscapeQuality: 地形のクオリティ
-UI_Settings_Sound: サウンド
-UI_Settings_MasterVolume: マスター音量
-UI_Settings_MusicVolume: 音量
-UI_Settings_SFXVolume: SFX音量
-UI_Settings_VoiceVolume: 睡眠をとり、よく休めた。
-UI_SleepEndedMessage_Default_2: 睡眠をとり、よく休めた（別バージョン）
-UI_SleepEndedMessage_StrangeDreams_1: 睡眠をとれたが、変な夢を見た。
-UI_SleepEndedMessage_StrangeDreams_2: 睡眠をとれたが、変な夢を見た（別バージョン）
-Item_Damage_Physical_Blunt: 鈍的ダメージ
-Item_Damage_Physical_Edge: 刃物ダメージ
-Item_Damage_Physical_Point: ポイントダメージ
-Item_Damage_Elemental_Fire: 炎ダメージ
