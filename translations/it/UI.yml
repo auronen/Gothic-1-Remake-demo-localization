@@ -1,7 +1,7 @@
 GE_Param_Duration: Durata
 GE_Param_Heal: Guarigione
 GE_Param_Mana: Mana
-Item_Damage_Elemental_Fire: Gioca
+Item_Damage_Elemental_Fire: Danno da fuoco
 Item_Damage_Physical_Blunt: Danno Contundente
 TEXT_BACK: Indietro
 TEXT_DIALOG_END: Fine.
@@ -160,7 +160,7 @@ UI_Attribute_Toughness: Resistenza
 UI_Attribute_Toughness_Tooltip: La tenacia è una misura della tua capacità di portare
   oggetti. Man mano che diventi più tenace, puoi trasportare più oggetti. Sovraccaricarti
   ostacolerà i tuoi movimenti, quindi gestisci il tuo inventario con saggezza.
-UI_CantSave_Notification: Danno da contusione
+UI_CantSave_Notification: Non è possibile salvare il gioco in questo momento
 UI_Crafting_CoolingDownItem: Raffredda l'oggetto
 UI_Crafting_Cost: Costo
 UI_Crafting_ForgingItem: Forgiare l'oggetto
@@ -180,7 +180,7 @@ UI_Crafting_Quantity: 'Quantità:'
 UI_Crafting_Scrap: '[Tieni premuto] Rottama'
 UI_Crafting_Section: Sezione
 UI_Crafting_ShapingItem: Dare forma all'oggetto
-UI_Crafting_Start: '[Tieni premuto] Artigianato'
+UI_Crafting_Start: '[Tieni premuto] Crea'
 UI_Demo_CheatCode: È una demo, dai, non c'è bisogno di Marvin qui. Il gioco completo
   invece...
 UI_Demo_Gratitude: Grazie per aver giocato a questa demo!
@@ -264,7 +264,7 @@ UI_Glossary_NoEntriesAvailable: Nessuna voce di glossario disponibile
 UI_HUD: Nuova voce del glossario
 UI_HUD_Exp: Exp
 UI_HUD_Experience: Esperienza
-UI_HUD_SwitchWheel: Volantino
+UI_HUD_SwitchWheel: Cambia ruota
 UI_Inventory_Bow: Arco
 UI_Inventory_Crossbow: Balestra
 UI_Inventory_Description: Descrizione
@@ -545,4 +545,4 @@ UI_Trading_SellerInventory: Inventario del venditore
 UI_death_GameOver: Game Over
 UI_death_MainMenu: Menu principale
 UI_death_Revive: Rianima
-UI_death_ReviveLeft: Rianima a sinistra
+UI_death_ReviveLeft: Rianimazioni rimaste
