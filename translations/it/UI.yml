@@ -29,13 +29,13 @@ Text_Days: Giorno(i)
 Text_Dive: Immergiti
 Text_DocumentMinimize: Minimizza
 Text_Dodge: Evita
-Text_Draw: 'Estrai/riponi arma corpo a corpo
+Text_Draw: 'Estrai/Riponi arma corpo a corpo
 
-  [Mantieni] Estrai/riponi arma a distanza
+  [Mantieni] Estrai/Riponi arma a distanza
 
   '
-Text_DrawMelee: Estrai/riponi arma corpo a corpo
-Text_DrawRanged: Estrai/riponi arma a distanza
+Text_DrawMelee: Estrai/Riponi arma corpo a corpo
+Text_DrawRanged: Estrai/Riponi arma a distanza
 Text_Drop: '[Tieni premuto] Lascia cadere'
 Text_DropTorch: Getta torcia
 Text_Equip: Equipaggia
@@ -79,7 +79,7 @@ Text_LockpickMoveHorizontal: Muovi sinistra/destra
 Text_LockpickMoveVertical: Muovi su/giù
 Text_LockpickSkillRequired: Serve l'abilità scassinare.
 Text_LockpickToolRequired: Serve un grimaldello.
-Text_Look: Guardati intorno
+Text_Look: Guardati attorno
 Text_LootAll: Prendi tutto
 Text_LootChest: Forziere
 Text_LootCorpse: Cadavere
@@ -110,21 +110,21 @@ Text_Roll: Capriola
 Text_SaveChanges: Salva modifiche
 Text_Seconds: s
 Text_Select: Seleziona
-Text_SelectThrow: Seleziona Oggetto da lanciare
+Text_SelectThrow: Seleziona oggetto da lanciare
 Text_SkipDialogue: Salta dialogo
 Text_SleepFor: 'Dormi per:'
-Text_Sneak: Attiva/disattiva furtività
+Text_Sneak: Attiva/Disattiva furtività
 Text_Sprint: '[Click] Attiva/Disattiva sprint'
 Text_Start: START
-Text_Surface: Torna in superficie/nuota verso l'alto
+Text_Surface: Torna in superficie/Nuota verso l'alto
 Text_Throw: Lancia oggetto
 Text_To: 'A:'
-Text_ToggleQuick: Attiva/disattiva accesso rapido
+Text_ToggleQuick: Attiva/Disattiva accesso rapido
 Text_TradeAccept: Accetta
 Text_TradeCancel: Cancella
 Text_Unequip: Rimuovi
 Text_UseQuick: Utilizza l'elemento rapido
-Text_Walk: Attiva/disattiva cammina
+Text_Walk: Attiva/Disattiva camminata
 Text_Yes: Sì
 UI_ArmourCustomization_ArmorAlterations: Modifiche all'armatura
 UI_ArmourCustomization_Equip: Equipaggia
@@ -136,8 +136,8 @@ UI_ArmourCustomization_Unequip: Rimuovi
 UI_ArmourCustomization_Waist: Vita
 UI_Attribute_Atributes: Attributi
 UI_Attribute_Dexterity: Destrezza
-UI_Attribute_Dexterity_Tooltip: La destrezza rappresenta la tua padronanza, equilibrio
-  e controllo sul tuo corpo. Determina le armi a distanza che puoi usare e migliora
+UI_Attribute_Dexterity_Tooltip: La destrezza rappresenta la padronanza, l'equilibrio
+  e il controllo del tuo corpo. Determina le armi a distanza che puoi usare e migliora
   l'efficacia del tuo attacco a distanza e le possibilità di successo durante il borseggio.
 UI_Attribute_Health: Salute
 UI_Attribute_Health_Tooltip: La salute è la tua resistenza fisica. Più salute hai,
@@ -157,10 +157,11 @@ UI_Attribute_Strength_Tooltip: La forza esprime la tua abilità fisica. Maggiore
   la tua forza, più potenti saranno le armi che potrai maneggiare e più danni faranno
   i tuoi attacchi corpo a corpo.
 UI_Attribute_Toughness: Resistenza
-UI_Attribute_Toughness_Tooltip: La tenacia è una misura della tua capacità di portare
-  oggetti. Man mano che diventi più tenace, puoi trasportare più oggetti. Sovraccaricarti
-  ostacolerà i tuoi movimenti, quindi gestisci il tuo inventario con saggezza.
-UI_CantSave_Notification: Non è possibile salvare il gioco in questo momento
+UI_Attribute_Toughness_Tooltip: La resistenza è la misura della tua capacità di portare
+  oggetti. Man mano che diventerai più resistente, potrai trasportare più oggetti.
+  Sovraccaricarti ostacolerà i tuoi movimenti, quindi gestisci il tuo inventario con
+  saggezza.
+UI_CantSave_Notification: Non è possibile salvare il gioco in questo momento.
 UI_Crafting_CoolingDownItem: Raffredda l'oggetto
 UI_Crafting_Cost: Costo
 UI_Crafting_ForgingItem: Forgiare l'oggetto
@@ -189,8 +190,8 @@ UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
 UI_Demo_Gratitude_QR: 'Inviaci il tuo feedback a:'
 UI_Difficulty_CombatLabel: Combattimento
 UI_Difficulty_CombatTooltip: Suggerimento di combattimento
-UI_Difficulty_Custom: Custom
-UI_Difficulty_CustomDescription: Aggiungi una descrizione per la difficoltà custom
+UI_Difficulty_Custom: Personalizzata
+UI_Difficulty_CustomDescription: Aggiungi una descrizione per la difficoltà personalizzata
 UI_Difficulty_Easy: Facile
 UI_Difficulty_EasyDescription: Aggiungi una descrizione per la difficoltà facile
 UI_Difficulty_Hard: Difficile
@@ -332,7 +333,7 @@ UI_Notification_GlossaryUpdatedFormat: 'Glossario aggiornato: {EntryName}'
 UI_Notification_KeyUsedFormat: 'Chiave usata: {KeyName}'
 UI_Notification_LevelUp: Salire di livello
 UI_Notification_ShowMore: Mostra di più
-UI_Notification_SkillIncreasedFormat: 'Aumenta abilità: {SkillName}'
+UI_Notification_SkillIncreasedFormat: 'Abilità aumentata: {SkillName}'
 UI_Notification_SkillLearnedFormat: 'Abilità appresa: {SkillName}'
 UI_Profile: Nuovo profilo
 UI_Profile_Chapter: Capitolo
@@ -358,7 +359,7 @@ UI_Profile_Profile4: Profilo 4
 UI_Profile_SaveTime: Orario di salvataggio
 UI_Profile_SelectProfile: Seleziona profilo
 UI_Profile_TimePlayed: Tempo di gioco
-UI_Protection_Arrows: Freccie
+UI_Protection_Arrows: Frecce
 UI_Protection_Arrows_Tooltip: Questa protezione riduce i danni da perforazione causati
   da frecce e dardi.
 UI_Protection_Fire: Fuoco
@@ -424,8 +425,8 @@ UI_Settings_DepthOfField: Profondità di campo
 UI_Settings_Disclaimer: Nella versione finale del gioco saranno disponibili altre
   impostazioni di gioco, tra cui opzioni di visualizzazione dell'interfaccia utente
   e delle notifiche.
-UI_Settings_Display: Display
-UI_Settings_DisplayMode: Modalità display
+UI_Settings_Display: Video
+UI_Settings_DisplayMode: Tipo di visualizzazione
 UI_Settings_DisplayMode_Borderless: Senza bordi
 UI_Settings_DisplayMode_Fullscreen: Schermo intero
 UI_Settings_DisplayMode_Windowed: In finestra
