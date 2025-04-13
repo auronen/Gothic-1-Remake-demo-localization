@@ -1,7 +1,7 @@
 GE_Param_Duration: Durată
 GE_Param_Heal: Vindecă
-GE_Param_Mana: Mană
-Item_Damage_Elemental_Fire: Joacă
+GE_Param_Mana: Mana
+Item_Damage_Elemental_Fire: Atac cu foc
 TEXT_BACK: Înapoi
 TEXT_DIALOG_END: Încheie.
 Text_Aim: Țintește
@@ -43,7 +43,7 @@ Text_FilterCreatures: Creaturi
 Text_FilterDocuments: Documente
 Text_FilterFood: Mâncare
 Text_FilterHiddenCamp: Tabăra Ascunsă
-Text_FilterItems: Articole
+Text_FilterItems: Obiecte
 Text_FilterLocations: Locații
 Text_FilterMagic: Magie
 Text_FilterMaterials: Materiale
@@ -51,7 +51,7 @@ Text_FilterMelee: Corp la corp
 Text_FilterMiscellaneous: Diverse
 Text_FilterNewCamp: Tabăra Nouă
 Text_FilterOldCamp: Tabăra Veche
-Text_FilterOutsiders: Din afară
+Text_FilterOutsiders: Străini
 Text_FilterPotions: Poțiuni
 Text_FilterRanged: La distanță
 Text_FilterSwampCamp: Tabăra Mlaștinii
@@ -64,7 +64,7 @@ Text_Hours: h
 Text_Interact: Interacționează
 Text_Interact1: Interacțiunea principală
 Text_Interact2: Interacțiune secundară
-Text_Inventory: Stoc
+Text_Inventory: Inventar
 Text_Jump: Salt
 Text_JumpClimb: Sari/Urci
 Text_Kick: Lovește
@@ -78,7 +78,7 @@ Text_Look: Privește
 Text_LootAll: Ia Tot
 Text_LootChest: Cufăr
 Text_LootCorpse: Cadavru
-Text_LootInventory: Stocuri
+Text_LootInventory: Inventar
 Text_LootStore: Depozitează articole
 Text_LootSwitchSection: Comută atenția
 Text_LootTake: Ia
@@ -94,7 +94,7 @@ Text_No: Fals
 Text_OpenChest: Deschide cufăr
 Text_OpenDoor: Deschide ușa
 Text_OpenGlossary: Deschide Glosarul
-Text_OpenMenu: Deschideți Meniu
+Text_OpenMenu: Deschide Meniu
 Text_PauseMenu: Meniu pauză
 Text_QuickAccess: Articole cu acces rapid
 Text_Read: Citește
@@ -145,7 +145,7 @@ UI_Attribute_MagicCircle_Tooltip: Cercurile magiei semnifică profunzimea înțe
   și cunoștințelor unui vrăjitor în artele de cult. Pe măsură ce urcați prin cercuri,
   obțineți acces la vrăji mai complexe și mai puternice, amplificându-vă priceperea
   în magie.
-UI_Attribute_Mana: Mană
+UI_Attribute_Mana: Mana
 UI_Attribute_Mana_Tooltip: Mana îți alimentează abilitățile tale magice. Mana este
   consumată în timp ce faci vrăji și nu se regenerează independent, așa că planificați-vă
   odihna și consumul mană în consecință.
@@ -156,8 +156,8 @@ UI_Attribute_Strength_Tooltip: Forța exprimă puterea ta fizică. Cu cât forț
 UI_Attribute_Toughness: Rezistență
 UI_Attribute_Toughness_Tooltip: Rezistența este o măsură a capacității tale de a suporta
   o povară. Pe măsură ce devii mai rezistent, poți transporta mai multe articole.
-  Supraîncărcarea vă va împiedica mișcarea, așa că gestionați-vă stocul cu înțelepciune.
-UI_CantSave_Notification: Atac contondent
+  Supraîncărcarea îți va împiedica mișcarea, așa că gestionează-ți stocul cu înțelepciune.
+UI_CantSave_Notification: Nu se poate salva jocul acum.
 UI_Crafting_CoolingDownItem: Răcirea articolului
 UI_Crafting_Cost: Cost
 UI_Crafting_ForgingItem: Forjarea articolului
@@ -187,18 +187,18 @@ UI_Demo_Gratitude_QR: 'Vă rugăm să furnizați feedback la:'
 UI_Difficulty_CombatLabel: Luptă
 UI_Difficulty_CombatTooltip: Indicator pentru luptă
 UI_Difficulty_Custom: Personalizat
-UI_Difficulty_CustomDescription: Add a description for the custom difficulty here
+UI_Difficulty_CustomDescription: Adaugă o descriere pentru dificultatea personalizată
 UI_Difficulty_Easy: Uşor
 UI_Difficulty_EasyDescription: Adăugați aici o descriere pentru dificultatea ușoară
 UI_Difficulty_Hard: Greu
-UI_Difficulty_HardDescription: Add a description for the hard difficulty here
+UI_Difficulty_HardDescription: Adaugă o descriere pentru dificultatea grea
 UI_Difficulty_ProgressionLabel: Progres
 UI_Difficulty_ProgressionTooltip: Indicator de progres
 UI_Difficulty_ResourcesLabel: Resurse
 UI_Difficulty_ResourcesTooltip: Indicator de resurse
 UI_Difficulty_SelectDifficulty: Selectați Dificultate
 UI_Difficulty_Standard: Standard
-UI_Difficulty_StandardDescription: Add a description for the standard difficulty here
+UI_Difficulty_StandardDescription: Adaugă o descriere pentru dificultatea standard
 UI_Difficulty_Start: Începe jocul
 UI_Disclaimer: Acest demo este un prequel cu o experiență limitată creată pentru a
   arăta unele dintre principalele caracteristici ale Gothic 1 Remake, deoarece jocul
@@ -215,14 +215,14 @@ UI_Fighting_Bow_Trained_Tooltip: Odată cu antrenamentul, abilitățile tale cu 
   precizia sporită permite lovituri critice.
 UI_Fighting_Bow_Untrained_Tooltip: Ești neantrenat. Poți ține un arc, dar țintirea
   este o provocare, iar tragerea săgeților și reîncărcarea îți e greoaie.
-UI_Fighting_Crossbow: Arbaleta
+UI_Fighting_Crossbow: Arbaletă
 UI_Fighting_Crossbow_Master_Tooltip: Ai obținut stăpânirea peste arbalete. Loviturile
   critice vin cu mai multă ușurință, fiecare lovitură vine cu o precizie de neegalat,
   iar mâinile iscusite reîncarcă rapid bolțuile.
 UI_Fighting_Crossbow_Tooltip: Stăpânirea asupra arbaletelor reflectă măiestria de
   luptă la distanță, evoluând de la manevrarea de bază la tragerile rapide și precise.
-UI_Fighting_Crossbow_Trained_Tooltip: Odată cu antrenamentul abilitățile cu arbaleta
-  cresc. Reîncărcarea este mai rapidă, mâinile ți se stabilizează totodata și ținta,
+UI_Fighting_Crossbow_Trained_Tooltip: Odată cu antrenamentul, abilitățile cu arbaleta
+  cresc. Reîncărcarea este mai rapidă, mâinile ți se stabilizează, totodată și ținta,
   iar loviturile critice devin o adevărată amenințare.
 UI_Fighting_Crossbow_Untrained_Tooltip: Esti neantrenat. Poți folosi arbalete, dar
   cu mâinile instabile nu-ți pot nimeri ținta, iar reîncărcarea este lentă și obositoare.
@@ -258,21 +258,21 @@ UI_HUD_Exp: Exp
 UI_HUD_Experience: Experienţă
 UI_HUD_SwitchWheel: Roată de comutare
 UI_Inventory_Bow: Arc
-UI_Inventory_Crossbow: Arbaleta
+UI_Inventory_Crossbow: Arbaletă
 UI_Inventory_Description: Descriere
-UI_Inventory_EquippedSlot: Echipat in slot
+UI_Inventory_EquippedSlot: Echipat
 UI_Inventory_Food: Mâncare
 UI_Inventory_OneHanded: Armă pentru o mână
 UI_Inventory_Open: Deschide stocurile
 UI_Inventory_Requirements: 'Cerințe:'
-UI_Inventory_ThousandsAbbreviation: Mii
+UI_Inventory_ThousandsAbbreviation: k
 UI_Inventory_TwoHanded: Armă pentru două mâini
 UI_Lessons: Lecții
 UI_Lessons_Acrobatics: Acrobaţie
 UI_Lessons_Sneaking: Furișare
 UI_LoadSave: Salvare nouă
 UI_LoadSave_Load: Încarcă
-UI_LoadSave_LoadGame: Încărcați Jocul
+UI_LoadSave_LoadGame: Încărcă Jocul
 UI_LoadSave_Manual: Manual
 UI_LoadSave_Save: Salvează
 UI_LoadSave_SaveGame: Salvați jocul
@@ -306,18 +306,18 @@ UI_Loadingscreen_Hint6: Doar pentru acest demo există o opțiune de Reînviere 
   dacă mori. Jocul complet nu va avea asta, dar vei avea oricând varianta salvare/încărcare.
 UI_Loadingscreen_HintsHeadline: Sfaturi
 UI_Loadingscreen_Loading: Încărcare...
-UI_Loadingscreen_PressKeytoCtn: Apăsați orice tastă pentru a continua!
-UI_Main_Credits: Credite
-UI_Main_Load: Încărcați Jocul
+UI_Loadingscreen_PressKeytoCtn: Apasă orice tastă pentru a continua!
+UI_Main_Credits: Generic
+UI_Main_Load: Încarcă Jocul
 UI_Main_NewGame: Joc Nou
-UI_Main_Quit: Părăsește
-UI_Main_QuitGame: Părăsește jocul
-UI_Main_QuitModal: Ești sigur că vrei să părăsești jocul?
+UI_Main_Quit: Ieși
+UI_Main_QuitGame: Ieși din joc
+UI_Main_QuitModal: Ești sigur că vrei să ieși din joc?
 UI_Main_Settings: Setări
 UI_Main_Singleplayer: Un singur jucător
 UI_Notification: Capitolul {ChapterNumber}
 UI_Notification_AreaDiscovered: Zonă nouă descoperită
-UI_Notification_ExperienceGainedFormat: '{Amount} Exp'
+UI_Notification_ExperienceGainedFormat: '{Cantitate} Experiență'
 UI_Notification_GlossaryUpdatedFormat: 'Glosar actualizat: {EntryName}'
 UI_Notification_KeyUsedFormat: 'Cheie folosită: {KeyName}'
 UI_Notification_LevelUp: Nivel crescut
@@ -417,7 +417,7 @@ UI_Settings_Disclaimer: Mai multe setări ale jocului, inclusiv opțiunile de af
 UI_Settings_Display: Display
 UI_Settings_DisplayMode: Modul de afișare
 UI_Settings_DisplayMode_Borderless: Fără margini
-UI_Settings_DisplayMode_Fullscreen: Fullscreen
+UI_Settings_DisplayMode_Fullscreen: Ecran complet
 UI_Settings_DisplayMode_Windowed: În ferestre
 UI_Settings_DynamicResolution: Rezoluție dinamică
 UI_Settings_EffectsQuality: Calitatea efectelor
@@ -493,18 +493,18 @@ UI_Settings_TextureQuality: Calitatea texturii
 UI_Settings_VSync: VSync
 UI_Settings_Vibration: Vibrație
 UI_Settings_ViewDistanceQuality: Vizualizați calitatea distanței
-UI_Settings_VoiceVolume: Ai dormit și te simți odihnit.
+UI_Settings_VoiceVolume: Volumul vocii
 UI_Settings_Volume_Master: Master Volume
 UI_Settings_Volume_Music: Muzică
 UI_Settings_Volume_Sound: Sound FX
 UI_Settings_Volume_Voice: Voce
-UI_Skill_OpenLocks: Sparge încuietori
+UI_Skill_OpenLocks: Spart încuietori
 UI_Skill_Pickpocketing: Buzunăreală
 UI_Skill_SpecialSkills: Abilități speciale
 UI_SleepEndedMessage_Default_2: Ai dormit și te simți bine (text alternativ)
 UI_SleepEndedMessage_StrangeDreams_1: Ai dormit dar ai avut vise ciudate.
 UI_SleepEndedMessage_StrangeDreams_2: Ai dormit dar ai visat urât (text alternativ)
-UI_Sleep_WaitingForPartner: '[ Need to wait ]'
+UI_Sleep_WaitingForPartner: '[ Trebuie să așteptați ]'
 UI_Stats_CharacterStats: Atribute personaj
 UI_Stats_Level: Nivel
 UI_Stats_SkillPoints: Puncte de abilitate
@@ -519,7 +519,7 @@ UI_StoryIntro: 'Povestea are loc în valea minelor din Khornis. O colonie a ocna
 
 
   <b> Bun venit în noua ta viață!</>'
-UI_Tabs_Buy: Cumpăra
+UI_Tabs_Buy: Cumpără
 UI_Tabs_Glossary: Glosar
 UI_Tabs_Inventory: Stocuri
 UI_Tabs_Map: Hărți
@@ -527,11 +527,14 @@ UI_Tabs_Quests: Misiuni
 UI_Tabs_Sell: Vinde
 UI_Tabs_Stats: Atribute
 UI_Trading_Balance: Balanță
-UI_Trading_MyInventory: Stocul meu
+UI_Trading_MyInventory: Inventarul meu
 UI_Trading_Remove: Elimină
 UI_Trading_SellBuy: Adăugați la coadă
-UI_Trading_SellerInventory: Stocul vânzătorului
+UI_Trading_SellerInventory: Inventarul vânzătorului
 UI_death_GameOver: Joc încheiat
 UI_death_MainMenu: Meniul principal
 UI_death_Revive: Reînvie
 UI_death_ReviveLeft: Reînvieri rămase
+Item_Damage_Physical_Blunt: Atac contondent
+Item_Damage_Physical_Edge: Atac cu tăiș
+Item_Damage_Physical_Point: Atac de străpungere
