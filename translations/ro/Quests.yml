@@ -1,11 +1,11 @@
-TEXT_WIP_YGVNZSC_20250212_104425: 'O Bestiaumbrei cutreieră Zona de schimb a mărfurilor.
-  Trebuie să găsesc un adăpost sigur înainte de căderea nopții.'
+TEXT_WIP_YGVNZSC_20250212_104425: 'O bestie-umbră cutreieră zona de schimb. Trebuie
+  să găsesc un adăpost sigur înainte de căderea nopții.'
 TEXT_WIP_YGVNZSC_20250212_120816: 'Ratford mi-a sugerat să-l ajut pe prietenul său
-  Drax să vâneze Necrofagi undeva pe lângă poteca văii. Ar putea fi șansa mea de a
+  Drax să vâneze necrofagi undeva pe lângă poteca văii. Ar putea fi șansa mea de a
   câștiga un loc la focul lor de tabără pentru la noapte.'
-TEXT_WIP_YGVNZSC_20250212_120924: 'Drax are nevoie de ajutor pentru a vâna Necrofagi.
+TEXT_WIP_YGVNZSC_20250212_120924: 'Drax are nevoie de ajutor pentru a vâna necrofagi.
   Dacă mă voi dovedi util, s-ar putea să câștig un loc la focul lor de tabără, ferit
-  de Bestiaumbrei.'
+  de bestia-umbră.'
 TEXT_WIP_YGVNZSC_20250212_121142: 'Jorik, un membru al cetei de vânători, a dispărut
   în canion. Găsirea lui s-ar putea să-mi asigure un loc sigur unde să dorm în noaptea
   asta.'
@@ -16,10 +16,10 @@ TEXT_WIP_YGVNZSC_20250212_130017: 'Trebuie să-l găsesc pe Ratford, prietenul l
   și să-l întreb despre Jorik, vânătorul dispărut. Acesta ar putea fi ultimul pas
   pentru a-mi asigura un loc sigur pentru la noapte.'
 TEXT_WIP_YGVNZSC_20250212_124856: 'Ar trebui să-i spun lui Drax că sunt gata să-l
-  ajut cu vânătoarea de Necrofagi. Îl găsesc pe potecă lângă intrarea în vale.'
+  ajut cu vânătoarea de necrofagi. Îl găsesc pe potecă lângă intrarea în vale.'
 TEXT_WIP_YGVNZSC_20250212_124922: 'Am nevoie de o armă înainte de a vâna cu Drax.
   Ar trebui să găsesc pe aici ceva ce pot folosi.'
-TEXT_WIP_YGVNZSC_20250212_125311: 'Drax spune că Necrofagii nu sunt atât de periculoși,
+TEXT_WIP_YGVNZSC_20250212_125311: 'Drax spune că necrofagii nu sunt atât de periculoși,
   dar nu sunt atât de sigur. Ar trebui totuși să fiu atent în timpul vânătorii.'
 TEXT_WIP_YGVNZSC_20250212_125414: 'Jorik a dispărut în canion. Dacă îl găsesc sau
   aflu care i-o fi fost soarta, mi-ar putea asigura bunăvoința din partea vânătorilor
@@ -37,8 +37,8 @@ QUEST-MAIN-DESCRIPTION: 'Am ajuns în Valea Minelor, bariera sclipitoare ne bloc
   mea în această groapă nenorocită cu minereu și gunoaie.'
 QUEST-MAIN-NAME: 'Bun venit în Colonie'
 QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: 'Primirea din partea lui Diego mi-a
-  oferit puțin confort. O alunecare de teren blochează accesul în vale, iar o Bestiaumbrei
-  se dă târcoale prin apropiere. Trebuie să găsesc un adăpost pentru la noapte'
+  oferit puțin confort. O alunecare de teren blochează accesul în vale, iar o bestie-umbră
+  dă târcoale prin apropiere. Trebuie să găsesc un adăpost pentru la noapte'
 QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: 'Un loc de dormit'
 QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: 'Găsește un adăpost înainte
   de căderea nopții'
@@ -53,11 +53,11 @@ QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: 'Găsește-l pe Drax �
 QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: 'Vorbește cu Ratford
   despre Jorik'
 QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: 'Un vânător dintr-o așa-numită Tabără Nouă
-  mi-ar oferi hrană și adăpost în schimbul ajutorului la vânătoarea de Necrofagi.
+  mi-ar oferi hrană și adăpost în schimbul ajutorului la vânătoarea de necrofagi.
   Vânătoarea pare simplă, dar ar trebui să mă feresc de orice trucuri.'
-QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Vânătoare de Necrofagi'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Vânătoare de necrofagi'
 QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: 'Găsește o armă'
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Ucideți Necrofagii din zonă'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Ucideți necrofagii din zonă'
 QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Spune-i lui Drax să începeți
   vânătoarea'
 QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: 'Un membru al Taberei Noi, pe nume Jorik,
