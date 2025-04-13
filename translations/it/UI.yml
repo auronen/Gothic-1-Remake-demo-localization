@@ -546,3 +546,5 @@ UI_death_GameOver: Game Over
 UI_death_MainMenu: Menu principale
 UI_death_Revive: Rianima
 UI_death_ReviveLeft: Rianimazioni rimaste
+Item_Damage_Physical_Edge: Danno da taglio
+Item_Damage_Physical_Point: Danno da punta
