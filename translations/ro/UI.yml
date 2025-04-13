@@ -301,7 +301,7 @@ UI_Loadingscreen_Hint3: Vă rugăm să nu vă plângeți că eroul din acest dem
 UI_Loadingscreen_Hint4: Nu uitați să vă alăturați comunității și să adăugați jocul
   pe lista de dorințe. Toate informațiile sunt disponibile pe gothic-game.com
 UI_Loadingscreen_Hint5: Cu sprijinul vostru, franciza Gothic are un viitor strălucit
-  în viitor!
+  în fațā!
 UI_Loadingscreen_Hint6: Doar pentru acest demo există o opțiune de Reînviere disponibilă
   dacă mori. Jocul complet nu va avea asta, dar vei avea oricând varianta salvare/încărcare.
 UI_Loadingscreen_HintsHeadline: Sfaturi
@@ -521,7 +521,7 @@ UI_StoryIntro: 'Povestea are loc în valea minelor din Khornis. O colonie a ocna
   <b> Bun venit în noua ta viață!</>'
 UI_Tabs_Buy: Cumpără
 UI_Tabs_Glossary: Glosar
-UI_Tabs_Inventory: Stocuri
+UI_Tabs_Inventory: Inventar
 UI_Tabs_Map: Hărți
 UI_Tabs_Quests: Misiuni
 UI_Tabs_Sell: Vinde
