@@ -189,7 +189,8 @@ UI_Difficulty_SelectDifficulty: 難易度選択
 UI_Difficulty_Standard: スタンダード
 UI_Difficulty_StandardDescription: ''
 UI_Difficulty_Start: ゲームをスタート
-UI_Disclaimer: このデモ版は、『Gothic 1 Remake』の主な機能の一部をご紹介するために作成された、独立した前日譚の体験版です。ゲームは現在も開発中であるため、バグやグリッチが含まれる可能性があります。ゲームの製品版では、原作『Gothic』のストーリー、構成、精神を踏襲し、名もなき主人公が登場します。
+UI_Disclaimer: このデモ版は、『Gothic 1 
+  Remake』の主な機能の一部をご紹介するために作成された、独立した前日譚の体験版です。ゲームは現在も開発中であるため、バグやグリッチが含まれる可能性があります。ゲームの製品版では、原作『Gothic』のストーリー、構成、精神を踏襲し、名もなき主人公が登場します。
 UI_EnterNameHere: 名前を入力：
 UI_Fighting_Bow: 弓
 UI_Fighting_Bow_Master_Tooltip: ボウのコントロールをマスターした。クリティカルヒットで敵を蹴散らせ、滑らかな動きと正確さで狙ったターゲットは外さない。
@@ -208,7 +209,8 @@ UI_Fighting_OneHanded_Tooltip: 片手武器の熟練度は戦闘での効率を�
 UI_Fighting_OneHanded_Trained_Tooltip: 訓練と共に動きが滑らかになり、コンボやパリィを行うことができる。クリティカルヒットを繰り出すことができ、攻撃を途中でキャンセルすることも可能だ。
 UI_Fighting_OneHanded_Untrained_Tooltip: 訓練が必要だ。武器を持つことはできるが、コンボやパリィは百年早い。
 UI_Fighting_TwoHanded: 両手持ち
-UI_Fighting_TwoHanded_Master_Tooltip: 両手持ち武器をマスターし、戦力が上昇。より頻繁にクリティカル・ストライクを出すことができ、パリィからのカウンターが可能となり、強力な一撃で敵を弾き飛ばすことができる。
+UI_Fighting_TwoHanded_Master_Tooltip: 
+  両手持ち武器をマスターし、戦力が上昇。より頻繁にクリティカル・ストライクを出すことができ、パリィからのカウンターが可能となり、強力な一撃で敵を弾き飛ばすことができる。
 UI_Fighting_TwoHanded_Tooltip: 両手持ちのスキルは戦場での強さに直結している。強烈な一撃から、容赦ないコンボまで、様々な技を使える。
 UI_Fighting_TwoHanded_Trained_Tooltip: 訓練の甲斐があって、両手持ち武器を滑らかに使えるようになった。強力なコンボやパリィ、クリティカルヒット、そして攻撃のキャンセルが行えるようになった。
 UI_Fighting_TwoHanded_Untrained_Tooltip: 訓練が足りない。両手持ち武器を持つことができても、コンボやパリィはできず、まだまだワンパターンな攻撃だ。
@@ -420,7 +422,7 @@ UI_Settings_TextureQuality: テクスチャのクオリティ
 UI_Settings_VSync: VSync
 UI_Settings_Vibration: 振動
 UI_Settings_ViewDistanceQuality: 視距離のクオリティ
-UI_Settings_VoiceVolume: 睡眠をとり、よく休めた。
+UI_Settings_VoiceVolume: ボイス音量
 UI_Settings_Volume_Master: マスター音量
 UI_Settings_Volume_Music: 音楽
 UI_Settings_Volume_Sound: 効果音
