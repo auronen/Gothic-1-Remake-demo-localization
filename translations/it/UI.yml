@@ -405,9 +405,9 @@ UI_Settings_BloomIntensity_Description: Intensità dell'effetto bloom. Valori pi
   produrranno un bagliore più intenso attorno agli oggetti luminosi.
 UI_Settings_Brightness: Luminosità
 UI_Settings_ButtonGraphics: Grafica dei pulsanti
-UI_Settings_CameraPreset: Camera preset
-UI_Settings_CameraPreset_Classic: Classico
-UI_Settings_CameraPreset_Default: Default
+UI_Settings_CameraPreset: Impostazione visuale
+UI_Settings_CameraPreset_Classic: Classica
+UI_Settings_CameraPreset_Default: Predefinita
 UI_Settings_CameraSentivity: Sensibilità telecamera
 UI_Settings_ColorBrightness: Luminosità
 UI_Settings_ColorBrightness_Description: Aumentando o diminuendo questo valore si
