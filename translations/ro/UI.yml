@@ -271,7 +271,7 @@ UI_Lessons: Lecții
 UI_Lessons_Acrobatics: Acrobaţie
 UI_Lessons_Sneaking: Furișare
 UI_LoadSave: Salvare nouă
-UI_LoadSave_Load: Încarcă
+UI_LoadSave_Load: Încărcați
 UI_LoadSave_LoadGame: Încărcați jocul
 UI_LoadSave_Manual: Manual
 UI_LoadSave_Save: Salvați
@@ -308,7 +308,7 @@ UI_Loadingscreen_HintsHeadline: Sfaturi
 UI_Loadingscreen_Loading: Încărcare...
 UI_Loadingscreen_PressKeytoCtn: Apasă orice tastă pentru a continua!
 UI_Main_Credits: Generic
-UI_Main_Load: Încarcă Jocul
+UI_Main_Load: Încărcați Jocul
 UI_Main_NewGame: Joc Nou
 UI_Main_Quit: Ieși
 UI_Main_QuitGame: Ieși din joc
