@@ -1,7 +1,7 @@
 Ratford-CH0-None-Ratford-64245-1: 'În numele lui Beliar, dar cine ești tu?'
 Ratford-CH0-None-Hero-87298: 'Sunt Nyr-'
-Ratford-CH0-None-Ratford-66784: 'Nu numele tău. Nu pari să fi de la nici una din tabere
-  - ești săpător? Sau tocmai ai fost aruncat înăuntru? '
+Ratford-CH0-None-Ratford-66784: 'Nu, numele tău. Nu pari să fi de la nici una din
+  tabere - ești săpător? Sau tocmai ai fost aruncat înăuntru? '
 Ratford-CH0-None-Hero-42595: 'Sunt nou, da. Prietenul tău Drax m-a trimis să te ajut,
   la schimb pentru un loc de dormit la tabăra voastră.'
 Ratford-CH0-None-Ratford-50882: 'Chiar așa? Păi, n-am nevoie de ajutor, în special
@@ -28,12 +28,12 @@ Ratford-CH0-None-Hero-15424: 'Varantianul mi-a zis să aștept până săpători
 Ratford-CH0-None-Ratford-99940: 'Atunci așteaptă. Uite, n-am nimic pentru tine, bobocule,
   ok? Marș de aici. '
 Ratford-CH0-None-Ratford-14986: 'Ce?'
-Ratford-CH0-None-Hero-74210: 'Ai o problemă?'
-Ratford-CH0-None-Ratford-1706: 'Câteva, defapt. Una din ele e idiotul de aici care
-  numa'' nu pricepe să tacă.'
-Ratford-CH0-None-Hero-28264: 'Și tu ești din „Tabăra Nouă”?'
+Ratford-CH0-None-Hero-74210: 'Care ți-e problema?'
+Ratford-CH0-None-Ratford-1706: 'Am câteva, defapt. Una dintre ele este idiotul din
+  fața mea care numa'' nu pricepe să tacă.'
+Ratford-CH0-None-Hero-28264: 'Și tu ești tot din acea „Tabără Nouă”?'
 Ratford-CH0-None-Ratford-73615: 'Cum ai ghicit?'
-Ratford-CH0-None-Hero-91268: 'Mă duc.'
+Ratford-CH0-None-Hero-91268: 'Hai că plec.'
 Ratford-CH0-None-Ratford-40335: 'Hmm.'
 Ratford-CH0-None-Ratford-40635: 'Cine ești?'
 Ratford-CH0-None-Hero-63229: 'L-am găsit așa. '
@@ -44,7 +44,7 @@ Ratford-CH0-None-Ratford-16882: 'Un boboc? Credeam că n-aduc nici unu'' azi.'
 Ratford-CH0-None-Hero-55046: 'Păi, iată-mă.'
 Ratford-CH0-None-Ratford-81347: 'Hmm. '
 Ratford-CH0-None-Ratford-80505: 'Bine. Te cred.'
-Ratford-CH0-None-Hero-57489: 'Nu ținti spre mine.'
+Ratford-CH0-None-Hero-57489: 'Nu îndrepta aia spre mine.'
 Ratford-CH0-None-Ratford-67380: 'Răspuns greșit.'
 Ratford_CURSE_01_v5: 'Nasol.'
 Ratford_CURSE_01_v14: 'Dă-l naibii.'
@@ -59,7 +59,7 @@ Ratford-CH0-G1RDemo_DraxHunt-Ratford-41888-0: '... ăă. Probabil a mâzgălit-o
   era trosnit. Păstreaz-o. '
 Ratford-CH0-G1RDemo_DraxHunt-Hero-9744-0: 'Și acum? O să îl duci înapoi la tabără?'
 Ratford-CH0-G1RDemo_DraxHunt-Ratford-23899-0: 'Nu. Petrecem seara aici, mergem la
-  bază mâinie, și îi zicem la șeful nostru că Jorik a crăpat. Atât. '
+  bază mâine, și îi zicem șefului nostru că Jorik a crăpat. Atât. '
 Ratford-CH0-G1RDemo_DraxHunt-Ratford-72836-0: 'Deci ... ziceai că cauți un loc sigur
   unde să înnoptezi, așa-i? O idee bună având în vedere bestia-umbră ce bântuie prin
   zonă.'
@@ -121,9 +121,9 @@ Ratford-CH0-G1RDemo_DraxHunt-Ratford-82831: 'Aparent o fumează pentru că „le
   mințile la zeul lor”, dar multă lume din afara sectei o folosește pentru că îi calmează.'
 Ratford-CH0-G1RDemo_DraxHunt-Hero-3445: 'Ce este acel cult de care vorbești?'
 Ratford-CH0-G1RDemo_DraxHunt-Ratford-56576: 'A da ...ești nou aici.'
-Ratford-CH0-G1RDemo_DraxHunt-Ratford-61788: 'Povestea lungă scurtă, sunt trei tabere
+Ratford-CH0-G1RDemo_DraxHunt-Ratford-61788: 'Povestea lungă pe scurt, sunt trei tabere
   în Colonie, iar una din ele e o sectă. '
-Ratford-CH0-G1RDemo_DraxHunt-Ratford-95458: 'Vorba zice, că capetenia bolundă a avut
+Ratford-CH0-G1RDemo_DraxHunt-Ratford-95458: 'Umblă vorba, căpetenia bolundă a avut
   ceva viziune acu'' șase ani cum că ceva zeu vechi urma să se trezească și să-i salveze,
   așa că s-au mutat în mlaştină. Locuiesc ''colo de atunci.'
 Ratford-CH0-G1RDemo_DraxHunt-Caption-40855-0: 'Zeul ăla - e adevărat?'
@@ -133,7 +133,7 @@ Ratford-CH0-G1RDemo_DraxHunt-Hero-99331: 'Uite, am găsit asta pe omul vostru.'
 Ratford-CH0-G1RDemo_DraxHunt-Hero-99334: 'Ce facem acum?'
 Ratford-CH0-G1RDemo_DraxHunt-Ratford-23614-3: 'I-ai verificat cadavrul?'
 Ratford-CH0-None-Ratford-26027: 'Ce? Hai să îl găsim pe Drax. '
-Ratford-CH0-None-Hero-36270: 'Acea tabără de unde vii - cum e?'
+Ratford-CH0-None-Hero-36270: 'Tabăra asta a ta - cum e?'
 Ratford-CH0-None-Ratford-97063: 'Tabăra Nouă, vrei să zici? Nu-i rea. '
 Ratford-CH0-None-Ratford-72398: 'Trebe să ai grijă de tine, dar dacă poți face asta,
   ești mai liber ca în celelalte tabere.'
