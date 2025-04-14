@@ -36,14 +36,14 @@ Text_Draw: 'Estrai/Riponi arma corpo a corpo
   '
 Text_DrawMelee: Estrai/Riponi arma corpo a corpo
 Text_DrawRanged: Estrai/Riponi arma a distanza
-Text_Drop: '[Tieni premuto] Lascia cadere'
+Text_Drop: '[Tieni premuto] Fai cadere'
 Text_DropTorch: Getta torcia
 Text_Equip: Equipaggia
 Text_Equipped: Equipaggiato
 Text_Exploration: Esplorazione
 Text_FilterAll: Tutto
 Text_FilterArtefacts: Artefatti
-Text_FilterCompleted: Completato
+Text_FilterCompleted: Completate
 Text_FilterCreatures: Creature
 Text_FilterDocuments: Documenti
 Text_FilterFood: Cibo
@@ -53,7 +53,7 @@ Text_FilterLocations: Posizioni
 Text_FilterMagic: Magia
 Text_FilterMaterials: Materiali
 Text_FilterMelee: Mischia
-Text_FilterMiscellaneous: Miscellanea
+Text_FilterMiscellaneous: Varie
 Text_FilterNewCamp: Campo Nuovo
 Text_FilterOldCamp: Campo Vecchio
 Text_FilterOutsiders: Estranei
@@ -100,7 +100,7 @@ Text_OpenChest: Apri forziere
 Text_OpenDoor: Apri porta
 Text_OpenGlossary: Apri glossario
 Text_OpenMenu: Apri Menu
-Text_PauseMenu: Menù di pausa
+Text_PauseMenu: Pausa
 Text_QuickAccess: Oggetti ad accesso rapido
 Text_Read: Leggi
 Text_Reset: Reset
@@ -167,7 +167,7 @@ UI_Crafting_Cost: Costo
 UI_Crafting_ForgingItem: Forgiare l'oggetto
 UI_Crafting_GoToAnvil: Vai all'incudine
 UI_Crafting_GoToWaterBarrel: Vai al barile dell'acqua
-UI_Crafting_HasMaterials: Dispone di materiali
+UI_Crafting_HasMaterials: Ingredienti disponibili
 UI_Crafting_InProgress: Preparazione della ricetta...
 UI_Crafting_MenuTitle_Alchemy: Banco alchemico
 UI_Crafting_MenuTitle_Cauldron: Calderone
@@ -182,7 +182,7 @@ UI_Crafting_Scrap: '[Tieni premuto] Rottama'
 UI_Crafting_Section: Sezione
 UI_Crafting_ShapingItem: Dare forma all'oggetto
 UI_Crafting_Start: '[Tieni premuto] Crea'
-UI_Demo_CheatCode: È una demo, dai, non c'è bisogno di Marvin qui. Il gioco completo
+UI_Demo_CheatCode: È una demo, dai, non c'è bisogno di Marvin qui. Nel gioco completo
   invece...
 UI_Demo_Gratitude: Grazie per aver giocato a questa demo!
 UI_Demo_Gratitude_Follow: 'Non dimenticatevi di seguirci:'
@@ -204,7 +204,7 @@ UI_Difficulty_SelectDifficulty: Seleziona difficoltà
 UI_Difficulty_Standard: Standard
 UI_Difficulty_StandardDescription: Aggiungi una descrizione per la difficoltà standard
 UI_Difficulty_Start: Avvia il gioco
-UI_Disclaimer: Questa demo è un'esperienza, un prequel isolato creata per mostrare
+UI_Disclaimer: Questa demo è un'esperienza - un prequel isolato - creata per mostrare
   alcune delle caratteristiche principali del Gothic 1 Remake, ma poiché il gioco
   è ancora in fase di lavorazione, potrebbe contenere bug e glitch. Il gioco completo
   segue la storia, la struttura e lo spirito del Gothic originale, con l'Eroe Senza
