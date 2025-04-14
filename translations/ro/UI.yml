@@ -102,7 +102,7 @@ Text_Reset: Resetați
 Text_Restart: Restart
 Text_Resume: Reîncepe
 Text_Roll: Rostogolire
-Text_SaveChanges: Salvați modificările
+Text_SaveChanges: Salvează modificările
 Text_Seconds: s
 Text_Select: Selectează
 Text_SelectThrow: Selectați Aruncarea articolului rapid
@@ -334,12 +334,12 @@ UI_Profile_LastSave: Ultima salvare
 UI_Profile_ModalDeleteProfile: Sigur dorești să ștergi acest profil și toate salvările
   jocului asociate?
 UI_Profile_ModalDeleteProfileTitle: Șterge profilul
-UI_Profile_ModalDeleteSaveGame: Sigur doriți să ștergeți această salvare?
+UI_Profile_ModalDeleteSaveGame: Sigur dorești să ștergi această salvare?
 UI_Profile_ModalDeleteSaveTitle: Șterge salvarea
 UI_Profile_ModalError: A apărut o eroare.
 UI_Profile_ModalNameEmpty: Câmpul numelui nu poate fi gol.
 UI_Profile_ModalNameInUse: Acest nume este deja folosit.
-UI_Profile_ModalNoMoreProfiles: Nu mai există sloturi de profil disponibile. Ștergeți
+UI_Profile_ModalNoMoreProfiles: Nu mai există sloturi de profil disponibile. Șterge
   slotul existent pentru a crea unul nou.
 UI_Profile_Profile1: Profil 1
 UI_Profile_Profile2: Profil 2
