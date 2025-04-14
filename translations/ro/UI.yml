@@ -90,7 +90,7 @@ Text_MoveBack: Mers înapoi
 Text_MoveForward: Mers în față
 Text_MoveLeft: Mers în stânga
 Text_MoveRight: Mers în dreapta
-Text_No: Fals
+Text_No: Nu
 Text_OpenChest: Deschide cufăr
 Text_OpenDoor: Deschide ușa
 Text_OpenGlossary: Deschide Glosarul
@@ -120,7 +120,7 @@ Text_TradeCancel: Renunță
 Text_Unequip: Dezechipează
 Text_UseQuick: Utilizează articol rapid
 Text_Walk: Comutați pe mers
-Text_Yes: Adevărat
+Text_Yes: Da
 UI_ArmourCustomization_ArmorAlterations: Modificările armurii
 UI_ArmourCustomization_Equip: Echipează
 UI_ArmourCustomization_Equipped: E
@@ -272,9 +272,9 @@ UI_Lessons_Acrobatics: Acrobaţie
 UI_Lessons_Sneaking: Furișare
 UI_LoadSave: Salvare nouă
 UI_LoadSave_Load: Încarcă
-UI_LoadSave_LoadGame: Încărcă Jocul
+UI_LoadSave_LoadGame: Încărcați jocul
 UI_LoadSave_Manual: Manual
-UI_LoadSave_Save: Salvează
+UI_LoadSave_Save: Salvați
 UI_LoadSave_SaveGame: Salvați jocul
 UI_LoadingScreen_ChapterFormat: Capitolul {ChapterNumber}
 UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
@@ -334,8 +334,8 @@ UI_Profile_LastSave: Ultima salvare
 UI_Profile_ModalDeleteProfile: Sigur doriți să ștergeți acest profil și toate salvările
   jocului asociate?
 UI_Profile_ModalDeleteProfileTitle: Ștergeți profilul
-UI_Profile_ModalDeleteSaveGame: Sigur doriți să ștergeți această salvare de joc?
-UI_Profile_ModalDeleteSaveTitle: Ștergeți salvarea
+UI_Profile_ModalDeleteSaveGame: Sigur doriți să ștergeți această salvare?
+UI_Profile_ModalDeleteSaveTitle: Șterge salvarea
 UI_Profile_ModalError: A apărut o eroare.
 UI_Profile_ModalNameEmpty: Câmpul numelui nu poate fi gol.
 UI_Profile_ModalNameInUse: Acest nume este deja folosit.
@@ -458,9 +458,9 @@ UI_Settings_MusicVolume: Volumul muzicii
 UI_Settings_ObjectsOutliner: Conturul obiectelor
 UI_Settings_ObjectsOutliner_Default: Implicit
 UI_Settings_ObjectsOutliner_Low: Scăzut
-UI_Settings_ObjectsOutliner_No: Fals
-UI_Settings_Off: Fals
-UI_Settings_On: Adevărat
+UI_Settings_ObjectsOutliner_No: Nu
+UI_Settings_Off: Nu
+UI_Settings_On: Da
 UI_Settings_OverallQuality: Calitate prestabilită
 UI_Settings_PostProcessingQuality: Calitate post-procesare
 UI_Settings_Quality_Cinematic: Alkimia Overdose
