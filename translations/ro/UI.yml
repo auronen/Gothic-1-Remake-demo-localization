@@ -52,7 +52,7 @@ Text_FilterMiscellaneous: Diverse
 Text_FilterNewCamp: Tabăra Nouă
 Text_FilterOldCamp: Tabăra Veche
 Text_FilterOutsiders: Străini
-Text_FilterPotions: Poțiuni
+Text_FilterPotions: Poţiuni
 Text_FilterRanged: La distanță
 Text_FilterSwampCamp: Tabăra Mlaștinii
 Text_FilterWearables: Purtabile
@@ -164,7 +164,7 @@ UI_Crafting_ForgingItem: Forjarea articolului
 UI_Crafting_GoToAnvil: Du-te la nicovală
 UI_Crafting_GoToWaterBarrel: Du-te la butoiul de apă
 UI_Crafting_HasMaterials: Are Materiale
-UI_Crafting_InProgress: Rețetă în preparare...
+UI_Crafting_InProgress: Reţetă în preparare...
 UI_Crafting_MenuTitle_Alchemy: Laborator de Alchimie
 UI_Crafting_MenuTitle_Cauldron: Cazan
 UI_Crafting_MenuTitle_Forge: Forjă
@@ -180,7 +180,7 @@ UI_Crafting_ShapingItem: Modelarea articolului
 UI_Crafting_Start: '[Ține] Prepară'
 UI_Demo_CheatCode: Este un demo, pe bune, nu ai nevoie de Marvin aici. Totuși, în
   jocul complet...
-UI_Demo_Gratitude: Vă mulŢumim că aŢi jucat acest demo!
+UI_Demo_Gratitude: Vă mulţumim că aţi jucat acest demo!
 UI_Demo_Gratitude_Follow: 'Asigurați-vă că ne urmăriți:'
 UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
 UI_Demo_Gratitude_QR: 'Vă rugăm să furnizați feedback la:'
@@ -271,11 +271,11 @@ UI_Lessons: Lecții
 UI_Lessons_Acrobatics: Acrobaţie
 UI_Lessons_Sneaking: Furișare
 UI_LoadSave: Salvare nouă
-UI_LoadSave_Load: Încărcați
-UI_LoadSave_LoadGame: Încărcați jocul
+UI_LoadSave_Load: Încarcă
+UI_LoadSave_LoadGame: Încarcă jocul
 UI_LoadSave_Manual: Manual
-UI_LoadSave_Save: Salvați
-UI_LoadSave_SaveGame: Salvați jocul
+UI_LoadSave_Save: Salvează
+UI_LoadSave_SaveGame: Salvează jocul
 UI_LoadingScreen_ChapterFormat: Capitolul {ChapterNumber}
 UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
 UI_Loadingscreen_Chapter1Text: First text in the chapter story so far First text in
@@ -308,7 +308,7 @@ UI_Loadingscreen_HintsHeadline: Sfaturi
 UI_Loadingscreen_Loading: Încărcare...
 UI_Loadingscreen_PressKeytoCtn: Apasă orice tastă pentru a continua!
 UI_Main_Credits: Generic
-UI_Main_Load: Încărcați Jocul
+UI_Main_Load: Încarcă Jocul
 UI_Main_NewGame: Joc Nou
 UI_Main_Quit: Ieși
 UI_Main_QuitGame: Ieși din joc
@@ -518,7 +518,7 @@ UI_StoryIntro: 'Povestea are loc în valea minelor din Khornis. O colonie a ocna
   Ești Nyras și tocmai ai sosit în Colonie.
 
 
-  <b> Bun venit în noua ta viaŢă!</>'
+  <b> Bun venit în noua ta viaţă!</>'
 UI_Tabs_Buy: Cumpără
 UI_Tabs_Glossary: Glosar
 UI_Tabs_Inventory: Inventar
