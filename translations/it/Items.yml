@@ -165,7 +165,7 @@ Item_Weapon_Sword_TwoHand: 'Spada a due mani'
 Item_Writing: 'Scriptorium'
 Item_Weapon_Fist: 'Pugno'
 ItAt_Meatbug_01_description: 'Carne di scarafaggio. Gustosa quando cotta, non tanto
-  cruda.'
+  se cruda.'
 ItFo_Apple_description: 'Queste mele simboleggiano il monopolio commerciale di Campo
   Vecchio.'
 ItFo_Cheese_description: 'Formaggio di Myrtana, riservato alle élite di Campo Vecchio.
@@ -176,10 +176,10 @@ ItFo_Loaf_description: 'Il punto di forza della colonia: il suo rifornimento cos
   mantiene le pance piene e frena i disordini.'
 ItFo_Meatbugragout_description: 'Una specialità di Campo Vecchio nata dalla necessità,
   un gustoso ragù di funghi porcini e carne di scarafaggi.'
-ItFo_Mutton_01_description: 'Baciato dal fuoco, riempie lo stomaco e riscalda l''anima.'
+ItFo_Mutton_01_description: 'Baciata dal fuoco, riempie lo stomaco e riscalda l''anima.'
 ItFo_Mutton_02_description: 'Stagionato e squisito, una vera delizia a base di carne.'
 ItFo_Muttonraw_description: 'Appena cacciato, attende l''abbraccio del fuoco.'
-ItFo_Pear_description: 'Frutta dolce da fuori, il sapore di casa.'
+ItFo_Pear_description: 'Frutta esotica dolce, il sapore di casa.'
 ItFo_Potato_description: 'Questi tuberi costituiscono un alimento base in tutti gli
   accampamenti e contribuiscono a sostenere la forza lavoro della colonia.'
 ItFo_Potion_Beer_description: 'Birra importata da Myrtana, un lusso di Campo Vecchio
@@ -197,7 +197,7 @@ ItFo_Potion_Wine_description: 'Simbolo dei legami esterni di Campo Vecchio, un l
 ItFo_Rice_description: 'Il fondamento dell''indipendenza di Campo Nuovo, coltivato
   con cura in risaie sorvegliate. Il suo surplus guida il loro commercio e plasma
   le relazioni con gli altri campi.'
-ItFo_Whitemeat_description: 'Tenera carne di Saprofago, in attesa della cottura,'
+ItFo_Whitemeat_description: 'Tenera carne di Saprofago, in attesa della cottura.'
 ItFo_Plants_Berrys_01_description: 'Bacche selvatiche che si trovano nelle zone più
   selvagge della colonia. Raccoglierle spesso significa mettere a rischio gli arti
   e la vita.'
@@ -239,8 +239,8 @@ ItMi_Stuff_Barbknife_01_description: 'Un simbolo di civiltà nella dura colonia.
 ItMi_Stuff_Brush_description: 'Più che semplici strumenti per la pulizia, queste spazzole
   sono essenziali per la manutenzione di armi, armature e salute nelle dure condizioni
   della colonia.'
-ItMi_Stuff_Cup_01_description: 'Ha visto molti brindisi. Spesso l''unico lusso dei
-  miseri beni di un minatore.'
+ItMi_Stuff_Cup_01_description: 'Ha visto molti brindisi. Spesso l''unico lusso tra
+  i miseri beni di un minatore.'
 ItMi_Stuff_Cup_02_description: 'Calice d''argento decorato, probabilmente rubato tra
   i resti della nobiltà di Myrtana nella colonia.'
 ItMi_Stuff_Mug_01_description: 'Onnipresenti in tutti gli accampamenti, queste semplici
