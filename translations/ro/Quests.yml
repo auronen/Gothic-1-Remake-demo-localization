@@ -57,7 +57,7 @@ QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: 'Un vânător dintr-o așa-numită Tab�
   Vânătoarea pare simplă, dar ar trebui să mă feresc de orice trucuri.'
 QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Vânătoare de necrofagi'
 QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: 'Găsește o armă'
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Ucideți necrofagii din zonă'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Ucide necrofagii din zonă'
 QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Spune-i lui Drax să începeți
   vânătoarea'
 QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: 'Un membru al Taberei Noi, pe nume Jorik,
@@ -71,7 +71,8 @@ QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: 'Kirgo, o gardă din Tabăra Veche ș
   și, în același timp, de a învăța abilități valoroase de luptă. O luptă bună mi-ar
   putea câștiga ceva respect aici.'
 QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: 'Sesiune de antrenament'
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: 'Găsiți o armă pentru antrenament'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: 'Găsește o armă pentru
+  antrenament'
 QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: 'Spune-i lui Kirgo
   că ești gata să lupți'
 QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: 'Orry, o gardă de la poartă, mi-ar putea
