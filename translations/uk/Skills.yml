@@ -1,52 +1,153 @@
-Skill_Melee_OneHanded: ''
-Skill_Melee_TwoHanded: ''
-Skill_Ranged_Bow: ''
-Skill_Ranged_Crossbow: ''
-Skill_Pickpocketing: ''
-Skill_Lockpicking: ''
-Skill_Crafting_Blacksmith: ''
-Skill_Orcish: ''
-Skill_Diving: ''
-Skill_Acrobatics: ''
-Skill_Sneaking: ''
-Skill_Wallclimbing: ''
-Skill_Crafting_Alchemy: ''
-Skill_Crafting_Inscription: ''
-Skill_Hunting_Claw: ''
-Skill_Hunting_Skin: ''
-Skill_Hunting_Teeth: ''
-Skill_Hunting_Scutes: ''
-Skill_Hunting_Organ: ''
-Skill_Hunting_Fins: ''
-Skill_Hunting_Secretion: ''
-Skill_Hunting_Fur: ''
-Skill_Hunting_UluMulu: ''
-Skill_Hunting_Spines: ''
-Skill_Hunting_SkullArmor: ''
-Skill_Hunting_Stings: ''
-Skill_Hunting_MCMandibles: ''
-Skill_Hunting_MCPlate: ''
-Skill_Hunting_TongueOfFire: ''
-Skill_Hunting_ShadowbeastHorn: ''
-Skill_Hunting_SwampsharkTeeth: ''
-Skill_Hunting_SkinSwampshark: ''
-Skill_Hunting_TrollHorn: ''
-SkillMastery_Untrained: ''
-SkillMastery_Trained: ''
-SkillMastery_Master: ''
-Skill_Melee_OneHanded_Description: ''
-Skill_Melee_OneHanded_Untrained_Description: ''
-Skill_Melee_OneHanded_Trained_Description: ''
-Skill_Melee_OneHanded_Master_Description: ''
-Skill_Melee_TwoHanded_Description: ''
-Skill_Melee_TwoHanded_Untrained_Description: ''
-Skill_Melee_TwoHanded_Trained_Description: ''
-Skill_Melee_TwoHanded_Master_Description: ''
-Skill_Ranged_Bow_Description: ''
-Skill_Ranged_Bow_UntrainedDescriptions: ''
-Skill_Ranged_Bow_Trained_Description: ''
-Skill_Ranged_Bow_Master_Description: ''
-Skill_Ranged_Crossbow_Description: ''
-Skill_Ranged_Crossbow_Untrained_Description: ''
-Skill_Ranged_Crossbow_Trained_Description: ''
-Skill_Ranged_Crossbow_Master_Description: ''
+Skill_Melee_OneHanded: 'Одноручна'
+Skill_Melee_TwoHanded: 'Дворучна'
+Skill_Ranged_Bow: 'Лук'
+Skill_Ranged_Crossbow: 'Арбалет'
+Skill_Pickpocketing: 'Кишенькова крадіжка'
+Skill_Lockpicking: 'Відмикання замків'
+Skill_Crafting_Blacksmith: 'Ковальство'
+Skill_Orcish: 'Оркський'
+Skill_Diving: 'Пірнання'
+Skill_Acrobatics: 'Акробатика'
+Skill_Sneaking: 'Підкрадування'
+Skill_Wallclimbing: 'Лазіння'
+Skill_Crafting_Alchemy: 'Алхімія'
+Skill_Crafting_Inscription: 'Інскрипція'
+Skill_Hunting_Claw: 'Витягти кіготь'
+Skill_Hunting_Skin: 'Зняти шкіру'
+Skill_Hunting_Teeth: 'Витягти зуби'
+Skill_Hunting_Scutes: 'Витягти панцирі'
+Skill_Hunting_Organ: 'Витягти орган'
+Skill_Hunting_Fins: 'Взяти плавники'
+Skill_Hunting_Secretion: 'Витягти секрецію'
+Skill_Hunting_Fur: 'Take Fur'
+Skill_Hunting_UluMulu: 'Взяти Улу-Мулу'
+Skill_Hunting_Spines: 'Extract Spine'
+Skill_Hunting_SkullArmor: 'Take Skull Armor'
+Skill_Hunting_Stings: 'Extract Stings'
+Skill_Hunting_MCMandibles: 'Extract Mandibles'
+Skill_Hunting_MCPlate: 'Take Plates'
+Skill_Hunting_TongueOfFire: 'Take Tongue of Fire'
+Skill_Hunting_ShadowbeastHorn: 'Take Horn'
+Skill_Hunting_SwampsharkTeeth: 'Extract Shark Teeth'
+Skill_Hunting_SkinSwampshark: 'Take Shark Skin'
+Skill_Hunting_TrollHorn: 'Take Horn'
+SkillMastery_Untrained: 'Не вивчено'
+SkillMastery_Trained: 'Вивчено'
+SkillMastery_Master: 'Майстер'
+Skill_Melee_OneHanded_Description: 'from basic swings to fluid and masterful combinations.
+  walce, od podstawowych wymachów po płynne i mistrzowskie kombinacje. einfachen Schwüngen
+  bis hin zu fließenden und meisterhaften Kombinationen. такое оружие в бою. По мере
+  его развития вы проходите путь от простейших атак до сложных серий переходящих друг
+  в друга приёмов. Майстерність володіння одноручною зброєю визначає вашу бойову ефективність,
+  від базових замахів до плавних і майстерних комбінацій.'
+Skill_Melee_OneHanded_Untrained_Description: 'and parries are beyond your grasp. i
+  parowanie są poza twoim zasięgiem. Kombos und Paraden übersteigen deine Möglichkeiten.
+  тем, за какой конец его надо держать. Ни парировать удары противника, ни комбинировать
+  приёмы вы не умеете. Ти не навчений. Можеш володіти зброєю. Не очікуй витонченості;
+  комбо та парирування тобі не під силу.'
+Skill_Melee_OneHanded_Trained_Description: 'and skillful parries. You can deliver
+  critical hits and have the capability to cancel attacks midway. ataków i zręczne
+  parowanie. Możesz zadawać krytyczne trafienia i anulować ataki w trakcie ich wyprowadzania.
+  sowie geschickte Paraden möglich. Du kannst kritische Treffer landen und Angriffe
+  mittendrin abbrechen. комбинировать приёмы и умело отражать атаки. Вы можете наносить
+  критические удары и умеете останавливать своё оружие в замахе. З тренуваннями рухи
+  стають плавними, що дозволяє проводити комбінації атак і вміло парирувати. Можна
+  наносити критичні удари та скасовувати атаки на півшляху.'
+Skill_Melee_OneHanded_Master_Description: 'for critical strikes is heightened, and
+  you can cause knockbacks. Parrying becomes second nature, allowing for strong counterattacks.
+  krytyczne wzrasta, a ciosy mogą odrzucać wrogów. Parowanie wchodzi w nawyk i umożliwia
+  silne kontrataki. auf kritische Treffer ist erhöht und du kannst Gegner zurückstoßen.
+  Das Parieren geht dir in Fleisch und Blut über und ermöglicht starke Gegenangriffe.
+  удаётся нанести критический удар, к тому же ваши атаки могут отбросить врага. Парировать
+  удары для вас так же естественно, как дышать, и это позволяет проводить мощные контратаки.
+  Майстер одноручного бою - це сила, з якою треба рахуватися. Твій шанс для критичних
+  ударів зростає, та можна завдавати серйозну відсіч. Парирування стає природним,
+  що дозволяє проводити сильні контратаки.'
+Skill_Melee_TwoHanded_Description: 'raw strikes to graceful and dominating combinations.
+  walce, od prostych uderzeń po powalające kombinacje pełne gracji. im Kampf – von
+  rohen Schlägen bis hin zu grazilen und überwältigenden Kombinationen. при использовании
+  такого оружия. По мере его развития вы проходите путь от простых ударов до изящных
+  и в то же время мощных комбинаций. Майстерність володіння дворучною зброєю визначає
+  можливості в бою, від грубих ударів до витончених і домінуючих комбінацій.'
+Skill_Melee_TwoHanded_Untrained_Description: 'remains elusive. Combos and parries
+  are beyond your reach, and your attacks are simple and unrefined. ci się wymyka.
+  Kombinacje i parowanie są poza twoim zasięgiem, a ataki są proste i niewyrafinowane.
+  Potenzial entzieht sich dir. Kombos und Paraden übersteigen deine Möglichkeiten
+  und deine Angriffe sind simpel und grobschlächtig. простой железяки. Вы не можете
+  комбинировать приёмы и блокировать атаки. Вам доступны самые примитивные, неизящные
+  удары. Ти не тренований. Ти можеш тримати зброю двома руками, але її повний потенціал
+  залишається невловимим. Комбо та парирування тобі не під силу, а твої атаки прості
+  і невишукані.'
+Skill_Melee_TwoHanded_Trained_Description: 'you to weave powerful combinations and
+  skilled parries. Critical hits become possible, and you gain the ability to cancel
+  attacks. pozwalając ci na wyprowadzanie potężnych kombinacji i umiejętnych parad.
+  Możesz zadawać trafienia krytyczne i zyskujesz umiejętność anulowania ataków. sodass
+  du mächtige Kombinationen und gekonnte Paraden ausführen kannst. Kritische Treffer
+  werden möglich und du erhältst die Fähigkeit, Angriffe abzubrechen. плавность, позволяющую
+  объединять удары в мощные комбинации и искусно отражать атаки. Вы можете наносить
+  критические удары и умеете останавливать своё оружие в замахе. З тренуваннями контроль
+  над дворучною зброєю стає плавним, що дозволяє плести потужні комбінації та вміло
+  парирувати. Стають можливими критичні удари, і ти отримаєш можливість відміняти
+  атаки.'
+Skill_Melee_TwoHanded_Master_Description: 'strikes become more frequent, parrying
+  allows counterattacks, and your powerful swings can send foes reeling with knockbacks.
+  zadajesz trafienia krytyczne, parowanie umożliwia kontrataki, a potężne zamachy
+  mogą odepchnąć wrogów. Kritische Treffer werden häufiger, Paraden ermöglichen Gegenschläge
+  und deine mächtigen Schwünge können Gegner zurückstoßen und ins Taumeln bringen.
+  критические удары, а парируя выпады врага, вы можете контратаковать. Кроме того,
+  сила ваших ударов так велика, что они могут отбросить врага. Як майстер дворучного
+  бою, твоя доблесть вражає уяву. Критичні удари стають частішими, парирування дозволяє
+  контратакувати, а потужні замахи можуть відкинути ворога назад, відкинувши його
+  на землю.'
+Skill_Ranged_Bow_Description: 'and swift shots. po precyzyjne i szybkie strzały. vom
+  einfachen Zielen bis hin zu präzisen, schnellen Schüssen. стрелять. По мере его
+  развития вы проходите путь от базового умения целиться до способности бить точно
+  и быстро. Вміння володіти луком визначає влучність стрільби - від елементарного
+  прицілювання до точних і швидких пострілів.'
+Skill_Ranged_Bow_UntrainedDescriptions: 'and reloading feels cumbersome. a naciąganie
+  cięciwy i przeładowywanie – uciążliwe. dir schwer und das Spannen der Sehne und
+  Einlegen von Pfeilen fühlt sich umständlich an. целиться, а накладывать стрелы на
+  тетиву — несподручно. Ти не навчений. Тримати лук можеш, але прицілюватися складно,
+  а натягувати і перезаряджати лук - важко.'
+Skill_Ranged_Bow_Trained_Description: 'reloading and aiming your bow, and your increased
+  precision allows for critical hits. lepsze. Teraz jeszcze szybciej przeładowujesz
+  i celujesz, a zwiększona precyzja pozwala na krytyczne trafienia. jetzt viel schneller
+  Pfeile einlegen und mit dem Bogen zielen, und deine erhöhte Präzision ermöglicht
+  kritische Treffer. пускаете стрелы и лучше целитесь, что делает возможными критические
+  попадания. З тренуваннями навички стрільби з лука загострилися. Тепер уміння перезаряджати
+  лук і цілитися набагато краще, а підвищена точність дозволяє влучати в ціль на ураження.'
+Skill_Ranged_Bow_Master_Description: 'enemies, and the swiftness and precision of
+  your shots overwhelm them. a szybkość i precyzja strzałów przytłaczają ich. für
+  deine Gegner, und die Schnelligkeit und Präzision deiner Schüsse überwältigt sie.
+  урон, а быстрота и точность стрельбы ошеломляют. Ти майстерно володієш луком. Твої
+  влучні постріли знищують ворогів. а швидкість і точність ваших пострілів приголомшують
+  їх.'
+Skill_Ranged_Crossbow_Description: 'from basic handling to quick and precise shooting.
+  ewoluując od podstawowej obsługi do szybkiego i precyzyjnego strzelania. die sich
+  von der einfachen Handhabung bis zu schnellen und präzisen Schüssen weiterentwickeln.
+  боя с таким оружием. По мере его развития вы проходите путь от основ обращения с
+  арбалетами до умения быстро и точно поражать цели. Вміння володіти арбалетом відображає
+  майстерність ведення бою на дальніх дистанціях, що еволюціонує від елементарного
+  поводження до швидкої та точної стрільби.'
+Skill_Ranged_Crossbow_Untrained_Description: 'prove aiming, and reloading is slow
+  and tedious. ręce mogą utrudniać celowanie, a przeładowywanie jest powolne i żmudne.
+  Hand könnte das Zielen erschweren, und das Nachladen ist langsam und mühselig. болт
+  в цель, но дрожащие руки плохо справляются с перезарядкой и прицеливанием, поэтому
+  всё получается очень медленно и несуразно. Ти ненавчений. Можеш користуватися арбалетом,
+  але твої нестійкі руки можуть заважати прицілюванню, а перезаряджання буде повільним
+  і виснажливим.'
+Skill_Ranged_Crossbow_Trained_Description: 'your aim steadies and critical hits become
+  a real threat. jest szybsze, celowanie stabilniejsze, a trafienia krytyczne stają
+  się realnym zagrożeniem. Du lädst schneller nach, kannst ruhiger zielen und deine
+  kritischen Treffer werden zu einer echten Gefahr. перезарядка теперь занимает куда
+  меньше времени, а критические попадания сделались по-настоящему опасными. З тренуваннями
+  майстерність володіння арбалетом зростає. Перезаряджання відбувається швидше, прицілювання
+  стає точнішим, а критичні постріли стають реальною загрозою.'
+Skill_Ranged_Crossbow_Master_Description: 'ease, each shot boasts unmatched accuracy,
+  and your deft hands reload the bolts swiftly. z większą łatwością, każdy strzał
+  oddawany jest z niezrównaną celnością, a twoje zręczne dłonie szybko przeładowują
+  bełty. jeder Schuss weist eine unübertroffene Präzision auf und deine geschickten
+  Hände laden die Bolzen schnell nach. стало проще. Каждый выстрел поразительно точен,
+  и вы невероятно быстро и ловко перезаряжаете оружие. Ти досягаєш майстерності у
+  володінні арбалетом. Критичні постріли даються легше, ніж будь-коли, кожен постріл
+  може похвалитися неперевершеною точністю, а вправні руки швидко перезаряджають затвори.'
