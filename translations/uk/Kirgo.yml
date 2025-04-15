@@ -1,80 +1,119 @@
-Kirgo-CH0-None-Kirgo-13159: ''
-Kirgo-CH0-None-Caption-90162: ''
-Kirgo-CH0-None-Hero-61590: ''
-Kirgo-CH0-None-Kirgo-72322: ''
-Kirgo-CH0-None-Hero-54970: ''
-Kirgo-CH0-None-Kirgo-53995: ''
-Kirgo-CH0-None-Kirgo-48505: ''
-Kirgo-CH0-None-Caption-56351: ''
-Kirgo-CH0-None-Hero-5576: ''
-Kirgo-CH0-None-Kirgo-48595: ''
-Kirgo-CH0-None-Kirgo-58994: ''
-Kirgo-CH0-None-Hero-57845: ''
-Kirgo-CH0-None-Hero-75065: ''
-Kirgo-CH0-None-Kirgo-5289: ''
-Kirgo-CH0-None-Hero-75802-0: ''
-Kirgo-CH0-None-Hero-49599-0: ''
-Kirgo-CH0-None-Hero-7847: ''
-Kirgo-CH0-None-Kirgo-86946: ''
-Kirgo-CH0-None-Kirgo-51889: ''
-Kirgo-CH0-None-Hero-69630: ''
-Kirgo-CH0-None-Kirgo-15646: ''
-Kirgo-CH0-None-Kirgo-28860-0: ''
-Kirgo-CH0-None-Kirgo-50097: ''
-Kirgo-CH0-None-Hero-42421: ''
-Kirgo-CH0-None-Kirgo-13085: ''
-Kirgo-CH0-None-Hero-73711: ''
-Kirgo-CH0-None-Kirgo-8473: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-87315: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-54063-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-565-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-95345-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35698: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35355: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-61657: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-59331: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-10101: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210: ''
-Kirgo-CH0-None-Kirgo-65501: ''
-Kirgo-CH0-None-Kirgo-30285-0: ''
-Kirgo-CH0-None-Kirgo-22502: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-97338: ''
-TEXT_HECTO_20230814_160412_686: ''
-Kirgo-CH0-None-Hero-24591: ''
-Kirgo-CH0-None-Kirgo-12464: ''
-Kirgo-CH0-None-Kirgo-85213: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-99779: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70361: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-25026: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-58252: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-59810: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-34033: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18590: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-26319: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-52548: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-630: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-1372: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-68105: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-91130: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-3837: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-95013: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-63047: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-41448: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-64994: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-65948-6: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-39679: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-21333: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-42430-0: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-57048: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70786: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-48441: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-23822: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18035: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-92998: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-72913: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-17711: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-27576: ''
-Kirgo-CH0-G1RDemo_KirgoFight-Hero-79373: ''
+Kirgo-CH0-None-Kirgo-13159: 'Гляньте, свіже обличчя. Тебе що, щойно закинули?'
+Kirgo-CH0-None-Caption-90162: 'Так і є'
+Kirgo-CH0-None-Hero-61590: 'Так і є.'
+Kirgo-CH0-None-Kirgo-72322: 'Ласкаво просимо до колонії. Як тебе звати? Я Кірґо.'
+Kirgo-CH0-None-Hero-54970: 'Нірас.'
+Kirgo-CH0-None-Kirgo-53995: 'Приємно познайомитися. Слухай, чому б не поговорити трохи?
+  Розкажеш мені останні новини ззовні, а я дам тобі кілька порад, які допоможуть тобі
+  тут вижити. '
+Kirgo-CH0-None-Kirgo-48505: 'Просто я цілий день розгрібаю ці кляті уламки, ладен
+  убити, щоб відірватися. Що скажеш?'
+Kirgo-CH0-None-Caption-56351: 'Яка тобі різниця, що відбувається ззовні?'
+Kirgo-CH0-None-Hero-5576: 'Яка тобі різниця, що відбувається зовні? Ми ж ніколи звідси
+  не виберемося, правда?'
+Kirgo-CH0-None-Kirgo-48595: 'Ну, хлопці з нового табору та з боліт можуть не погодитись
+  з цим. Але так, ти правий, мабуть, не будемо. '
+Kirgo-CH0-None-Kirgo-58994: 'Втім, думаю, що час від часу корисно нагадувати собі,
+  що світ не починається і не закінчується на цьому дурнуватому синьому куполі. Інакше
+  я б збожеволів.'
+Kirgo-CH0-None-Hero-57845: 'А якщо я розповім тобі в обмін на безпечне місце для ночівлі? '
+Kirgo-CH0-None-Hero-75065: 'Як одна з твоїх хатин?'
+Kirgo-CH0-None-Kirgo-5289: 'Через того тіньоствора, так? Я б дозволив тобі переночувати
+  там, якби це залежало від мене, але це не так. Вибач, друже.'
+Kirgo-CH0-None-Hero-75802-0: 'Добре.'
+Kirgo-CH0-None-Hero-49599-0: 'Чесно кажучи, не так вже й багато розповідей. Всі на
+  межі, через війну і ці страшилки про орків, що ширяться довкола, не допомагають. '
+Kirgo-CH0-None-Hero-7847: 'Ходять чутки, що нордмаріанці здобули невеликі перемоги,
+  тож це так. '
+Kirgo-CH0-None-Kirgo-86946: 'Дякую Інносу. Будемо сподіватися, що вони зможуть відновити
+  частину шахт - ми тут не зможемо довго встигати за попитом, незалежно від того,
+  скільки в''язнів сюди пришле король.'
+Kirgo-CH0-None-Kirgo-51889: 'А що з Хорінісом? Вдалось побачити його під час перевезення?'
+Kirgo-CH0-None-Hero-69630: 'Не зовсім. Мене весь час тримали під замком.'
+Kirgo-CH0-None-Kirgo-15646: 'Шкода. Ах, чоловіче, сумую за тим місцем ... Жив там
+  пару років після того, як покинув Варант. У мене там була жінка ... Роза.'
+Kirgo-CH0-None-Kirgo-28860-0: 'Вона була наймилішим створінням, яке можна собі уявити,
+  і кращою душею, ніж я коли-небудь буду.  '
+Kirgo-CH0-None-Kirgo-50097: 'От лайно, чого це я, розкиснув, як слинявий дідуган.
+  Вибачаюсь. '
+Kirgo-CH0-None-Hero-42421: 'У мене немає на це часу.'
+Kirgo-CH0-None-Kirgo-13085: 'Хм. Шкода. Ну що ж, твій вибір.'
+Kirgo-CH0-None-Hero-73711: 'Не твоє діло.'
+Kirgo-CH0-None-Kirgo-8473: 'Ти не з балакучих, так? Мені все одно, але на твоєму місці
+  я б слідкував за тоном. Самотні вовки тут далеко не заходять. '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-87315: 'Ауч ... що ж, такого я не очікував. Непогано
+  ... у тебе є потенціал. Хоча, думаю, можу навчити тебе кільком трюкам. Зацікавлений?'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-54063-0: 'Звісно, чому б і ні.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-565-0: 'Добре. По-перше, коли користуєшся такою
+  зброєю, тримай її в одній руці, а не в обох. Як тільки наростиш м''язи, станеш набагато
+  спритнішим і зможеш зв''язати свої атаки в єдине ціле.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-95345-0: 'По-друге, коли атакують, і ти розумієш,
+  що тебе відкине від удару, відійди назад і ухилися. Для цього знадобиться трохи
+  практики, але ти зможеш це зробити.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35698: 'І нарешті, коли парируєш, намагайся вибрати
+  ідеальний момент, який залишить твого опонента відкритим.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473-0: 'Добре, я зрозумів. Дякую.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210-0: 'Коли завгодно. Але краще б тобі знайти
+  собі місце для ночівлі, бо скоро стемніє '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-35355: 'Хороший бій! Сподіваюся, я нічого не зламав?'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-61657: '... Все в порядку.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-59331: 'Радий це чути. Ти непогано рухаєшся, друже,
+  тобі треба трохи потренуватися, але в тебе є потенціал. Хочеш, навчу тебе кількох
+  трюків? '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-10101: 'І нарешті, коли парируєш, намагайся вибрати
+  ідеальний момент, який залишить твого опонента відкритим. '
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-55473: 'Добре, я зрозумів. Дякую.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-83210: 'Коли завгодно. Але краще б тобі знайти
+  собі місце для ночівлі, бо скоро стемніє '
+Kirgo-CH0-None-Kirgo-65501: 'Непогано... Не очікував такого.'
+Kirgo-CH0-None-Kirgo-30285-0: 'Так чи інакше, мушу повертатися до роботи. Побачимося.'
+Kirgo-CH0-None-Kirgo-22502: 'Гарний бій. У тебе виходить!'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-97338: 'Приємно було побалакати.'
+TEXT_HECTO_20230814_160412_686: '(Завершити розмову)'
+Kirgo-CH0-None-Hero-24591: 'Це правда, що тут немає жінок? Зовсім?'
+Kirgo-CH0-None-Kirgo-12464: 'Тільки ті, яких рудні барони тримають для своєї забави.
+  Але якщо ти хоч оком кинеш на них, Ґомез відшмагає до кісток. '
+Kirgo-CH0-None-Kirgo-85213: 'Ходять чутки про пару, яка втекла і десь переховується,
+  але я сумніваюся в цьому. Люди просто люблять поговорити... і випити... і ще поговорити.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-99779: 'Твоя черга. Що ти порадиш?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70361: 'Долучайся до Старого табору. Ми серце Колонії
+  - все, що надсилають ззовні, приносять до нас.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-25026: 'Якщо тільки не обвал. ...'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-58252: 'Не бійся, наші хлопці швидко з цим розберуться.
+  Ґомез суворий, але він знає, як зробити так, щоб тут все працювало.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-59810: '"Ґомез" твій ватажок?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-34033: 'Він найвпливовіша людина в Старому таборі,
+  так. Тоді він очолив бунт і взяв на себе владу.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18590: 'Він той хлопець, який говорить королю,
+  що ми хочемо за нашу руду. І король дає.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-26319: 'Зрозуміло..'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-52548: 'Ще одне - ти виглядаєш так, ніби вже тримав
+  меч. Не хочеш потренуватися?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-630: ' Наступного тижня у мене бій, і я міг би
+  показати тобі кілька хитрощів у відповідь'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-1372: 'У тебе скоро бійка?"'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-68105: 'Так, на арені. Побачиш.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-91130: 'Вибач, але мені пора йти.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-3837: 'Шкода.Ну, можливо, іншим разом.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-95013: 'Добре, чому б і ні.  '
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-63047: 'Чудово! Дай мені знати, коли будеш готовий.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-41448: 'Так, звісно. Я буду деякий час тут.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-64994: 'Я готовий битися.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-65948-6: 'Добре. Потанцюймо.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-39679: 'Що, без зброї?  Знайди собі щось, інакще
+  будеш не довольний.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-21333: 'Чому ти такий привітний?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-42430-0: 'Ти так говориш, ніби це погано. Не знаю.
+  Можливо, це тому, що люди тут виглядають так, ніби вони не срали десять років, тому
+  я намагаюся збалансувати це.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-57048: 'Як щодо реваншу?'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-70786: 'Хм, чому ні. Але спершу візьми собі зброю.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-48441: 'Що, вже? Звісно. Тільки скажи.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-23822: 'Давай битися.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-18035: 'Добре. Покажи, на що ти здатен!'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-92998: 'Цього разу не стримуйся. Покажи все, на
+  що ти здатен.'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-72913: 'Ти впевнений? Добре, потанцюємо.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-17711: 'Зачекай хвилинку..'
+Kirgo-CH0-G1RDemo_KirgoFight-Kirgo-27576: 'Добре. Ти знаєш, де мене знайти.'
+Kirgo-CH0-G1RDemo_KirgoFight-Hero-79373: 'Може, пізніше.'
