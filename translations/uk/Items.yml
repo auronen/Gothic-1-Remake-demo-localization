@@ -1,10 +1,10 @@
-Ladder: ''
-Chest: ''
-Chair: ''
-Bench: ''
-Box: ''
-Pan Cook: ''
-Dead Rogue: ''
+Ladder: 'Драбина'
+Chest: 'Скриня'
+Chair: 'Крісло'
+Bench: 'Лавка'
+Box: 'Ящик'
+Pan Cook: 'Сковорідка'
+Dead Rogue: 'Труп'
 ItIg_Worldsplitter: ''
 ItIg_Worldsplitter_Description: ''
 ItWr_Scroll_Mysteriousnote: ''
@@ -134,53 +134,88 @@ ReAr_Scroll_Transformshadowbeast: ''
 ReAr_Scroll_Transformsnapper: ''
 ReAr_Scroll_Transformswampshark: ''
 ReAr_Scroll_Transformwolf: ''
-Item_Weapon_Rune: ''
-Item_Weapon_Scroll: ''
-Item_Amulet: ''
-Item_Food: ''
-Item_Potion: ''
-Item_Herb: ''
-Item_Drug: ''
-Item_Key: ''
-Item_Trophy: ''
-Item_Material: ''
-Item_Ore: ''
-Item_Junk: ''
-Item_Ammo: ''
-Item_Quest: ''
-Item_Lockpick: ''
-Item_Instrument: ''
-Item_Weapon_Bow: ''
-Item_Weapon_Crossbow: ''
-Item_Ring: ''
-Item_Weapon_Axe_OneHand: ''
-Item_Weapon_Mace_OneHand: ''
-Item_Weapon_Sword_OneHand: ''
-Item_Weapon_Torch_OneHand: ''
-Item_Weapon_Axe_TwoHand: ''
-Item_Weapon_Mace_TwoHand: ''
-Item_Weapon_Staff_TwoHand: ''
-Item_Weapon_Sword_TwoHand: ''
-Item_Writing: ''
-Item_Weapon_Fist: ''
-ItAt_Meatbug_01_description: ''
-ItFo_Apple_description: ''
-ItFo_Cheese_description: ''
-ItFo_Grilledscavenger_description: ''
-ItFo_Loaf_description: ''
-ItFo_Meatbugragout_description: ''
-ItFo_Mutton_01_description: ''
-ItFo_Mutton_02_description: ''
-ItFo_Muttonraw_description: ''
-ItFo_Pear_description: ''
-ItFo_Potato_description: ''
-ItFo_Potion_Beer_description: ''
-ItFo_Potion_Booze_description: ''
-ItFo_Potion_Strongbeer_description: ''
-ItFo_Potion_Water_01_description: ''
-ItFo_Potion_Wine_description: ''
-ItFo_Rice_description: ''
-ItFo_Whitemeat_description: ''
+Item_Weapon_Rune: 'Руни'
+Item_Weapon_Scroll: 'Сувої'
+Item_Amulet: 'Амулет'
+Item_Food: 'Їжа'
+Item_Potion: 'Напої'
+Item_Herb: 'Рослини'
+Item_Drug: 'Наркотики'
+Item_Key: 'Ключі'
+Item_Trophy: 'Трофеї'
+Item_Material: 'Матеріали'
+Item_Ore: 'Руда'
+Item_Junk: 'Сміття'
+Item_Ammo: 'Амуніція'
+Item_Quest: 'Предмет завдання'
+Item_Lockpick: 'Відмичка'
+Item_Instrument: 'Інструменти'
+Item_Weapon_Bow: 'Лук'
+Item_Weapon_Crossbow: 'Арбалет'
+Item_Ring: 'Перстень'
+Item_Weapon_Axe_OneHand: 'Одноручна сокира'
+Item_Weapon_Mace_OneHand: 'Одноручна булава'
+Item_Weapon_Sword_OneHand: 'Одноручний меч'
+Item_Weapon_Torch_OneHand: 'Смолоскип'
+Item_Weapon_Axe_TwoHand: 'Дворучна сокира'
+Item_Weapon_Mace_TwoHand: 'Дворучна булава'
+Item_Weapon_Staff_TwoHand: 'Посох'
+Item_Weapon_Sword_TwoHand: 'Дворучний меч'
+Item_Writing: 'Записки'
+Item_Weapon_Fist: 'Кулаки'
+ItAt_Meatbug_01_description: 'желать лучшего. М''ясо з м''ясних жуків. Смачне у вареному
+  вигляді, не дуже сире.'
+ItFo_Apple_description: 'Ці яблука символізують торгівельну монополію Старого табору.'
+ItFo_Cheese_description: 'through the castle. Duft weht durch die Burgt, sagt man.
+  się w całym zamku. ароматом пропах весь замок. Міртананський сир, зарезервований
+  для еліти Старого Табору. Його різкий аромат розноситься по всьому замку.'
+ItFo_Grilledscavenger_description: 'М''ясо стервожерів, смачно обсмажене на сковорідці
+  до досконалості.'
+ItFo_Loaf_description: 'bay. dass die Bäuche voll sind und Unruhe fern bleibt. co
+  oddala ryzyko buntu. и не выражают недовольства. Основний продукт харчування колонії,
+  його стабільні поставки тримають шлунки ситими, а заворушення на відстані.'
+ItFo_Meatbugragout_description: 'and bugmeat. piekielników i mięsa chrząszczy. Впрочем,
+  как оказалось, мясо жуков, тушенное с адскими грибами, — это вкусно. Фірмова страва
+  Старого Табору, народжена необхідністю, смачне рагу з пекельників і м''яса жуків.'
+ItFo_Mutton_01_description: 'Підсмажене, наповнює шлунок і зігріває душу.'
+ItFo_Mutton_02_description: 'Витриманий і смачний м''ясний делікатес.'
+ItFo_Muttonraw_description: 'Щойно впольоване, чекає на обійми вогню.'
+ItFo_Pear_description: 'Солодкий на вигляд фрукт, нагадує смак дому.'
+ItFo_Potato_description: 'dass die Arbeitskräfte der Kolonie stark bleiben. górnikom
+  z Kolonii. лагерях колонии. Основна їжа в усіх таборах, ці бульби підтримують робочу
+  силу в колонії.'
+ItFo_Potion_Beer_description: 'and trade in the penal colony. und den Handel in der
+  Strafkolonie in Schwung bringt. i handel w kolonii karnej. которого оживляет торговлю
+  и облегчает переговоры во всей колонии. Імпортний миртанський ель - розкіш старого
+  табору, яка змащує колеса переговорів та торгівлі у виправній колонії.'
+ItFo_Potion_Booze_description: 'as currency and social lubricant, embodying the camp''s
+  resourcefulness dient als Währung und soziales Schmiermittel und verkörpert die
+  Unabhängigkeit des Lagers za walutę i zacieśnia społeczne więzi, symbolizując zaradność
+  obozu. пример их изобретательности. Этот крепкий алкогольный напиток облегчает социальное
+  взаимодействие в лагере и порой может выполнять роль валюты. Гордість Нового табору,
+  дистильований з рисових полів. Цей міцний напій слугує як валюта і соціальне мастило,
+  уособлюючи винахідливість табору'
+ItFo_Potion_Strongbeer_description: 'short-term productivity, despite the risks of
+  prolonged use. zwiększa krótkoterminową produktywność, pomimo ryzyka związanego
+  z długotrwałym używaniem. кратковременный тонизирующий эффект, но чрезмерное употребление
+  вредит здоровью. Міцний напій, який полюбляють гірничі наглядачі. Високий вміст
+  алкоголю підвищує короткочасну продуктивність, попри ризики тривалого вживання.'
+ItFo_Potion_Water_01_description: 'in the colony. sie ein Schlüssel zur Macht in der
+  Kolonie. kluczowa do zachowania władzy w Kolonii. те, кто всем здесь заправляет.
+  Контроль над джерелами чистої води, хоч і є широкодоступним, є ключем до влади в
+  колонії.'
+ItFo_Potion_Wine_description: 'the Ore Barons'' tables. der normalerweise nur an den
+  Tischen der Erzbarone zu finden ist. przy stołach baronów rudy. только на столе
+  рудного барона. Символ зовнішніх зв''язків Старого Табору, рідкісна розкіш, яку
+  можна зустріти за столами Рудних Баронів.'
+ItFo_Rice_description: 'paddies. Its surplus drives their trade and shapes relations
+  with other camps. in bewachten Reisfeldern. Sein Überschuss treibt ihren Handel
+  an und prägt die Beziehungen zu anderen Lagern. polach. Nadwyżki napędzają handel
+  i kształtują relacje z innymi obozami. Составляет основу независимости Нового лагеря.
+  Излишки идут на продажу, что определяет взаимоотношения с другими лагерями. Фундамент
+  незалежності Нового Табору, дбайливо вирощений на захищених полях. Його надлишок
+  стимулює їхню торгівлю та формує відносини з іншими таборами.'
+ItFo_Whitemeat_description: 'огне. Ніжне м''ясо стервожера, що чекає на полум''я.'
 ItFo_Plants_Berrys_01_description: ''
 ItFo_Plants_Bloodwood_01_description: ''
 ItFo_Plants_Mushroom_01_description: ''
