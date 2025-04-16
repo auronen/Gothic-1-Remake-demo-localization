@@ -100,7 +100,7 @@ Text_OpenChest: Apri forziere
 Text_OpenDoor: Apri porta
 Text_OpenGlossary: Apri glossario
 Text_OpenMenu: Apri Menu
-Text_PauseMenu: Pausa
+Text_PauseMenu: Menù di Pausa
 Text_QuickAccess: Oggetti ad accesso rapido
 Text_Read: Leggi
 Text_Reset: Reset
@@ -331,7 +331,7 @@ UI_Notification_AreaDiscovered: Nuova area scoperta
 UI_Notification_ExperienceGainedFormat: '{Amount} Esperienza'
 UI_Notification_GlossaryUpdatedFormat: 'Glossario aggiornato: {EntryName}'
 UI_Notification_KeyUsedFormat: 'Chiave usata: {KeyName}'
-UI_Notification_LevelUp: Salire di livello
+UI_Notification_LevelUp: Su di un livello!
 UI_Notification_ShowMore: Mostra di più
 UI_Notification_SkillIncreasedFormat: 'Abilità aumentata: {SkillName}'
 UI_Notification_SkillLearnedFormat: 'Abilità appresa: {SkillName}'
@@ -548,4 +548,4 @@ UI_death_MainMenu: Menu principale
 UI_death_Revive: Rianima
 UI_death_ReviveLeft: Rianimazioni rimaste
 Item_Damage_Physical_Edge: Danno da taglio
-Item_Damage_Physical_Point: Danno da punta
+Item_Damage_Physical_Point: Danno da perforazione
