@@ -10,7 +10,7 @@ ItIg_Worldsplitter_Description: 'O pungă de minereu'
 ItWr_Scroll_Mysteriousnote: 'Însemnări misterioase'
 ItWr_Scroll_Mysteriousnote_Description: 'Schiță neînțeleasă cu scop nedeslușit, desenată
   probabil de Jorik.'
-ReFo_Potion_Health_01: 'Esență vindecătoare'
+ReFo_Potion_Health_01: 'Esenţă vindecătoare'
 ReFo_Potion_Health_02: 'Extract vindecător'
 ReFo_Potion_Health_03: 'Elixir vindecător'
 ReFo_Potion_Mana_01: 'Esență de Energie Magică'
@@ -140,7 +140,7 @@ Item_Weapon_Scroll: 'Pergament'
 Item_Amulet: 'Amuletă'
 Item_Food: 'Mâncare'
 Item_Potion: 'Băutură'
-Item_Herb: 'Iarbă'
+Item_Herb: 'Ierburi'
 Item_Drug: 'Medicament'
 Item_Key: 'Cheie'
 Item_Trophy: 'Trofeu'
@@ -157,7 +157,7 @@ Item_Ring: 'Inel'
 Item_Weapon_Axe_OneHand: 'Topor de-o mână'
 Item_Weapon_Mace_OneHand: 'Buzdugan de-o mână'
 Item_Weapon_Sword_OneHand: 'Sabie de-o mână'
-Item_Weapon_Torch_OneHand: 'Torță'
+Item_Weapon_Torch_OneHand: 'Torţă'
 Item_Weapon_Axe_TwoHand: 'Topor de două mâini'
 Item_Weapon_Mace_TwoHand: 'Buzdugan de două mâini'
 Item_Weapon_Staff_TwoHand: 'Toiag'
@@ -214,7 +214,7 @@ ItFo_Plants_Stoneroot_01_description: 'Această plantă rezistentă, este vital�
   restabilirea energiilor magice, este strânsă cu zel de către magii coloniei.'
 ItAt_Claws_01_description: 'Gheare ascuțite ca briciu, prețuite de meșterii din colonie.
   Recoltarea acestora este pe cât de periculoasă, pe atât de profitabilă.'
-ItAm_Arrow_description: 'Obținute din materiale găsite înauntrul barierei, aceste
+ItAm_Arrow_description: 'Obținute din materiale găsite înăuntrul barierei, aceste
   săgeți sunt esențiale pentru arcuri și fac diferența între un băț și o armă.'
 ItAm_Bolt_description: 'Făcute pentru arbaletele preferate de paznicii Taberei Vechi.
   Sunetul lor prin aer reduce la tăcere neînțelegerile înainte ca acestea să înceapă.'
@@ -236,7 +236,7 @@ ItMi_Stuff_Barbknife_01_description: 'Un simbol al civilizației în viața grea
 ItMi_Stuff_Brush_description: 'Nu numai un simplu instrument de curățare, aceste perii
   sunt vitale pentru menținerea armelor, armurilor și sănătății în condițiile dificile
   ale coloniei.'
-ItMi_Stuff_Cup_01_description: 'A participat la multe celebrări. Dese ori singurul
+ItMi_Stuff_Cup_01_description: 'A participat la multe celebrări. Deseori singurul
   obiect de lux din posesia unui miner.'
 ItMi_Stuff_Cup_02_description: 'Pocal argintiu ornat, probabil furat de la rămasurile
   nobilimii Myrtane din colonie.'
@@ -247,7 +247,7 @@ ItMi_Stuff_Pipe_01_description: 'O sursă prețioasă de comfort în colonie, fo
 ItMi_Stuff_Plate_01_description: 'Vas de metal uzat. Reamintește că și deținuții trebuie
   să mănânce.'
 HumanFists_description: 'Pumnul, ultima opțiune a celor disperați sau arma preferată
-  a celor încrezuți. Eficient, dacă știii ce faci.'
+  a celor încrezuți. Eficient, dacă știi ce faci.'
 ItFo_Potion_Health_01_description: 'Poțiuni de vindecat făcute din ierburi rare. Effectele
   rapide de vindecare au salvat nenumărate vieți, asta a facut ca alchimiştii sa fie
   la mare căutare in colonie.'
@@ -255,8 +255,8 @@ ItWr_Scroll_Jacko_01_description: 'Jacko, am primit mesajul tău. Nu știam că 
   are o ascunzătoare în subsol. Sunt de acord că am putea împărții pe jumătate dacă
   se întâmplă să-l găsesc. Am niște contacte în tavernă și cred că am descoperit o
   cale de acces la subsol.'
-ItMw_1H_Axe_Sickle_01_description: 'Simbol al autonomiei Taberei Noi, această unealtă
-  servește atât ca recoltator, cât și ca protector. Lama sa curbată întruchipează
+ItMw_1H_Axe_Sickle_01_description: 'Simbol al autosuficienței Taberei Noi, această
+  unealtă servește atât la recoltat, cât și la protecție. Lama sa curbată întruchipează
   hotărârea taberei de a prospera.'
 ItMw_1H_Mace_03_description: 'Un buzdugan brutal cu un cap de metal țepos, creat pentru
   a imita înțepătura mortală a muștelor de sânge din colonie. Preferat de bandiți,
@@ -270,17 +270,17 @@ ItMw_1H_Sword_02_description: 'Lamă gravată cu protecție aurie incrucișată.
 ItMw_1H_Sword_04_description: 'O sabie de calitate, cu o lamă modelată și o protecție
   încrucișată. Preferată de luptători experimentați pentru versatilitatea sa.'
 ItMw_1H_Sword_Old_01_description: 'O relicvă a primelor zile din coloniei, aceste
-  săbi uzate încă mai sunt folosite în rândul noilor veniți.'
+  săbii uzate încă mai sunt folosite în rândul noilor veniți.'
 ItMw_1H_Sword_Short_02_description: 'O simplă sabie scurtă cu un burduşi argintiu.
   Fiind compactă , este ideală pentru lupte rapide corp la corp.'
-ItMw_1H_Torch_description: 'Indispensabil pentru a naviga în zonele periculoase și
-  întunecate coloniei. Poate fi folosit ca o armă improvizată împotriva fiarelor,
-  uneori cu consecințe de incendiare.'
+ItMw_1H_Torch_description: 'Indispensabilă pentru orientarea în zonele periculoase
+  și întunecate ale coloniei. Poate fi folosită ca o armă improvizată împotriva fiarelor,
+  uneori cu consecințe incendiare.'
 ItRw_Bow_Diego_description: 'Acest arc lung realizat cu măiestrie este atât de un
   simbol al autorității lui Diego, cât este o armă.'
 ItRw_Bow_Long_01_description: 'Arc înalt, ușor curbat din lemn. Design simplu, fără
   priză înfășurată. Popular printre rezidenții Taberei Noi pentru raza sa.'
-ItRw_Bow_Small_01_description: 'Un arc scurt facut de mântuială, cu laturi asimetrice.
+ItRw_Bow_Small_01_description: 'Un arc scurt făcut de mântuială, cu laturi asimetrice.
   Popular printre vânătorii începători și prizonierii disperați.'
 ItRw_Bow_Small_02_description: 'Un arc scurt din lemn compactat. Designul său simplu
   îl face popular printre umbre și arcașii din Tabăra Nouă.'
@@ -556,7 +556,7 @@ ItMi_Smith_Willow: 'Lemn de salcie'
 ItAm_Arrow: 'Săgeată'
 ItAm_Bolt: 'Bolț'
 ItKe_Lockpick: 'Șperaclu'
-ItLs_Torch: 'Torță'
+ItLs_Torch: 'Torţă'
 ItLs_Torchburned: 'Torță (folosită)'
 ItLs_Torchburning: 'Torță (aprinsă)'
 ItLs_Torchfirespit: 'Torță (trasă)'
@@ -800,7 +800,7 @@ ItMw_1H_Sword_Short_03: 'Mușcătura Pândătorului'
 ItMw_1H_Sword_Short_04: 'Spinul Rănilor'
 ItMw_1H_Sword_Short_05: 'Disciplina Ocnașului'
 ItMw_1H_Sword_Whistler: 'Sabia lui Whistler'
-ItMw_1H_Torch: 'Torță'
+ItMw_1H_Torch: 'Torţă'
 ItRw_Bow_Diego: 'Arcul lui Diego'
 ItRw_Bow_Long_01: 'Arc lung'
 ItRw_Bow_Long_02: 'Arc din crăci'

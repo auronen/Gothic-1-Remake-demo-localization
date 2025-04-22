@@ -165,25 +165,26 @@ Item_Weapon_Sword_TwoHand: 'Spada a due mani'
 Item_Writing: 'Scriptorium'
 Item_Weapon_Fist: 'Pugno'
 ItAt_Meatbug_01_description: 'Carne di scarafaggio. Gustosa quando cotta, non tanto
-  cruda.'
-ItFo_Apple_description: 'Queste mele simboleggiano il monopolio commerciale del Campo
+  se cruda.'
+ItFo_Apple_description: 'Queste mele simboleggiano il monopolio commerciale di Campo
   Vecchio.'
-ItFo_Cheese_description: 'Formaggio di Myrtana, riservato alle élite del Campo Vecchio.
+ItFo_Cheese_description: 'Formaggio di Myrtana, riservato alle élite di Campo Vecchio.
   Il suo aroma pungente si diffonde nel castello.'
-ItFo_Grilledscavenger_description: 'Carne di Saprofago, deliziosa grigliata alla perfezione.'
+ItFo_Grilledscavenger_description: 'Carne di Saprofago, deliziosamente grigliata alla
+  perfezione.'
 ItFo_Loaf_description: 'Il punto di forza della colonia: il suo rifornimento costante
   mantiene le pance piene e frena i disordini.'
-ItFo_Meatbugragout_description: 'Una specialità del Campo Vecchio nata dalla necessità,
+ItFo_Meatbugragout_description: 'Una specialità di Campo Vecchio nata dalla necessità,
   un gustoso ragù di funghi porcini e carne di scarafaggi.'
-ItFo_Mutton_01_description: 'Baciato dal fuoco, riempie lo stomaco e riscalda l''anima.'
+ItFo_Mutton_01_description: 'Baciata dal fuoco, riempie lo stomaco e riscalda l''anima.'
 ItFo_Mutton_02_description: 'Stagionato e squisito, una vera delizia a base di carne.'
-ItFo_Muttonraw_description: 'Appena cacciato, attende l''abbraccio del fuoco.'
-ItFo_Pear_description: 'Frutta dolce da fuori, il sapore di casa.'
+ItFo_Muttonraw_description: 'Appena cacciata, attende l''abbraccio del fuoco.'
+ItFo_Pear_description: 'Frutta esotica dolce, il sapore di casa.'
 ItFo_Potato_description: 'Questi tuberi costituiscono un alimento base in tutti gli
   accampamenti e contribuiscono a sostenere la forza lavoro della colonia.'
-ItFo_Potion_Beer_description: 'Birra importata da Myrtana, un lusso del Campo Vecchio
+ItFo_Potion_Beer_description: 'Birra importata da Myrtana, un lusso di Campo Vecchio
   che olia gli ingranaggi delle trattative e del commercio nella colonia penale.'
-ItFo_Potion_Booze_description: 'L''orgoglio del Campo Nuovo, distillato dalle riso.
+ItFo_Potion_Booze_description: 'L''orgoglio di Campo Nuovo, distillata dalle risaie.
   Questo potente alcolico funge da valuta e lubrificante sociale, incarnando l''intraprendenza
   del campo'
 ItFo_Potion_Strongbeer_description: 'Potente bevanda preferita dai sorveglianti delle
@@ -191,12 +192,12 @@ ItFo_Potion_Strongbeer_description: 'Potente bevanda preferita dai sorveglianti 
   nonostante i rischi di un uso prolungato.'
 ItFo_Potion_Water_01_description: 'Sebbene ampiamente disponibile, il controllo delle
   fonti di acqua pulita è fondamentale per il mantenimento della colonia.'
-ItFo_Potion_Wine_description: 'Simbolo dei legami esterni del Campo Nuovo, un lusso
-  raro che si trovava alle tavole dei Baroni del Metallo.'
-ItFo_Rice_description: 'Il fondamento dell''indipendenza del Campo Nuovo, coltivato
+ItFo_Potion_Wine_description: 'Simbolo dei legami esterni di Campo Vecchio, un lusso
+  raro che si trova alle tavole dei Baroni del Metallo.'
+ItFo_Rice_description: 'Il fondamento dell''indipendenza di Campo Nuovo, coltivato
   con cura in risaie sorvegliate. Il suo surplus guida il loro commercio e plasma
   le relazioni con gli altri campi.'
-ItFo_Whitemeat_description: 'Tenera carne di Saprofago, in attesa della cottura,'
+ItFo_Whitemeat_description: 'Tenera carne di Saprofago, in attesa della cottura.'
 ItFo_Plants_Berrys_01_description: 'Bacche selvatiche che si trovano nelle zone più
   selvagge della colonia. Raccoglierle spesso significa mettere a rischio gli arti
   e la vita.'
@@ -216,7 +217,7 @@ ItAt_Claws_01_description: 'Artigli affilati come rasoi, molto apprezzati dagli 
   della colonia. Raccoglierli è tanto pericoloso quanto redditizio.'
 ItAm_Arrow_description: 'Realizzate con materiali robusti, queste frecce sono essenziali
   per gli archi e fanno la differenza tra un bastone e un''arma.'
-ItAm_Bolt_description: 'Realizzate per le balestre preferite dalle guardie del Campo
+ItAm_Bolt_description: 'Realizzati per le balestre preferite dalle guardie di Campo
   Vecchio. Il loro fischio nell''aria spesso mette a tacere il dissenso prima che
   inizi.'
 ItKe_Lockpick_description: 'Indispensabile per chi è abile nell''aprire ciò che è
@@ -238,8 +239,8 @@ ItMi_Stuff_Barbknife_01_description: 'Un simbolo di civiltà nella dura colonia.
 ItMi_Stuff_Brush_description: 'Più che semplici strumenti per la pulizia, queste spazzole
   sono essenziali per la manutenzione di armi, armature e salute nelle dure condizioni
   della colonia.'
-ItMi_Stuff_Cup_01_description: 'Ha visto molti brindisi. Spesso l''unico lusso dei
-  miseri beni di un minatore.'
+ItMi_Stuff_Cup_01_description: 'Ha visto molti brindisi. Spesso l''unico lusso tra
+  i miseri beni di un minatore.'
 ItMi_Stuff_Cup_02_description: 'Calice d''argento decorato, probabilmente rubato tra
   i resti della nobiltà di Myrtana nella colonia.'
 ItMi_Stuff_Mug_01_description: 'Onnipresenti in tutti gli accampamenti, queste semplici
@@ -257,7 +258,7 @@ ItWr_Scroll_Jacko_01_description: 'Jacko, ho ricevuto il tuo messaggio. Non sape
   che Silas avesse una scorta in cantina. Sono d''accordo, potremmo dividerla a metà
   se dovessi trovarla. Ho dei contatti nella taverna e forse ho appena scoperto un
   modo per accedere alla cantina.'
-ItMw_1H_Axe_Sickle_01_description: 'Simbolo dell''autosufficienza del Campo Nuovo,
+ItMw_1H_Axe_Sickle_01_description: 'Simbolo dell''autosufficienza di Campo Nuovo,
   questo strumento funge sia da mietitore che da protettore. La sua lama curva incarna
   la determinazione del campo a prosperare.'
 ItMw_1H_Mace_03_description: 'Una mazza brutale con una testa di metallo chiodata,
@@ -266,7 +267,7 @@ ItMw_1H_Mace_03_description: 'Una mazza brutale con una testa di metallo chiodat
 ItMw_1H_Mace_Club_01_description: 'Un compagno di scavo. La sua rozza efficacia incarna
   la brutale semplicità della vita in colonia'
 ItMw_1H_Sword_01_description: 'Una spada di acciaio basica con un''impugnatura leggermente
-  curva. Dotazione standard per le guardie di rango inferiore del Campo Vecchio.'
+  curva. Dotazione standard per le guardie di rango inferiore di Campo Vecchio.'
 ItMw_1H_Sword_02_description: 'Lama incisa con la guardia dorata. Simbolo dei guerrieri
   esperti nel Campo Vecchio.'
 ItMw_1H_Sword_04_description: 'Una spada di qualità con lama decorata e guardia a
@@ -289,7 +290,7 @@ ItRw_Bow_Small_02_description: 'Un arco corto in legno. Il suo design semplice l
 ItRw_Bow_Small_04_description: 'Un arco corto in legno scuro con braccia rinforzate
   in metallo. Preferito dalle Ombre influenti per la sua potenza e precisione.'
 ItRw_Crossbow_01_description: 'Balestra leggera in legno con rinforzi in metallo.
-  Popolare tra le guardie del Campo Vecchio.'
+  Popolare tra le guardie di Campo Vecchio.'
 ItMw_2H_Axe_Pickaxe_description: 'Lo strumento più cruciale della colonia, questo
   piccone estrae il minerale magico che guida la politica dell''accampamento. In mani
   esperte, è anche un''arma pericolosa.'

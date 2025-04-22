@@ -28,10 +28,10 @@ Text_Days: Zile
 Text_Dive: Scufundare
 Text_DocumentMinimize: Minimizează
 Text_Dodge: Eschivă
-Text_Draw: "Scoate arma \n[Hold] Scoate arma de distanță\n"
+Text_Draw: "Scoate arma \n[Ține] Scoate arma de distanță\n"
 Text_DrawMelee: Scoate arma
 Text_DrawRanged: Scoate Arma de distanţă
-Text_Drop: '[Hold] Aruncă'
+Text_Drop: '[Ține] Aruncă'
 Text_DropTorch: Aruncă Torța
 Text_Equip: Echipează
 Text_Equipped: Echipat
@@ -52,14 +52,14 @@ Text_FilterMiscellaneous: Diverse
 Text_FilterNewCamp: Tabăra Nouă
 Text_FilterOldCamp: Tabăra Veche
 Text_FilterOutsiders: Străini
-Text_FilterPotions: Poțiuni
+Text_FilterPotions: Poţiuni
 Text_FilterRanged: La distanță
 Text_FilterSwampCamp: Tabăra Mlaștinii
 Text_FilterWearables: Purtabile
 Text_FilterWorld: Colonia
 Text_From: 'De la:'
 Text_Hold: Ține
-Text_HoldAccept: '[Hold] Acceptă'
+Text_HoldAccept: '[Ține] Acceptă'
 Text_Hours: h
 Text_Interact: Interacționează
 Text_Interact1: Interacțiunea principală
@@ -75,7 +75,7 @@ Text_LockpickMoveVertical: Deplasați sus/jos
 Text_LockpickSkillRequired: Este necesară o abilitate de spargere lacăte.
 Text_LockpickToolRequired: Este necesar un șperaclu.
 Text_Look: Privește
-Text_LootAll: Ia Tot
+Text_LootAll: Ia tot
 Text_LootChest: Cufăr
 Text_LootCorpse: Cadavru
 Text_LootInventory: Inventar
@@ -90,7 +90,7 @@ Text_MoveBack: Mers înapoi
 Text_MoveForward: Mers în față
 Text_MoveLeft: Mers în stânga
 Text_MoveRight: Mers în dreapta
-Text_No: Fals
+Text_No: Nu
 Text_OpenChest: Deschide cufăr
 Text_OpenDoor: Deschide ușa
 Text_OpenGlossary: Deschide Glosarul
@@ -102,7 +102,7 @@ Text_Reset: Resetați
 Text_Restart: Restart
 Text_Resume: Reîncepe
 Text_Roll: Rostogolire
-Text_SaveChanges: Salvați modificările
+Text_SaveChanges: Salvează modificările
 Text_Seconds: s
 Text_Select: Selectează
 Text_SelectThrow: Selectați Aruncarea articolului rapid
@@ -120,12 +120,12 @@ Text_TradeCancel: Renunță
 Text_Unequip: Dezechipează
 Text_UseQuick: Utilizează articol rapid
 Text_Walk: Comutați pe mers
-Text_Yes: Adevărat
+Text_Yes: Da
 UI_ArmourCustomization_ArmorAlterations: Modificările armurii
 UI_ArmourCustomization_Equip: Echipează
 UI_ArmourCustomization_Equipped: E
 UI_ArmourCustomization_Legs: Picioare
-UI_ArmourCustomization_Purchase: '[Hold] Cumpără '
+UI_ArmourCustomization_Purchase: '[Ține] Cumpără '
 UI_ArmourCustomization_Torso: Trunchi
 UI_ArmourCustomization_Unequip: Dezechipează
 UI_ArmourCustomization_Waist: Talie
@@ -164,7 +164,7 @@ UI_Crafting_ForgingItem: Forjarea articolului
 UI_Crafting_GoToAnvil: Du-te la nicovală
 UI_Crafting_GoToWaterBarrel: Du-te la butoiul de apă
 UI_Crafting_HasMaterials: Are Materiale
-UI_Crafting_InProgress: Rețetă în preparare...
+UI_Crafting_InProgress: Reţetă în preparare...
 UI_Crafting_MenuTitle_Alchemy: Laborator de Alchimie
 UI_Crafting_MenuTitle_Cauldron: Cazan
 UI_Crafting_MenuTitle_Forge: Forjă
@@ -174,13 +174,13 @@ UI_Crafting_MenuTitle_Whetstone: Gresie de ascuţit
 UI_Crafting_MenuTitle_Workbench: Banc de lucru
 UI_Crafting_PanCook: Gătește în tigaie
 UI_Crafting_Quantity: 'Cantitate:'
-UI_Crafting_Scrap: '[Hold] Gunoi'
+UI_Crafting_Scrap: '[Ține] Gunoi'
 UI_Crafting_Section: Secțiune
 UI_Crafting_ShapingItem: Modelarea articolului
-UI_Crafting_Start: '[Hold] Meșteșug'
+UI_Crafting_Start: '[Ține] Prepară'
 UI_Demo_CheatCode: Este un demo, pe bune, nu ai nevoie de Marvin aici. Totuși, în
   jocul complet...
-UI_Demo_Gratitude: Vă mulțumim că ați jucat acest demo!
+UI_Demo_Gratitude: Vă mulţumim că aţi jucat acest demo!
 UI_Demo_Gratitude_Follow: 'Asigurați-vă că ne urmăriți:'
 UI_Demo_Gratitude_Links: https://gothic.thqnordic.com/
 UI_Demo_Gratitude_QR: 'Vă rugăm să furnizați feedback la:'
@@ -272,10 +272,10 @@ UI_Lessons_Acrobatics: Acrobaţie
 UI_Lessons_Sneaking: Furișare
 UI_LoadSave_NewSave: Salvare nouă
 UI_LoadSave_Load: Încarcă
-UI_LoadSave_LoadGame: Încărcă Jocul
+UI_LoadSave_LoadGame: Încarcă jocul
 UI_LoadSave_Manual: Manual
 UI_LoadSave_Save: Salvează
-UI_LoadSave_SaveGame: Salvați jocul
+UI_LoadSave_SaveGame: Salvează jocul
 UI_LoadingScreen_ChapterFormat: Capitolul {ChapterNumber}
 UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
 UI_Loadingscreen_Chapter1Text: First text in the chapter story so far First text in
@@ -317,7 +317,7 @@ UI_Main_Settings: Setări
 UI_Main_Singleplayer: Un singur jucător
 UI_Notification: Capitolul {ChapterNumber}
 UI_Notification_AreaDiscovered: Zonă nouă descoperită
-UI_Notification_ExperienceGainedFormat: '{Cantitate} Experiență'
+UI_Notification_ExperienceGainedFormat: '{Amount} Experiență'
 UI_Notification_GlossaryUpdatedFormat: 'Glosar actualizat: {EntryName}'
 UI_Notification_KeyUsedFormat: 'Cheie folosită: {KeyName}'
 UI_Notification_LevelUp: Nivel crescut
@@ -328,25 +328,25 @@ UI_Profile: Profil nou
 UI_Profile_Chapter: Capitol
 UI_Profile_ChapterNyras: Nyras
 UI_Profile_DefaultSaveFileName: '{location}, Day {day}, {hours}:{minutes}'
-UI_Profile_Delete: Delete
+UI_Profile_Delete: Șterge
 UI_Profile_Difficulty: Dificultate
 UI_Profile_LastSave: Ultima salvare
-UI_Profile_ModalDeleteProfile: Sigur doriți să ștergeți acest profil și toate salvările
+UI_Profile_ModalDeleteProfile: Sigur dorești să ștergi acest profil și toate salvările
   jocului asociate?
-UI_Profile_ModalDeleteProfileTitle: Ștergeți profilul
-UI_Profile_ModalDeleteSaveGame: Sigur doriți să ștergeți această salvare de joc?
-UI_Profile_ModalDeleteSaveTitle: Ștergeți salvarea
+UI_Profile_ModalDeleteProfileTitle: Șterge profilul
+UI_Profile_ModalDeleteSaveGame: Sigur dorești să ștergi această salvare?
+UI_Profile_ModalDeleteSaveTitle: Șterge salvarea
 UI_Profile_ModalError: A apărut o eroare.
 UI_Profile_ModalNameEmpty: Câmpul numelui nu poate fi gol.
 UI_Profile_ModalNameInUse: Acest nume este deja folosit.
-UI_Profile_ModalNoMoreProfiles: Nu mai există sloturi de profil disponibile. Ștergeți
+UI_Profile_ModalNoMoreProfiles: Nu mai există sloturi de profil disponibile. Șterge
   slotul existent pentru a crea unul nou.
 UI_Profile_Profile1: Profil 1
 UI_Profile_Profile2: Profil 2
 UI_Profile_Profile3: Profil 3
 UI_Profile_Profile4: Profil 4
 UI_Profile_SaveTime: Timpul salvării
-UI_Profile_SelectProfile: Selectați Profil
+UI_Profile_SelectProfile: Selectează Profil
 UI_Profile_TimePlayed: Timp jucat
 UI_Protection_Arrows: Săgeți
 UI_Protection_Arrows_Tooltip: Această protecție reduce daunele cauzate prin perforare
@@ -458,9 +458,9 @@ UI_Settings_MusicVolume: Volumul muzicii
 UI_Settings_ObjectsOutliner: Conturul obiectelor
 UI_Settings_ObjectsOutliner_Default: Implicit
 UI_Settings_ObjectsOutliner_Low: Scăzut
-UI_Settings_ObjectsOutliner_No: Fals
-UI_Settings_Off: Fals
-UI_Settings_On: Adevărat
+UI_Settings_ObjectsOutliner_No: Nu
+UI_Settings_Off: Nu
+UI_Settings_On: Da
 UI_Settings_OverallQuality: Calitate prestabilită
 UI_Settings_PostProcessingQuality: Calitate post-procesare
 UI_Settings_Quality_Cinematic: Alkimia Overdose
@@ -518,7 +518,7 @@ UI_StoryIntro: 'Povestea are loc în valea minelor din Khornis. O colonie a ocna
   Ești Nyras și tocmai ai sosit în Colonie.
 
 
-  <b> Bun venit în noua ta viață!</>'
+  <b> Bun venit în noua ta viaţă!</>'
 UI_Tabs_Buy: Cumpără
 UI_Tabs_Glossary: Glosar
 UI_Tabs_Inventory: Inventar
