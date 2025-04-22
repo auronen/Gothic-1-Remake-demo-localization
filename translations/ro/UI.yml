@@ -270,7 +270,7 @@ UI_Inventory_TwoHanded: Armă pentru două mâini
 UI_Lessons: Lecții
 UI_Lessons_Acrobatics: Acrobaţie
 UI_Lessons_Sneaking: Furișare
-UI_LoadSave: Salvare nouă
+UI_LoadSave_NewSave: Salvare nouă
 UI_LoadSave_Load: Încarcă
 UI_LoadSave_LoadGame: Încărcă Jocul
 UI_LoadSave_Manual: Manual
@@ -364,7 +364,7 @@ UI_Protection_Physical_Tooltip: Oferă protecție atât împotriva tăișului s�
   topoarelor, cât și împotriva loviturilor zdrobitoare ale buzduganelor, minimizând
   impactul atacurilor fizice directe.
 UI_Protection_Protection: Protecție
-UI_Quests: Misiune nouă
+UI_Quests_NewQuest: Misiune nouă
 UI_Quests_Complete: Misiune finalizată
 UI_Quests_DateFormat: '{days} zile'
 UI_Quests_DateTimeFormat: '{date}, {time}'

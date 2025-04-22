@@ -288,7 +288,7 @@ UI_Inventory_TwoHanded: Zweihandwaffe
 UI_Lessons: Lektionen
 UI_Lessons_Acrobatics: Akrobatik
 UI_Lessons_Sneaking: Schleichen
-UI_LoadSave: Neuer Spielstand
+UI_LoadSave_NewSave: Neuer Spielstand
 UI_LoadSave_Load: Laden
 UI_LoadSave_LoadGame: Spiel laden
 UI_LoadSave_Manual: Manuell
@@ -373,7 +373,7 @@ UI_Protection_Physical_Tooltip: Bietet Schutz sowohl gegen die scharfen Klingen 
   Schwertern und Äxten als auch die verheerenden Hiebe von Streitkolben. Die Wirkung
   von direkten physischen Angriffen wird minimiert.
 UI_Protection_Protection: Schutz
-UI_Quests: Neue Quest
+UI_Quests_NewQuest: Neue Quest
 UI_Quests_Complete: Quest abgeschlossen
 UI_Quests_DateFormat: Vor {days} Tagen
 UI_Quests_DateTimeFormat: '{date}, {time}'

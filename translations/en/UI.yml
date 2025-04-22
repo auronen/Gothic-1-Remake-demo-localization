@@ -80,7 +80,7 @@ UI_Quests_DateYesterday: Yesterday
 UI_Quests_Update: Quest Updated
 UI_Quests_Complete: Quest Complete
 UI_Quests_QuestFailed: Quest Failed
-UI_Quests: New Quest
+UI_Quests_NewQuest: New Quest
 UI_Quests_NoQuestsAvailable: No quests available
 UI_Quests_QuestUpdatedFormat: '''{quest}'' updated'
 UI_Glossary_NoEntriesAvailable: No glossary entries available
@@ -299,7 +299,7 @@ UI_Main_Load: Load Game
 UI_EnterNameHere: 'Enter the name here:'
 UI_LoadSave_LoadGame: Load Game
 UI_LoadSave_SaveGame: Save Game
-UI_LoadSave: New Save
+UI_LoadSave_NewSave: New Save
 UI_LoadSave_Load: Load
 UI_LoadSave_Save: Save
 UI_LoadSave_Manual: Manual

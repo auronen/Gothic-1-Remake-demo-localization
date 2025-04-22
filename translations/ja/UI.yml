@@ -234,7 +234,7 @@ UI_Inventory_TwoHanded: 両手武器
 UI_Lessons: レッスン
 UI_Lessons_Acrobatics: アクロバティック
 UI_Lessons_Sneaking: スニーク
-UI_LoadSave: 新しいセーブ
+UI_LoadSave_NewSave: 新しいセーブ
 UI_LoadSave_Load: ロード
 UI_LoadSave_LoadGame: ゲームをロード
 UI_LoadSave_Manual: マニュアル
@@ -307,7 +307,7 @@ UI_Protection_Magic_Tooltip: 魔力の力から守ってくれる。アイスス
 UI_Protection_Physical: 物理
 UI_Protection_Physical_Tooltip: 剣や斧、メイスなどの物理ダメージをカット。直接的な物理ダメージを軽減。
 UI_Protection_Protection: プロテクション
-UI_Quests: 新しいクエスト
+UI_Quests_NewQuest: 新しいクエスト
 UI_Quests_Complete: クエスト完了
 UI_Quests_DateFormat: '{days}日前'
 UI_Quests_DateTimeFormat: '{date}, {time}'

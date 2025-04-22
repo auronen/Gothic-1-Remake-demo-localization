@@ -232,7 +232,7 @@ UI_Inventory_TwoHanded: 双手武器
 UI_Lessons: 课程
 UI_Lessons_Acrobatics: 杂技
 UI_Lessons_Sneaking: 潜行
-UI_LoadSave: 新存档
+UI_LoadSave_NewSave: 新存档
 UI_LoadSave_Load: 读取
 UI_LoadSave_LoadGame: 读取存档
 UI_LoadSave_Manual: 手动
@@ -306,7 +306,7 @@ UI_Protection_Magic_Tooltip: 增强你对奥术之力的防御力。这项防护
 UI_Protection_Physical: 物理
 UI_Protection_Physical_Tooltip: 抵御剑和斧头的利刃以及钉头锤重击的防御力，将直接物理攻击的伤害减轻至最低限度。
 UI_Protection_Protection: 防护
-UI_Quests: 新任务
+UI_Quests_NewQuest: 新任务
 UI_Quests_Complete: 任务完成
 UI_Quests_DateFormat: '{days}天前'
 UI_Quests_DateTimeFormat: '{date}，{time}'

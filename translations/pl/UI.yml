@@ -275,7 +275,7 @@ UI_Inventory_TwoHanded: Broń dwuręczna
 UI_Lessons: Lekcje
 UI_Lessons_Acrobatics: Akrobatyka
 UI_Lessons_Sneaking: Skradanie
-UI_LoadSave: Nowy zapis
+UI_LoadSave_NewSave: Nowy zapis
 UI_LoadSave_Load: Wczytaj
 UI_LoadSave_LoadGame: Wczytaj grę
 UI_LoadSave_Manual: Ręczny
@@ -367,7 +367,7 @@ UI_Protection_Physical_Tooltip: Zapewnia ochronę zarówno przed tnącymi ostrza
   i toporów, jak i miażdżącymi ciosami broni obuchowej, minimalizując wpływ bezpośrednich
   ataków fizycznych.
 UI_Protection_Protection: Ochrona
-UI_Quests: Nowe zadanie
+UI_Quests_NewQuest: Nowe zadanie
 UI_Quests_Complete: Zadanie ukończone
 UI_Quests_DateFormat: '{days} dni temu'
 UI_Quests_DateTimeFormat: '{date}, {time}'

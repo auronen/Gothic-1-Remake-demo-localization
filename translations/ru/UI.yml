@@ -285,7 +285,7 @@ UI_Inventory_TwoHanded: Двуручное оружие
 UI_Lessons: Обучение
 UI_Lessons_Acrobatics: Акробатика
 UI_Lessons_Sneaking: Подкрадывание
-UI_LoadSave: Новое сохранение
+UI_LoadSave_NewSave: Новое сохранение
 UI_LoadSave_Load: Загрузить
 UI_LoadSave_LoadGame: Загрузить игру
 UI_LoadSave_Manual: Ручное сохранение
@@ -368,7 +368,7 @@ UI_Protection_Physical_Tooltip: Улучшает защиту от режуще�
   и топоры, и от ударного, такого как булавы, снижая урон, получаемый от физических
   атак в ближнем бою.
 UI_Protection_Protection: Защита
-UI_Quests: Новое задание
+UI_Quests_NewQuest: Новое задание
 UI_Quests_Complete: Задание выполнено
 UI_Quests_DateFormat: '{days} д. назад'
 UI_Quests_DateTimeFormat: '{date}, {time}'

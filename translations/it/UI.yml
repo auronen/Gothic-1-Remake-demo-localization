@@ -278,7 +278,7 @@ UI_Inventory_TwoHanded: Arma a due mani
 UI_Lessons: Lezioni
 UI_Lessons_Acrobatics: Acrobazia
 UI_Lessons_Sneaking: Furtività
-UI_LoadSave: Nuovo salvataggio
+UI_LoadSave_NewSave: Nuovo salvataggio
 UI_LoadSave_Load: Carica
 UI_LoadSave_LoadGame: Carica
 UI_LoadSave_Manual: Manuale
@@ -373,7 +373,7 @@ UI_Protection_Physical_Tooltip: Fornisce difesa sia contro i fili di spade e asc
   sia contro i colpi devastanti delle mazze, riducendo al minimo l'impatto degli attacchi
   fisici diretti.
 UI_Protection_Protection: Protezione
-UI_Quests: Nuova Missione
+UI_Quests_NewQuest: Nuova Missione
 UI_Quests_Complete: Missione completata
 UI_Quests_DateFormat: '{days} giorni fa'
 UI_Quests_DateTimeFormat: '{date}, {time}'
