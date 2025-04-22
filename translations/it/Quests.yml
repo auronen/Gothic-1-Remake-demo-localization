@@ -20,7 +20,7 @@ TEXT_WIP_YGVNZSC_20250212_124922: 'Ho bisogno di un''arma prima della caccia con
   Ci dev''essere qualcosa di utile qui attorno.'
 TEXT_WIP_YGVNZSC_20250212_125311: 'Drax dice che i Saprofagi non sono così pericolosi.
   ma non sono così sicuro. Dovrò stare allerta durante la caccia.'
-TEXT_WIP_YGVNZSC_20250212_125414: 'Jorik è sparito nel canyon. Trovare lui o scoprire
+TEXT_WIP_YGVNZSC_20250212_125414: 'Jorik è sparito nel canyon. Trovarlo o scoprire
   che gli è successo, potrebbe farmi entrare nelle grazie dei cacciatori, e potrei
   trovare un posto sicuro per dormire.'
 TEXT_WIP_YGVNZSC_20250212_125504: 'Dovrei dire a Kirgo che sono pronto a combattere.
@@ -50,11 +50,12 @@ QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: 'Parla con Ratford 
   Jorik'
 QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: 'Un cacciatore da un cosiddetto Campo Nuovo
   ha offerto cibo e un riparo in cambio di aiuto nella caccia ai saprofagi. La caccia
-  sembra semplice, ma dovrei fare attenzione per ogni tranello.'
+  sembra semplice, ma dovrei fare attenzione ad eventuali tranelli.'
 QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Caccia ai saprofagi'
 QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: 'Trova un''arma'
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'uccidi i saprofagi nell''area'
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Dì a Drax di cominciare la caccia'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Uccidi i saprofagi nell''area'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Di'' a Drax di cominciare la
+  caccia'
 QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: 'Un membro di Campo Nuovo di nome Jorik
   è sparito nel canyon. Il suo gruppo lo sta cercando. Trovare Jorik potrebbe assicurarmi
   un posto sicuro per la notte.'
@@ -67,7 +68,7 @@ QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: 'Kirgo, una guardia di Campo Vecchio 
   potrebbe far guadagnare qualcosa qui.'
 QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: 'Sessione di allenamento'
 QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: 'Trova un''arma per l''allenamento'
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: 'Dì a Kirgo che sei
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: 'Di'' a Kirgo che sei
   pronto a combattere'
 QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: 'Orry, una guardia del cancello, potrebbe
   condividere delle informazioni per una birra. In questo luogo così insidioso, anche
