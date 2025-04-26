@@ -146,7 +146,7 @@ Item_Key: 'Cheie'
 Item_Trophy: 'Trofeu'
 Item_Material: 'Material'
 Item_Ore: 'Minereu'
-Item_Junk: 'Vechitură'
+Item_Junk: 'Gunoi'
 Item_Ammo: 'Muniţie'
 Item_Quest: 'Articol de misiune'
 Item_Lockpick: 'Șperaclu'
@@ -167,7 +167,7 @@ Item_Weapon_Fist: 'Pumni'
 ItAt_Meatbug_01_description: 'Carne de gândac. Gustoasă când e gătită, nu atât de
   bună crudă.'
 ItFo_Apple_description: 'Aceste mere simbolizează monopolul comercial al Taberei Vechi.'
-ItFo_Cheese_description: 'Brânza Myrtaniană, rezervată elitelor din Tabăra Veche.
+ItFo_Cheese_description: 'Brânza myrtaniană, rezervată elitelor din Tabăra Veche.
   Aroma sa înțepătoare se simte în tot castelul.'
 ItFo_Grilledscavenger_description: 'Carnea necrofagului, delicioasă la grătar până
   la perfecțiune.'
@@ -181,7 +181,7 @@ ItFo_Muttonraw_description: 'Vânat proaspăt, așteaptă îmbrățișarea focul
 ItFo_Pear_description: 'Fructe dulci din exteriorul barierei, un gust de casă.'
 ItFo_Potato_description: 'O masă de bază în toate taberele, acești tuberculi mențin
   puternică forța de muncă a coloniei.'
-ItFo_Potion_Beer_description: 'Bere artizanală Myrtaniană importată, un lux al Taberei
+ItFo_Potion_Beer_description: 'Bere artizanală myrtaniană importată, un lux al Taberei
   Vechi care unge roțile negocierilor și comerțului în colonia ocnașilor.'
 ItFo_Potion_Booze_description: 'Mândria Taberei Noi, distilat din orez. Acest spirt
   puternic servește ca monedă și lubrifiant social, întruchipând ingeniozitatea în
@@ -198,15 +198,15 @@ ItFo_Rice_description: 'Piatra de temelie a independenței Taberei Noi, cultivat
   modelează relațiile cu celelalte tabere.'
 ItFo_Whitemeat_description: 'Carne fragedă de necrofag, în așteptarea flăcărilor.'
 ItFo_Plants_Berrys_01_description: 'Fructe sălbatice găsite în zonele mai puțin îmblânzite
-  ale coloniei. A le aduna adesea înseamnă a-ți risca viața și mâinile.'
+  ale coloniei. A le aduna adesea înseamnă a-ți risca viața și membrele.'
 ItFo_Plants_Bloodwood_01_description: 'O plantă rezistentă, cu păstăi de semințe maro
   deosebite. Valorificată pentru proprietățile sale medicinale în mediul aspru al
   coloniei.'
 ItFo_Plants_Mushroom_01_description: 'O ciupercă comună în Valea Minelor. Recunoscută
   după pălăria alb.'
-ItFo_Plants_Orcherb_01_description: 'O plantă puternic-vindecătoare din teritoriile
+ItFo_Plants_Orcherb_01_description: 'O plantă puternic vindecătoare din teritoriile
   orcilor. Obținerea ei duce adesea la întâlniri periculoase, ceea ce o face o marfă
-  de mare preț pentru vindecătorii de colonie.'
+  de mare preț pentru vindecătorii din colonie.'
 ItFo_Plants_Seraphis_01_description: 'Deși este o apariție frecventă în vale, este
   crucială pentru productivitatea coloniei. Efectele sale de recuperare rapidă mențin
   forța de muncă a prizonierilor.'
@@ -223,9 +223,9 @@ ItKe_Lockpick_description: 'Esențial pentru cei pricepuți să deschidă ceea c
 ItMi_Hammer_description: 'Un ciocan robust. Esențial pentru fierari și meșteri, este
   un simbol al muncii grele în colonie.'
 ItMi_Lute_description: 'O legătură tangibilă cu lumea exterioară. Melodiile ei păstrează
-  sănătatea mentală și cultura, făcând-o la fel de valoroasă ca orice minereu.'
-ItMi_Oldcoin_01_description: 'O relicvă a vieții din-aintea barierei. Cândva valoros
-  în Myrtana, acum fără valoare sub barieră.'
+  sănătatea mintală și cultura, făcând-o la fel de valoroasă ca orice minereu.'
+ItMi_Oldcoin_01_description: 'O relicvă a vieții dinaintea barierei. Cândva valoros
+  în Myrtana, acum inutil sub barieră.'
 ItMi_Orenugget_description: 'Sufletul coloniei. Proprietățile ei unice o fac atât
   monedă, cât și resursă râvnită, modelând colonia cât și dinamica puterii regatului.'
 ItMi_Stuff_Amphore_01_description: 'O relicvă a comerțului pre-colonie, aceste vase
@@ -242,15 +242,15 @@ ItMi_Stuff_Cup_02_description: 'Pocal argintiu ornat, probabil furat de la răma
   nobilimii Myrtane din colonie.'
 ItMi_Stuff_Mug_01_description: 'Omniprezent în toate taberele, aceste ulcioare sunt
   esențiale pentru distribuirea de apă.'
-ItMi_Stuff_Pipe_01_description: 'O sursă prețioasă de comfort în colonie, folosit
+ItMi_Stuff_Pipe_01_description: 'O sursă prețioasă de confort în colonie, folosită
   de obicei cu ierburi locale.'
 ItMi_Stuff_Plate_01_description: 'Vas de metal uzat. Reamintește că și deținuții trebuie
   să mănânce.'
 HumanFists_description: 'Pumnul, ultima opțiune a celor disperați sau arma preferată
   a celor încrezuți. Eficient, dacă știi ce faci.'
-ItFo_Potion_Health_01_description: 'Poțiuni de vindecat făcute din ierburi rare. Effectele
-  rapide de vindecare au salvat nenumărate vieți, asta a facut ca alchimiştii sa fie
-  la mare căutare in colonie.'
+ItFo_Potion_Health_01_description: 'Poțiune vindecătoare preparată din ierburi rare.
+  Proprietățile sale de vindecare rapidă salvează nenumărate vieți, făcând alchimiștii
+  pricepuți foarte apreciați în colonie'
 ItWr_Scroll_Jacko_01_description: 'Jacko, am primit mesajul tău. Nu știam că Silas
   are o ascunzătoare în subsol. Sunt de acord că am putea împărții pe jumătate dacă
   se întâmplă să-l găsesc. Am niște contacte în tavernă și cred că am descoperit o
@@ -269,7 +269,7 @@ ItMw_1H_Sword_02_description: 'Lamă gravată cu protecție aurie incrucișată.
   al războinicilor experimentați din Tabăra Veche.'
 ItMw_1H_Sword_04_description: 'O sabie de calitate, cu o lamă modelată și o protecție
   încrucișată. Preferată de luptători experimentați pentru versatilitatea sa.'
-ItMw_1H_Sword_Old_01_description: 'O relicvă a primelor zile din coloniei, aceste
+ItMw_1H_Sword_Old_01_description: 'O relicvă a primelor zile ale coloniei, aceste
   săbii uzate încă mai sunt folosite în rândul noilor veniți.'
 ItMw_1H_Sword_Short_02_description: 'O simplă sabie scurtă cu un burduşi argintiu.
   Fiind compactă , este ideală pentru lupte rapide corp la corp.'
@@ -288,9 +288,9 @@ ItRw_Bow_Small_04_description: 'Un arc scurt din lemn de întunecat, cu laturi �
   cu metal. Preferat de umbrele influente pentru puterea și precizie.'
 ItRw_Crossbow_01_description: 'Arbaletă ușoară din lemn, cu întăriri metalice. Popular
   printre gardienii din Tabăra Veche.'
-ItMw_2H_Axe_Pickaxe_description: 'Cel mai important instrument al coloniei, acest
-  târnăcop extrage minereul magic care dictează politica taberelor. În mâini pricepute,
-  este și o armă decentă.'
+ItMw_2H_Axe_Pickaxe_description: 'Cea mai importantă unealtă al coloniei, acest târnăcop
+  extrage minereul magic care dictează politica taberelor. În mâini pricepute, este
+  și o armă decentă.'
 ItWr_Scroll_Mysteriousnote_description: 'Imagine criptică cu un scop necunoscut, probabil
   desenată de Jorik.'
 ItAt_Amulet_Brotherhood: 'Insigna Frăției'
@@ -380,7 +380,7 @@ ItFo_Plants_Orcherb_01: 'Frunza de stejar'
 ItFo_Plants_Orcherb_02: 'Frunza orcului'
 ItFo_Plants_Ravenherb_01: 'Ceapa ciorii'
 ItFo_Plants_Ravenherb_02: 'Neghină'
-ItFo_Plants_Seraphis_01: 'Planta șarpe'
+ItFo_Plants_Seraphis_01: 'Serafis'
 ItFo_Plants_Stoneroot_01: 'Rădăcina pietrei'
 ItFo_Plants_Stoneroot_02: 'Rădăcina balaurului'
 ItFo_Plants_Towerwood_01: 'Sămânță de stejar-turn'
@@ -407,7 +407,7 @@ ItKe_OrcGraveyard: 'Cheia Cimitirul Orcilor'
 ItKe_OrcGraveyardPiece_01: 'Bucată din Cheia Cimitirul Orcilor'
 ItKe_OrcGraveyardPiece_02: 'Bucată din Cheia Cimitirul Orcilor'
 ItKe_Ricelord_01: 'Cheia Stăpânul orezului'
-ItKe_Smith_01: 'Cheie de Fier'
+ItKe_Smith_01: 'Cheie de fier'
 ItKe_Storage_01: 'Cheia magaziei'
 ItKe_Sunkentower: 'Cheia cufărului (turn scufundat)'
 ItKe_White: 'Cheie (albă)'
@@ -917,7 +917,7 @@ ItWr_Map: 'Harta Taberei Noi'
 ItWr_Map_OldCamp: 'Harta Taberei Vechi'
 ItWr_Map_OldMine: 'Harta spre Mina Veche'
 ItWr_Map_Orc: 'Harta Coloniei (completă)'
-ItWr_Map_SwampCamp: 'Harta Taberei din Mlăștină'
+ItWr_Map_SwampCamp: 'Harta Taberei din Mlaștină'
 ItWr_Map_Temple: 'Schița Templului'
 ItWr_Map_World: 'Harta Coloniei'
 ItWr_Map_WorldComplete: 'Harta Coloniei (completă)'
