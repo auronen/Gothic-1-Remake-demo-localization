@@ -205,10 +205,10 @@ UI_Difficulty_Standard: Standard
 UI_Difficulty_StandardDescription: Aggiungi una descrizione per la difficoltà standard
 UI_Difficulty_Start: Avvia il gioco
 UI_Disclaimer: Questa demo è un'esperienza - un prequel isolato - creata per mostrare
-  alcune delle caratteristiche principali del Gothic 1 Remake, ma poiché il gioco
-  è ancora in fase di lavorazione, potrebbe contenere bug e glitch. Il gioco completo
-  segue la storia, la struttura e lo spirito del Gothic originale, con l'Eroe Senza
-  Nome come protagonista.
+  alcune delle caratteristiche principali di Gothic 1 Remake. Poiché il gioco è ancora
+  in fase di lavorazione, potrebbe contenere bug e glitch. Il gioco completo segue
+  la storia, la struttura e lo spirito del Gothic originale, con l'Eroe Senza Nome
+  come protagonista.
 UI_EnterNameHere: 'Inserisci il nome qui:'
 UI_Fighting_Bow: Arco
 UI_Fighting_Bow_Master_Tooltip: Il tuo controllo sull'arco è magistrale. I tuoi colpi
@@ -393,7 +393,7 @@ UI_Settings_AmbientOcclusionIntensity_Description: Intensità dell'effetto di oc
   ambientale. Valori più alti daranno luogo a ombre più pronunciate negli angoli e
   nelle fessure.
 UI_Settings_AntiAliasing: Anti-aliasing
-UI_Settings_AntiAliasingQuality: Anti-aliasing
+UI_Settings_AntiAliasingQuality: Qualità anti-aliasing
 UI_Settings_Audio: Audio
 UI_Settings_AudioLanguage: Lingua audio
 UI_Settings_AutoCloseChests: Chiusura automatica dei forzieri
@@ -439,7 +439,7 @@ UI_Settings_FrameRateLimit_Unlimited: Nessun limite
 UI_Settings_Game: Gioco
 UI_Settings_Gameplay: Gameplay
 UI_Settings_Gamma: Gamma
-UI_Settings_GlobalIlluminationQuality: Illuminazione globale
+UI_Settings_GlobalIlluminationQuality: Qualità illuminazione globale
 UI_Settings_Graphics: Grafica
 UI_Settings_HDR: HDR
 UI_Settings_InvertXAxis: inverte asse X
@@ -486,7 +486,7 @@ UI_Settings_Reset: Reset
 UI_Settings_Resolution: Risoluzione
 UI_Settings_ResolutionDisclaimer: Si prega di notare che il preset Alkimia Overdose
   potrebbe funzionare solo su hardware di fascia molto alta.
-UI_Settings_ResolutionQuality: Risoluzione
+UI_Settings_ResolutionQuality: Qualità risoluzione
 UI_Settings_ResolutionQuality_Description: Regola la qualità della risoluzione per
   migliorare le prestazioni o la qualità visiva.
 UI_Settings_RightStickSensitivity: Sensibilità dello stick destro
