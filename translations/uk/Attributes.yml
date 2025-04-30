@@ -1,33 +1,60 @@
-AttributeSet_LevelProgression_Level: ''
-AttributeSet_LevelProgression_Experience: ''
-AttributeSet_LevelProgression_Skillpoints: ''
-AttributeSet_Health_Health: ''
-AttributeSet_Health_MaxHealth: ''
-AttributeSet_Mana_Mana: ''
-AttributeSet_Mana_MaxMana: ''
-AttributeSet_Strength_Strength: ''
-AttributeSet_Dexterity_Dexterity: ''
-AttributeSet_LevelProgression_Toughness: ''
-AttributeSet_Mana_MagicianLevel: ''
-AttributeSet_Armor_Resistance_Blunt: ''
-AttributeSet_Armor_Resistance_Edge: ''
-AttributeSet_Armor_Resistance_Point: ''
-AttributeSet_Armor_Resistance_Fire: ''
-AttributeSet_Armor_Resistance_Energy: ''
-AttributeSet_Armor_Resistance_Ice: ''
-AttributeSet_Armor_Resistance_Wind: ''
-AttributeSet_Armor_Resistance_Falling: ''
-AttributeSet_LevelProgression_Experience_Description: ''
-AttributeSet_LevelProgression_Skillpoints_Description: ''
-AttributeSet_Health_Health_Description: ''
-AttributeSet_Health_MaxHealth_Description: ''
-AttributeSet_Mana_Mana_Description: ''
-AttributeSet_Mana_MaxMana_Description: ''
-AttributeSet_Strength_Strength_Description: ''
-AttributeSet_Dexterity_Dexterity_Description: ''
-AttributeSet_LevelProgression_Toughness_Description: ''
-AttributeSet_Mana_MagicianLevel_Description: ''
-AttributeSet_Armor_Resistance_Blunt_Description: ''
-AttributeSet_Armor_Resistance_Edge_Description: ''
-AttributeSet_Armor_Resistance_Point_Description: ''
-AttributeSet_Armor_Resistance_Fire_Description: ''
+AttributeSet_LevelProgression_Level: 'Рівень'
+AttributeSet_LevelProgression_Experience: 'Досвід'
+AttributeSet_LevelProgression_Skillpoints: 'Очки досвіду'
+AttributeSet_Health_Health: 'Здоров''я'
+AttributeSet_Health_MaxHealth: 'Макс. здоров''я'
+AttributeSet_Mana_Mana: 'Мана'
+AttributeSet_Mana_MaxMana: 'Макс. Мана'
+AttributeSet_Strength_Strength: 'Сила'
+AttributeSet_Dexterity_Dexterity: 'Спритність'
+AttributeSet_LevelProgression_Toughness: 'Витривалість'
+AttributeSet_Mana_MagicianLevel: 'Круг магії'
+AttributeSet_Armor_Resistance_Blunt: 'Тупа зброя'
+AttributeSet_Armor_Resistance_Edge: 'Ріжуча'
+AttributeSet_Armor_Resistance_Point: 'Колюча'
+AttributeSet_Armor_Resistance_Fire: 'Вогонь'
+AttributeSet_Armor_Resistance_Energy: 'Енергія'
+AttributeSet_Armor_Resistance_Ice: 'Лід'
+AttributeSet_Armor_Resistance_Wind: 'Вітер'
+AttributeSet_Armor_Resistance_Falling: 'Падіння'
+AttributeSet_LevelProgression_Experience_Description: 'Очки досвіду відображають ваш
+  розвиток завдяки боям і виконаним завданням. Набирайте їх, щоб підвищити рівень
+  і заробити нові очки навичок.'
+AttributeSet_LevelProgression_Skillpoints_Description: 'З кожним рівнем ви отримуєте
+  очки навичок. Витрачайте їх з учителями, щоб покращити свої якості та здібності
+  в бою, ремеслі та магії.'
+AttributeSet_Health_Health_Description: 'Здоров''я - це ваша фізична витривалість.
+  Чим більше у вас здоров''я, тим більше шкоди ви можете витримати перед падінням.
+  З досвідом ваше здоров''я зростатиме, що дозволить вам протистояти сильнішим ворогам.'
+AttributeSet_Health_MaxHealth_Description: 'Здоров''я - це ваша фізична витривалість.
+  Чим більше у вас здоров''я, тим більше шкоди ви можете витримати перед падінням.
+  З досвідом ваше здоров''я зростатиме, що дозволить вам вистояти проти сильніших
+  ворогів.'
+AttributeSet_Mana_Mana_Description: 'Мана підживлює ваші магічні здібності. Мана витрачається
+  під час використання заклинань і не відновлюється самостійно, тому плануйте свій
+  відпочинок і споживання предметів відповідно.'
+AttributeSet_Mana_MaxMana_Description: 'Мана підживлює ваші магічні здібності. Мана
+  витрачається під час використання заклинань і не відновлюється самостійно, тому
+  плануйте свій відпочинок і споживання предметів відповідно.'
+AttributeSet_Strength_Strength_Description: 'Сила виражає вашу фізичну майстерність.
+  Чим більша ваша сила, тим потужнішою зброєю ви можете володіти та тим більш руйнівними
+  будуть ваші атаки ближнього бою.'
+AttributeSet_Dexterity_Dexterity_Description: 'Спритність відображає вашу майстерність,
+  баланс і контроль над тілом. Вона визначає, яку зброю ви можете використовувати,
+  а також підвищує ефективність атаки та шанси на успіх під час кишенькових крадіжок..'
+AttributeSet_LevelProgression_Toughness_Description: 'Витривалість - це міра вашої
+  здатності переносити навантаження. Чим витривалішими ви стаєте, тим більше речей
+  ви можете нести. Перевантаження заважатиме вашому пересуванню, тому керуйте своїм
+  інвентарем з розумом.'
+AttributeSet_Mana_MagicianLevel_Description: 'Магічні кола означають глибину мудрості
+  та знань чарівника в таємних мистецтвах. Піднімаючись по колах, ви отримуєте доступ
+  до більш складних і потужних заклинань, посилюючи свою магічну майстерність.'
+AttributeSet_Armor_Resistance_Blunt_Description: 'Забезпечує захист від дроблячих
+  ударів булави.'
+AttributeSet_Armor_Resistance_Edge_Description: 'Забезпечує захист від гострих лез
+  мечів та сокир.'
+AttributeSet_Armor_Resistance_Point_Description: 'Цей захист зменшує пошкодження від
+  стріл і болтів.'
+AttributeSet_Armor_Resistance_Fire_Description: 'Розроблений для захисту від інтенсивного
+  тепла полум''я, цей захист гарантує, що ви менше постраждаєте від вогняних атак
+  і небезпек.'
