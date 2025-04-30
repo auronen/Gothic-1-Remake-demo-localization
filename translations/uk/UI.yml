@@ -394,14 +394,23 @@ UI_LoadSave_Save: 'Зберегти'
 UI_LoadSave_SaveGame: 'Зберегти гру'
 UI_LoadingScreen_ChapterFormat: 'Розділ {ChapterNumber}'
 UI_LoadingScreen_ChapterHeadlineFormat: '{Chapter} - {ChapterTitle}'
-UI_Loadingscreen_Chapter1Text: ''
+UI_Loadingscreen_Chapter1Text: 'Перший текст розділу історії поки що Перший текст
+  розділу історії поки що Перший текст розділу історії поки що Перший текст розділу
+  історії поки що Перший текст розділу історії поки що Перший текст розділу історії
+  поки що Перший текст розділу історії поки що Перший текст розділу історії поки що
+  Перший текст розділу історії поки що Перший текст розділу історії поки що Перший
+  текст розділу історії поки що'
 UI_Loadingscreen_Chapter1Title: 'Ласкаво просимо у колонію'
-UI_Loadingscreen_Chapter2Text: ''
-UI_Loadingscreen_Chapter2Title: ''
-UI_Loadingscreen_Chapter3Title: ''
-UI_Loadingscreen_Chapter4Title: ''
-UI_Loadingscreen_Chapter5Title: ''
-UI_Loadingscreen_Chapter6Title: ''
+UI_Loadingscreen_Chapter2Text: 'Другий текст у розділі історії поки що Перший текст
+  у розділі історії поки що Перший текст у розділі історії поки що Перший текст у
+  розділі історії поки що Перший текст у розділі історії поки що Перший текст у розділі
+  історії поки що Перший текст у розділі історії поки що Перший текст у розділі історії
+  поки що Перший текст у розділі історії поки що'
+UI_Loadingscreen_Chapter2Title: 'Розділ 2 – Гніздо повзунів'
+UI_Loadingscreen_Chapter3Title: 'Розділ 3 – Артефакти давньої сили'
+UI_Loadingscreen_Chapter4Title: 'Розділ 4 – Ксардас'
+UI_Loadingscreen_Chapter5Title: 'Розділ 5 – Хранителі порталу'
+UI_Loadingscreen_Chapter6Title: 'Розділ 6 – Лігво Сплячого'
 UI_Loadingscreen_Hint1: 'У цій демоверсії ви не побачите знаменитого Безіменного Героя
   і не зіграєте за нього.'
 UI_Loadingscreen_Hint2: 'Gothic 1 Remake - це рольова гра з відкритим світом у дусі
@@ -501,8 +510,10 @@ UI_Settings_AntiAliasing: 'Згладжування'
 UI_Settings_AntiAliasingQuality: 'Якість згладжування'
 UI_Settings_Audio: 'Звук'
 UI_Settings_AudioLanguage: 'Мова дубляжу'
-UI_Settings_AutoCloseChests: ''
-UI_Settings_AutoCloseChests_Description: ''
+UI_Settings_AutoCloseChests: 'Авто-зачинення скринь'
+UI_Settings_AutoCloseChests_Description: 'Якщо цей параметр увімкнено, скрині автоматично
+  закриватимуться, коли буде використано опцію "взяти все". В іншому випадку скриня
+  залишатиметься відкритою доти, доки її не буде закрито вручну.'
 UI_Settings_BloomIntensity: 'Інтенсивність цвітіння'
 UI_Settings_BloomIntensity_Description: 'Інтенсивність ефекту цвітіння. Вищі значення
   призведуть до більш інтенсивного світіння навколо яскравих об’єктів.'
@@ -543,7 +554,7 @@ UI_Settings_Gameplay: 'Геймплей'
 UI_Settings_Gamma: 'Гамма'
 UI_Settings_GlobalIlluminationQuality: 'Глобальна якість освітлення'
 UI_Settings_Graphics: 'Графіка'
-UI_Settings_HDR: ''
+UI_Settings_HDR: 'HDR'
 UI_Settings_InvertXAxis: 'Інверсія осі Х'
 UI_Settings_InvertYAxis: 'Інверсія осі Y'
 UI_Settings_InvertedHCam: 'Інверсія камери по горизонталі'
