@@ -273,7 +273,7 @@ UI_Notification_SkillIncreasedFormat: "Zlepšená dovednost:"
 UI_Notification_SkillLearnedFormat: ''
 UI_Profile: ''
 UI_Profile_Chapter: ''
-UI_Profile_ChapterNyras: ''
+UI_Profile_ChapterNyras: 'Nyras'
 UI_Profile_DefaultSaveFileName: ''
 UI_Profile_Delete: ''
 UI_Profile_Difficulty: ''
