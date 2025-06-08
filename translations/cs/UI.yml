@@ -269,7 +269,7 @@ UI_Notification_GlossaryUpdatedFormat: ''
 UI_Notification_KeyUsedFormat: ''
 UI_Notification_LevelUp: ''
 UI_Notification_ShowMore: ''
-UI_Notification_SkillIncreasedFormat: ''
+UI_Notification_SkillIncreasedFormat: "Zlepšená dovednost:"
 UI_Notification_SkillLearnedFormat: ''
 UI_Profile: ''
 UI_Profile_Chapter: ''

@@ -7,8 +7,8 @@ Pan Cook: ''
 Dead Rogue: ''
 ItIg_Worldsplitter: ''
 ItIg_Worldsplitter_Description: ''
-ItWr_Scroll_Mysteriousnote: ''
-ItWr_Scroll_Mysteriousnote_Description: ''
+ItWr_Scroll_Mysteriousnote: "Tajemná cedulka"
+ItWr_Scroll_Mysteriousnote_Description: "Tajemná kresba bez zjevného účelu. Pravděpodobně ji nakreslil Jorik."
 ReFo_Potion_Health_01: ''
 ReFo_Potion_Health_02: ''
 ReFo_Potion_Health_03: ''
@@ -145,7 +145,7 @@ Item_Key: ''
 Item_Trophy: ''
 Item_Material: ''
 Item_Ore: ''
-Item_Junk: ''
+Item_Junk: "Odpad"
 Item_Ammo: ''
 Item_Quest: ''
 Item_Lockpick: ''
@@ -163,65 +163,65 @@ Item_Weapon_Staff_TwoHand: ''
 Item_Weapon_Sword_TwoHand: ''
 Item_Writing: ''
 Item_Weapon_Fist: ''
-ItAt_Meatbug_01_description: ''
-ItFo_Apple_description: ''
-ItFo_Cheese_description: ''
+ItAt_Meatbug_01_description: "Maso žravých štěnic. Vařené je docela chutné, syrové už tak moc ne."
+ItFo_Apple_description: "Tato jablka symbolizují obchodní monopol Starého tábora."
+ItFo_Cheese_description: "Martanský sýr, vyhrazený pro elitu Starého tábora. Jeho pronikavá vůně se nese hradem."
 ItFo_Grilledscavenger_description: ''
-ItFo_Loaf_description: ''
+ItFo_Loaf_description: "Základní potravina Kolonie, jeho stálý přísun udržuje plné břicho a potlačuje nepokoje."
 ItFo_Meatbugragout_description: ''
-ItFo_Mutton_01_description: ''
-ItFo_Mutton_02_description: ''
-ItFo_Muttonraw_description: ''
-ItFo_Pear_description: ''
+ItFo_Mutton_01_description: "Jemně osmažené, naplní žaludek a zahřeje duši."
+ItFo_Mutton_02_description: "Uzené a chutné, masná pochoutka."
+ItFo_Muttonraw_description: "Čerstvě ulovené, čeká na oheň."
+ItFo_Pear_description: "Sladké ovoce zpoza Bariéry, chuť domova."
 ItFo_Potato_description: ''
-ItFo_Potion_Beer_description: ''
-ItFo_Potion_Booze_description: ''
+ItFo_Potion_Beer_description: "Importované Myrtanské pivo, luxusní zboží Starého tábora, které pohání vyjednávání a obchod v celé Kolonii."
+ItFo_Potion_Booze_description: "Pýcha Nového tábora, destilovaná z rýže. Tento silný destilát slouží jako měna a společenské mazivo, podtrhuje vynalézavost tábora."
 ItFo_Potion_Strongbeer_description: ''
-ItFo_Potion_Water_01_description: ''
-ItFo_Potion_Wine_description: ''
-ItFo_Rice_description: ''
+ItFo_Potion_Water_01_description: "I když je jí hodně, kontrola nad zdroji čisté vody je klíčem k moci v Kolonii."
+ItFo_Potion_Wine_description: "Symbol spojení Starého tábora s vnějším světem, vzácný luxus, který patří na stoly rudobaronů."
+ItFo_Rice_description: "Základ nezávislosti Nového tábora, pěstovaný na pečlivě střežených rýžových polích. Její nadbytek pohání jejich obchod a formuje vztahy s ostatními tábory."
 ItFo_Whitemeat_description: ''
-ItFo_Plants_Berrys_01_description: ''
+ItFo_Plants_Berrys_01_description: "Divoké borůvky, které rostou v méně zkrocených oblastech Kolonie. Jejich sběr často znamená riskování života a zdraví."
 ItFo_Plants_Bloodwood_01_description: ''
 ItFo_Plants_Mushroom_01_description: ''
 ItFo_Plants_Orcherb_01_description: ''
-ItFo_Plants_Seraphis_01_description: ''
+ItFo_Plants_Seraphis_01_description: "Běžná rostlina, v Kolonii je zásadní pro zachování produktivity. Její regenerační účinky udržují vězně při zdravé."
 ItFo_Plants_Stoneroot_01_description: ''
 ItAt_Claws_01_description: ''
-ItAm_Arrow_description: ''
-ItAm_Bolt_description: ''
-ItKe_Lockpick_description: ''
-ItMi_Hammer_description: ''
-ItMi_Lute_description: ''
-ItMi_Oldcoin_01_description: ''
-ItMi_Orenugget_description: ''
-ItMi_Stuff_Amphore_01_description: ''
+ItAm_Arrow_description: "Vyrobené uvnitř Bariéry, tyto šípy, munice pro luky, představují rozdíl mezi klackem a skutečnou zbraní."
+ItAm_Bolt_description: "Vyrobeno pro kuše strážců Starého tábora. Její svist často potlačí vzpouru dřív, než začne."
+ItKe_Lockpick_description: "Nezbytné pro ty, kteří jsou zdatní v otevírání zamčeného."
+ItMi_Hammer_description: "Bytelné kladivo. Nezbytný nástroj pro kováře a řemeslníky, symbol tvrdé práce v Kolonii."
+ItMi_Lute_description: "Hmatatelná vazba na vnější svět. Její melodie si zachovávají rozum a kulturu, což ji činí cennou jako jakoukoliv rudu."
+ItMi_Oldcoin_01_description: "Přimpomínka života před Bariérou. Dřív cenná Myrtanská měna, pod Bariérou zcela bezcenná."
+ItMi_Orenugget_description: "Klíčová surovina Kolonie. Její jedinečné vlastnosti z ní činí jak měnu, tak cennou surovinu, která utváří mocenské vztahy Kolonie a celého království."
+ItMi_Stuff_Amphore_01_description: "Pozůstatek obchodu před založením Kolonie. Nyní nachází různé využití."
 ItMi_Stuff_Barbknife_01_description: ''
-ItMi_Stuff_Brush_description: ''
-ItMi_Stuff_Cup_01_description: ''
+ItMi_Stuff_Brush_description: "Tyto kartáče jsou více než jen pomůcka k úklidu, jsou zásadní pro údržbu zbraní, brnění a zdraví v drsných podmínkách Kolonie."
+ItMi_Stuff_Cup_01_description: "Zažil mnoho přípitků. Často je to ta nejluxusnější věc z kopáčova majetku."
 ItMi_Stuff_Cup_02_description: ''
-ItMi_Stuff_Mug_01_description: ''
-ItMi_Stuff_Pipe_01_description: ''
-ItMi_Stuff_Plate_01_description: ''
+ItMi_Stuff_Mug_01_description: "Tyto jednoduché nádoby používají v každém táboře a jsou zásadní pro distribuci vody."
+ItMi_Stuff_Pipe_01_description: "Ceněná útěcha v Kolonii, často užívaná s místními bylinkami."
+ItMi_Stuff_Plate_01_description: "Opotřebená kovová miska. Připomínka, že i vězni musí jíst."
 HumanFists_description: ''
-ItFo_Potion_Health_01_description: ''
+ItFo_Potion_Health_01_description: "Esence připravená z vzácných bylin. Její rychlé léčivé vlastnosti zachraňují nespočet životů, díky čemuž jsou zkušení alchymisté v Kolonii velmi ceněni."
 ItWr_Scroll_Jacko_01_description: ''
 ItMw_1H_Axe_Sickle_01_description: ''
-ItMw_1H_Mace_03_description: ''
-ItMw_1H_Mace_Club_01_description: ''
-ItMw_1H_Sword_01_description: ''
+ItMw_1H_Mace_03_description: "Brutální ostnatý kyj z kovu, vyrobený tak, aby napodobil smrtící žihadlo krvavých much z Kolonie. Upřednostňovaný zloději, jeho charakteristický design budí strach."
+ItMw_1H_Mace_Club_01_description: "Kopáčův společník. Jeho hrubá účinnost podtrhuje brutální jednoduchost života v Kolonii."
+ItMw_1H_Sword_01_description: "Jednoduchý ocelový meč s mírně zakřivenou rukojetí. Standardní výbava pro nízko postavené strážce Starého tábora."
 ItMw_1H_Sword_02_description: ''
-ItMw_1H_Sword_04_description: ''
-ItMw_1H_Sword_Old_01_description: ''
-ItMw_1H_Sword_Short_02_description: ''
-ItMw_1H_Torch_description: ''
-ItRw_Bow_Diego_description: ''
-ItRw_Bow_Long_01_description: ''
-ItRw_Bow_Small_01_description: ''
-ItRw_Bow_Small_02_description: ''
-ItRw_Bow_Small_04_description: ''
-ItRw_Crossbow_01_description: ''
-ItMw_2H_Axe_Pickaxe_description: ''
+ItMw_1H_Sword_04_description: "Kvalitní meč se zdobenou čepelí a ostnatou záštitou. Upřednostňovaný zručnými bojovníky pro jeho všestrannost."
+ItMw_1H_Sword_Old_01_description: "Relikvie počátků Kolonie, tyto opotřebované čepele se stále používají mezi nováčky."
+ItMw_1H_Sword_Short_02_description: "Jednoduchý krátký meč se stříbrnou hruškou. Jeho kompaktní velikost z něj dělá ideální zbraň pro rychlý boj zblízka."
+ItMw_1H_Torch_description: "Nezbytná k prozkoumávání nebezpečných tmavých míst Kolonie. Může sloužit jako improvizovaná zbraň, občas se žhavými následky."
+ItRw_Bow_Diego_description: "Tento mistrovsky zhotovený dlouhý luk je stejně tak symbolem Diegova vůdcovství jako zbraní."
+ItRw_Bow_Long_01_description: "Vysoký, lehce zahnutý dřevěný luk. Jednoduchý design bez ovinuté rukojeti. Oblíbený mezi obyvateli Nového tábora pro svůj dostřel."
+ItRw_Bow_Small_01_description: "Hrubě zhotovený krátký nesymetrickými luk. Oblíbený mezi začínajícími lovci a zoufalými vězni."
+ItRw_Bow_Small_02_description: "Kompaktní dřevěný krátký luk. Díky svému jednoduchému designu je oblíbený mezi Stíny a lučištníky z Nového tábora."
+ItRw_Bow_Small_04_description: "Krátký luk z tmavého dřeva s kovem zesílenými rameny. Upřednostňovaný vlivnými Stíny pro svou sílu a přesnost."
+ItRw_Crossbow_01_description: "Lehká dřevěná kuše s kovovým zesílením. Oblíbená mezi strážci Starého tábora."
+ItMw_2H_Axe_Pickaxe_description: "Nejdůležitější nástroj Kolonie, krumpáče těží magickou rudu, která pohání politiku tábora. Ve zkušených rukou je to i dobrá zbraň."
 ItWr_Scroll_Mysteriousnote_description: ''
 ItAt_Amulet_Brotherhood: Znak Bratrstva
 ItAt_Amulet_Dexterity_01: Amulet čilosti
@@ -279,10 +279,10 @@ ItFo_Loaf: Chléb
 ItFo_Meatbugragout: Ragú ze žravých štěnic
 ItFo_Mutton_01: Opečené maso
 ItFo_Mutton_02: Šunka
-ItFo_Muttonraw: Syrové maso
+ItFo_Muttonraw: "Syrové maso"
 ItFo_Onion: ''
-ItFo_Pear: ''
-ItFo_Potato: ''
+ItFo_Pear: "Hruška"
+ItFo_Potato: "Brambora"
 ItFo_Potion_Beer: Pivo
 ItFo_Potion_Booze: Rýžová pálenka
 ItFo_Potion_Specialwater: ''
@@ -483,8 +483,8 @@ ItMi_Smith_Swordbladehot: Rozžhavená čepel
 ItMi_Smith_Swordraw: Surová ocel
 ItMi_Smith_Swordrawhot: Rozžhavená ocel
 ItMi_Smith_Willow: ''
-ItAm_Arrow: Šíp
-ItAm_Bolt: Šipka
+ItAm_Arrow: "Šíp"
+ItAm_Bolt: "Šipka"
 ItKe_Lockpick: Paklíč
 ItLs_Torch: Pochodeň
 ItLs_Torchburned: Pochodeň
@@ -731,7 +731,7 @@ ItMw_1H_Sword_Short_04: Zraňující trny
 ItMw_1H_Sword_Short_05: Kopáčova poslušnost
 ItMw_1H_Sword_Whistler: Whistlerův meč
 ItMw_1H_Torch: Pochodeň
-ItRw_Bow_Diego: Diegův luk
+ItRw_Bow_Diego: "Diegův luk"
 ItRw_Bow_Long_01: Dlouhý luk
 ItRw_Bow_Long_02: Dřevěný luk
 ItRw_Bow_Long_03: Vrbový luk
@@ -773,7 +773,7 @@ ItMw_2H_Axe_Orc_02: Krush UrRok
 ItMw_2H_Axe_Orc_03: Krush Agash
 ItMw_2H_Axe_Orc_04: Krush BrokDar
 ItMw_2H_Axe_Orik: Orikova sekyra
-ItMw_2H_Axe_Pickaxe: Krumpáč
+ItMw_2H_Axe_Pickaxe: "Krumpáč"
 ItMw_2H_Axe_Torlof: Torlofova sekyra
 ItMw_2H_Mace_Orc_01: Krush Karrok
 ItMw_2H_Scepter_Skeletonmage: ''
