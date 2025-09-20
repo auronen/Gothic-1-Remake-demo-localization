@@ -1,6 +1,6 @@
 AttributeSet_LevelProgression_Level: 'Úroveň'
 AttributeSet_LevelProgression_Experience: 'Zkušenosti'
-AttributeSet_LevelProgression_Skillpoints: ''
+AttributeSet_LevelProgression_Skillpoints: 'Zkušenostní body'
 AttributeSet_Health_Health: ''
 AttributeSet_Health_MaxHealth: ''
 AttributeSet_Mana_Mana: ''
