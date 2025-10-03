@@ -1,40 +1,75 @@
-TEXT_WIP_YGVNZSC_20250212_104425: ''
-TEXT_WIP_YGVNZSC_20250212_120816: ''
-TEXT_WIP_YGVNZSC_20250212_120924: ''
-TEXT_WIP_YGVNZSC_20250212_121142: ''
-TEXT_WIP_YGVNZSC_20250212_121254: ''
-TEXT_WIP_YGVNZSC_20250212_130017: ''
-TEXT_WIP_YGVNZSC_20250212_124856: ''
-TEXT_WIP_YGVNZSC_20250212_124922: ''
-TEXT_WIP_YGVNZSC_20250212_125311: ''
-TEXT_WIP_YGVNZSC_20250212_125414: ''
-TEXT_WIP_YGVNZSC_20250212_125504: ''
-TEXT_WIP_YGVNZSC_20250212_125539: ''
-TEXT_WIP_YGVNZSC_20250212_125000: ''
-TEXT_WIP_YGVNZSC_20250212_125005: ''
-QUEST-MAIN-DESCRIPTION: ''
-QUEST-MAIN-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: ''
-QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: ''
-QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: ''
-QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: ''
-QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: ''
+TEXT_WIP_YGVNZSC_20250212_104425: 'Stínová šelma se potuluje po místě výměny. Musím
+  najít bezpečný úkryt, než nastane noc.'
+TEXT_WIP_YGVNZSC_20250212_120816: 'Ratford mi navrhl, abych pomohl jeho příteli Draxovi
+  lovit mrchožrouty u cesty v údolí. Mohla by to být moje šance zajistit si k přenocování
+  místo u jejich táboráku.'
+TEXT_WIP_YGVNZSC_20250212_120924: 'Drax potřebuje pomoc s lovem mrchožroutů. Pokud
+  budu užitečný, mohli bychom se domluvit na místě u jejich táboráku, abych byl v
+  bezpečí před Stínovou šelmou.'
+TEXT_WIP_YGVNZSC_20250212_121142: 'Jorik, jeden z lovců, se ztratil v kaňonu. Když
+  ho najdu, možná mi to zajistí bezpečné místo na noc.'
+TEXT_WIP_YGVNZSC_20250212_121254: 'Získal jsem místo u ohně lovců ve starém táboře
+  kopáčů naproti opuštěnému dolu. Je čas se tam zastavit a odpočinout si.'
+TEXT_WIP_YGVNZSC_20250212_130017: 'Musím najít Draxova přítele Ratforda a zeptat se
+  na Jorika, jeho zmizelého člena bandy. To může být poslední krok k zajištění bezpečného
+  noclehu.'
+TEXT_WIP_YGVNZSC_20250212_124856: 'Měl bych Draxovi říct, že jsem připraven začít
+  s lovem. Čeká u vstupu do údolí.'
+TEXT_WIP_YGVNZSC_20250212_124922: 'Než půjdu s Draxem na lov, měl bych si opatřit
+  nějakou zbraň. Něco použitelného tady musí být.'
+TEXT_WIP_YGVNZSC_20250212_125311: 'Drax říká, že mrchožrouti nejsou tak nebezpeční,
+  ale nejsem si tím tak jistý. Budu si muset během lovu dávat pozor.'
+TEXT_WIP_YGVNZSC_20250212_125414: 'Jorik zmizel v kaňonu. Nalezení ho nebo zjištění
+  jeho osudu by mi zajistilo přízeň lovců a bezpečné místo k přespání.'
+TEXT_WIP_YGVNZSC_20250212_125504: 'Měl bych Kirgovi říct, že jsem připraven k souboji.
+  Čeká netrpělivě u sesuvu kamení a chce otestovat mé dovednosti.'
+TEXT_WIP_YGVNZSC_20250212_125539: 'Na trénink s Kirgem potřbeuju zbraň. Tady někde
+  musím něco použitelného najít.'
+TEXT_WIP_YGVNZSC_20250212_125000: 'Tady na místě výměny se musí dát pivo sehnat… třeba
+  tam, kde skladují zásilky z vnějšku?'
+TEXT_WIP_YGVNZSC_20250212_125005: 'Našel jsem nějaké pivo. Je čas ho donést Orrymu
+  k bráně, uvidíme, jaké informace mi za něj prozradí.'
+QUEST-MAIN-DESCRIPTION: 'Dorazím k Hornickému údolí, mihotající se Bariéra označující
+  mé vyhnanství. Zatímco se strážci připravují mě hodit dovnitř, uvažuji o svém osudu
+  v této zapomenuté jámě plné rudy a špíny.'
+QUEST-MAIN-NAME: 'Vítejte v Kolonii'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-DESCRIPTION: 'Diegovo přivítání nepřineslo mnoho
+  útěchy. Sesun kamení blokuje přístup do údolí a poblíž se potuluje Stínová šelma.
+  Musím najít úkryt na noc.'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP-NAME: 'Místo na spaní'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_FINDSHELTER-NAME: 'Najdi úkryt před setměním.'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_GOTOFIREPLACE-NAME: 'Připojte se k lovcům
+  u ohniště.'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_HELPDRAX-NAME: 'Pomoz Draxovi s lovem mrchožroutů'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_JORIKMISSING-NAME: 'Najdi Jorika v kaňonu'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTODRAX-NAME: 'Najdi Draxe a nabídni mu
+  pomoc'
+QUEST-MAIN_G1RDEMO_APLACETOSLEEP_G1RDEMO_TALKTORATFORD-NAME: 'Promluv s Ratfordem
+  o Jorikovi'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-DESCRIPTION: 'Lovec ze takzvaného Nového tábora mi nabídl
+  jídlo a úkryt výměnou za pomoc s lovem mrchožroutů. Zdá se, že lov je jednoduchý,
+  ale měl bych být opatrný.'
+QUEST-MAIN_G1RDEMO_DRAXHUNT-NAME: 'Lov mrchožroutů'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_GETWEAPONDRAX-NAME: 'Najdi zbraň'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_KILLSCAVENGERS-NAME: 'Zabijte mrchožrouty v okolí'
+QUEST-MAIN_G1RDEMO_DRAXHUNT_G1RDEMO_STARTHUNT-NAME: 'Řekni Draxovi, že jsi připraven
+  jít na lov'
+QUEST-MAIN_G1RDEMO_FINDJORIK-DESCRIPTION: 'Člen Nového tábora jménem Jorik se ztratil
+  v kaňonu. Jeho banda ho hledá. Nalezení Jorika by mi mohlo zajistit bezpečné místo
+  na noc.'
+QUEST-MAIN_G1RDEMO_FINDJORIK-NAME: 'Hledání Jorika'
+QUEST-MAIN_G1RDEMO_FINDJORIK_G1RDEMO_LOCATEJORIK-NAME: 'Vyšetři Jorikovo zmizení'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-DESCRIPTION: 'Kirgo, strážce Starého tábora a bojovník
+  z arény, mi nabídl souboj. Je to šance prokázat se a naučit se cenné bojové dovednosti.
+  Dobrým výkonem bych si tu mohl získat respekt.'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT-NAME: 'Cvičný souboj'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_GETWEAPONKIRGO-NAME: 'Najdi zbraň na cvičný
+  souboj'
+QUEST-MAIN_G1RDEMO_KIRGOFIGHT_G1RDEMO_STARTPRACTICEFIGHT-NAME: 'Řekni Kirgovi, že
+  jsi připraven bojovat'
+QUEST-MAIN_G1RDEMO_ORRYBEER-DESCRIPTION: 'Orry, strážce brány, mi může za pivo prozradit
+  informace. V tomhle krutém místě je i alkohol vzácný. Kdybych nějaké našel, mohlo
+  by mi to pomoci dozvědět se, jak se tady přežívá.'
+QUEST-MAIN_G1RDEMO_ORRYBEER-NAME: 'Žíznivý strážce'
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_BRINGBEER-NAME: 'Dej pivo Orrymu'
+QUEST-MAIN_G1RDEMO_ORRYBEER_G1RDEMO_FINDBEER-NAME: 'Najdi pivo'
