@@ -1,52 +1,76 @@
 Skill_Melee_OneHanded: "Jednoruční zbraně"
 Skill_Melee_TwoHanded: 'Obouruční zbraně'
-Skill_Ranged_Bow: ''
-Skill_Ranged_Crossbow: ''
-Skill_Pickpocketing: ''
-Skill_Lockpicking: ''
-Skill_Crafting_Blacksmith: ''
-Skill_Orcish: ''
-Skill_Diving: ''
-Skill_Acrobatics: ''
-Skill_Sneaking: ''
-Skill_Wallclimbing: ''
-Skill_Crafting_Alchemy: ''
-Skill_Crafting_Inscription: ''
-Skill_Hunting_Claw: ''
-Skill_Hunting_Skin: ''
-Skill_Hunting_Teeth: ''
-Skill_Hunting_Scutes: ''
-Skill_Hunting_Organ: ''
-Skill_Hunting_Fins: ''
-Skill_Hunting_Secretion: ''
-Skill_Hunting_Fur: ''
-Skill_Hunting_UluMulu: ''
-Skill_Hunting_Spines: ''
-Skill_Hunting_SkullArmor: ''
-Skill_Hunting_Stings: ''
-Skill_Hunting_MCMandibles: ''
-Skill_Hunting_MCPlate: ''
-Skill_Hunting_TongueOfFire: ''
-Skill_Hunting_ShadowbeastHorn: ''
-Skill_Hunting_SwampsharkTeeth: ''
-Skill_Hunting_SkinSwampshark: ''
-Skill_Hunting_TrollHorn: ''
-SkillMastery_Untrained: ''
-SkillMastery_Trained: ''
-SkillMastery_Master: ''
-Skill_Melee_OneHanded_Description: ''
-Skill_Melee_OneHanded_Untrained_Description: ''
-Skill_Melee_OneHanded_Trained_Description: ''
-Skill_Melee_OneHanded_Master_Description: ''
-Skill_Melee_TwoHanded_Description: ''
-Skill_Melee_TwoHanded_Untrained_Description: ''
-Skill_Melee_TwoHanded_Trained_Description: ''
-Skill_Melee_TwoHanded_Master_Description: ''
-Skill_Ranged_Bow_Description: ''
-Skill_Ranged_Bow_UntrainedDescriptions: ''
-Skill_Ranged_Bow_Trained_Description: ''
-Skill_Ranged_Bow_Master_Description: ''
-Skill_Ranged_Crossbow_Description: ''
-Skill_Ranged_Crossbow_Untrained_Description: ''
-Skill_Ranged_Crossbow_Trained_Description: ''
-Skill_Ranged_Crossbow_Master_Description: ''
+Skill_Ranged_Bow: 'Luk'
+Skill_Ranged_Crossbow: 'Kuše'
+Skill_Pickpocketing: 'Vybírání kapes'
+Skill_Lockpicking: 'Páčení zámků'
+Skill_Crafting_Blacksmith: 'Kování'
+Skill_Orcish: 'Skřetí jazyk'
+Skill_Diving: 'Potápění'
+Skill_Acrobatics: 'Akrobacie'
+Skill_Sneaking: 'Plížení'
+Skill_Wallclimbing: 'Šplh'
+Skill_Crafting_Alchemy: 'Alchymie'
+Skill_Crafting_Inscription: 'Inskripce'
+Skill_Hunting_Claw: 'Vyjmutí drápů'
+Skill_Hunting_Skin: 'Stáhnout kůži'
+Skill_Hunting_Teeth: 'Vyjmutí zubů'
+Skill_Hunting_Scutes: 'Vezmi šupiny.'
+Skill_Hunting_Organ: 'Vyjmutí orgánů'
+Skill_Hunting_Fins: 'Vezmi Temnoty.'
+Skill_Hunting_Secretion: 'Extrakce sekretu.'
+Skill_Hunting_Fur: 'Stáhnout kožešinu'
+Skill_Hunting_UluMulu: 'Získat ULU-MULU'
+Skill_Hunting_Spines: 'Vytáhni páteř.'
+Skill_Hunting_SkullArmor: 'Odříznout lebku'
+Skill_Hunting_Stings: 'Vyjmout žihadla'
+Skill_Hunting_MCMandibles: 'Vyříznout čelisti důlních červů'
+Skill_Hunting_MCPlate: 'Vezmi krunýře'
+Skill_Hunting_TongueOfFire: 'Vezmi Ohnivý jazyk.'
+Skill_Hunting_ShadowbeastHorn: 'Vezmi roh.'
+Skill_Hunting_SwampsharkTeeth: 'Vytěžte žralbí zuby.'
+Skill_Hunting_SkinSwampshark: 'Stáhnout žralčí kůži.'
+Skill_Hunting_TrollHorn: 'Vezmi roh'
+SkillMastery_Untrained: 'Netrénovaný'
+SkillMastery_Trained: 'Vyškolený'
+SkillMastery_Master: 'Mistr'
+Skill_Melee_OneHanded_Description: 'Vaše zdatnost v boji s JEDNORUČNÍMI ZBRANĚMI určuje
+  vaši bojovou efektivitu, od základních úderů až po plynulé a mistrovské kombinace.'
+Skill_Melee_OneHanded_Untrained_Description: 'Jsi netrénovaný. Dokážeš se chopit zbraně.
+  Neočekávej ladnost; kombinace a vykrejvávání útoků jsou nad tvé síly.'
+Skill_Melee_OneHanded_Trained_Description: 'S tréninkem se tvé pohyby stanou plynulé,
+  což ti umožní útočné kombinace a zručné vykrejování útoků. Můžeš zasadit rozhodující
+  údery a máš schopnost útoky přerušit v průběhu.'
+Skill_Melee_OneHanded_Master_Description: 'Mistr jednoručního boje je síla, se kterou
+  je třeba počítat. Máte zvýšenou šanci na kritické zásahy a můžete způsobit odhození
+  protivníka. Obrana se stává přirozenou, což umožňuje silné protiútoky.'
+Skill_Melee_TwoHanded_Description: 'Vaše zručnost s obouručními zbraněmi určuje vaše
+  schopnosti v boji, od surových úderů až po elegantní a dominantní kombinace.'
+Skill_Melee_TwoHanded_Untrained_Description: 'Jsi netrénovaný. Dokážeš se chopit obouruční
+  zbraně, ale její plný potenciál ti zůstává skrytý. Kombinace a vykrejvá útoky jsou
+  mimo tvůj dosah a tvé útoky jsou jednoduché a nedokonalé.'
+Skill_Melee_TwoHanded_Trained_Description: 'S tréninkem se tvá kontrola nad obouručními
+  zbraněmi stane plynulou, což ti umožní vytvářet silné kombinace a zručné vykrejváky
+  útoků. Stávají se možnými rozhodující údery a získáš schopnost útoky rušit.'
+Skill_Melee_TwoHanded_Master_Description: 'Jako mistr boje s obouručními zbraněmi
+  je vaše síla impozantní. Kritické zásahy se stávají častějšími, úspěšné krytí umožňuje
+  protiútoky a vaše mohutné údery mohou protivníky srazit zpět odrazem.'
+Skill_Ranged_Bow_Description: 'Vaše zručnost s luky určuje vaši přesnost střelby,
+  od základního míření až po rychlé a precizní zásahy.'
+Skill_Ranged_Bow_UntrainedDescriptions: 'Jsi netrénovaný. Dokážeš držet LUK, ale míření
+  je náročné a natahování tětivy a nabíjení je nepohodlné.'
+Skill_Ranged_Bow_Trained_Description: 'Díky tréninku se tvé dovednosti s lukem zlepšily.
+  Nyní jsi mnohem zručnější v nabíjení a míření, a tvá zvýšená přesnost ti umožňuje
+  dosahovat rozhodujících úderů.'
+Skill_Ranged_Bow_Master_Description: 'Vaše ovládání LUKU je mistrovské. Vaše rozhodující
+  údery zdevastují vaše nepřátele a rychlost a přesnost vašich střel je přemohou.'
+Skill_Ranged_Crossbow_Description: 'Vaše zručnost s kušemi odráží vaše mistrovství
+  v boji na dálku, vyvíjející se od základní manipulace až k rychlé a přesné střelbě.'
+Skill_Ranged_Crossbow_Untrained_Description: 'Jsi netrénovaný. Dokážeš obsluhovat
+  kuše, ale tvé nejisté ruce mohou ztížit míření a přebíjení je pomalé a zdlouhavé.'
+Skill_Ranged_Crossbow_Trained_Description: 'S tréninkem se tvá zdatnost s kuší zvyšuje.
+  Přebíjení je rychlejší, tvá muška se ustálí a rozhodující údery se stávají skutečnou
+  hrozbou.'
+Skill_Ranged_Crossbow_Master_Description: 'Získáte mistrovství v používání kuší. Kritické
+  zásahy se daří snadněji, každý výstřel se pyšní nevídanou přesností a vaše obratné
+  ruce rychle přebíjejí šipky.'
