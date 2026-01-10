@@ -15,62 +15,62 @@ Skill_Crafting_Inscription: 'Inskripce'
 Skill_Hunting_Claw: 'Vyjmutí drápů'
 Skill_Hunting_Skin: 'Stáhnout kůži'
 Skill_Hunting_Teeth: 'Vyjmutí zubů'
-Skill_Hunting_Scutes: 'Vezmi šupiny.'
+Skill_Hunting_Scutes: 'Získávání šupin.'
 Skill_Hunting_Organ: 'Vyjmutí orgánů'
-Skill_Hunting_Fins: 'Vezmi Temnoty.'
+Skill_Hunting_Fins: 'Získávání ploutví.'
 Skill_Hunting_Secretion: 'Extrakce sekretu.'
-Skill_Hunting_Fur: 'Stáhnout kožešinu'
+Skill_Hunting_Fur: 'Stahování kožešin'
 Skill_Hunting_UluMulu: 'Získat ULU-MULU'
-Skill_Hunting_Spines: 'Vytáhni páteř.'
-Skill_Hunting_SkullArmor: 'Odříznout lebku'
+Skill_Hunting_Spines: 'Vyříznout páteř.'
+Skill_Hunting_SkullArmor: 'Získání lebky'
 Skill_Hunting_Stings: 'Vyjmout žihadla'
 Skill_Hunting_MCMandibles: 'Vyříznout čelisti důlních červů'
-Skill_Hunting_MCPlate: 'Vezmi krunýře'
-Skill_Hunting_TongueOfFire: 'Vezmi Ohnivý jazyk.'
-Skill_Hunting_ShadowbeastHorn: 'Vezmi roh.'
-Skill_Hunting_SwampsharkTeeth: 'Vytěžte žralbí zuby.'
-Skill_Hunting_SkinSwampshark: 'Stáhnout žralčí kůži.'
-Skill_Hunting_TrollHorn: 'Vezmi roh'
-SkillMastery_Untrained: 'Netrénovaný'
-SkillMastery_Trained: 'Vyškolený'
+Skill_Hunting_MCPlate: 'Odřezávání krunýřů'
+Skill_Hunting_TongueOfFire: 'Vyříznout ohnivý jazyk'
+Skill_Hunting_ShadowbeastHorn: 'Odříznout roh'
+Skill_Hunting_SwampsharkTeeth: 'Odříznout žraločí zuby'
+Skill_Hunting_SkinSwampshark: 'Stahování žraločí kůže'
+Skill_Hunting_TrollHorn: 'Odříznout roh'
+SkillMastery_Untrained: 'Začátečník'
+SkillMastery_Trained: 'Pokračilý'
 SkillMastery_Master: 'Mistr'
-Skill_Melee_OneHanded_Description: 'Vaše zdatnost v boji s JEDNORUČNÍMI ZBRANĚMI určuje
-  vaši bojovou efektivitu, od základních úderů až po plynulé a mistrovské kombinace.'
-Skill_Melee_OneHanded_Untrained_Description: 'Jsi netrénovaný. Dokážeš se chopit zbraně.
-  Neočekávej ladnost; kombinace a vykrejvávání útoků jsou nad tvé síly.'
-Skill_Melee_OneHanded_Trained_Description: 'S tréninkem se tvé pohyby stanou plynulé,
-  což ti umožní útočné kombinace a zručné vykrejování útoků. Můžeš zasadit rozhodující
-  údery a máš schopnost útoky přerušit v průběhu.'
-Skill_Melee_OneHanded_Master_Description: 'Mistr jednoručního boje je síla, se kterou
-  je třeba počítat. Máte zvýšenou šanci na kritické zásahy a můžete způsobit odhození
-  protivníka. Obrana se stává přirozenou, což umožňuje silné protiútoky.'
-Skill_Melee_TwoHanded_Description: 'Vaše zručnost s obouručními zbraněmi určuje vaše
-  schopnosti v boji, od surových úderů až po elegantní a dominantní kombinace.'
-Skill_Melee_TwoHanded_Untrained_Description: 'Jsi netrénovaný. Dokážeš se chopit obouruční
-  zbraně, ale její plný potenciál ti zůstává skrytý. Kombinace a vykrejvá útoky jsou
-  mimo tvůj dosah a tvé útoky jsou jednoduché a nedokonalé.'
-Skill_Melee_TwoHanded_Trained_Description: 'S tréninkem se tvá kontrola nad obouručními
-  zbraněmi stane plynulou, což ti umožní vytvářet silné kombinace a zručné vykrejváky
-  útoků. Stávají se možnými rozhodující údery a získáš schopnost útoky rušit.'
+Skill_Melee_OneHanded_Description: 'Vaše zdatnost v boji s jednoručními zbraněmi určuje
+  vaši efektivitu v boji, od základních úderů až po plynulé a mistrovské kombinace.'
+Skill_Melee_OneHanded_Untrained_Description: 'Jsi začátečník. Dokážeš se chopit zbraně.
+  Neočekávej ladnost, kombinace a blokování útoků jsou nad tvé síly.'
+Skill_Melee_OneHanded_Trained_Description: 'Díky tréninku se tvé pohyby stanou plynulejší,
+  což ti umožní útočné kombinace a blokování útoků. Můžeš zasadit kritické údery a
+  máš schopnost útoky přerušit v průběhu.'
+Skill_Melee_OneHanded_Master_Description: 'Jako mistr jednoručního boje jsi obávaný
+  protivník. Máte zvýšenou šanci na kritické zásahy a můžete odhodit protivníka. Obrana
+  se stává přirozenou, což umožňuje silné protiútoky.'
+Skill_Melee_TwoHanded_Description: 'Tvoje dovednost s obouručními zbraněmi určuje
+  tvé schopnosti v boji, od surových úderů až po elegantní a dominantní kombinace.'
+Skill_Melee_TwoHanded_Untrained_Description: 'Jsi začátečník. Dokážeš se chopit obouruční
+  zbraně, ale její plný potenciál ti zůstává skrytý. Kombinace a blokování útoků jsou
+  mimo tvé schopnosti a tvé útoky jsou jednoduché a nedokonalé.'
+Skill_Melee_TwoHanded_Trained_Description: 'Díky tréninku se tvá kontrola nad obouručními
+  zbraněmi stává plynulejší, což ti umožní kombinovat údery a blokovat protivníkovy
+  údery. Můžeš nepříteli uštědřit kritický zásah a jsi schopen útoky blokovat.'
 Skill_Melee_TwoHanded_Master_Description: 'Jako mistr boje s obouručními zbraněmi
-  je vaše síla impozantní. Kritické zásahy se stávají častějšími, úspěšné krytí umožňuje
-  protiútoky a vaše mohutné údery mohou protivníky srazit zpět odrazem.'
-Skill_Ranged_Bow_Description: 'Vaše zručnost s luky určuje vaši přesnost střelby,
+  je vaše síla impozantní. Často zasazuješ kritické údery, úspěšné krytí ti umožňuje
+  protiútoky a tvé mohutné údery mohou protivníka odhodit.'
+Skill_Ranged_Bow_Description: 'Dovednost střelby z luku určuje tvou přesnost střelby,
   od základního míření až po rychlé a precizní zásahy.'
-Skill_Ranged_Bow_UntrainedDescriptions: 'Jsi netrénovaný. Dokážeš držet LUK, ale míření
-  je náročné a natahování tětivy a nabíjení je nepohodlné.'
-Skill_Ranged_Bow_Trained_Description: 'Díky tréninku se tvé dovednosti s lukem zlepšily.
-  Nyní jsi mnohem zručnější v nabíjení a míření, a tvá zvýšená přesnost ti umožňuje
-  dosahovat rozhodujících úderů.'
-Skill_Ranged_Bow_Master_Description: 'Vaše ovládání LUKU je mistrovské. Vaše rozhodující
-  údery zdevastují vaše nepřátele a rychlost a přesnost vašich střel je přemohou.'
-Skill_Ranged_Crossbow_Description: 'Vaše zručnost s kušemi odráží vaše mistrovství
-  v boji na dálku, vyvíjející se od základní manipulace až k rychlé a přesné střelbě.'
-Skill_Ranged_Crossbow_Untrained_Description: 'Jsi netrénovaný. Dokážeš obsluhovat
-  kuše, ale tvé nejisté ruce mohou ztížit míření a přebíjení je pomalé a zdlouhavé.'
-Skill_Ranged_Crossbow_Trained_Description: 'S tréninkem se tvá zdatnost s kuší zvyšuje.
-  Přebíjení je rychlejší, tvá muška se ustálí a rozhodující údery se stávají skutečnou
-  hrozbou.'
-Skill_Ranged_Crossbow_Master_Description: 'Získáte mistrovství v používání kuší. Kritické
-  zásahy se daří snadněji, každý výstřel se pyšní nevídanou přesností a vaše obratné
-  ruce rychle přebíjejí šipky.'
+Skill_Ranged_Bow_UntrainedDescriptions: 'Jsi začátečník. Dokážeš držet luk, ale míření
+  je náročné, natahování tětivy a nabíjení je náročné.'
+Skill_Ranged_Bow_Trained_Description: 'Tréninkem se tvé dovednosti s lukem zlepšily.
+  Nyní jsi mnohem zručnější v nasazení šípu na tětivu a v míření, a tvá zvýšená přesnost
+  ti umožňuje dosáhnout kritických úderů.'
+Skill_Ranged_Bow_Master_Description: 'Luk ovládáš mistrovsky. Tvé kritické údery zdevastují
+  vaše nepřátele a díky své rychlosti zahltíte šípy své nepřítele.'
+Skill_Ranged_Crossbow_Description: 'Tvý dovednost s kuší odráží tvé schopnosti v boji
+  na dálku. Vyvíjející se od základní manipulace až k rychlé a přesné střelbě.'
+Skill_Ranged_Crossbow_Untrained_Description: 'Jsi začátečník. Dokážeš kuše obsluhovat,
+  ale tvé nejisté ruce mohou ztížit míření a nabíjení je pomalé a zdlouhavé.'
+Skill_Ranged_Crossbow_Trained_Description: 'Díky tréninku se tvá dovednost s kuší
+  zvyšuje. Nabíjení je rychlejší, tvá muška se ustálí a kritické údery se stávají
+  skutečnou hrozbou.'
+Skill_Ranged_Crossbow_Master_Description: 'Jsi mistr ve střelbě s kuší. Kritické zásahy
+  jsou častější, každý výstřel se pyšní nevídanou přesností a vaše obratné ruce rychle
+  nabíjí další šipky.'
