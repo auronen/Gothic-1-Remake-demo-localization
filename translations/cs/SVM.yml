@@ -98,9 +98,9 @@ Orry-CH0-None-Orry-35836: 'Pomůžu ti!'
 Orry-CH0-None-Orry-37151: "Odlož. Tu. Zbraň."
 Orry-CH0-None-Orry-39864: 'Pojď!'
 Orry-CH0-None-Orry-40668: '... Ten parchant nemá u sebe ani gram. Sakra.'
-Orry-CH0-None-Orry-41565: 'Měj to za sebou!'
+Orry-CH0-None-Orry-41565: 'Skoncuj to s ním!'
 Orry-CH0-None-Orry-4532: 'Zdechneš už konečně, do prdele?!'
-Orry-CH0-None-Orry-58984: 'Začátečnické štěstí...'
+Orry-CH0-None-Orry-58984: 'Štěstí začátečníka...'
 Orry-CH0-None-Orry-60457: 'Zase ty!'
 Orry-CH0-None-Orry-61945: 'Teď ne.'
 Orry-CH0-None-Orry-68806: 'Vypadni, kámo! Myslím to vážně!'
@@ -123,35 +123,35 @@ Whistler-CH0-None-Whistler-26880: 'To je jeden z nich! Chyťte ho!'
 Whistler-CH0-None-Whistler-28746: 'Zatracení ptáci...'
 Whistler-CH0-None-Whistler-31444: "Dej to pryč, nebo tě sejmu!"
 Whistler-CH0-None-Whistler-3668: 'Představení skončilo.'
-Whistler-CH0-None-Whistler-37490: 'Ven! Okamžitě!'
+Whistler-CH0-None-Whistler-37490: 'Ven! Hned!'
 Whistler-CH0-None-Whistler-37771: 'Bolest je nejlepší učitel.'
-Whistler-CH0-None-Whistler-3977: 'Vezmu si to.'
-Whistler-CH0-None-Whistler-40177: '"Zpropadení goblini ... !"'
+Whistler-CH0-None-Whistler-3977: 'Tohle si vezmu.'
+Whistler-CH0-None-Whistler-40177: 'Zatracení goblini...!'
 Whistler-CH0-None-Whistler-44685: 'Já jsem to kurva viděl!'
-Whistler-CH0-None-Whistler-44853: 'Cos jsi chtěl/a.'
+Whistler-CH0-None-Whistler-44853: 'Řek'' sis o to.'
 Whistler-CH0-None-Whistler-47760: 'Už zase?'
-Whistler-CH0-None-Whistler-51796: '"... Zatracení šejdíři..."'
-Whistler-CH0-None-Whistler-52299: 'Ty se pereš jako holka!'
+Whistler-CH0-None-Whistler-51796: '...Zatracení šejdíři...'
+Whistler-CH0-None-Whistler-52299: 'Biješ se jak ženská!'
 Whistler-CH0-None-Whistler-60603: 'Pojďme na ně!'
-Whistler-CH0-None-Whistler-70358: '"... Proč to sakra udělal?"'
+Whistler-CH0-None-Whistler-70358: '...Proč by to sakra dělal?'
 Whistler-CH0-None-Whistler-72737: 'To ještě není konec.'
 Whistler-CH0-None-Whistler-76495: 'Raz, dva, tři... hm...'
 Whistler-CH0-None-Whistler-7791: "No, máš štěstí!"
-Whistler-CH0-None-Whistler-82459: 'Seš mrtvej!'
-Whistler-CH0-None-Whistler-85480: 'Dokonči to!'
-Whistler-CH0-None-Whistler-90606: 'Co se tu stalo?'
-Whistler-CH0-None-Whistler-92786: 'Vypadni!'
-Whistler-CH0-None-Whistler-97383: 'Pozor!'
+Whistler-CH0-None-Whistler-82459: 'Jseš mrtvej!'
+Whistler-CH0-None-Whistler-85480: 'Skonči to!'
+Whistler-CH0-None-Whistler-90606: '...Co se tu stalo?'
+Whistler-CH0-None-Whistler-92786: 'Řekl jsem, vypadni!'
+Whistler-CH0-None-Whistler-97383: 'Hej, pozor!'
 Diego-CH0-None-Diego-10698: 'Divné...'
 Diego-CH0-None-Diego-1326: 'Já jsem tě varoval! '
 Diego-CH0-None-Diego-15602: 'Udělej to ještě jednou a nebudu se krotit.'
-Diego-CH0-None-Diego-16621: 'Doufejme, že to celý nevybouchne... '
+Diego-CH0-None-Diego-16621: 'Doufejme, že to celý nepraskne... '
 Diego-CH0-None-Diego-20239: 'Ještě nemáš dost? '
-Diego-CH0-None-Diego-20410: 'No tak, ukaž mu to!'
+Diego-CH0-None-Diego-20410: 'No tak, ukaž mu!'
 Diego-CH0-None-Diego-2268: 'Řekl jsem: Vypadni! '
 Diego-CH0-None-Diego-23432: "Dej tu zatracenou zbraň pryč!"
 Diego-CH0-None-Diego-23964: 'Přestaň!'
-Diego-CH0-None-Diego-27981: 'Díky za nugetky, jednu ti nechám!'
+Diego-CH0-None-Diego-27981: 'Díky za nugetky, dám si jedno na tebe!'
 Diego-CH0-None-Diego-33915: 'Moc snadné.'
 Diego-CH0-None-Diego-35862: 'Tahle zbraň vypadá slušně.'
 Diego-CH0-None-Diego-390: 'Budeš litovat…'
@@ -168,20 +168,7 @@ Diego-CH0-None-Diego-84477: "Řekl sis o to!"
 Diego-CH0-None-Diego-84585: 'Teď ne.'
 Diego-CH0-None-Diego-85171: "Chceš, abych ti dal do zubů? Dej tu věc pryč!"
 Diego-CH0-None-Diego-86020: 'Vytřu s tebou podlahu!'
-Diego-CH0-None-Diego-90292: 'No glossary was provided. Assuming "gobbo" is used in
-  a derogatory or playful way, here are a few options, depending on the intended tone:
-
-
-  * **Hele, no tak, ty truhlíku!** (Playful, slightly insulting)
-
-  * **No tak, šup šup, ty ťunťo!** (Playful, silly)
-
-  * **No tak pojď, ty packale!** (More aggressive, insulting)
-
-
-  Without more context, it''s difficult to choose the best translation. I leaned towards
-  playful/slightly insulting. If it''s meant to be more aggressive, the third option
-  is better.'
+Diego-CH0-None-Diego-90292: 'No tak, pojď sem gobline!'
 Diego-CH0-None-Diego-96338: 'Poplach!'
 Kirgo-CH0-G1RDemo_KirgoFight-Caption-1372: ''
 Kirgo-CH0-G1RDemo_KirgoFight-Caption-17711: ''
@@ -197,7 +184,7 @@ Hero-CH0-None-Hero-20445: "To není dobrý nápad. Když mě tady najdou spát, 
 Hero-CH0-None-Hero-62833: "Hmm... tohle by místo by šlo. Ale někdo tu už byl. Kdybych
   ho našel..."
 Hero-CH0-None-Hero-17013: "Hej, ty!"
-Hero-CH0-None-Hero-23599: 'Potřebuji klíč...'
+Hero-CH0-None-Hero-23599: 'Potřebuju ten klíč...'
 Hero-CH0-None-Hero-74456: 'Zamčeno...'
 Hero-CH0-None-Hero-78539: 'Ne...'
 Hero-CH0-None-Hero-83861: 'Nemůžu to použít...'
