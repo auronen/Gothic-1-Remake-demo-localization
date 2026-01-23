@@ -518,21 +518,10 @@ ItAt_Troll_02: Trolí tesák
 ItAt_Wolf_01: Vlčí kožešina
 ItAt_Wolf_02: 'Vlčí zub'
 ItMi_Inscription_Parchment: 'Pergamen.'
-ItMi_Smith_1H_Axe_01: "Please provide the Glossary table and the examples of use and
-  translation. I need that information to accurately translate \"Dull Axe\" according
-  to your instructions. \n\nWithout the glossary and examples, the most straightforward
-  translation would be:\n\n**Tupá sekera**\n\nHowever, this might not be the *correct*
-  translation based on your specific requirements. I need the additional context to
-  ensure accuracy."
+ItMi_Smith_1H_Axe_01: "Tupá sekera"
 ItMi_Smith_1H_Axe_02: 'Tupohlavý Sekáč'
 ItMi_Smith_1H_Axe_Hatchet_01: 'Tupá sekera'
-ItMi_Smith_1H_Axe_Old_01: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Dull Withered
-  Axe\" according to your instructions. \n\nWithout the glossary and examples, the
-  best I can offer is a general translation, which may not meet your requirements:\n\
-  \n**Tupá Zvadlá Sekera**\n\nHowever, this is likely *not* the correct translation
-  if specific terms are defined in your glossary. I'm waiting for you to provide the
-  necessary resources."
+ItMi_Smith_1H_Axe_Old_01: "Tupá rozpadlá sekera"
 ItMi_Smith_1H_Axe_Sickle_01: 'Tupý srp'
 ItMi_Smith_1H_Mace_01: '**Neleštěná palice**'
 ItMi_Smith_1H_Mace_02: 'Hrubý bodák s ostny'
