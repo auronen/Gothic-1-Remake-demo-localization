@@ -26,140 +26,88 @@ ReMi_Smith_1H_Axe_02: 'Tupý lebkoštěp'
 ReMi_Smith_1H_Axe_Hatchet_01: 'Tupá sekyrka'
 ReMi_Smith_1H_Axe_Old_01: 'Tupá rozpadlá sekera'
 ReMi_Smith_1H_Axe_Sickle_01: 'Tupý srp'
-ReMi_Smith_1H_Mace_01: '**Neleštěná palice**'
-ReMi_Smith_1H_Mace_02: 'Hrubý bodák s ostny'
-ReMi_Smith_1H_Mace_03: "Please provide the Glossary table and examples of use! I need
-  that information to accurately translate \"Unpolished Bloodfly Sting\" according
-  to your instructions. \n\nWithout the glossary and examples, I can only offer a
-  very general translation which might not be what you need:\n\n**Surový bodnutí krvežíra**\
-  \ \n\nHowever, this is likely *not* the correct translation without knowing the
-  specific terminology used in your context. I need the glossary to ensure accuracy."
-ReMi_Smith_1H_Mace_04: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Unpolished Steel
-  Tongue\" according to your instructions. \n\nWithout the glossary and examples,
-  a direct translation would be \"Nesleštěný ocelový jazyk\", but that might not be
-  the *correct* translation based on your specific requirements."
-ReMi_Smith_1H_Mace_Light_01: 'Hrubý Klub (Lehká Palice)'
-ReMi_Smith_1H_Mace_Sledgehammer_01: '**Kladivo Smitha – neopracované**'
-ReMi_Smith_1H_Mace_War_01: '"Nerafinovaný Kropáč"'
-ReMi_Smith_1H_Mace_War_02: 'Nepřeleštěný ocelový palcát.'
-ReMi_Smith_1H_Mace_War_03: 'Surový Drtič Kamení'
-ReMi_Smith_1H_Mace_Warhammer_02: 'Nelestěný válečný kladivo'
-ReMi_Smith_1H_Sword_01: 'Tupý hrubý meč'
-ReMi_Smith_1H_Sword_02: 'Tupý Sudící Meč'
-ReMi_Smith_1H_Sword_03: 'Meč tupého strážce'
+ReMi_Smith_1H_Mace_01: 'Hrubá palice'
+ReMi_Smith_1H_Mace_02: 'Hrubý ostnatý palcát'
+ReMi_Smith_1H_Mace_03: "Hrubé žihadlo krvavé mouchy"
+ReMi_Smith_1H_Mace_04: "Hrubý ocelový hrot"
+ReMi_Smith_1H_Mace_Light_01: 'Hrubý kyj'
+ReMi_Smith_1H_Mace_Sledgehammer_01: 'Hrubé kovářské kladivo'
+ReMi_Smith_1H_Mace_War_01: 'Hrubý kropáč'
+ReMi_Smith_1H_Mace_War_02: 'Hrubý ocelový palcát'
+ReMi_Smith_1H_Mace_War_03: 'Hrubý drtič kamene'
+ReMi_Smith_1H_Mace_Warhammer_02: 'Hrubé válečné kladivo'
+ReMi_Smith_1H_Sword_01: 'Tupý primitivní meč'
+ReMi_Smith_1H_Sword_02: 'Tupý meč rozsudku'
+ReMi_Smith_1H_Sword_03: 'Tupý meč strážce'
 ReMi_Smith_1H_Sword_04: 'Tupý bojový meč'
-ReMi_Smith_1H_Sword_Bastard_02: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Butcher\"\
-  \ according to your instructions. \n\nWithout that context, the most straightforward
-  translation would be:\n\n**Tupý řezník**\n\nHowever, depending on the glossary and
-  examples, a more nuanced or specific translation might be required."
-ReMi_Smith_1H_Sword_Broad_01: 'Tupý Širokoměč'
-ReMi_Smith_1H_Sword_Broad_02: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Warrior's
-  Verdict\" according to your instructions. \n\nWithout the glossary and examples,
-  a direct translation would be:\n\n\"Rozsudek Zmateného Válečníka\"\n\nHowever, this
-  might not be the *correct* translation based on your specific requirements. I need
-  the context from the glossary to ensure accuracy."
-ReMi_Smith_1H_Sword_Long_01: 'Matný dlouhý meč.'
-ReMi_Smith_1H_Sword_Scythe_01: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Cutter\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, the best
-  I can offer is a general translation, which may not meet your requirements:\n\n\
-  **Tupý řezák** \n\nHowever, this is likely *not* the correct translation if there
-  are specific terms defined in your glossary. I need the glossary to do this properly."
+ReMi_Smith_1H_Sword_Bastard_02: "Tupý meč řezník"
+ReMi_Smith_1H_Sword_Broad_01: 'Tupý široký meč'
+ReMi_Smith_1H_Sword_Broad_02: "Tupý válečníkův rozsudek"
+ReMi_Smith_1H_Sword_Long_01: 'Tupý dlouhý meč'
+ReMi_Smith_1H_Sword_Scythe_01: "Tupá kudla"
 ReMi_Smith_1H_Sword_Short_01: 'Tupý krátký meč'
-ReMi_Smith_1H_Sword_Short_02: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Farmer's
-  Defense\" according to your instructions. \n\nWithout the glossary and examples,
-  the best I can offer is a general translation, which may not meet your requirements:\n\
-  \n**Obrana tupého farmáře** \n\nHowever, this is likely *not* the correct translation
-  if specific terms are defined in your glossary. I need the glossary to do this properly."
-ReMi_Smith_1H_Sword_Short_03: 'Zubaté Kousnutí Potměšilého Číhajícího'
-ReMi_Smith_1H_Sword_Short_04: 'Tupý trn ran.'
-ReMi_Smith_1H_Sword_Short_05: 'Kopáčova poslušnost.'
-ReMi_Smith_2H_Axe_Heavy_02: 'Tichý hlas válečníka.'
-ReMi_Smith_2H_Axe_Light_01: 'Tupá Světelná Bojová Sekera'
-ReMi_Smith_2H_Axe_Light_02: 'Tichý Hromobití'
-ReMi_Smith_2H_Axe_Old_02: 'Ponurý Žnec krve'
-ReMi_Smith_2H_Axe_Pickaxe: 'Tupá Krumpáč'
-ReMi_Smith_2H_Sword_01: 'Nudná hra pro dva herce.'
-ReMi_Smith_2H_Sword_Heavy_01: 'Matný těžký obouručák.'
-ReMi_Smith_2H_Sword_Light_01: 'Lehký obouruční meč.'
-ReMi_Smith_2H_Sword_Light_02: 'Ochranářova Zrezivělá Čepel'
-ReMi_Smith_2H_Sword_Light_03: 'Ošumělý Meč Nájemníka'
-ReMi_Smith_Blade_Arming: 'Zbrojící čepel'
-ReMi_Smith_Blade_Flamberge: 'Plamenitá čepel'
+ReMi_Smith_1H_Sword_Short_02: "Tupá farmářova obrana"
+ReMi_Smith_1H_Sword_Short_03: 'Tupé číhavčí kousnutí'
+ReMi_Smith_1H_Sword_Short_04: 'Tupé zraňující trny'
+ReMi_Smith_1H_Sword_Short_05: 'Tupá kopáčova poslušnost'
+ReMi_Smith_2H_Axe_Heavy_02: 'Tupý hlas válečníka'
+ReMi_Smith_2H_Axe_Light_01: 'Tupá lehká bojová sekera'
+ReMi_Smith_2H_Axe_Light_02: 'Tupý úder blesku'
+ReMi_Smith_2H_Axe_Old_02: 'Tupý sběrač krve'
+ReMi_Smith_2H_Axe_Pickaxe: 'Tupý krumpáč'
+ReMi_Smith_2H_Sword_01: 'Tupý obouručák'
+ReMi_Smith_2H_Sword_Heavy_01: 'Tupý těžký obouručák'
+ReMi_Smith_2H_Sword_Light_01: 'Lehký obouruční meč'
+ReMi_Smith_2H_Sword_Light_02: 'Tupá šavle správce'
+ReMi_Smith_2H_Sword_Light_03: 'Tupá šavle žoldáka'
+ReMi_Smith_Blade_Arming: 'Jednoruční meč'
+ReMi_Smith_Blade_Flamberge: 'Flamberg'
 ReMi_Smith_Blade_Great: '"Výstřední čepel"'
-ReMi_Smith_Blade_Long: 'Dlouhý meč'
+ReMi_Smith_Blade_Long: 'Dlouhá čepel'
 ReMi_Smith_Blade_Short: 'Krátká čepel'
 ReMi_Smith_Blade_Sickle: 'Srpová čepel'
 ReMi_Smith_Blade_Singleedge: 'Jednoostrá čepel'
 ReMi_Smith_Head_Battleaxe: 'Hlava bojové sekery'
 ReMi_Smith_Head_Broadaxe: 'Sekera s širokým ostřím'
-ReMi_Smith_Head_Club: "Please provide the Glossary table and the examples of use and
-  translation. I need that information to accurately translate \"Club Head\" according
-  to your instructions. \n\nWithout the glossary and examples, the best I can offer
-  is a general translation, which might not meet your requirements:\n\n**Hlava hole**\
-  \ \n\nHowever, this is likely *not* the correct translation without the context
-  provided by the glossary and examples. I need the additional information to ensure
-  accuracy and consistency."
+ReMi_Smith_Head_Club: "Hlava palcátu"
 ReMi_Smith_Head_Fledged: "Please provide the Glossary table and the examples of use
   and translation. I need that information to accurately translate \"Fledged Head\"\
   \ according to your instructions. \n\nWithout the glossary and examples, a direct
   translation would be something like \"Plnoopeřená hlava\" or \"Zkušená hlava\",
   but that might not be the correct translation based on the specific context you
   intend."
-ReMi_Smith_Head_Greatbattleaxe: "Velká sekera (hlava) \n\n**(Assuming \"Battle Axe
-  Head\" refers to the head of a battle axe. The \"(hlava)\" in parentheses clarifies
-  this, as \"sekera\" alone means axe. If a glossary was provided with a specific
-  translation for \"Battle Axe Head\", that would take precedence.)**"
+ReMi_Smith_Head_Greatbattleaxe: "Hlava velké sekery"
 ReMi_Smith_Head_Hammer: 'Kladivo'
-ReMi_Smith_Head_Morningstar: "Ranní hvězda (hlava) \n\n**(Assuming \"Morningstar\"\
-  \ refers to the astronomical object and \"Head\" refers to a person's head, like
-  in a portrait or sculpture. If context suggests otherwise, the translation would
-  need adjustment.)**"
+ReMi_Smith_Head_Morningstar: "Hlava kropáče"
 ReMi_Smith_Head_Pickaxe: 'Hlava krumpáče'
-ReMi_Smith_Head_Poleaxe: 'Hlava kopíje'
-ReMi_Smith_Head_Scythe: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Scythe Head\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, the best
-  I can offer is a general translation, which may not meet your requirements:\n\n\
-  **Srpová hlava** \n\nHowever, this is likely *not* the correct translation without
-  knowing the context and any specific terminology you want me to use. I need the
-  glossary to ensure accuracy."
-ReMi_Smith_Head_Warhammer: "Please provide the Glossary table and the examples of
-  use and translation. I need that information to accurately translate \"Warhammer
-  Head\" according to your instructions. \n\nWithout the glossary and examples, the
-  best I can offer is a general translation, which might not be what you're looking
-  for:\n\n**Hlava Warhammera** \n\nHowever, this is likely *not* the correct translation
-  if there are specific terms defined in your glossary. I need the glossary to ensure
-  accuracy and consistency."
+ReMi_Smith_Head_Poleaxe: 'Hlava halapartny'
+ReMi_Smith_Head_Scythe: "Ostří kosy"
+ReMi_Smith_Head_Warhammer: "Hlava válečného kladiva"
 ReMw_1H_Axe_Sickle_01: 'Srp'
 ReMw_1H_Axe_Hatchet_01: 'Sekyra'
 ReMw_1H_Axe_Old_01: 'Rozpadlá sekera'
-ReMw_1H_Axe_01: 'Sekera.'
-ReMw_1H_Axe_02: 'Lebkoklec'
-ReMw_2H_Axe_Pickaxe: 'Kladivo s nabodnutým hrotem / Krumpáč'
+ReMw_1H_Axe_01: 'Sekera'
+ReMw_1H_Axe_02: 'Lebkoštěp'
+ReMw_2H_Axe_Pickaxe: 'Krumpáč'
 ReMw_2H_Axe_Old_02: 'Sběrač krve'
 ReMw_2H_Axe_Light_01: 'Lehká bojová sekera'
 ReMw_2H_Axe_Light_02: 'Úder blesku'
 ReMw_2H_Axe_Heavy_02: 'Hlas válečníka'
-ReMw_1H_Mace_Light_01: 'Kyj (Lehká kyj)'
+ReMw_1H_Mace_Light_01: 'Kyj (Lehká palice)'
 ReMw_1H_Mace_Sledgehammer_01: 'Kovářské kladivo'
 ReMw_1H_Mace_01: 'Palcát'
 ReMw_1H_Mace_02: 'Ostnatý palcát'
 ReMw_1H_Mace_03: 'Žihadlo krvavé mouchy'
 ReMw_1H_Mace_04: 'Ocelový hrot'
-ReMw_1H_Mace_War_01: '"Ranní hvězda"'
+ReMw_1H_Mace_War_01: 'Korpáč'
 ReMw_1H_Mace_War_02: 'Ocelový palcát'
-ReMw_1H_Mace_War_03: 'Kamenný drcák'
+ReMw_1H_Mace_War_03: 'Drtič kamene'
 ReMw_1H_Mace_Warhammer_02: 'Válečné kladivo'
 ReMw_1H_Sword_Short_02: 'Farmářova obrana'
 ReMw_1H_Sword_Scythe_01: 'Kudla'
-ReMw_1H_Sword_Short_03: '"Číhavčí kousnutí"'
+ReMw_1H_Sword_Short_03: 'Číhavčí kousnutí'
 ReMw_1H_Sword_Short_04: 'Zraňující trny'
-ReMw_1H_Sword_01: '"Primitivní meč"'
+ReMw_1H_Sword_01: 'Primitivní meč'
 ReMw_1H_Sword_Short_05: 'Kopáčova poslušnost'
 ReMw_1H_Sword_02: 'Meč rozsudku'
 ReMw_1H_Sword_03: 'Meč stráže'
@@ -173,16 +121,16 @@ ReMw_2H_Sword_Light_02: 'Šavle správce'
 ReMw_2H_Sword_Light_03: 'Šavle žoldáka'
 ReMw_2H_Sword_01: 'Obouručák'
 ReMw_2H_Sword_Heavy_01: 'Těžký obouruční meč'
-ReAr_Scroll_Charm: '"Svitek ''Šarm''"'
+ReAr_Scroll_Charm: 'Svitek ''Šarm'''
 ReAr_Scroll_Control: 'Svitek ''Ovládnutí'''
-ReAr_Scroll_Transformbiter: 'Svitek ''Proměna v Kousavce'''
+ReAr_Scroll_Transformbiter: 'Svitek ''Proměna v kousavce'''
 ReAr_Scroll_Transformbloodfly: 'Svitek ''Proměna v krvavou mouchu'''
 ReAr_Scroll_Transformbloodhound: 'Svitek ''Proměna v loveckého psa'''
-ReAr_Scroll_Transformfirelizard: '"Svitek ''Proměna v Ohnivého Plaza''"'
+ReAr_Scroll_Transformfirelizard: 'Svitek ''Proměna v ohnivou ještěrku'''
 ReAr_Scroll_Transformharpy: 'Svitek ''Proměna v Harpyji'''
 ReAr_Scroll_Transformlizard: 'Svitek ''Proměna v ještěrku'''
-ReAr_Scroll_Transformlurker: 'Kouzelný svitek "Proměna v číhavce"'
-ReAr_Scroll_Transformmeatbug: 'Kouzelný svitek "Proměna ve žravou štěnici"'
+ReAr_Scroll_Transformlurker: 'Svitek "Proměna v číhavce"'
+ReAr_Scroll_Transformmeatbug: 'Svitek "Proměna ve žravou štěnici"'
 ReAr_Scroll_Transformminecrawler: 'Svitek ''Proměna v důlního červa'''
 ReAr_Scroll_Transformmolerat: 'Svitek ''Proměna v krysokrta'''
 ReAr_Scroll_Transformorcdog: 'Kouzelný svitek "Proměna ve skřetího psa"'
