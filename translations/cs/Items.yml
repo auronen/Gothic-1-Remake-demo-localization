@@ -66,16 +66,11 @@ ReMi_Smith_Blade_Great: '"Výstřední čepel"'
 ReMi_Smith_Blade_Long: 'Dlouhá čepel'
 ReMi_Smith_Blade_Short: 'Krátká čepel'
 ReMi_Smith_Blade_Sickle: 'Srpová čepel'
-ReMi_Smith_Blade_Singleedge: 'Jednoostrá čepel'
+ReMi_Smith_Blade_Singleedge: 'Šavle'
 ReMi_Smith_Head_Battleaxe: 'Hlava bojové sekery'
 ReMi_Smith_Head_Broadaxe: 'Sekera s širokým ostřím'
 ReMi_Smith_Head_Club: "Hlava palcátu"
-ReMi_Smith_Head_Fledged: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Fledged Head\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, a direct
-  translation would be something like \"Plnoopeřená hlava\" or \"Zkušená hlava\",
-  but that might not be the correct translation based on the specific context you
-  intend."
+ReMi_Smith_Head_Fledged: "Hrot"
 ReMi_Smith_Head_Greatbattleaxe: "Hlava velké sekery"
 ReMi_Smith_Head_Hammer: 'Kladivo'
 ReMi_Smith_Head_Morningstar: "Hlava kropáče"
@@ -133,20 +128,20 @@ ReAr_Scroll_Transformlurker: 'Svitek "Proměna v číhavce"'
 ReAr_Scroll_Transformmeatbug: 'Svitek "Proměna ve žravou štěnici"'
 ReAr_Scroll_Transformminecrawler: 'Svitek ''Proměna v důlního červa'''
 ReAr_Scroll_Transformmolerat: 'Svitek ''Proměna v krysokrta'''
-ReAr_Scroll_Transformorcdog: 'Kouzelný svitek "Proměna ve skřetího psa"'
-ReAr_Scroll_Transformrazor: 'Svitek ''Proměna v Břitvu'''
-ReAr_Scroll_Transformscavenger: 'Kouzelný svitek ''Proměna v mrchožrouta'''
-ReAr_Scroll_Transformshadowbeast: 'Kouzelný svitek ''Proměna ve stínovou šelmu'''
-ReAr_Scroll_Transformsnapper: 'Kouzelný svitek ''Proměna v chňapavce'''
+ReAr_Scroll_Transformorcdog: 'Svitek "Proměna ve skřetího psa"'
+ReAr_Scroll_Transformrazor: 'Svitek ''Proměna v břitvu'''
+ReAr_Scroll_Transformscavenger: 'Svitek ''Proměna v mrchožrouta'''
+ReAr_Scroll_Transformshadowbeast: 'Svitek ''Proměna ve stínovou šelmu'''
+ReAr_Scroll_Transformsnapper: 'Svitek ''Proměna v chňapavce'''
 ReAr_Scroll_Transformswampshark: 'Svitek ''Proměna v močálového žraloka'''
 ReAr_Scroll_Transformwolf: 'Zbroj'
 Item_Weapon_Rune: 'Runa'
-Item_Weapon_Scroll: 'Svitky'
+Item_Weapon_Scroll: 'Svitek'
 Item_Amulet: 'Amulet'
 Item_Food: 'Jídlo'
-Item_Potion: 'Pití.'
-Item_Herb: 'Bylina.'
-Item_Drug: 'Lék.'
+Item_Potion: 'Pití'
+Item_Herb: 'Rostlina'
+Item_Drug: 'Lék'
 Item_Key: 'Klíč'
 Item_Trophy: 'Trofej'
 Item_Material: 'Materiál'
@@ -154,48 +149,44 @@ Item_Ore: 'Ruda'
 Item_Junk: "Odpad"
 Item_Ammo: 'Střelivo'
 Item_Quest: 'Předmět úkolu'
-Item_Lockpick: '"Paklíč"'
+Item_Lockpick: 'Paklíč'
 Item_Instrument: 'Nástroj'
-Item_Weapon_Bow: 'LUK'
+Item_Weapon_Bow: 'Luk'
 Item_Weapon_Crossbow: 'Kuše'
-Item_Ring: 'Prsten.'
+Item_Ring: 'Prsten'
 Item_Weapon_Axe_OneHand: 'Jednoruční sekyra'
 Item_Weapon_Mace_OneHand: 'Jednoruční palcát'
 Item_Weapon_Sword_OneHand: 'Jednoruční meč'
 Item_Weapon_Torch_OneHand: 'Pochodeň'
 Item_Weapon_Axe_TwoHand: 'Obouruční sekera'
-Item_Weapon_Mace_TwoHand: 'Dvojruční palcát'
+Item_Weapon_Mace_TwoHand: 'Obouruční palcát'
 Item_Weapon_Staff_TwoHand: 'Hůl'
 Item_Weapon_Sword_TwoHand: 'Obouruční meč'
-Item_Writing: "Please provide the Glossary table and the examples of use and translation.
-  I need that information to accurately translate the text \"Writing\" according to
-  your instructions. \n\nWithout the glossary and examples, the most straightforward
-  translation would be:\n\n**Psaní**\n\nHowever, depending on the context (e.g., creative
-  writing, technical writing, handwriting, etc.), a more nuanced translation might
-  be appropriate, and the glossary would help me determine that."
-Item_Weapon_Fist: 'Pěstě.'
+Item_Writing: "Rukopis"
+Item_Weapon_Fist: 'Pěsti'
 ItAt_Meatbug_01_description: "Maso žravých štěnic. Vařené je docela chutné, syrové
   už tak moc ne."
 ItFo_Apple_description: "Tato jablka symbolizují obchodní monopol Starého tábora."
 ItFo_Cheese_description: "Martanský sýr, vyhrazený pro elitu Starého tábora. Jeho
   pronikavá vůně se nese hradem."
-ItFo_Grilledscavenger_description: 'Delikátně grilované maso z lovu.'
+ItFo_Grilledscavenger_description: 'Maso mrchožrouta, delikátně grilované, dovedené
+  k dokonalosti.'
 ItFo_Loaf_description: "Základní potravina Kolonie, jeho stálý přísun udržuje plné
   břicho a potlačuje nepokoje."
-ItFo_Meatbugragout_description: 'Speciální pochoutka ze Starého tábora, vzniklá z
-  nutnosti – chutné ragú z pekelných hub a masa žravé štěnice.'
+ItFo_Meatbugragout_description: 'Specialita ze Starého tábora, vzešlá z nutnosti –
+  chutné ragú z pekelných hub a masa žravých štěnic.'
 ItFo_Mutton_01_description: "Jemně osmažené, naplní žaludek a zahřeje duši."
 ItFo_Mutton_02_description: "Uzené a chutné, masná pochoutka."
 ItFo_Muttonraw_description: "Čerstvě ulovené, čeká na oheň."
 ItFo_Pear_description: "Sladké ovoce zpoza Bariéry, chuť domova."
-ItFo_Potato_description: 'Základní jídlo ve všech táborech, tyto hlízy udržují pracovní
-  sílu kolonie silnou.'
+ItFo_Potato_description: 'Základní jídlo ve všech táborech, tyto hlízy udržují obyvatele
+  Kolonie při síle.'
 ItFo_Potion_Beer_description: "Importované Myrtanské pivo, luxusní zboží Starého tábora,
   které pohání vyjednávání a obchod v celé Kolonii."
 ItFo_Potion_Booze_description: "Pýcha Nového tábora, destilovaná z rýže. Tento silný
   destilát slouží jako měna a společenské mazivo, podtrhuje vynalézavost tábora."
-ItFo_Potion_Strongbeer_description: 'Silný nápoj oblíbený mezi vrchními důlními dozorci.
-  Jeho vysoký obsah alkoholu zvyšuje krátkodobou produktivitu, navzdory rizikům dlouhodobého
+ItFo_Potion_Strongbeer_description: 'Silný nápoj oblíbený mezi strážci dolu. Jeho
+  vysoký obsah alkoholu zvyšuje krátkodobou produktivitu, navzdory rizikům dlouhodobého
   užívání.'
 ItFo_Potion_Water_01_description: "I když je jí hodně, kontrola nad zdroji čisté vody
   je klíčem k moci v Kolonii."
@@ -204,22 +195,22 @@ ItFo_Potion_Wine_description: "Symbol spojení Starého tábora s vnějším sv�
 ItFo_Rice_description: "Základ nezávislosti Nového tábora, pěstovaný na pečlivě střežených
   rýžových polích. Její nadbytek pohání jejich obchod a formuje vztahy s ostatními
   tábory."
-ItFo_Whitemeat_description: 'Jemné maso pro mrchožrouty, čekající plameny.'
+ItFo_Whitemeat_description: 'Jemné maso mrchožrouta, už čeká jen na plameny.'
 ItFo_Plants_Berrys_01_description: "Divoké borůvky, které rostou v méně zkrocených
   oblastech Kolonie. Jejich sběr často znamená riskování života a zdraví."
 ItFo_Plants_Bloodwood_01_description: 'Odolná rostlina s charakteristickými hnědými
-  lusky. Cení se pro své léčivé vlastnosti v drsném prostředí kolonie.'
+  lusky. Ceněná pro své léčivé vlastnosti v drsném prostředí Kolonie.'
 ItFo_Plants_Mushroom_01_description: 'Běžná houba v Hornickém údolí. Pozná se podle
-  bílé čepičky.'
-ItFo_Plants_Orcherb_01_description: 'Silná léčivá bylina z orčích území. Její získání
-  často vede k nebezpečným setkáním, a proto je vysoce ceněným zbožím pro koloniální
-  léčitele.'
+  bílého klobouku.'
+ItFo_Plants_Orcherb_01_description: 'Silná léčivá bylina ze skřetího území. Její získání
+  často vede k nebezpečným setkáním, a proto je vysoce ceněným zbožím pro léčitele
+  Kolonie.'
 ItFo_Plants_Seraphis_01_description: "Běžná rostlina, v Kolonii je zásadní pro zachování
   produktivity. Její regenerační účinky udržují vězně při zdravé."
-ItFo_Plants_Stoneroot_01_description: 'Tato odolná rostlina, zásadní pro obnovu magické
-  energie, je horlivě sbírána mágy kolonie.'
-ItAt_Claws_01_description: 'Ostré jako břitvy, vysoce ceněné koloniálními řemeslníky.
-  Jejich sběr je stejně nebezpečný jako výnosný.'
+ItFo_Plants_Stoneroot_01_description: 'Tato odolná rostlina, nezbytná pro obnovu magické
+  energie, je horlivě sbírána mágy Kolonie.'
+ItAt_Claws_01_description: 'Ostré jako břitvy, vysoce ceněné řemeslníky Kolonie. Jejich
+  sběr je stejně nebezpečný jako výnosný.'
 ItAm_Arrow_description: "Vyrobené uvnitř Bariéry, tyto šípy, munice pro luky, představují
   rozdíl mezi klackem a skutečnou zbraní."
 ItAm_Bolt_description: "Vyrobeno pro kuše strážců Starého tábora. Její svist často
@@ -236,31 +227,31 @@ ItMi_Orenugget_description: "Klíčová surovina Kolonie. Její jedinečné vlas
   království."
 ItMi_Stuff_Amphore_01_description: "Pozůstatek obchodu před založením Kolonie. Nyní
   nachází různé využití."
-ItMi_Stuff_Barbknife_01_description: 'Symbol civilizace v drsné kolonii. I když slouží
-  především k péči o zevnějšek, jeho ostří připomíná skryté nebezpečí násilí.'
+ItMi_Stuff_Barbknife_01_description: 'Symbol civilizace v drsné Kolonii. I když slouží
+  především k péči o zevnějšek, její ostří připomíná skryté nebezpečí násilí.'
 ItMi_Stuff_Brush_description: "Tyto kartáče jsou více než jen pomůcka k úklidu, jsou
   zásadní pro údržbu zbraní, brnění a zdraví v drsných podmínkách Kolonie."
 ItMi_Stuff_Cup_01_description: "Zažil mnoho přípitků. Často je to ta nejluxusnější
   věc z kopáčova majetku."
-ItMi_Stuff_Cup_02_description: 'Zdobený stříbrný kalich, pravděpodobně ukradený ze
-  zbytků myrtananské šlechty v kolonii.'
+ItMi_Stuff_Cup_02_description: 'Zdobený stříbrný kalich, pravděpodobně ukradený z
+  majetku myrtananské šlechty dříve sídlící v Kolonii.'
 ItMi_Stuff_Mug_01_description: "Tyto jednoduché nádoby používají v každém táboře a
   jsou zásadní pro distribuci vody."
 ItMi_Stuff_Pipe_01_description: "Ceněná útěcha v Kolonii, často užívaná s místními
   bylinkami."
 ItMi_Stuff_Plate_01_description: "Opotřebená kovová miska. Připomínka, že i vězni
   musí jíst."
-HumanFists_description: 'Pěstní souboje, poslední možnost zoufalých nebo zbraň volby
-  skutečně sebevědomých. Účinné, pokud víte, jak je používat.'
+HumanFists_description: 'Pěstní souboje, poslední možnost zoufalých nebo zbraň skutečně
+  sebevědomých. Účinné, pokud víte, jak je používat.'
 ItFo_Potion_Health_01_description: "Esence připravená z vzácných bylin. Její rychlé
   léčivé vlastnosti zachraňují nespočet životů, díky čemuž jsou zkušení alchymisté
   v Kolonii velmi ceněni."
 ItWr_Scroll_Jacko_01_description: 'Jacko, dostal jsem tvou zprávu. Nevěděl jsem, že
-  má Silas schovávku ve sklepě. Souhlasím, že bychom se mohli podělit, pokud ji náhodou
+  má Silas ve sklepě skrýš. Souhlasím, že bychom se mohli podělit, pokud ji náhodou
   najdu. Mám nějaké kontakty v hospodě a možná jsem právě objevil způsob, jak se do
   sklepa dostat.'
 ItMw_1H_Axe_Sickle_01_description: 'Symbol soběstačnosti Nového tábora, tento nástroj
-  slouží jako sklizeň i ochrana. Jeho zakřivená čepel ztělesňuje odhodlání tábora
+  slouží pro sklizeň i pro ochranu. Jeho zakřivená čepel ztělesňuje odhodlání tábora
   prosperovat.'
 ItMw_1H_Mace_03_description: "Brutální ostnatý kyj z kovu, vyrobený tak, aby napodobil
   smrtící žihadlo krvavých much z Kolonie. Upřednostňovaný zloději, jeho charakteristický
@@ -269,7 +260,7 @@ ItMw_1H_Mace_Club_01_description: "Kopáčův společník. Jeho hrubá účinnos
   brutální jednoduchost života v Kolonii."
 ItMw_1H_Sword_01_description: "Jednoduchý ocelový meč s mírně zakřivenou rukojetí.
   Standardní výbava pro nízko postavené strážce Starého tábora."
-ItMw_1H_Sword_02_description: 'Vyrytá čepel se zlatou záštitou. Symbol zkušených válečníků
+ItMw_1H_Sword_02_description: 'Rytá čepel se zlatou záštitou. Symbol zkušených válečníků
   ze Starého tábora.'
 ItMw_1H_Sword_04_description: "Kvalitní meč se zdobenou čepelí a ostnatou záštitou.
   Upřednostňovaný zručnými bojovníky pro jeho všestrannost."
@@ -294,7 +285,7 @@ ItRw_Crossbow_01_description: "Lehká dřevěná kuše s kovovým zesílením. O
 ItMw_2H_Axe_Pickaxe_description: "Nejdůležitější nástroj Kolonie, krumpáče těží magickou
   rudu, která pohání politiku tábora. Ve zkušených rukou je to i dobrá zbraň."
 ItWr_Scroll_Mysteriousnote_description: 'Záhadný obrázek neznámého účelu, pravděpodobně
-  nakreslený Jorikem.'
+  ho nakreslil Jorik.'
 ItAt_Amulet_Brotherhood: Znak Bratrstva
 ItAt_Amulet_Dexterity_01: Amulet čilosti
 ItAt_Amulet_Dexterity_02: Amulet obratnosti
@@ -345,7 +336,7 @@ ItFo_Cabbage: 'Zelí'
 ItFo_Carrot: 'Mrkev'
 ItFo_Cheese: Sýr
 ItFo_Crawlersoup: Polévka z důlních červů
-ItFo_Grilledscavenger: 'Grilované maso z mrchožroutů'
+ItFo_Grilledscavenger: 'Grilované maso mrchožrouta'
 ItFo_Lemon: 'Citron'
 ItFo_Loaf: Chléb
 ItFo_Meatbugragout: Ragú ze žravých štěnic
@@ -364,7 +355,7 @@ ItFo_Potion_Wine: Víno
 ItFo_Rice: Rýže
 ItFo_Sausage: 'Klobása'
 ItFo_Soup: Polévka z kořínků
-ItFo_Whitemeat: 'Surové bílé maso'
+ItFo_Whitemeat: 'Syrové bílé maso'
 ItFo_Wineberrys_01: Hrozny
 ItFo_Plants_Berrys_01: Borůvky
 ItFo_Plants_Bloodwood_01: Semeno krvavého buku
@@ -405,235 +396,148 @@ ItKe_Grey: 'Klíč (Šedý)'
 ItKe_Kalom_01: Klíč od alchymistické dílny
 ItKe_Om_02: Klíč od truhlice
 ItKe_Om_03: Klíč od truhlice
-ItKe_OrcGraveyard: 'Klíč k Orčímu hřbitovu'
-ItKe_OrcGraveyardPiece_01: 'Klíčová součást orčího hrobu'
-ItKe_OrcGraveyardPiece_02: 'Klíčový předmět Skřetího hřbitova'
+ItKe_OrcGraveyard: 'Klíč ke skřetímu hřbitovu'
+ItKe_OrcGraveyardPiece_01: 'Část klíče ke skřetímu hřbitovu'
+ItKe_OrcGraveyardPiece_02: 'Část klíče ke skřetímu hřbitovu'
 ItKe_Ricelord_01: Klíč Rýžového lorda
 ItKe_Smith_01: Železný klíč
 ItKe_Storage_01: Klíč od skladu
 ItKe_Sunkentower: Klíč
 ItKe_White: 'Klíč (Bílý)'
-ItAt_Biter_01: 'Dráp Biterův'
-ItAt_Biter_02: 'Hadí zub'
-ItAt_Biter_03: 'Kůže Biterova'
+ItAt_Biter_01: 'Dráp kousavce'
+ItAt_Biter_02: 'Zub kousavce'
+ItAt_Biter_03: 'Kůže kousavce'
 ItAt_Bloodfly_01: Křídla
 ItAt_Bloodfly_02: Žihadlo krvavé mouchy
-ItAt_Bloodfly_03: 'Vak jedu krvavé mouchy.'
-ItAt_Bloodhound_01: '"Zuby barváře"'
-ItAt_Bloodhound_02: 'Kůže bloodhunda'
+ItAt_Bloodfly_03: 'Jedový váček krvavé mouchy'
+ItAt_Bloodhound_01: 'Zuby loveckého psa'
+ItAt_Bloodhound_02: 'Kůže loveckého psa'
 ItAt_Claws_01: Drápy
 ItAt_Crawler_01: Kusadla důlního červa
 ItAt_Crawler_02: Krunýř válečníka důlních červů
 ItAt_Crawlerqueen: Vajíčko důlního červa
 ItAt_Damlurker_01: Drápy číhavce z hráze
 ItAt_Firegolem_01: Srdce ohnivého golema
-ItAt_Firegolem_02: 'Jádro z obsidiánu'
+ItAt_Firegolem_02: 'Obsidiánové jádro'
 ItAt_Firelizard_01: Ohnivý jazyk
-ItAt_Firelizard_02: 'Jedová žláza'
-ItAt_Firelizard_03: 'Ohnivá hřebenová ploutev'
-ItAt_Firelizard_04: '"Kůže ohnivé ještěrky"'
-ItAt_Harpy_01: '"Pírko harpyje"'
-ItAt_Harpy_02: 'Dráp harpyje.'
+ItAt_Firelizard_02: 'Ohnivá žláza'
+ItAt_Firelizard_03: 'Hřbetní plachta ohnivé ještěrky'
+ItAt_Firelizard_04: 'Kůže ohnivé ještěrky'
+ItAt_Harpy_01: 'Pero harpyje'
+ItAt_Harpy_02: 'Pařát harpyje'
 ItAt_Icegolem_01: Srdce ledového golema
 ItAt_Icegolem_02: Úlomek ledového golema
-ItAt_Lizard_01: 'Ještěří dráp'
-ItAt_Lizard_02: 'Ještěří kůže'
-ItAt_Lizard_03: 'Kostní štít'
+ItAt_Lizard_01: 'Dráp ještěrky'
+ItAt_Lizard_02: 'Kůže ještěrky'
+ItAt_Lizard_03: 'Kostěný štít'
 ItAt_Lurker_01: Drápy číhavce
 ItAt_Lurker_02: Kůže číhavce
-ItAt_Lurker_03: 'Žábřík číhajícího.'
-ItAt_Minecrawlerqueen_01: 'Královská pachová žláza'
-ItAt_Orcdog_01: 'Skřetí tesák'
+ItAt_Lurker_03: 'Žábry číhavce'
+ItAt_Minecrawlerqueen_01: 'Pachová žláza královny důlních červů'
+ItAt_Orcdog_01: 'Tesák skřetího psa'
 ItAt_Orcdog_02: Kožešina skřetího psa
-ItAt_Razor_01: 'Dráp ostříže'
-ItAt_Razor_02: 'Břitvová kožní deska'
-ItAt_Scavenger_01: 'Supí zuby'
-ItAt_Scavenger_02: 'Léčkařská lební deska'
+ItAt_Razor_01: 'Dráp břitvy'
+ItAt_Razor_02: 'Kostice břitvy'
+ItAt_Scavenger_01: 'Zuby mrchožrouta'
+ItAt_Scavenger_02: 'Lebeční deska mrchožrouta'
 ItAt_Shadow_01: Kožešina stínové šelmy
 ItAt_Shadow_02: Roh stínové šelmy
-ItAt_Shadow_03: 'Tesák Stínové šelmy'
-ItAt_Shadow_04: '"Páteř Stínové šelmy"'
-ItAt_Snapper_01: 'Chňapavčí dráp'
+ItAt_Shadow_03: 'Tesák stínové šelmy'
+ItAt_Shadow_04: 'Páteř stínové šelmy'
+ItAt_Snapper_01: 'Dráp chňapavce'
 ItAt_Snapper_02: 'Zuby chňapavce'
 ItAt_Stonegolem_01: Srdce kamenného golema
 ItAt_Stonegolem_02: 'Kořen s rudou žilkou'
 ItAt_Swampshark_01: Kůže močálového žraloka
 ItAt_Swampshark_02: Zuby močálového žraloka
-ItAt_Swampshark_03: 'Pancíř bažinožraly'
+ItAt_Swampshark_03: 'Pancíř močálového žraloka'
 ItAt_Teeth_01: Zuby
 ItAt_Troll_01: Trolí kožešina
 ItAt_Troll_02: Trolí tesák
 ItAt_Wolf_01: Vlčí kožešina
 ItAt_Wolf_02: 'Vlčí zub'
-ItMi_Inscription_Parchment: 'Pergamen.'
+ItMi_Inscription_Parchment: 'Pergamen'
 ItMi_Smith_1H_Axe_01: "Tupá sekera"
-ItMi_Smith_1H_Axe_02: 'Tupohlavý Sekáč'
+ItMi_Smith_1H_Axe_02: 'Tupý lebkoštěp'
 ItMi_Smith_1H_Axe_Hatchet_01: 'Tupá sekera'
 ItMi_Smith_1H_Axe_Old_01: "Tupá rozpadlá sekera"
 ItMi_Smith_1H_Axe_Sickle_01: 'Tupý srp'
-ItMi_Smith_1H_Mace_01: '**Neleštěná palice**'
-ItMi_Smith_1H_Mace_02: 'Hrubý bodák s ostny'
-ItMi_Smith_1H_Mace_03: 'Neleštěný bodnutí krvavé mouchy.'
-ItMi_Smith_1H_Mace_04: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Unpolished Steel
-  Tongue\" according to your instructions. \n\nWithout the glossary and examples,
-  a direct translation would be \"Nesleštěný ocelový jazyk\", but that might not be
-  the desired translation based on context or specific terminology."
-ItMi_Smith_1H_Mace_Light_01: 'Hrubý Klub (Lehká Palice)'
-ItMi_Smith_1H_Mace_Sledgehammer_01: 'Surové kovářské kladivo.'
-ItMi_Smith_1H_Mace_War_01: "Please provide the Glossary table and examples of use
-  and translation. I need that information to accurately translate \"Unpolished Morning
-  Star\" according to your instructions. \n\nWithout the glossary and examples, the
-  best I can offer is a general translation, which might not meet your requirements:\n\
-  \n**Nelesklá Jitřní Hvězda** \n\nHowever, this is just a suggestion and could be
-  incorrect if specific terms have established translations in your glossary."
-ItMi_Smith_1H_Mace_War_02: 'Nelesštěná ocelová palcát.'
-ItMi_Smith_1H_Mace_War_03: 'Surový drcení kámen'
-ItMi_Smith_1H_Mace_Warhammer_02: 'Nelestěný válečný kladivo'
-ItMi_Smith_1H_Sword_01: 'Tupý hrubý meč'
-ItMi_Smith_1H_Sword_02: 'Tupý Sudící Meč'
-ItMi_Smith_1H_Sword_03: 'Meč tupého strážce'
+ItMi_Smith_1H_Mace_01: 'Hrubá palice'
+ItMi_Smith_1H_Mace_02: 'Hrubý ostnatý palcát'
+ItMi_Smith_1H_Mace_03: 'Hrubé žihadlo krvavé mouchy'
+ItMi_Smith_1H_Mace_04: "Hrubý ocelový hrot"
+ItMi_Smith_1H_Mace_Light_01: 'Hrubý kyj (Lehká Palice)'
+ItMi_Smith_1H_Mace_Sledgehammer_01: 'Hrubé kovářské kladivo'
+ItMi_Smith_1H_Mace_War_01: "Hrubý kropáč"
+ItMi_Smith_1H_Mace_War_02: 'Hrubý ocelový palcát'
+ItMi_Smith_1H_Mace_War_03: 'Hrubý drtič kamene'
+ItMi_Smith_1H_Mace_Warhammer_02: 'Hrubé válečné kladivo'
+ItMi_Smith_1H_Sword_01: 'Tupý primitivní meč'
+ItMi_Smith_1H_Sword_02: 'Tupý meč rozsudku'
+ItMi_Smith_1H_Sword_03: 'Tupý meč strážce'
 ItMi_Smith_1H_Sword_04: 'Tupý bojový meč'
-ItMi_Smith_1H_Sword_Bastard_02: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Butcher\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, the best
-  I can offer is a general translation, which might not meet your requirements:\n\n\
-  **Tupý řezník** \n\nHowever, this is just a basic translation. The glossary and
-  examples are crucial for a precise and consistent rendering."
-ItMi_Smith_1H_Sword_Broad_01: 'Tupejší Široký meč'
-ItMi_Smith_1H_Sword_Broad_02: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Warrior's
-  Verdict\" according to your instructions. \n\nWithout the glossary and examples,
-  a direct translation would be:\n\n**\"Rozsudek Zmateného Válečníka\"**\n\nHowever,
-  this might not be the *correct* translation based on your specific requirements.
-  I need the context from the glossary to ensure accuracy."
+ItMi_Smith_1H_Sword_Bastard_02: "Tupý meč řezník"
+ItMi_Smith_1H_Sword_Broad_01: 'Tupý široký meč'
+ItMi_Smith_1H_Sword_Broad_02: "Tupý válečníkův rozsudek"
 ItMi_Smith_1H_Sword_Long_01: 'Tupý dlouhý meč'
-ItMi_Smith_1H_Sword_Scythe_01: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Cutter\"\
-  \ according to your instructions. \n\nWithout those, I can only offer a very general
-  translation, which might not be what you're looking for:\n\n**Tupý řezák** \n\n\
-  However, this is likely *not* the correct translation without the glossary and examples.
-  I need the additional context to ensure accuracy."
-ItMi_Smith_1H_Sword_Short_01: 'Matný krátký meč.'
-ItMi_Smith_1H_Sword_Short_02: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Farmer's
-  Defense\" according to your instructions. \n\nWithout the glossary and examples,
-  a straightforward translation would be:\n\n**Obrana Nudného Zemědělce**\n\nHowever,
-  this might not be the *correct* translation based on specific terminology you've
-  already established. I need the context from the glossary to ensure accuracy."
-ItMi_Smith_1H_Sword_Short_03: 'Zubatý Stínův Zápas'
-ItMi_Smith_1H_Sword_Short_04: 'Ošklivý trn ran.'
-ItMi_Smith_1H_Sword_Short_05: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Dull Digger's
-  Discipline\" according to your instructions. \n\nWithout the glossary and examples,
-  I can only offer a very general translation which might not meet your requirements:\n\
-  \n**Disciplina líného kopáče** \n\nHowever, this is likely *not* the correct translation
-  without the specific terminology you want me to use. I need the glossary to ensure
-  accuracy and consistency."
-ItMi_Smith_2H_Axe_Heavy_02: 'Tichý hlas válečníka.'
-ItMi_Smith_2H_Axe_Light_01: 'Tupá bojová sekera'
-ItMi_Smith_2H_Axe_Light_02: 'Tichý Hromobití'
-ItMi_Smith_2H_Axe_Old_02: 'Tupý Žnec krve'
-ItMi_Smith_2H_Axe_Pickaxe: 'Tupá Krumpáč'
-ItMi_Smith_2H_Sword_01: 'Nudná hra pro dva herce.'
-ItMi_Smith_2H_Sword_Heavy_01: 'Těžký dvouruční meč.'
-ItMi_Smith_2H_Sword_Light_01: 'Lehký obouruční meč.'
-ItMi_Smith_2H_Sword_Light_02: 'Ochablá Čepeľ Strážce.'
-ItMi_Smith_2H_Sword_Light_03: 'Oťupený meč žoldnéra'
-ItMi_Smith_Blade_Arming: 'Zbrojící čepel'
-ItMi_Smith_Blade_Flamberge: 'Plamenový meč'
-ItMi_Smith_Blade_Great: '"Velká čepel"'
-ItMi_Smith_Blade_Long: 'Dlouhý meč'
-ItMi_Smith_Blade_Short: 'Krátký meč'
+ItMi_Smith_1H_Sword_Scythe_01: "Tupá kudla"
+ItMi_Smith_1H_Sword_Short_01: 'Tupý krátký meč'
+ItMi_Smith_1H_Sword_Short_02: "Tupá farmářova obrana"
+ItMi_Smith_1H_Sword_Short_03: 'Tupé číhavčí kousnutí'
+ItMi_Smith_1H_Sword_Short_04: 'Tupé zraňující trny'
+ItMi_Smith_1H_Sword_Short_05: "Tupá kopáčova poslušnost"
+ItMi_Smith_2H_Axe_Heavy_02: 'Tupý hlas válečníka'
+ItMi_Smith_2H_Axe_Light_01: 'Tupá lehká bojová sekera'
+ItMi_Smith_2H_Axe_Light_02: 'Tupý úder blesku'
+ItMi_Smith_2H_Axe_Old_02: 'Tupý sběrač krve'
+ItMi_Smith_2H_Axe_Pickaxe: 'Tupý krumpáč'
+ItMi_Smith_2H_Sword_01: 'Tupý obouručák'
+ItMi_Smith_2H_Sword_Heavy_01: 'Těžký obouruční meč'
+ItMi_Smith_2H_Sword_Light_01: 'tupý lehký obouruční meč'
+ItMi_Smith_2H_Sword_Light_02: 'Tupý meč správce'
+ItMi_Smith_2H_Sword_Light_03: 'Tupá šavle žoldáka'
+ItMi_Smith_Blade_Arming: 'Jednoruční meč'
+ItMi_Smith_Blade_Flamberge: 'Flamberg'
+ItMi_Smith_Blade_Great: 'Velká čepel'
+ItMi_Smith_Blade_Long: 'Dlouhá čepel'
+ItMi_Smith_Blade_Short: 'Krátká čepel'
 ItMi_Smith_Blade_Sickle: 'Srpová čepel'
-ItMi_Smith_Blade_Singleedge: 'Jednoostrá čepel'
-ItMi_Smith_Gold: '"Zlato"'
-ItMi_Smith_Head_Battleaxe: 'Sekera – hlava sekery'
+ItMi_Smith_Blade_Singleedge: 'Jednostranná čepel'
+ItMi_Smith_Gold: 'Zlato'
+ItMi_Smith_Head_Battleaxe: 'Hlava válečné sekery'
 ItMi_Smith_Head_Broadaxe: 'Sekera s širokým ostřím'
-ItMi_Smith_Head_Club: "Please provide the Glossary table and the examples of use and
-  translation. I need that information to accurately translate \"Club Head\" according
-  to your instructions. \n\nWithout the glossary and examples, the best I can offer
-  is a general translation, which might not be what you're looking for:\n\n**Hlava
-  hole** \n\nHowever, this is likely *not* the correct translation without the context
-  provided by your glossary and examples. I need that information to ensure accuracy
-  and consistency."
-ItMi_Smith_Head_Fledged: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Fledged Head\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, a direct
-  translation would be \"Plnoopeřená hlava\" or \"Zkušená hlava\", but that might
-  not be the correct translation based on the specific context you intend."
-ItMi_Smith_Head_Greatbattleaxe: "Velká sekera (hlava) \n\n**(Assuming \"Battle Axe
-  Head\" refers to the head of a battle axe. The \"(hlava)\" in parentheses clarifies
-  this, as \"sekera\" alone means axe. If a glossary was provided with a specific
-  translation for \"Battle Axe Head\", that would take precedence.)**"
-ItMi_Smith_Head_Hammer: 'Kladivo'
-ItMi_Smith_Head_Morningstar: "Ranní hvězda (hlava) \n\n**(Assuming \"Morningstar\"\
-  \ refers to the astronomical object/constellation and \"Head\" refers to a part
-  of a statue or depiction. If \"Morningstar\" has a different context, please provide
-  more information for a more accurate translation.)**"
+ItMi_Smith_Head_Club: "Hlava palcátu"
+ItMi_Smith_Head_Fledged: ""
+ItMi_Smith_Head_Greatbattleaxe: "Hlava velké válečné sekery"
+ItMi_Smith_Head_Hammer: 'Hlava kladiva'
+ItMi_Smith_Head_Morningstar: "Hlava kropáče"
 ItMi_Smith_Head_Pickaxe: 'Hlava krumpáče'
-ItMi_Smith_Head_Poleaxe: 'Hlava Bardy'
-ItMi_Smith_Head_Scythe: "Please provide the Glossary table and the examples of use
-  and translation. I need that information to accurately translate \"Scythe Head\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, the best
-  I can offer is a general translation, which might not meet your requirements:\n\n\
-  **Srpová hlava** \n\nHowever, this is likely *not* the correct translation without
-  the specific context and glossary terms. I need the additional information to ensure
-  accuracy and consistency."
-ItMi_Smith_Head_Warhammer: "Please provide the Glossary table and examples of use/translation!
-  I need that information to accurately translate \"Warhammer Head\" according to
-  your instructions. \n\nWithout the glossary and examples, the best I can offer is
-  a very general translation, which might not be what you need:\n\n**Hlava Warhammera**\
-  \ \n\nHowever, this is likely *not* the correct translation if there are specific
-  established terms for \"Warhammer\" or \"Head\" within the Warhammer universe in
-  Czech.\n\n**I need the glossary to do this correctly.**"
-ItMi_Smith_Intermediate_Blade_Arming: 'Netvrdžený zbrojní meč'
-ItMi_Smith_Intermediate_Blade_Flamberge: "Please provide the Glossary table and examples
-  of use and translation. I need that information to accurately translate \"Untempered
-  Flamberge Blade\" according to your instructions. \n\nWithout the glossary, a good
-  translation would be:\n\n**Neotvrzený vlnobitý meč** \n\nHowever, this might not
-  be the *correct* translation if specific terms are defined in your glossary."
-ItMi_Smith_Intermediate_Blade_Great: 'Velký nezocelený meč'
-ItMi_Smith_Intermediate_Blade_Long: 'Bezocelový Dlouhý Meč'
-ItMi_Smith_Intermediate_Blade_Short: 'Krátký nekalený čepel'
-ItMi_Smith_Intermediate_Blade_Sickle: 'Bezocelová čepel srpku'
-ItMi_Smith_Intermediate_Blade_Singleedge: 'Ocelový jednobřitý nůž bez kalení.'
-ItMi_Smith_Intermediate_Head_Battleaxe: 'Netemperovaná hlava bojové sekery.'
-ItMi_Smith_Intermediate_Head_Broadaxe: 'Hlava netvrdé sekery'
-ItMi_Smith_Intermediate_Head_Club: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Untempered
-  Club Head\" according to your instructions. \n\nWithout the glossary and examples,
-  a direct translation would be \"Netemperovaná hlava hole\", but that might not be
-  the correct translation based on the specific context of your project."
-ItMi_Smith_Intermediate_Head_Fledged: "Please provide the Glossary table and examples
-  of use! I need that information to accurately translate \"Untempered Fledged Head\"\
-  \ according to your instructions. \n\nWithout the glossary and examples, I can only
-  offer a very literal and likely inaccurate translation:\n\n\"Nezkrotná opeřená hlava\"\
-  \ \n\nHowever, this is almost certainly *not* what you want, as it doesn't account
-  for potential specific meanings within your context.\n\n**I need the Glossary and
-  Examples to give you a correct translation.**"
-ItMi_Smith_Intermediate_Head_Greatbattleaxe: 'Netemperovaná hlava velkého bojového
-  sekeru.'
-ItMi_Smith_Intermediate_Head_Hammer: "Please provide the Glossary table and examples
-  of use/translation. I need that information to accurately translate \"Untempered
-  Hammer Head\" according to your instructions. \n\nWithout the glossary and examples,
-  a direct translation would be \"Netvrdná hlava kladiva\", but that might not be
-  the correct translation based on the specific context you intend."
-ItMi_Smith_Intermediate_Head_Morningstar: 'Hlava Netvořené Ranní Hvězdy'
-ItMi_Smith_Intermediate_Head_Pickaxe: 'Hlava netvrdnutého krumpáče'
-ItMi_Smith_Intermediate_Head_Poleaxe: 'Hlava Netvarované Polovky'
-ItMi_Smith_Intermediate_Head_Scythe: "Please provide the Glossary table and the examples
-  of use and translation. I need that information to accurately translate \"Untempered
-  Scythe Head\" according to your instructions. \n\nWithout the glossary and examples,
-  the best I can offer is a general translation, which may not meet your requirements:\n\
-  \n**Nezkalená sekací hlava** \n\nHowever, this is likely *not* the correct translation
-  if specific terms are defined in your glossary."
-ItMi_Smith_Intermediate_Head_Warhammer: 'Hlava netvrdnutého kladiva'
-ItMi_Smith_Iron: 'Železo.'
-ItMi_Smith_Ironwood: 'Železodřev'
+ItMi_Smith_Head_Poleaxe: 'Hlava halapartny'
+ItMi_Smith_Head_Scythe: "Čepel kosy"
+ItMi_Smith_Head_Warhammer: "Hlava válečného kladiva"
+ItMi_Smith_Intermediate_Blade_Arming: 'Nekalený meč'
+ItMi_Smith_Intermediate_Blade_Flamberge: "Nekalená čepel flambergu"
+ItMi_Smith_Intermediate_Blade_Great: ''
+ItMi_Smith_Intermediate_Blade_Long: 'Nekalená dlouhá čepel'
+ItMi_Smith_Intermediate_Blade_Short: 'Nekalená krátká čepel'
+ItMi_Smith_Intermediate_Blade_Sickle: 'Nekalená srpová čepel'
+ItMi_Smith_Intermediate_Blade_Singleedge: 'Nekalená jednostranná čepel'
+ItMi_Smith_Intermediate_Head_Battleaxe: 'Nekalená hlava bojové sekery'
+ItMi_Smith_Intermediate_Head_Broadaxe: 'Nekalená hlava sekery s širokým ostřím'
+ItMi_Smith_Intermediate_Head_Club: "Nekalená hlava palcátu"
+ItMi_Smith_Intermediate_Head_Fledged: ""
+ItMi_Smith_Intermediate_Head_Greatbattleaxe: 'Nekalená hlava velké válečné sekery'
+ItMi_Smith_Intermediate_Head_Hammer: "Nekalená hlava kladiva"
+ItMi_Smith_Intermediate_Head_Morningstar: 'Nekalená hlava kropáče'
+ItMi_Smith_Intermediate_Head_Pickaxe: 'Nekalená hlava krumpáče'
+ItMi_Smith_Intermediate_Head_Poleaxe: 'Nekalená hlava halapartny'
+ItMi_Smith_Intermediate_Head_Scythe: "Nekalená čepel kosy"
+ItMi_Smith_Intermediate_Head_Warhammer: 'Nekalená hlava válečného kladiva'
+ItMi_Smith_Iron: 'Železo'
+ItMi_Smith_Ironwood: 'Železné dřevo'
 ItMi_Smith_Leatherstraps: 'Kožené řemínky'
 ItMi_Smith_Oak: 'Dubové dřevo'
-ItMi_Smith_Obsidian: 'Obsidián'
+ItMi_Smith_Obsidian: 'Obsidiánový úlomek'
 ItMi_Smith_Petrifiedwood: 'Zkamenělé dřevo'
 ItMi_Smith_Ruby: 'Rubín'
 ItMi_Smith_Steel: 'Ocel'
@@ -641,14 +545,14 @@ ItMi_Smith_Swordblade: Čepel
 ItMi_Smith_Swordbladehot: Rozžhavená čepel
 ItMi_Smith_Swordraw: Surová ocel
 ItMi_Smith_Swordrawhot: Rozžhavená ocel
-ItMi_Smith_Willow: 'Vrbový les'
+ItMi_Smith_Willow: 'Vrbové dřevo'
 ItAm_Arrow: "Šíp"
 ItAm_Bolt: "Šipka"
 ItKe_Lockpick: Paklíč
 ItLs_Torch: Pochodeň
 ItLs_Torchburned: Pochodeň
-ItLs_Torchburning: 'Pochodeň (rozsvícená)'
-ItLs_Torchfirespit: '"Plamenomet (hořák)"'
+ItLs_Torchburning: 'Pochodeň (zapálená)'
+ItLs_Torchfirespit: 'Pochodeň (pro polykače ohně)'
 ItMi_Alchemy_Alcohol_01: Čistý alkohol
 ItMi_Alchemy_Flask: Laboratorní baňka
 ItMi_Alchemy_Moleratlubric_01: Krysokrtí sádlo
@@ -661,7 +565,7 @@ ItMi_Hammer: Kladivo
 ItMi_Lute: Loutna
 ItMi_Oldcoin_01: Mince
 ItMi_Orenugget: Magický nuget
-ItMi_Specialjoint: 'Upravený přivolávač snů.'
+ItMi_Specialjoint: 'Připravený přivolávač snů'
 ItMi_Stomper: Tlouček
 ItMi_Stuff_Alarmhorn: Roh
 ItMi_Stuff_Amphore_01: Amfora
@@ -677,12 +581,12 @@ ItMi_Stuff_Pipe_01: Dýmka
 ItMi_Stuff_Plate_01: Mísa
 ItMi_Stuff_Silverware_01: Příbor
 ItMi_Wedel: Palmový list
-HumanFists: 'Pěstní souboje'
+HumanFists: 'Pěsti'
 ItFo_Potion_Dex_01: Esence obratnosti
 ItFo_Potion_Dex_02: Extrakt obratnosti
 ItFo_Potion_Dex_03: Elixír obratnosti
 ItFo_Potion_Elixier: 'Elixír'
-ItFo_Potion_Elixier_Egg: 'Výtažek z kusadel důlního červa'
+ItFo_Potion_Elixier_Egg: 'Výtažek z vajíček důlních červů'
 ItFo_Potion_Haste_01: Lektvar hbitosti
 ItFo_Potion_Haste_02: Lektvar rychlosti
 ItFo_Potion_Haste_03: Lektvar spěchu
@@ -706,7 +610,7 @@ ItFo_Potion_Strength_01: Esence síly
 ItFo_Potion_Strength_02: Extrakt síly
 ItFo_Potion_Strength_03: Elixír síly
 ItAt_Amulet_Ulu_Talisman: 'Ulu Talisman'
-ItMi_Recruitjoint: 'Drogu z bažin pro kopáče.'
+ItMi_Recruitjoint: 'Tráva z bažin pro kopáče'
 ItMi_Stuff_Gearwheel_01: Ozubené kolo
 ItMi_Stuff_Idolsleeper_01: Figurka
 ItMs_Demonprank: Úder démona
@@ -796,25 +700,25 @@ ItAr_Scroll_SummonSkeletons: Vyvolání kostlivce
 ItAr_Scroll_Telekinesis: Telekineze
 ItAr_Scroll_TeleportToMagiciansOfWater: Teleport k mágům Vody
 ItAr_Scroll_TeleportToOrcCementery: Skřetí teleportační kouzlo
-ItAr_Scroll_TeleportToSleepersTemple: 'Svitek ''Přenos do Spáčova chrámu'''
-ItAr_Scroll_TransformBiter: 'Svitek ''Proměna v Kousavce'''
+ItAr_Scroll_TeleportToSleepersTemple: 'Svitek ''Teleport do Spáčova chrámu'''
+ItAr_Scroll_TransformBiter: 'Svitek ''Proměna v kousavce'''
 ItAr_Scroll_TransformBloodfly: Proměna v krvavou mouchu
 ItAr_Scroll_TransformBloodhound: 'Svitek ''Proměna v loveckého psa'''
-ItAr_Scroll_TransformFireLizard: '"Svitek ''Proměna v Ohnivého Plaza''"'
-ItAr_Scroll_TransformHarpy: 'Svitek ''Proměna v Harpyji'''
+ItAr_Scroll_TransformFireLizard: 'Svitek ''Proměna v ohnivou ještěrku'''
+ItAr_Scroll_TransformHarpy: 'Svitek ''Proměna v harpyji'''
 ItAr_Scroll_TransformLizard: Proměna v ještěrku
 ItAr_Scroll_TransformLurker: Proměna v číhavce
 ItAr_Scroll_TransformMeatbug: Proměna ve žravou štěnici
 ItAr_Scroll_TransformMinecrawler: Proměna v důlního červa
 ItAr_Scroll_TransformMolerat: Proměna v krysokrta
 ItAr_Scroll_TransformOrcDog: Proměna v skřetího psa
-ItAr_Scroll_TransformRazor: 'Svitek ''Proměna v Břitvu'''
+ItAr_Scroll_TransformRazor: 'Svitek ''Proměna v břitvu'''
 ItAr_Scroll_TransformScavenger: Proměna v mrchožrouta
 ItAr_Scroll_TransformShadowbeast: Proměna ve stínovou šelmu
 ItAr_Scroll_TransformSnapper: Proměna v chňapavce
 ItAr_Scroll_TransformSwampshark: 'Svitek ''Proměna v močálového žraloka'''
 ItAr_Scroll_TransformWolf: Proměna ve vlka
-ItWr_Scroll_AbandonMineSketch: '"Kresba Opuštěného Dolu"'
+ItWr_Scroll_AbandonMineSketch: 'Kresba Opuštěného dolu'
 ItWr_Scroll_Certificate: Držitel listiny
 ItWr_Scroll_Cronos: Cronosův dopis mágům Ohně
 ItWr_Scroll_Jacko_01: 'Jackova zpráva.'
@@ -852,7 +756,7 @@ ItMw_1H_Mace_Sledgehammer_01: Kovářské kladivo
 ItMw_1H_Mace_War_01: Kropáč
 ItMw_1H_Mace_War_02: Ocelový palcát
 ItMw_1H_Mace_War_03: Drtič kamene
-ItMw_1H_Mace_War_04: '"Lamač srdcí"'
+ItMw_1H_Mace_War_04: 'Lamač srdcí'
 ItMw_1H_Mace_Warhammer_01: Skřetí kladivo
 ItMw_1H_Mace_Warhammer_02: Válečné kladivo
 ItMw_1H_Mace_Warhammer_03: Boží kladivo
@@ -938,7 +842,7 @@ ItMw_2H_Mace_Orc_01: Krush Karrok
 ItMw_2H_Scepter_Skeletonmage: 'Hůl mága'
 ItMw_2H_Staff_01: 'Bojová hůl'
 ItMw_2H_Staff_02: Hůl rozsouzení
-ItMw_2H_Staff_03: 'Kněžská hůl'
+ItMw_2H_Staff_03: 'Hůl kněze'
 ItMw_2H_Staff_Light: 'Hůl světla'
 ItMw_2H_Staff_Orc: Grachtnakk
 ItMw_2H_Staff_Scepter: Žezlo
@@ -988,7 +892,7 @@ ItWr_Book_Gods_02: Slovo boží
 ItWr_Book_Gods_03: Slovo boží
 ItWr_Book_Godsgift: Dar bohů
 ItWr_Book_Golem_01: 'Arcanum Golum - Svazek I'
-ItWr_Book_Golem_02: 'ARCANUM GOLUM - Svazek II'
+ItWr_Book_Golem_02: 'Arcanum Golum - Svazek II'
 ItWr_Book_Hunt: Lov a kořist
 ItWr_Book_Lyric: Myrtanská poezie
 ItWr_Book_Magicore: Magická ruda
@@ -1007,6 +911,6 @@ ItWr_Map_OldCamp: Přehled Starého tábora
 ItWr_Map_OldMine: Mapa ke Starému dolu
 ItWr_Map_Orc: Mapa Kolonie (rozšířená)
 ItWr_Map_SwampCamp: Přehled Tábora v bažinách
-ItWr_Map_Temple: 'Náčrt Chrámu'
+ItWr_Map_Temple: 'Náčrt chrámu'
 ItWr_Map_World: Mapa Kolonie
-ItWr_Map_WorldComplete: 'Mapa kolonie (úplná)'
+ItWr_Map_WorldComplete: 'Mapa Kolonie (úplná)'
